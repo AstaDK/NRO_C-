@@ -1,0 +1,140 @@
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 6:28 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:28 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:28 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:28 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:28 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove Vàng lydo: Tự Xóa vật phẩm at 02/03/2023 6:29 SA
+BAG:anhksnhe remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:29 SA
+BAG:anhksnhe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 1xBổ khí lydo: Dùng buff at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:30 SA
+BAG:anhksnhe remove Vàng lydo: Tự Xóa vật phẩm at 02/03/2023 6:31 SA
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 6:31 SA
+BAG:anhksnhe remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 6:33 SA
+BAG:anhksnhe remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 6:33 SA
+BAG:anhksnhe remove 17xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 6:34 SA
+BAG:anhksnhe remove 17xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 6:34 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 6:38 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 6:38 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 6:38 SA
+BAG:anhksnhe remove 1xGiáp Xên bọ hung lydo: Dùng buff at 02/03/2023 6:40 SA
+BAG:anhksnhe remove 51xĐá thạch anh tím lydo: Bán cho shop at 02/03/2023 6:40 SA
+BAG:anhksnhe remove 17xĐá Saphia lydo: Bán cho shop at 02/03/2023 6:40 SA
+BAG:anhksnhe remove 1xĐá lục bảo lydo: Bán cho shop at 02/03/2023 6:40 SA
+BAG:anhksnhe remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/03/2023 6:41 SA
+BAG:anhksnhe remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/03/2023 6:41 SA
+BAG:anhksnhe remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/03/2023 6:41 SA
+BAG:anhksnhe remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/03/2023 6:41 SA
+BAG:anhksnhe remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/03/2023 6:41 SA
+BAG:anhksnhe remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/03/2023 6:41 SA
+BAG:anhksnhe remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/03/2023 6:41 SA
+BAG:anhksnhe remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/03/2023 6:41 SA
+BAG:anhksnhe remove Găng Thần Linh lydo: Mặc cho đệ tử at 02/03/2023 6:44 SA
+BAG:anhksnhe remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 6:47 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xCây mai lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xLì xì lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xBình rượu lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 6:58 SA
+BAG:anhksnhe remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 6:59 SA
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 6:59 SA
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 7:06 SA
+BAG:anhksnhe remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/03/2023 7:07 SA
+BAG:anhksnhe remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/03/2023 7:07 SA
+BAG:anhksnhe remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/03/2023 7:07 SA
+BAG:anhksnhe remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/03/2023 7:07 SA
+BAG:anhksnhe remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/03/2023 7:07 SA
+BAG:anhksnhe remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/03/2023 7:07 SA
+BAG:anhksnhe remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/03/2023 7:07 SA
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 7:08 SA
+BAG:anhksnhe remove 1xMáy dò Capsule kì bí lydo: Bán cho shop at 02/03/2023 7:09 SA
+BAG:anhksnhe remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 11:04 SA
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:04 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:10 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:10 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:11 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:anhksnhe remove Găng lưỡng long lydo: Cất vào rương at 02/03/2023 11:13 SA
+BAG:anhksnhe remove Quần jean Calic lydo: Cất vào rương at 02/03/2023 11:13 SA
+BAG:anhksnhe remove Đá Ruby lydo: Cất vào rương at 02/03/2023 11:13 SA
+BAG:anhksnhe remove Đá Saphia lydo: Cất vào rương at 02/03/2023 11:13 SA
+BAG:anhksnhe remove Đậu xanh lydo: Cất vào rương at 02/03/2023 11:13 SA
+BAG:anhksnhe remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 11:26 SA
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:27 SA
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:30 SA
+BAG:anhksnhe remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:06 CH
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:22 CH
+BAG:anhksnhe remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:26 CH
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:29 CH
+BAG:anhksnhe remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:29 CH
+BAG:anhksnhe remove Cải Trang Thần Zeno lydo: Mặc cho đệ tử at 02/03/2023 12:30 CH
+BAG:anhksnhe remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 12:30 CH
+BAG:anhksnhe remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 02/03/2023 12:30 CH
+BAG:anhksnhe remove Quần vải đen lydo: Mặc cho đệ tử at 02/03/2023 12:30 CH
+BAG:anhksnhe remove Giầy nhựa lydo: Mặc cho đệ tử at 02/03/2023 12:30 CH
+BAG:anhksnhe remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 12:30 CH
+BAG:anhksnhe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:31 CH
+BAG:anhksnhe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:31 CH
+BAG:anhksnhe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:31 CH
+BAG:anhksnhe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:31 CH
+BAG:anhksnhe remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:32 CH
+BAG:anhksnhe remove 8xCây mai lydo: Cay Thong at 02/03/2023 1:50 CH
+BAG:anhksnhe remove 8xLì xì lydo: Cay Thong at 02/03/2023 1:50 CH
+BAG:anhksnhe remove 8xBình rượu lydo: Cay Thong at 02/03/2023 1:50 CH
+BAG:anhksnhe remove 8xPháo hoa lydo: Cay Thong at 02/03/2023 1:50 CH
+BAG:anhksnhe remove 15xThỏi vàng lydo: Cay Thong at 02/03/2023 1:50 CH
+BAG:anhksnhe remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 2:02 CH

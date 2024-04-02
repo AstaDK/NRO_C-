@@ -1,0 +1,26 @@
+BAG:skyler add 34xĐậu thần cấp 10 (old: 14) lydo: Lấy từ rương qua người at 01/31/2023 8:36 AM
+BAG:skyler add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 01/31/2023 9:15 AM
+BAG:skyler add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 01/31/2023 9:24 AM
+BAG:skyler add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 01/31/2023 9:24 AM
+BAG:skyler add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 01/31/2023 9:24 AM
+BAG:skyler add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 01/31/2023 9:24 AM
+BAG:skyler add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 01/31/2023 9:24 AM
+BAG:skyler add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 01/31/2023 9:24 AM
+BAG:skyler add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xQuần vải đen lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xGăng vải đen lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xGiầy nhựa lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xQuần vải đen lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xGăng vải đen lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xGiầy nhựa lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 9:25 AM
+BAG:skyler add 1xBông tai Porata lydo: Mua từ cửa hàng at 01/31/2023 9:26 AM
+BAG:skyler add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 01/31/2023 9:26 AM
+BAG:skyler add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 01/31/2023 9:26 AM
+BAG:skyler add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 01/31/2023 9:26 AM
+BAG:skyler add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 01/31/2023 9:26 AM
+BAG:skyler add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 01/31/2023 9:26 AM
+BAG:skyler add 1xCải trang Mabư Noel lydo: Lấy từ body đệ vào hành trang at 01/31/2023 9:26 AM
+BAG:skyler add 18xThỏi vàng lydo: Lấy từ rương qua người at 01/31/2023 9:27 AM

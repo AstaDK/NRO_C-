@@ -1,0 +1,37 @@
+BAG:asdadad add 1xLì xì lydo: Nhặt từ map at 02/02/2023 9:11 CH
+BAG:asdadad add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:asdadad add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:asdadad add 1xCây mai lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:asdadad add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 9:13 CH
+BAG:asdadad add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 9:13 CH
+BAG:asdadad add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 9:13 CH
+BAG:asdadad add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 9:15 CH
+BAG:asdadad add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 9:15 CH
+BAG:asdadad add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 9:15 CH
+BAG:asdadad add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 9:16 CH
+BAG:asdadad add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 9:25 CH
+BAG:asdadad add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 9:25 CH
+BAG:asdadad add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 9:25 CH
+BAG:asdadad add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 9:26 CH
+BAG:asdadad add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 9:26 CH
+BAG:asdadad add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 9:26 CH
+BAG:asdadad add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 9:27 CH
+BAG:asdadad add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 9:27 CH
+BAG:asdadad add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 9:28 CH
+BAG:asdadad add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 9:29 CH
+BAG:asdadad add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 9:29 CH
+BAG:asdadad add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 9:30 CH
+BAG:asdadad add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 9:30 CH
+BAG:asdadad add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 9:30 CH
+BAG:asdadad add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 9:33 CH
+BAG:asdadad add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 9:37 CH
+BAG:asdadad add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 9:38 CH
+BAG:asdadad add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/02/2023 9:39 CH
+BAG:asdadad add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 9:40 CH
+BAG:asdadad add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 9:41 CH
+BAG:asdadad add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 9:41 CH
+BAG:asdadad add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 9:41 CH
+BAG:asdadad add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 9:43 CH
+BAG:asdadad add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 9:44 CH
+BAG:asdadad add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 9:44 CH
+BAG:asdadad add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 10:30 CH

@@ -1,0 +1,1072 @@
+BAG:titnghichnghom add 1153xCây mai (old: 1152) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:titnghichnghom add 1154xCây mai (old: 1153) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:titnghichnghom add 1007xLì xì (old: 1006) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:titnghichnghom add 925xBình rượu (old: 924) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:titnghichnghom add 1008xLì xì (old: 1007) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:titnghichnghom add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:titnghichnghom add 926xBình rượu (old: 925) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:titnghichnghom add 1009xLì xì (old: 1008) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:titnghichnghom add 1010xLì xì (old: 1009) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:titnghichnghom add 1011xLì xì (old: 1010) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:titnghichnghom add 1155xCây mai (old: 1154) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:titnghichnghom add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:20 SA
+BAG:titnghichnghom add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 57xBột mì (old: 55) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 26xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 42xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 50xBánh trung thu thập cẩm (old: 48) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 29xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 84xCủ cà rốt (old: 83) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 37xĐậu xanh (old: 33) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 60xBột mì (old: 57) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:titnghichnghom add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:titnghichnghom add 927xBình rượu (old: 926) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:titnghichnghom add 928xBình rượu (old: 927) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:titnghichnghom add 929xBình rượu (old: 928) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:titnghichnghom add 1012xLì xì (old: 1011) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:titnghichnghom add 1013xLì xì (old: 1012) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:titnghichnghom add 1014xLì xì (old: 1013) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:titnghichnghom add 1015xLì xì (old: 1014) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:titnghichnghom add 1016xLì xì (old: 1015) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:titnghichnghom add 1017xLì xì (old: 1016) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:titnghichnghom add 1018xLì xì (old: 1017) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:titnghichnghom add 930xBình rượu (old: 929) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:titnghichnghom add 1019xLì xì (old: 1018) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:titnghichnghom add 7xNgọc Rồng 5 sao (old: 6) lydo: CSTT at 02/03/2023 12:27 SA
+BAG:titnghichnghom add 2xNgọc Rồng 3 sao (old: 1) lydo: CSTT at 02/03/2023 12:27 SA
+BAG:titnghichnghom add 60xBột mì lydo: Lấy từ rương qua người at 02/03/2023 12:29 SA
+BAG:titnghichnghom add 42xGà quay nguyên con lydo: Lấy từ rương qua người at 02/03/2023 12:29 SA
+BAG:titnghichnghom add 37xĐậu xanh lydo: Lấy từ rương qua người at 02/03/2023 12:29 SA
+BAG:titnghichnghom add 30xTrứng vịt muối lydo: Lấy từ rương qua người at 02/03/2023 12:29 SA
+BAG:titnghichnghom add 44xBánh trung thu thập cẩm (old: 40) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:titnghichnghom add 61xBột mì (old: 60) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:titnghichnghom add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:titnghichnghom add 64xBột mì (old: 61) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:titnghichnghom add 46xBánh trung thu thập cẩm (old: 44) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:titnghichnghom add 41xĐậu xanh (old: 37) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:titnghichnghom add 34xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:titnghichnghom add 37xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:titnghichnghom add 86xCủ cà rốt (old: 84) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:titnghichnghom add 89xCủ cà rốt (old: 86) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:titnghichnghom add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:titnghichnghom add 931xBình rượu (old: 930) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:titnghichnghom add 932xBình rượu (old: 931) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:titnghichnghom add 11xPháo hoa (old: 10) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:titnghichnghom add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:titnghichnghom add 67xBột mì (old: 64) lydo: Nhặt từ map at 02/03/2023 12:42 SA
+BAG:titnghichnghom add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 02/03/2023 12:42 SA
+BAG:titnghichnghom add 46xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 02/03/2023 12:42 SA
+BAG:titnghichnghom add 49xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 02/03/2023 12:42 SA
+BAG:titnghichnghom add 40xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 02/03/2023 12:42 SA
+BAG:titnghichnghom add 69xBột mì (old: 67) lydo: Nhặt từ map at 02/03/2023 12:42 SA
+BAG:titnghichnghom add 92xCủ cà rốt (old: 89) lydo: Nhặt từ map at 02/03/2023 12:42 SA
+BAG:titnghichnghom add 1156xCây mai (old: 1155) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:titnghichnghom add 1157xCây mai (old: 1156) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:titnghichnghom add 1158xCây mai (old: 1157) lydo: Nhặt từ map at 02/03/2023 12:46 SA
+BAG:titnghichnghom add 1159xCây mai (old: 1158) lydo: Nhặt từ map at 02/03/2023 12:46 SA
+BAG:titnghichnghom add 1160xCây mai (old: 1159) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:titnghichnghom add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:titnghichnghom add 1020xLì xì (old: 1019) lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:titnghichnghom add 933xBình rượu (old: 932) lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:titnghichnghom add 934xBình rượu (old: 933) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:titnghichnghom add 1021xLì xì (old: 1020) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:titnghichnghom add 1022xLì xì (old: 1021) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:titnghichnghom add 935xBình rượu (old: 934) lydo: Nhặt từ map at 02/03/2023 12:50 SA
+BAG:titnghichnghom add 936xBình rượu (old: 935) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:titnghichnghom add 937xBình rượu (old: 936) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:titnghichnghom add 938xBình rượu (old: 937) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:titnghichnghom add 939xBình rượu (old: 938) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:titnghichnghom add 1161xCây mai (old: 1160) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:titnghichnghom add 1162xCây mai (old: 1161) lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:titnghichnghom add 1163xCây mai (old: 1162) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:titnghichnghom add 1164xCây mai (old: 1163) lydo: Nhặt từ map at 02/03/2023 1:02 SA
+BAG:titnghichnghom add 1165xCây mai (old: 1164) lydo: Nhặt từ map at 02/03/2023 1:03 SA
+BAG:titnghichnghom add 940xBình rượu (old: 939) lydo: Nhặt từ map at 02/03/2023 1:04 SA
+BAG:titnghichnghom add 941xBình rượu (old: 940) lydo: Nhặt từ map at 02/03/2023 1:04 SA
+BAG:titnghichnghom add 1166xCây mai (old: 1165) lydo: Nhặt từ map at 02/03/2023 1:05 SA
+BAG:titnghichnghom add 942xBình rượu (old: 941) lydo: Nhặt từ map at 02/03/2023 1:09 SA
+BAG:titnghichnghom add 1023xLì xì (old: 1022) lydo: Nhặt từ map at 02/03/2023 1:10 SA
+BAG:titnghichnghom add 1024xLì xì (old: 1023) lydo: Nhặt từ map at 02/03/2023 1:11 SA
+BAG:titnghichnghom add 1167xCây mai (old: 1166) lydo: Nhặt từ map at 02/03/2023 1:12 SA
+BAG:titnghichnghom add 1168xCây mai (old: 1167) lydo: Nhặt từ map at 02/03/2023 1:12 SA
+BAG:titnghichnghom add 1169xCây mai (old: 1168) lydo: Nhặt từ map at 02/03/2023 1:14 SA
+BAG:titnghichnghom add 1025xLì xì (old: 1024) lydo: Nhặt từ map at 02/03/2023 1:27 SA
+BAG:titnghichnghom add 1170xCây mai (old: 1169) lydo: Nhặt từ map at 02/03/2023 1:30 SA
+BAG:titnghichnghom add 1171xCây mai (old: 1170) lydo: Nhặt từ map at 02/03/2023 1:30 SA
+BAG:titnghichnghom add 943xBình rượu (old: 942) lydo: Nhặt từ map at 02/03/2023 1:32 SA
+BAG:titnghichnghom add 1026xLì xì (old: 1025) lydo: Nhặt từ map at 02/03/2023 1:32 SA
+BAG:titnghichnghom add 1172xCây mai (old: 1171) lydo: Nhặt từ map at 02/03/2023 1:33 SA
+BAG:titnghichnghom add 944xBình rượu (old: 943) lydo: Nhặt từ map at 02/03/2023 1:35 SA
+BAG:titnghichnghom add 1027xLì xì (old: 1026) lydo: Nhặt từ map at 02/03/2023 1:36 SA
+BAG:titnghichnghom add 945xBình rượu (old: 944) lydo: Nhặt từ map at 02/03/2023 1:36 SA
+BAG:titnghichnghom add 1028xLì xì (old: 1027) lydo: Nhặt từ map at 02/03/2023 1:38 SA
+BAG:titnghichnghom add 1173xCây mai (old: 1172) lydo: Nhặt từ map at 02/03/2023 1:38 SA
+BAG:titnghichnghom add 1029xLì xì (old: 1028) lydo: Nhặt từ map at 02/03/2023 1:38 SA
+BAG:titnghichnghom add 1030xLì xì (old: 1029) lydo: Nhặt từ map at 02/03/2023 1:39 SA
+BAG:titnghichnghom add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 1:41 SA
+BAG:titnghichnghom add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 1:44 SA
+BAG:titnghichnghom add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:titnghichnghom add 12xPháo hoa (old: 11) lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:titnghichnghom add 946xBình rượu (old: 945) lydo: Nhặt từ map at 02/03/2023 1:46 SA
+BAG:titnghichnghom add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 73xBột mì (old: 69) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 76xBột mì (old: 73) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 44xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 13xPháo hoa (old: 12) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 79xBột mì (old: 76) lydo: Nhặt từ map at 02/03/2023 1:48 SA
+BAG:titnghichnghom add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/03/2023 1:50 SA
+BAG:titnghichnghom add 18xNgọc Rồng 6 sao (old: 17) lydo: CSTT at 02/03/2023 1:52 SA
+BAG:titnghichnghom add 19xNgọc Rồng 6 sao (old: 18) lydo: CSTT at 02/03/2023 1:52 SA
+BAG:titnghichnghom add 1xNgọc Thố lydo: CSTT at 02/03/2023 1:52 SA
+BAG:titnghichnghom add 1xLồng đèn Cô Vy lydo: CSTT at 02/03/2023 1:53 SA
+BAG:titnghichnghom add 6xNgọc Rồng 3 sao (old: 5) lydo: CSTT at 02/03/2023 1:54 SA
+BAG:titnghichnghom add 1xLồng đèn Kéo Quân lydo: CSTT at 02/03/2023 1:54 SA
+BAG:titnghichnghom add 20xNgọc Rồng 6 sao (old: 19) lydo: CSTT at 02/03/2023 1:55 SA
+BAG:titnghichnghom add 45xNgọc Rồng 4 sao (old: 44) lydo: CSTT at 02/03/2023 1:55 SA
+BAG:titnghichnghom add 1xBánh trung thu thập cẩm lydo: Làm bánh at 02/03/2023 1:56 SA
+BAG:titnghichnghom add 2xBánh trung thu thập cẩm (old: 1) lydo: Làm bánh at 02/03/2023 1:56 SA
+BAG:titnghichnghom add 21xNgọc Rồng 6 sao (old: 20) lydo: Lấy từ lucky box at 02/03/2023 1:57 SA
+BAG:titnghichnghom add 22xNgọc Rồng 6 sao (old: 21) lydo: Lấy từ lucky box at 02/03/2023 1:57 SA
+BAG:titnghichnghom add 1174xCây mai (old: 1173) lydo: Nhặt từ map at 02/03/2023 1:59 SA
+BAG:titnghichnghom add 947xBình rượu (old: 946) lydo: Nhặt từ map at 02/03/2023 1:59 SA
+BAG:titnghichnghom add 1031xLì xì (old: 1030) lydo: Nhặt từ map at 02/03/2023 1:59 SA
+BAG:titnghichnghom add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 2:00 SA
+BAG:titnghichnghom add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 02/03/2023 2:00 SA
+BAG:titnghichnghom add 948xBình rượu (old: 947) lydo: Nhặt từ map at 02/03/2023 2:00 SA
+BAG:titnghichnghom add 1032xLì xì (old: 1031) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:titnghichnghom add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:titnghichnghom add 1175xCây mai (old: 1174) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:titnghichnghom add 1033xLì xì (old: 1032) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:titnghichnghom add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 2:05 SA
+BAG:titnghichnghom add 1xGiày jean Calic lydo: Nhặt từ map at 02/03/2023 2:08 SA
+BAG:titnghichnghom add 93xCủ cà rốt (old: 92) lydo: Nhặt từ map at 02/03/2023 2:11 SA
+BAG:titnghichnghom add 95xCủ cà rốt (old: 93) lydo: Nhặt từ map at 02/03/2023 2:11 SA
+BAG:titnghichnghom add 4xBánh trung thu thập cẩm lydo: Nhặt từ map at 02/03/2023 2:11 SA
+BAG:titnghichnghom add 14xPháo hoa (old: 13) lydo: Nhặt từ map at 02/03/2023 2:11 SA
+BAG:titnghichnghom add 96xCủ cà rốt (old: 95) lydo: Nhặt từ map at 02/03/2023 2:11 SA
+BAG:titnghichnghom add 40xBột mì (old: 39) lydo: Nhặt từ map at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 14xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 18xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 42xBột mì (old: 40) lydo: Nhặt từ map at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 44xBột mì (old: 42) lydo: Nhặt từ map at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 45xBột mì (old: 44) lydo: Nhặt từ map at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 9xNgọc Rồng 5 sao (old: 8) lydo: CSTT at 02/03/2023 2:12 SA
+BAG:titnghichnghom add 1034xLì xì (old: 1033) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:titnghichnghom add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:titnghichnghom add 1035xLì xì (old: 1034) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:titnghichnghom add 949xBình rượu (old: 948) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:titnghichnghom add 1036xLì xì (old: 1035) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:titnghichnghom add 1037xLì xì (old: 1036) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:titnghichnghom add 950xBình rượu (old: 949) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:titnghichnghom add 1176xCây mai (old: 1175) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:titnghichnghom add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:titnghichnghom add 1177xCây mai (old: 1176) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:titnghichnghom add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:titnghichnghom add 951xBình rượu (old: 950) lydo: Nhặt từ map at 02/03/2023 2:18 SA
+BAG:titnghichnghom add 1178xCây mai (old: 1177) lydo: Nhặt từ map at 02/03/2023 2:18 SA
+BAG:titnghichnghom add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 2:20 SA
+BAG:titnghichnghom add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 2:26 SA
+BAG:titnghichnghom add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 2:37 SA
+BAG:titnghichnghom add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 2:40 SA
+BAG:titnghichnghom add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 2:52 SA
+BAG:titnghichnghom add 1038xLì xì (old: 1037) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:titnghichnghom add 73xĐậu thần cấp 7 (old: 56) lydo: Lấy từ rương qua người at 02/03/2023 2:53 SA
+BAG:titnghichnghom add 90xĐậu thần cấp 7 (old: 73) lydo: Lấy từ rương qua người at 02/03/2023 2:53 SA
+BAG:titnghichnghom add 8xĐậu thần cấp 7 lydo: Lấy từ rương qua người at 02/03/2023 2:54 SA
+BAG:titnghichnghom add 99xĐậu thần cấp 7 (old: 90) lydo: Lấy từ rương qua người at 02/03/2023 2:54 SA
+BAG:titnghichnghom add 25xĐậu thần cấp 7 (old: 8) lydo: Lấy từ rương qua người at 02/03/2023 2:54 SA
+BAG:titnghichnghom add 42xĐậu thần cấp 7 (old: 25) lydo: Lấy từ rương qua người at 02/03/2023 2:54 SA
+BAG:titnghichnghom add 59xĐậu thần cấp 7 (old: 42) lydo: Lấy từ rương qua người at 02/03/2023 2:54 SA
+BAG:titnghichnghom add 1xCải trang lydo: Lấy từ rương qua người at 02/03/2023 2:54 SA
+BAG:titnghichnghom add 1xGăng vải Pico lydo: Mua từ cửa hàng at 02/03/2023 2:55 SA
+BAG:titnghichnghom add 1xGăng thun cứng lydo: Mua từ cửa hàng at 02/03/2023 2:56 SA
+BAG:titnghichnghom add 1xGăng vải Pico lydo: Mua từ cửa hàng at 02/03/2023 2:56 SA
+BAG:titnghichnghom add 1179xCây mai (old: 1178) lydo: Nhặt từ map at 02/03/2023 2:59 SA
+BAG:titnghichnghom add 952xBình rượu (old: 951) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:titnghichnghom add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:titnghichnghom add 953xBình rượu (old: 952) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:titnghichnghom add 1180xCây mai (old: 1179) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:titnghichnghom add 1181xCây mai (old: 1180) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:titnghichnghom add 1039xLì xì (old: 1038) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:titnghichnghom add 954xBình rượu (old: 953) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:titnghichnghom add 1182xCây mai (old: 1181) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:titnghichnghom add 1183xCây mai (old: 1182) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:titnghichnghom add 955xBình rượu (old: 954) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:titnghichnghom add 1040xLì xì (old: 1039) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:titnghichnghom add 1184xCây mai (old: 1183) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:titnghichnghom add 1041xLì xì (old: 1040) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:titnghichnghom add 1185xCây mai (old: 1184) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:titnghichnghom add 956xBình rượu (old: 955) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:titnghichnghom add 1186xCây mai (old: 1185) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:titnghichnghom add 957xBình rượu (old: 956) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:titnghichnghom add 1187xCây mai (old: 1186) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:titnghichnghom add 958xBình rượu (old: 957) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:titnghichnghom add 1042xLì xì (old: 1041) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:titnghichnghom add 1188xCây mai (old: 1187) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:titnghichnghom add 1043xLì xì (old: 1042) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:titnghichnghom add 1044xLì xì (old: 1043) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:titnghichnghom add 1189xCây mai (old: 1188) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:titnghichnghom add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:titnghichnghom add 1045xLì xì (old: 1044) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:titnghichnghom add 959xBình rượu (old: 958) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:titnghichnghom add 1190xCây mai (old: 1189) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:titnghichnghom add 960xBình rượu (old: 959) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:titnghichnghom add 1191xCây mai (old: 1190) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:titnghichnghom add 961xBình rượu (old: 960) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:titnghichnghom add 1192xCây mai (old: 1191) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:titnghichnghom add 1046xLì xì (old: 1045) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:titnghichnghom add 1193xCây mai (old: 1192) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:titnghichnghom add 962xBình rượu (old: 961) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:titnghichnghom add 1047xLì xì (old: 1046) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:titnghichnghom add 1194xCây mai (old: 1193) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:titnghichnghom add 963xBình rượu (old: 962) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:titnghichnghom add 1195xCây mai (old: 1194) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:titnghichnghom add 1196xCây mai (old: 1195) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:titnghichnghom add 1048xLì xì (old: 1047) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:titnghichnghom add 1049xLì xì (old: 1048) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:titnghichnghom add 1197xCây mai (old: 1196) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:titnghichnghom add 1050xLì xì (old: 1049) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:titnghichnghom add 964xBình rượu (old: 963) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:titnghichnghom add 1051xLì xì (old: 1050) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:titnghichnghom add 965xBình rượu (old: 964) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:titnghichnghom add 966xBình rượu (old: 965) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:titnghichnghom add 1052xLì xì (old: 1051) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:titnghichnghom add 967xBình rượu (old: 966) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:titnghichnghom add 1198xCây mai (old: 1197) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:titnghichnghom add 968xBình rượu (old: 967) lydo: Nhặt từ map at 02/03/2023 3:38 SA
+BAG:titnghichnghom add 1199xCây mai (old: 1198) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:titnghichnghom add 1053xLì xì (old: 1052) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:titnghichnghom add 1200xCây mai (old: 1199) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:titnghichnghom add 969xBình rượu (old: 968) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:titnghichnghom add 1201xCây mai (old: 1200) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:titnghichnghom add 970xBình rượu (old: 969) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:titnghichnghom add 971xBình rượu (old: 970) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:titnghichnghom add 1202xCây mai (old: 1201) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:titnghichnghom add 1054xLì xì (old: 1053) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:titnghichnghom add 1055xLì xì (old: 1054) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:titnghichnghom add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:titnghichnghom add 1203xCây mai (old: 1202) lydo: Nhặt từ map at 02/03/2023 3:47 SA
+BAG:titnghichnghom add 1204xCây mai (old: 1203) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:titnghichnghom add 1056xLì xì (old: 1055) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:titnghichnghom add 1205xCây mai (old: 1204) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:titnghichnghom add 1057xLì xì (old: 1056) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:titnghichnghom add 972xBình rượu (old: 971) lydo: Nhặt từ map at 02/03/2023 3:50 SA
+BAG:titnghichnghom add 973xBình rượu (old: 972) lydo: Nhặt từ map at 02/03/2023 3:50 SA
+BAG:titnghichnghom add 974xBình rượu (old: 973) lydo: Nhặt từ map at 02/03/2023 3:50 SA
+BAG:titnghichnghom add 1058xLì xì (old: 1057) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:titnghichnghom add 1206xCây mai (old: 1205) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:titnghichnghom add 1207xCây mai (old: 1206) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:titnghichnghom add 975xBình rượu (old: 974) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:titnghichnghom add 1208xCây mai (old: 1207) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:titnghichnghom add 1209xCây mai (old: 1208) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:titnghichnghom add 976xBình rượu (old: 975) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:titnghichnghom add 1210xCây mai (old: 1209) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:titnghichnghom add 1211xCây mai (old: 1210) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:titnghichnghom add 977xBình rượu (old: 976) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:titnghichnghom add 1059xLì xì (old: 1058) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:titnghichnghom add 1060xLì xì (old: 1059) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:titnghichnghom add 1212xCây mai (old: 1211) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:titnghichnghom add 1213xCây mai (old: 1212) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:titnghichnghom add 1214xCây mai (old: 1213) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:titnghichnghom add 978xBình rượu (old: 977) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:titnghichnghom add 1215xCây mai (old: 1214) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:titnghichnghom add 979xBình rượu (old: 978) lydo: Nhặt từ map at 02/03/2023 4:06 SA
+BAG:titnghichnghom add 1061xLì xì (old: 1060) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:titnghichnghom add 1216xCây mai (old: 1215) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:titnghichnghom add 1062xLì xì (old: 1061) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:titnghichnghom add 980xBình rượu (old: 979) lydo: Nhặt từ map at 02/03/2023 4:09 SA
+BAG:titnghichnghom add 981xBình rượu (old: 980) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:titnghichnghom add 982xBình rượu (old: 981) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:titnghichnghom add 1217xCây mai (old: 1216) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:titnghichnghom add 1063xLì xì (old: 1062) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:titnghichnghom add 1218xCây mai (old: 1217) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:titnghichnghom add 1064xLì xì (old: 1063) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:titnghichnghom add 983xBình rượu (old: 982) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:titnghichnghom add 1219xCây mai (old: 1218) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:titnghichnghom add 984xBình rượu (old: 983) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:titnghichnghom add 1065xLì xì (old: 1064) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:titnghichnghom add 985xBình rượu (old: 984) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:titnghichnghom add 1066xLì xì (old: 1065) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:titnghichnghom add 1067xLì xì (old: 1066) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:titnghichnghom add 986xBình rượu (old: 985) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:titnghichnghom add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:titnghichnghom add 1068xLì xì (old: 1067) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:titnghichnghom add 987xBình rượu (old: 986) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:titnghichnghom add 1220xCây mai (old: 1219) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:titnghichnghom add 988xBình rượu (old: 987) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:titnghichnghom add 989xBình rượu (old: 988) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:titnghichnghom add 1221xCây mai (old: 1220) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:titnghichnghom add 990xBình rượu (old: 989) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:titnghichnghom add 1069xLì xì (old: 1068) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:titnghichnghom add 1222xCây mai (old: 1221) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:titnghichnghom add 1223xCây mai (old: 1222) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:titnghichnghom add 1070xLì xì (old: 1069) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:titnghichnghom add 1071xLì xì (old: 1070) lydo: Nhặt từ map at 02/03/2023 4:25 SA
+BAG:titnghichnghom add 1072xLì xì (old: 1071) lydo: Nhặt từ map at 02/03/2023 4:25 SA
+BAG:titnghichnghom add 1224xCây mai (old: 1223) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:titnghichnghom add 991xBình rượu (old: 990) lydo: Nhặt từ map at 02/03/2023 4:28 SA
+BAG:titnghichnghom add 1225xCây mai (old: 1224) lydo: Nhặt từ map at 02/03/2023 4:28 SA
+BAG:titnghichnghom add 992xBình rượu (old: 991) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:titnghichnghom add 1226xCây mai (old: 1225) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:titnghichnghom add 1227xCây mai (old: 1226) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:titnghichnghom add 1228xCây mai (old: 1227) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:titnghichnghom add 993xBình rượu (old: 992) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:titnghichnghom add 994xBình rượu (old: 993) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:titnghichnghom add 1229xCây mai (old: 1228) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:titnghichnghom add 1230xCây mai (old: 1229) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:titnghichnghom add 1073xLì xì (old: 1072) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:titnghichnghom add 1074xLì xì (old: 1073) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:titnghichnghom add 1231xCây mai (old: 1230) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:titnghichnghom add 1075xLì xì (old: 1074) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:titnghichnghom add 1232xCây mai (old: 1231) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:titnghichnghom add 995xBình rượu (old: 994) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:titnghichnghom add 1233xCây mai (old: 1232) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:titnghichnghom add 1076xLì xì (old: 1075) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:titnghichnghom add 1077xLì xì (old: 1076) lydo: Nhặt từ map at 02/03/2023 4:38 SA
+BAG:titnghichnghom add 996xBình rượu (old: 995) lydo: Nhặt từ map at 02/03/2023 4:39 SA
+BAG:titnghichnghom add 1234xCây mai (old: 1233) lydo: Nhặt từ map at 02/03/2023 4:39 SA
+BAG:titnghichnghom add 1235xCây mai (old: 1234) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:titnghichnghom add 997xBình rượu (old: 996) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:titnghichnghom add 1236xCây mai (old: 1235) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:titnghichnghom add 1078xLì xì (old: 1077) lydo: Nhặt từ map at 02/03/2023 4:41 SA
+BAG:titnghichnghom add 1237xCây mai (old: 1236) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:titnghichnghom add 1238xCây mai (old: 1237) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:titnghichnghom add 998xBình rượu (old: 997) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:titnghichnghom add 999xBình rượu (old: 998) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:titnghichnghom add 1079xLì xì (old: 1078) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:titnghichnghom add 1000xBình rượu (old: 999) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:titnghichnghom add 1001xBình rượu (old: 1000) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:titnghichnghom add 1002xBình rượu (old: 1001) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:titnghichnghom add 1239xCây mai (old: 1238) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:titnghichnghom add 1080xLì xì (old: 1079) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:titnghichnghom add 1240xCây mai (old: 1239) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:titnghichnghom add 1081xLì xì (old: 1080) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:titnghichnghom add 1241xCây mai (old: 1240) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:titnghichnghom add 1003xBình rượu (old: 1002) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:titnghichnghom add 1242xCây mai (old: 1241) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:titnghichnghom add 1082xLì xì (old: 1081) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:titnghichnghom add 1004xBình rượu (old: 1003) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:titnghichnghom add 1083xLì xì (old: 1082) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:titnghichnghom add 1243xCây mai (old: 1242) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:titnghichnghom add 1084xLì xì (old: 1083) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:titnghichnghom add 1085xLì xì (old: 1084) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:titnghichnghom add 1244xCây mai (old: 1243) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:titnghichnghom add 1086xLì xì (old: 1085) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:titnghichnghom add 1005xBình rượu (old: 1004) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:titnghichnghom add 1006xBình rượu (old: 1005) lydo: Nhặt từ map at 02/03/2023 4:53 SA
+BAG:titnghichnghom add 1007xBình rượu (old: 1006) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:titnghichnghom add 1245xCây mai (old: 1244) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:titnghichnghom add 1246xCây mai (old: 1245) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:titnghichnghom add 1247xCây mai (old: 1246) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:titnghichnghom add 1248xCây mai (old: 1247) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:titnghichnghom add 1087xLì xì (old: 1086) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:titnghichnghom add 1008xBình rượu (old: 1007) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:titnghichnghom add 1249xCây mai (old: 1248) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:titnghichnghom add 1009xBình rượu (old: 1008) lydo: Nhặt từ map at 02/03/2023 4:58 SA
+BAG:titnghichnghom add 1010xBình rượu (old: 1009) lydo: Nhặt từ map at 02/03/2023 4:59 SA
+BAG:titnghichnghom add 1011xBình rượu (old: 1010) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:titnghichnghom add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:titnghichnghom add 1250xCây mai (old: 1249) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:titnghichnghom add 1012xBình rượu (old: 1011) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:titnghichnghom add 1088xLì xì (old: 1087) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:titnghichnghom add 1013xBình rượu (old: 1012) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:titnghichnghom add 1014xBình rượu (old: 1013) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:titnghichnghom add 1015xBình rượu (old: 1014) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:titnghichnghom add 1089xLì xì (old: 1088) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:titnghichnghom add 1090xLì xì (old: 1089) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:titnghichnghom add 1091xLì xì (old: 1090) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:titnghichnghom add 1251xCây mai (old: 1250) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:titnghichnghom add 1252xCây mai (old: 1251) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:titnghichnghom add 1016xBình rượu (old: 1015) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:titnghichnghom add 1092xLì xì (old: 1091) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:titnghichnghom add 1253xCây mai (old: 1252) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:titnghichnghom add 1254xCây mai (old: 1253) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:titnghichnghom add 1255xCây mai (old: 1254) lydo: Nhặt từ map at 02/03/2023 5:09 SA
+BAG:titnghichnghom add 1093xLì xì (old: 1092) lydo: Nhặt từ map at 02/03/2023 5:09 SA
+BAG:titnghichnghom add 1094xLì xì (old: 1093) lydo: Nhặt từ map at 02/03/2023 5:10 SA
+BAG:titnghichnghom add 1017xBình rượu (old: 1016) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:titnghichnghom add 1256xCây mai (old: 1255) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:titnghichnghom add 1018xBình rượu (old: 1017) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:titnghichnghom add 1257xCây mai (old: 1256) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:titnghichnghom add 1258xCây mai (old: 1257) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:titnghichnghom add 1095xLì xì (old: 1094) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:titnghichnghom add 1019xBình rượu (old: 1018) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:titnghichnghom add 1259xCây mai (old: 1258) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:titnghichnghom add 1020xBình rượu (old: 1019) lydo: Nhặt từ map at 02/03/2023 5:15 SA
+BAG:titnghichnghom add 1260xCây mai (old: 1259) lydo: Nhặt từ map at 02/03/2023 5:15 SA
+BAG:titnghichnghom add 1021xBình rượu (old: 1020) lydo: Nhặt từ map at 02/03/2023 5:16 SA
+BAG:titnghichnghom add 1022xBình rượu (old: 1021) lydo: Nhặt từ map at 02/03/2023 5:17 SA
+BAG:titnghichnghom add 1261xCây mai (old: 1260) lydo: Nhặt từ map at 02/03/2023 5:17 SA
+BAG:titnghichnghom add 1262xCây mai (old: 1261) lydo: Nhặt từ map at 02/03/2023 5:17 SA
+BAG:titnghichnghom add 1263xCây mai (old: 1262) lydo: Nhặt từ map at 02/03/2023 5:18 SA
+BAG:titnghichnghom add 1264xCây mai (old: 1263) lydo: Nhặt từ map at 02/03/2023 5:18 SA
+BAG:titnghichnghom add 1096xLì xì (old: 1095) lydo: Nhặt từ map at 02/03/2023 5:19 SA
+BAG:titnghichnghom add 1023xBình rượu (old: 1022) lydo: Nhặt từ map at 02/03/2023 5:19 SA
+BAG:titnghichnghom add 1097xLì xì (old: 1096) lydo: Nhặt từ map at 02/03/2023 5:19 SA
+BAG:titnghichnghom add 1024xBình rượu (old: 1023) lydo: Nhặt từ map at 02/03/2023 5:20 SA
+BAG:titnghichnghom add 1265xCây mai (old: 1264) lydo: Nhặt từ map at 02/03/2023 5:21 SA
+BAG:titnghichnghom add 1098xLì xì (old: 1097) lydo: Nhặt từ map at 02/03/2023 5:21 SA
+BAG:titnghichnghom add 1025xBình rượu (old: 1024) lydo: Nhặt từ map at 02/03/2023 5:22 SA
+BAG:titnghichnghom add 1099xLì xì (old: 1098) lydo: Nhặt từ map at 02/03/2023 5:22 SA
+BAG:titnghichnghom add 1266xCây mai (old: 1265) lydo: Nhặt từ map at 02/03/2023 5:24 SA
+BAG:titnghichnghom add 1026xBình rượu (old: 1025) lydo: Nhặt từ map at 02/03/2023 5:24 SA
+BAG:titnghichnghom add 1100xLì xì (old: 1099) lydo: Nhặt từ map at 02/03/2023 5:25 SA
+BAG:titnghichnghom add 1027xBình rượu (old: 1026) lydo: Nhặt từ map at 02/03/2023 5:26 SA
+BAG:titnghichnghom add 1101xLì xì (old: 1100) lydo: Nhặt từ map at 02/03/2023 5:26 SA
+BAG:titnghichnghom add 1102xLì xì (old: 1101) lydo: Nhặt từ map at 02/03/2023 5:26 SA
+BAG:titnghichnghom add 1267xCây mai (old: 1266) lydo: Nhặt từ map at 02/03/2023 5:28 SA
+BAG:titnghichnghom add 1268xCây mai (old: 1267) lydo: Nhặt từ map at 02/03/2023 5:28 SA
+BAG:titnghichnghom add 1028xBình rượu (old: 1027) lydo: Nhặt từ map at 02/03/2023 5:29 SA
+BAG:titnghichnghom add 1103xLì xì (old: 1102) lydo: Nhặt từ map at 02/03/2023 5:29 SA
+BAG:titnghichnghom add 1029xBình rượu (old: 1028) lydo: Nhặt từ map at 02/03/2023 5:29 SA
+BAG:titnghichnghom add 1030xBình rượu (old: 1029) lydo: Nhặt từ map at 02/03/2023 5:30 SA
+BAG:titnghichnghom add 1269xCây mai (old: 1268) lydo: Nhặt từ map at 02/03/2023 5:30 SA
+BAG:titnghichnghom add 1270xCây mai (old: 1269) lydo: Nhặt từ map at 02/03/2023 5:31 SA
+BAG:titnghichnghom add 1104xLì xì (old: 1103) lydo: Nhặt từ map at 02/03/2023 5:31 SA
+BAG:titnghichnghom add 1031xBình rượu (old: 1030) lydo: Nhặt từ map at 02/03/2023 5:32 SA
+BAG:titnghichnghom add 1105xLì xì (old: 1104) lydo: Nhặt từ map at 02/03/2023 5:32 SA
+BAG:titnghichnghom add 1271xCây mai (old: 1270) lydo: Nhặt từ map at 02/03/2023 5:32 SA
+BAG:titnghichnghom add 1106xLì xì (old: 1105) lydo: Nhặt từ map at 02/03/2023 5:32 SA
+BAG:titnghichnghom add 1272xCây mai (old: 1271) lydo: Nhặt từ map at 02/03/2023 5:32 SA
+BAG:titnghichnghom add 1107xLì xì (old: 1106) lydo: Nhặt từ map at 02/03/2023 5:33 SA
+BAG:titnghichnghom add 1273xCây mai (old: 1272) lydo: Nhặt từ map at 02/03/2023 5:33 SA
+BAG:titnghichnghom add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 02/03/2023 5:33 SA
+BAG:titnghichnghom add 1274xCây mai (old: 1273) lydo: Nhặt từ map at 02/03/2023 5:34 SA
+BAG:titnghichnghom add 1275xCây mai (old: 1274) lydo: Nhặt từ map at 02/03/2023 5:36 SA
+BAG:titnghichnghom add 1276xCây mai (old: 1275) lydo: Nhặt từ map at 02/03/2023 5:36 SA
+BAG:titnghichnghom add 1032xBình rượu (old: 1031) lydo: Nhặt từ map at 02/03/2023 5:37 SA
+BAG:titnghichnghom add 1108xLì xì (old: 1107) lydo: Nhặt từ map at 02/03/2023 5:37 SA
+BAG:titnghichnghom add 1109xLì xì (old: 1108) lydo: Nhặt từ map at 02/03/2023 5:38 SA
+BAG:titnghichnghom add 1277xCây mai (old: 1276) lydo: Nhặt từ map at 02/03/2023 5:38 SA
+BAG:titnghichnghom add 1033xBình rượu (old: 1032) lydo: Nhặt từ map at 02/03/2023 5:38 SA
+BAG:titnghichnghom add 1110xLì xì (old: 1109) lydo: Nhặt từ map at 02/03/2023 5:38 SA
+BAG:titnghichnghom add 1034xBình rượu (old: 1033) lydo: Nhặt từ map at 02/03/2023 5:38 SA
+BAG:titnghichnghom add 1278xCây mai (old: 1277) lydo: Nhặt từ map at 02/03/2023 5:39 SA
+BAG:titnghichnghom add 1279xCây mai (old: 1278) lydo: Nhặt từ map at 02/03/2023 5:39 SA
+BAG:titnghichnghom add 1035xBình rượu (old: 1034) lydo: Nhặt từ map at 02/03/2023 5:39 SA
+BAG:titnghichnghom add 1280xCây mai (old: 1279) lydo: Nhặt từ map at 02/03/2023 5:40 SA
+BAG:titnghichnghom add 1036xBình rượu (old: 1035) lydo: Nhặt từ map at 02/03/2023 5:40 SA
+BAG:titnghichnghom add 1037xBình rượu (old: 1036) lydo: Nhặt từ map at 02/03/2023 5:40 SA
+BAG:titnghichnghom add 1111xLì xì (old: 1110) lydo: Nhặt từ map at 02/03/2023 5:41 SA
+BAG:titnghichnghom add 1112xLì xì (old: 1111) lydo: Nhặt từ map at 02/03/2023 5:42 SA
+BAG:titnghichnghom add 1038xBình rượu (old: 1037) lydo: Nhặt từ map at 02/03/2023 5:42 SA
+BAG:titnghichnghom add 1113xLì xì (old: 1112) lydo: Nhặt từ map at 02/03/2023 5:43 SA
+BAG:titnghichnghom add 1114xLì xì (old: 1113) lydo: Nhặt từ map at 02/03/2023 5:43 SA
+BAG:titnghichnghom add 1039xBình rượu (old: 1038) lydo: Nhặt từ map at 02/03/2023 5:44 SA
+BAG:titnghichnghom add 1115xLì xì (old: 1114) lydo: Nhặt từ map at 02/03/2023 5:44 SA
+BAG:titnghichnghom add 1281xCây mai (old: 1280) lydo: Nhặt từ map at 02/03/2023 5:44 SA
+BAG:titnghichnghom add 1040xBình rượu (old: 1039) lydo: Nhặt từ map at 02/03/2023 5:45 SA
+BAG:titnghichnghom add 1041xBình rượu (old: 1040) lydo: Nhặt từ map at 02/03/2023 5:45 SA
+BAG:titnghichnghom add 1042xBình rượu (old: 1041) lydo: Nhặt từ map at 02/03/2023 5:45 SA
+BAG:titnghichnghom add 1282xCây mai (old: 1281) lydo: Nhặt từ map at 02/03/2023 5:45 SA
+BAG:titnghichnghom add 1283xCây mai (old: 1282) lydo: Nhặt từ map at 02/03/2023 5:46 SA
+BAG:titnghichnghom add 1284xCây mai (old: 1283) lydo: Nhặt từ map at 02/03/2023 5:46 SA
+BAG:titnghichnghom add 1116xLì xì (old: 1115) lydo: Nhặt từ map at 02/03/2023 5:47 SA
+BAG:titnghichnghom add 1117xLì xì (old: 1116) lydo: Nhặt từ map at 02/03/2023 5:47 SA
+BAG:titnghichnghom add 1285xCây mai (old: 1284) lydo: Nhặt từ map at 02/03/2023 5:47 SA
+BAG:titnghichnghom add 1043xBình rượu (old: 1042) lydo: Nhặt từ map at 02/03/2023 5:48 SA
+BAG:titnghichnghom add 1118xLì xì (old: 1117) lydo: Nhặt từ map at 02/03/2023 5:48 SA
+BAG:titnghichnghom add 1286xCây mai (old: 1285) lydo: Nhặt từ map at 02/03/2023 5:49 SA
+BAG:titnghichnghom add 1044xBình rượu (old: 1043) lydo: Nhặt từ map at 02/03/2023 5:49 SA
+BAG:titnghichnghom add 1119xLì xì (old: 1118) lydo: Nhặt từ map at 02/03/2023 5:50 SA
+BAG:titnghichnghom add 1045xBình rượu (old: 1044) lydo: Nhặt từ map at 02/03/2023 5:52 SA
+BAG:titnghichnghom add 1120xLì xì (old: 1119) lydo: Nhặt từ map at 02/03/2023 5:52 SA
+BAG:titnghichnghom add 1046xBình rượu (old: 1045) lydo: Nhặt từ map at 02/03/2023 5:52 SA
+BAG:titnghichnghom add 1287xCây mai (old: 1286) lydo: Nhặt từ map at 02/03/2023 5:53 SA
+BAG:titnghichnghom add 1121xLì xì (old: 1120) lydo: Nhặt từ map at 02/03/2023 5:53 SA
+BAG:titnghichnghom add 1047xBình rượu (old: 1046) lydo: Nhặt từ map at 02/03/2023 5:54 SA
+BAG:titnghichnghom add 1122xLì xì (old: 1121) lydo: Nhặt từ map at 02/03/2023 5:54 SA
+BAG:titnghichnghom add 1048xBình rượu (old: 1047) lydo: Nhặt từ map at 02/03/2023 5:54 SA
+BAG:titnghichnghom add 1123xLì xì (old: 1122) lydo: Nhặt từ map at 02/03/2023 5:54 SA
+BAG:titnghichnghom add 1288xCây mai (old: 1287) lydo: Nhặt từ map at 02/03/2023 5:55 SA
+BAG:titnghichnghom add 1049xBình rượu (old: 1048) lydo: Nhặt từ map at 02/03/2023 5:55 SA
+BAG:titnghichnghom add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 02/03/2023 5:56 SA
+BAG:titnghichnghom add 1289xCây mai (old: 1288) lydo: Nhặt từ map at 02/03/2023 5:56 SA
+BAG:titnghichnghom add 1124xLì xì (old: 1123) lydo: Nhặt từ map at 02/03/2023 5:56 SA
+BAG:titnghichnghom add 1290xCây mai (old: 1289) lydo: Nhặt từ map at 02/03/2023 5:56 SA
+BAG:titnghichnghom add 1125xLì xì (old: 1124) lydo: Nhặt từ map at 02/03/2023 5:56 SA
+BAG:titnghichnghom add 1126xLì xì (old: 1125) lydo: Nhặt từ map at 02/03/2023 5:57 SA
+BAG:titnghichnghom add 1050xBình rượu (old: 1049) lydo: Nhặt từ map at 02/03/2023 5:57 SA
+BAG:titnghichnghom add 1127xLì xì (old: 1126) lydo: Nhặt từ map at 02/03/2023 5:58 SA
+BAG:titnghichnghom add 1291xCây mai (old: 1290) lydo: Nhặt từ map at 02/03/2023 5:58 SA
+BAG:titnghichnghom add 1051xBình rượu (old: 1050) lydo: Nhặt từ map at 02/03/2023 6:00 SA
+BAG:titnghichnghom add 1128xLì xì (old: 1127) lydo: Nhặt từ map at 02/03/2023 6:00 SA
+BAG:titnghichnghom add 1292xCây mai (old: 1291) lydo: Nhặt từ map at 02/03/2023 6:00 SA
+BAG:titnghichnghom add 1052xBình rượu (old: 1051) lydo: Nhặt từ map at 02/03/2023 6:00 SA
+BAG:titnghichnghom add 1129xLì xì (old: 1128) lydo: Nhặt từ map at 02/03/2023 6:01 SA
+BAG:titnghichnghom add 1130xLì xì (old: 1129) lydo: Nhặt từ map at 02/03/2023 6:01 SA
+BAG:titnghichnghom add 1293xCây mai (old: 1292) lydo: Nhặt từ map at 02/03/2023 6:02 SA
+BAG:titnghichnghom add 1053xBình rượu (old: 1052) lydo: Nhặt từ map at 02/03/2023 6:02 SA
+BAG:titnghichnghom add 1294xCây mai (old: 1293) lydo: Nhặt từ map at 02/03/2023 6:02 SA
+BAG:titnghichnghom add 1054xBình rượu (old: 1053) lydo: Nhặt từ map at 02/03/2023 6:03 SA
+BAG:titnghichnghom add 1131xLì xì (old: 1130) lydo: Nhặt từ map at 02/03/2023 6:03 SA
+BAG:titnghichnghom add 1055xBình rượu (old: 1054) lydo: Nhặt từ map at 02/03/2023 6:04 SA
+BAG:titnghichnghom add 1056xBình rượu (old: 1055) lydo: Nhặt từ map at 02/03/2023 6:04 SA
+BAG:titnghichnghom add 1132xLì xì (old: 1131) lydo: Nhặt từ map at 02/03/2023 6:04 SA
+BAG:titnghichnghom add 1295xCây mai (old: 1294) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:titnghichnghom add 1133xLì xì (old: 1132) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:titnghichnghom add 1134xLì xì (old: 1133) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:titnghichnghom add 1135xLì xì (old: 1134) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:titnghichnghom add 1057xBình rượu (old: 1056) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:titnghichnghom add 1058xBình rượu (old: 1057) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:titnghichnghom add 1059xBình rượu (old: 1058) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:titnghichnghom add 1136xLì xì (old: 1135) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:titnghichnghom add 1060xBình rượu (old: 1059) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:titnghichnghom add 1296xCây mai (old: 1295) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:titnghichnghom add 1061xBình rượu (old: 1060) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:titnghichnghom add 1062xBình rượu (old: 1061) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:titnghichnghom add 1297xCây mai (old: 1296) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:titnghichnghom add 1063xBình rượu (old: 1062) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:titnghichnghom add 1298xCây mai (old: 1297) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:titnghichnghom add 1137xLì xì (old: 1136) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:titnghichnghom add 1299xCây mai (old: 1298) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:titnghichnghom add 1138xLì xì (old: 1137) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:titnghichnghom add 1300xCây mai (old: 1299) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:titnghichnghom add 1301xCây mai (old: 1300) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:titnghichnghom add 1139xLì xì (old: 1138) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:titnghichnghom add 1064xBình rượu (old: 1063) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:titnghichnghom add 1065xBình rượu (old: 1064) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:titnghichnghom add 1140xLì xì (old: 1139) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:titnghichnghom add 1066xBình rượu (old: 1065) lydo: Nhặt từ map at 02/03/2023 6:12 SA
+BAG:titnghichnghom add 1141xLì xì (old: 1140) lydo: Nhặt từ map at 02/03/2023 6:13 SA
+BAG:titnghichnghom add 1067xBình rượu (old: 1066) lydo: Nhặt từ map at 02/03/2023 6:13 SA
+BAG:titnghichnghom add 1302xCây mai (old: 1301) lydo: Nhặt từ map at 02/03/2023 6:14 SA
+BAG:titnghichnghom add 1142xLì xì (old: 1141) lydo: Nhặt từ map at 02/03/2023 6:14 SA
+BAG:titnghichnghom add 1303xCây mai (old: 1302) lydo: Nhặt từ map at 02/03/2023 6:14 SA
+BAG:titnghichnghom add 1068xBình rượu (old: 1067) lydo: Nhặt từ map at 02/03/2023 6:15 SA
+BAG:titnghichnghom add 1304xCây mai (old: 1303) lydo: Nhặt từ map at 02/03/2023 6:15 SA
+BAG:titnghichnghom add 1305xCây mai (old: 1304) lydo: Nhặt từ map at 02/03/2023 6:15 SA
+BAG:titnghichnghom add 1143xLì xì (old: 1142) lydo: Nhặt từ map at 02/03/2023 6:16 SA
+BAG:titnghichnghom add 1144xLì xì (old: 1143) lydo: Nhặt từ map at 02/03/2023 6:17 SA
+BAG:titnghichnghom add 1145xLì xì (old: 1144) lydo: Nhặt từ map at 02/03/2023 6:18 SA
+BAG:titnghichnghom add 1146xLì xì (old: 1145) lydo: Nhặt từ map at 02/03/2023 6:18 SA
+BAG:titnghichnghom add 1069xBình rượu (old: 1068) lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:titnghichnghom add 1306xCây mai (old: 1305) lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:titnghichnghom add 1147xLì xì (old: 1146) lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:titnghichnghom add 1148xLì xì (old: 1147) lydo: Nhặt từ map at 02/03/2023 6:20 SA
+BAG:titnghichnghom add 1307xCây mai (old: 1306) lydo: Nhặt từ map at 02/03/2023 6:20 SA
+BAG:titnghichnghom add 1070xBình rượu (old: 1069) lydo: Nhặt từ map at 02/03/2023 6:20 SA
+BAG:titnghichnghom add 1308xCây mai (old: 1307) lydo: Nhặt từ map at 02/03/2023 6:21 SA
+BAG:titnghichnghom add 1149xLì xì (old: 1148) lydo: Nhặt từ map at 02/03/2023 6:21 SA
+BAG:titnghichnghom add 1150xLì xì (old: 1149) lydo: Nhặt từ map at 02/03/2023 6:21 SA
+BAG:titnghichnghom add 1151xLì xì (old: 1150) lydo: Nhặt từ map at 02/03/2023 6:21 SA
+BAG:titnghichnghom add 1071xBình rượu (old: 1070) lydo: Nhặt từ map at 02/03/2023 6:21 SA
+BAG:titnghichnghom add 1072xBình rượu (old: 1071) lydo: Nhặt từ map at 02/03/2023 6:22 SA
+BAG:titnghichnghom add 1309xCây mai (old: 1308) lydo: Nhặt từ map at 02/03/2023 6:22 SA
+BAG:titnghichnghom add 1152xLì xì (old: 1151) lydo: Nhặt từ map at 02/03/2023 6:22 SA
+BAG:titnghichnghom add 1073xBình rượu (old: 1072) lydo: Nhặt từ map at 02/03/2023 6:24 SA
+BAG:titnghichnghom add 1153xLì xì (old: 1152) lydo: Nhặt từ map at 02/03/2023 6:25 SA
+BAG:titnghichnghom add 1310xCây mai (old: 1309) lydo: Nhặt từ map at 02/03/2023 6:25 SA
+BAG:titnghichnghom add 1154xLì xì (old: 1153) lydo: Nhặt từ map at 02/03/2023 6:25 SA
+BAG:titnghichnghom add 1074xBình rượu (old: 1073) lydo: Nhặt từ map at 02/03/2023 6:26 SA
+BAG:titnghichnghom add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 02/03/2023 6:26 SA
+BAG:titnghichnghom add 1311xCây mai (old: 1310) lydo: Nhặt từ map at 02/03/2023 6:26 SA
+BAG:titnghichnghom add 1075xBình rượu (old: 1074) lydo: Nhặt từ map at 02/03/2023 6:27 SA
+BAG:titnghichnghom add 1076xBình rượu (old: 1075) lydo: Nhặt từ map at 02/03/2023 6:28 SA
+BAG:titnghichnghom add 1077xBình rượu (old: 1076) lydo: Nhặt từ map at 02/03/2023 6:28 SA
+BAG:titnghichnghom add 1078xBình rượu (old: 1077) lydo: Nhặt từ map at 02/03/2023 6:29 SA
+BAG:titnghichnghom add 1155xLì xì (old: 1154) lydo: Nhặt từ map at 02/03/2023 6:29 SA
+BAG:titnghichnghom add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 02/03/2023 6:29 SA
+BAG:titnghichnghom add 1079xBình rượu (old: 1078) lydo: Nhặt từ map at 02/03/2023 6:29 SA
+BAG:titnghichnghom add 1312xCây mai (old: 1311) lydo: Nhặt từ map at 02/03/2023 6:30 SA
+BAG:titnghichnghom add 1313xCây mai (old: 1312) lydo: Nhặt từ map at 02/03/2023 6:30 SA
+BAG:titnghichnghom add 1080xBình rượu (old: 1079) lydo: Nhặt từ map at 02/03/2023 6:30 SA
+BAG:titnghichnghom add 1314xCây mai (old: 1313) lydo: Nhặt từ map at 02/03/2023 6:31 SA
+BAG:titnghichnghom add 1156xLì xì (old: 1155) lydo: Nhặt từ map at 02/03/2023 6:31 SA
+BAG:titnghichnghom add 1315xCây mai (old: 1314) lydo: Nhặt từ map at 02/03/2023 6:31 SA
+BAG:titnghichnghom add 1081xBình rượu (old: 1080) lydo: Nhặt từ map at 02/03/2023 6:31 SA
+BAG:titnghichnghom add 1082xBình rượu (old: 1081) lydo: Nhặt từ map at 02/03/2023 6:32 SA
+BAG:titnghichnghom add 1157xLì xì (old: 1156) lydo: Nhặt từ map at 02/03/2023 6:32 SA
+BAG:titnghichnghom add 1316xCây mai (old: 1315) lydo: Nhặt từ map at 02/03/2023 6:33 SA
+BAG:titnghichnghom add 1317xCây mai (old: 1316) lydo: Nhặt từ map at 02/03/2023 6:33 SA
+BAG:titnghichnghom add 1158xLì xì (old: 1157) lydo: Nhặt từ map at 02/03/2023 6:34 SA
+BAG:titnghichnghom add 1318xCây mai (old: 1317) lydo: Nhặt từ map at 02/03/2023 6:34 SA
+BAG:titnghichnghom add 1083xBình rượu (old: 1082) lydo: Nhặt từ map at 02/03/2023 6:36 SA
+BAG:titnghichnghom add 1084xBình rượu (old: 1083) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:titnghichnghom add 1319xCây mai (old: 1318) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:titnghichnghom add 1085xBình rượu (old: 1084) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:titnghichnghom add 1159xLì xì (old: 1158) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:titnghichnghom add 1160xLì xì (old: 1159) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:titnghichnghom add 1320xCây mai (old: 1319) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:titnghichnghom add 1321xCây mai (old: 1320) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:titnghichnghom add 1086xBình rượu (old: 1085) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:titnghichnghom add 1087xBình rượu (old: 1086) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:titnghichnghom add 1322xCây mai (old: 1321) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:titnghichnghom add 1323xCây mai (old: 1322) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:titnghichnghom add 1088xBình rượu (old: 1087) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:titnghichnghom add 1324xCây mai (old: 1323) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:titnghichnghom add 1161xLì xì (old: 1160) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:titnghichnghom add 1325xCây mai (old: 1324) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:titnghichnghom add 1162xLì xì (old: 1161) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:titnghichnghom add 1163xLì xì (old: 1162) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:titnghichnghom add 1164xLì xì (old: 1163) lydo: Nhặt từ map at 02/03/2023 6:45 SA
+BAG:titnghichnghom add 1089xBình rượu (old: 1088) lydo: Nhặt từ map at 02/03/2023 6:45 SA
+BAG:titnghichnghom add 1090xBình rượu (old: 1089) lydo: Nhặt từ map at 02/03/2023 6:45 SA
+BAG:titnghichnghom add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 02/03/2023 6:46 SA
+BAG:titnghichnghom add 1091xBình rượu (old: 1090) lydo: Nhặt từ map at 02/03/2023 6:46 SA
+BAG:titnghichnghom add 1165xLì xì (old: 1164) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:titnghichnghom add 1326xCây mai (old: 1325) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:titnghichnghom add 1092xBình rượu (old: 1091) lydo: Nhặt từ map at 02/03/2023 6:48 SA
+BAG:titnghichnghom add 1327xCây mai (old: 1326) lydo: Nhặt từ map at 02/03/2023 6:48 SA
+BAG:titnghichnghom add 1166xLì xì (old: 1165) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:titnghichnghom add 1328xCây mai (old: 1327) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:titnghichnghom add 1329xCây mai (old: 1328) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:titnghichnghom add 1330xCây mai (old: 1329) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:titnghichnghom add 1167xLì xì (old: 1166) lydo: Nhặt từ map at 02/03/2023 6:50 SA
+BAG:titnghichnghom add 1168xLì xì (old: 1167) lydo: Nhặt từ map at 02/03/2023 6:51 SA
+BAG:titnghichnghom add 1331xCây mai (old: 1330) lydo: Nhặt từ map at 02/03/2023 6:51 SA
+BAG:titnghichnghom add 1169xLì xì (old: 1168) lydo: Nhặt từ map at 02/03/2023 6:51 SA
+BAG:titnghichnghom add 1093xBình rượu (old: 1092) lydo: Nhặt từ map at 02/03/2023 6:52 SA
+BAG:titnghichnghom add 1332xCây mai (old: 1331) lydo: Nhặt từ map at 02/03/2023 6:52 SA
+BAG:titnghichnghom add 1333xCây mai (old: 1332) lydo: Nhặt từ map at 02/03/2023 6:52 SA
+BAG:titnghichnghom add 1094xBình rượu (old: 1093) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:titnghichnghom add 1095xBình rượu (old: 1094) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:titnghichnghom add 1334xCây mai (old: 1333) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:titnghichnghom add 1096xBình rượu (old: 1095) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:titnghichnghom add 1170xLì xì (old: 1169) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:titnghichnghom add 1171xLì xì (old: 1170) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:titnghichnghom add 1335xCây mai (old: 1334) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:titnghichnghom add 1336xCây mai (old: 1335) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:titnghichnghom add 1097xBình rượu (old: 1096) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:titnghichnghom add 1172xLì xì (old: 1171) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:titnghichnghom add 1098xBình rượu (old: 1097) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:titnghichnghom add 1337xCây mai (old: 1336) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:titnghichnghom add 1338xCây mai (old: 1337) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:titnghichnghom add 1099xBình rượu (old: 1098) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:titnghichnghom add 1173xLì xì (old: 1172) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:titnghichnghom add 1174xLì xì (old: 1173) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:titnghichnghom add 1100xBình rượu (old: 1099) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:titnghichnghom add 1339xCây mai (old: 1338) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:titnghichnghom add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:titnghichnghom add 1101xBình rượu (old: 1100) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:titnghichnghom add 1102xBình rượu (old: 1101) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:titnghichnghom add 1340xCây mai (old: 1339) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:titnghichnghom add 1103xBình rượu (old: 1102) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:titnghichnghom add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:titnghichnghom add 1175xLì xì (old: 1174) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:titnghichnghom add 1341xCây mai (old: 1340) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:titnghichnghom add 1176xLì xì (old: 1175) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:titnghichnghom add 1342xCây mai (old: 1341) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:titnghichnghom add 1104xBình rượu (old: 1103) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:titnghichnghom add 1177xLì xì (old: 1176) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:titnghichnghom add 1178xLì xì (old: 1177) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:titnghichnghom add 1179xLì xì (old: 1178) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:titnghichnghom add 1343xCây mai (old: 1342) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:titnghichnghom add 1105xBình rượu (old: 1104) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:titnghichnghom add 1106xBình rượu (old: 1105) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:titnghichnghom add 1344xCây mai (old: 1343) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:titnghichnghom add 1180xLì xì (old: 1179) lydo: Nhặt từ map at 02/03/2023 7:06 SA
+BAG:titnghichnghom add 1107xBình rượu (old: 1106) lydo: Nhặt từ map at 02/03/2023 7:06 SA
+BAG:titnghichnghom add 1181xLì xì (old: 1180) lydo: Nhặt từ map at 02/03/2023 7:06 SA
+BAG:titnghichnghom add 1182xLì xì (old: 1181) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:titnghichnghom add 1345xCây mai (old: 1344) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:titnghichnghom add 1346xCây mai (old: 1345) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:titnghichnghom add 1183xLì xì (old: 1182) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:titnghichnghom add 1108xBình rượu (old: 1107) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:titnghichnghom add 1109xBình rượu (old: 1108) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:titnghichnghom add 1110xBình rượu (old: 1109) lydo: Nhặt từ map at 02/03/2023 7:10 SA
+BAG:titnghichnghom add 1347xCây mai (old: 1346) lydo: Nhặt từ map at 02/03/2023 7:10 SA
+BAG:titnghichnghom add 1111xBình rượu (old: 1110) lydo: Nhặt từ map at 02/03/2023 7:10 SA
+BAG:titnghichnghom add 1112xBình rượu (old: 1111) lydo: Nhặt từ map at 02/03/2023 7:10 SA
+BAG:titnghichnghom add 1348xCây mai (old: 1347) lydo: Nhặt từ map at 02/03/2023 7:11 SA
+BAG:titnghichnghom add 1113xBình rượu (old: 1112) lydo: Nhặt từ map at 02/03/2023 7:12 SA
+BAG:titnghichnghom add 1349xCây mai (old: 1348) lydo: Nhặt từ map at 02/03/2023 7:12 SA
+BAG:titnghichnghom add 1114xBình rượu (old: 1113) lydo: Nhặt từ map at 02/03/2023 7:12 SA
+BAG:titnghichnghom add 1184xLì xì (old: 1183) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:titnghichnghom add 1185xLì xì (old: 1184) lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:titnghichnghom add 1115xBình rượu (old: 1114) lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:titnghichnghom add 1186xLì xì (old: 1185) lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:titnghichnghom add 1350xCây mai (old: 1349) lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:titnghichnghom add 1116xBình rượu (old: 1115) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:titnghichnghom add 1351xCây mai (old: 1350) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:titnghichnghom add 1117xBình rượu (old: 1116) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:titnghichnghom add 1352xCây mai (old: 1351) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:titnghichnghom add 1353xCây mai (old: 1352) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:titnghichnghom add 1354xCây mai (old: 1353) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:titnghichnghom add 1118xBình rượu (old: 1117) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:titnghichnghom add 1355xCây mai (old: 1354) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:titnghichnghom add 1119xBình rượu (old: 1118) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:titnghichnghom add 1356xCây mai (old: 1355) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:titnghichnghom add 1120xBình rượu (old: 1119) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:titnghichnghom add 1121xBình rượu (old: 1120) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:titnghichnghom add 1187xLì xì (old: 1186) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:titnghichnghom add 1188xLì xì (old: 1187) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:titnghichnghom add 1189xLì xì (old: 1188) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:titnghichnghom add 1122xBình rượu (old: 1121) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:titnghichnghom add 1190xLì xì (old: 1189) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:titnghichnghom add 1123xBình rượu (old: 1122) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:titnghichnghom add 1357xCây mai (old: 1356) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:titnghichnghom add 1124xBình rượu (old: 1123) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:titnghichnghom add 1358xCây mai (old: 1357) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:titnghichnghom add 1191xLì xì (old: 1190) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:titnghichnghom add 1192xLì xì (old: 1191) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:titnghichnghom add 1125xBình rượu (old: 1124) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:titnghichnghom add 1359xCây mai (old: 1358) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:titnghichnghom add 1126xBình rượu (old: 1125) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:titnghichnghom add 1193xLì xì (old: 1192) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:titnghichnghom add 1127xBình rượu (old: 1126) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:titnghichnghom add 1360xCây mai (old: 1359) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:titnghichnghom add 1128xBình rượu (old: 1127) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:titnghichnghom add 1361xCây mai (old: 1360) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:titnghichnghom add 1362xCây mai (old: 1361) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:titnghichnghom add 1129xBình rượu (old: 1128) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:titnghichnghom add 1363xCây mai (old: 1362) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:titnghichnghom add 1194xLì xì (old: 1193) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:titnghichnghom add 1364xCây mai (old: 1363) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:titnghichnghom add 1195xLì xì (old: 1194) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:titnghichnghom add 1365xCây mai (old: 1364) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:titnghichnghom add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:titnghichnghom add 1196xLì xì (old: 1195) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:titnghichnghom add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:titnghichnghom add 1197xLì xì (old: 1196) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:titnghichnghom add 1130xBình rượu (old: 1129) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:titnghichnghom add 1131xBình rượu (old: 1130) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:titnghichnghom add 1132xBình rượu (old: 1131) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:titnghichnghom add 1366xCây mai (old: 1365) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:titnghichnghom add 1198xLì xì (old: 1197) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:titnghichnghom add 1133xBình rượu (old: 1132) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:titnghichnghom add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:titnghichnghom add 1367xCây mai (old: 1366) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:titnghichnghom add 1134xBình rượu (old: 1133) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:titnghichnghom add 1368xCây mai (old: 1367) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:titnghichnghom add 1135xBình rượu (old: 1134) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:titnghichnghom add 1369xCây mai (old: 1368) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:titnghichnghom add 1370xCây mai (old: 1369) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:titnghichnghom add 1136xBình rượu (old: 1135) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:titnghichnghom add 1199xLì xì (old: 1198) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:titnghichnghom add 1137xBình rượu (old: 1136) lydo: Nhặt từ map at 02/03/2023 7:35 SA
+BAG:titnghichnghom add 1371xCây mai (old: 1370) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:titnghichnghom add 1372xCây mai (old: 1371) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:titnghichnghom add 1200xLì xì (old: 1199) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:titnghichnghom add 1138xBình rượu (old: 1137) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:titnghichnghom add 1139xBình rượu (old: 1138) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:titnghichnghom add 1373xCây mai (old: 1372) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:titnghichnghom add 1201xLì xì (old: 1200) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:titnghichnghom add 1202xLì xì (old: 1201) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:titnghichnghom add 1203xLì xì (old: 1202) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:titnghichnghom add 1374xCây mai (old: 1373) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:titnghichnghom add 1375xCây mai (old: 1374) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:titnghichnghom add 1204xLì xì (old: 1203) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:titnghichnghom add 1376xCây mai (old: 1375) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:titnghichnghom add 1377xCây mai (old: 1376) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:titnghichnghom add 1205xLì xì (old: 1204) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:titnghichnghom add 1140xBình rượu (old: 1139) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:titnghichnghom add 1378xCây mai (old: 1377) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:titnghichnghom add 1379xCây mai (old: 1378) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:titnghichnghom add 1380xCây mai (old: 1379) lydo: Nhặt từ map at 02/03/2023 7:43 SA
+BAG:titnghichnghom add 1381xCây mai (old: 1380) lydo: Nhặt từ map at 02/03/2023 7:43 SA
+BAG:titnghichnghom add 1382xCây mai (old: 1381) lydo: Nhặt từ map at 02/03/2023 7:43 SA
+BAG:titnghichnghom add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 02/03/2023 7:43 SA
+BAG:titnghichnghom add 1206xLì xì (old: 1205) lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:titnghichnghom add 1141xBình rượu (old: 1140) lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:titnghichnghom add 1383xCây mai (old: 1382) lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:titnghichnghom add 1384xCây mai (old: 1383) lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:titnghichnghom add 1207xLì xì (old: 1206) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:titnghichnghom add 1385xCây mai (old: 1384) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:titnghichnghom add 1142xBình rượu (old: 1141) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:titnghichnghom add 1208xLì xì (old: 1207) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:titnghichnghom add 1143xBình rượu (old: 1142) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:titnghichnghom add 1209xLì xì (old: 1208) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:titnghichnghom add 1144xBình rượu (old: 1143) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:titnghichnghom add 1386xCây mai (old: 1385) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:titnghichnghom add 1387xCây mai (old: 1386) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:titnghichnghom add 1145xBình rượu (old: 1144) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:titnghichnghom add 1388xCây mai (old: 1387) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:titnghichnghom add 1210xLì xì (old: 1209) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:titnghichnghom add 1211xLì xì (old: 1210) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:titnghichnghom add 1389xCây mai (old: 1388) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:titnghichnghom add 1146xBình rượu (old: 1145) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:titnghichnghom add 1390xCây mai (old: 1389) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:titnghichnghom add 1212xLì xì (old: 1211) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:titnghichnghom add 1147xBình rượu (old: 1146) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:titnghichnghom add 1391xCây mai (old: 1390) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:titnghichnghom add 1213xLì xì (old: 1212) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:titnghichnghom add 1148xBình rượu (old: 1147) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:titnghichnghom add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:titnghichnghom add 1392xCây mai (old: 1391) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:titnghichnghom add 1149xBình rượu (old: 1148) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:titnghichnghom add 1214xLì xì (old: 1213) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:titnghichnghom add 1393xCây mai (old: 1392) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:titnghichnghom add 1394xCây mai (old: 1393) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:titnghichnghom add 1215xLì xì (old: 1214) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:titnghichnghom add 1216xLì xì (old: 1215) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:titnghichnghom add 1150xBình rượu (old: 1149) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:titnghichnghom add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:titnghichnghom add 1395xCây mai (old: 1394) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:titnghichnghom add 1396xCây mai (old: 1395) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:titnghichnghom add 1397xCây mai (old: 1396) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:titnghichnghom add 1217xLì xì (old: 1216) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:titnghichnghom add 1218xLì xì (old: 1217) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:titnghichnghom add 1219xLì xì (old: 1218) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:titnghichnghom add 1398xCây mai (old: 1397) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:titnghichnghom add 1220xLì xì (old: 1219) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:titnghichnghom add 1399xCây mai (old: 1398) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:titnghichnghom add 1400xCây mai (old: 1399) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:titnghichnghom add 1221xLì xì (old: 1220) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:titnghichnghom add 1151xBình rượu (old: 1150) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:titnghichnghom add 1401xCây mai (old: 1400) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:titnghichnghom add 1222xLì xì (old: 1221) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:titnghichnghom add 1402xCây mai (old: 1401) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:titnghichnghom add 1223xLì xì (old: 1222) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:titnghichnghom add 1403xCây mai (old: 1402) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:titnghichnghom add 1404xCây mai (old: 1403) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:titnghichnghom add 1224xLì xì (old: 1223) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:titnghichnghom add 1225xLì xì (old: 1224) lydo: Nhặt từ map at 02/03/2023 8:32 SA
+BAG:titnghichnghom add 1152xBình rượu (old: 1151) lydo: Nhặt từ map at 02/03/2023 8:32 SA
+BAG:titnghichnghom add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:titnghichnghom add 1153xBình rượu (old: 1152) lydo: Nhặt từ map at 02/03/2023 8:37 SA
+BAG:titnghichnghom add 1226xLì xì (old: 1225) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:titnghichnghom add 1154xBình rượu (old: 1153) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:titnghichnghom add 1405xCây mai (old: 1404) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:titnghichnghom add 1227xLì xì (old: 1226) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:titnghichnghom add 1406xCây mai (old: 1405) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:titnghichnghom add 1407xCây mai (old: 1406) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:titnghichnghom add 1155xBình rượu (old: 1154) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:titnghichnghom add 1156xBình rượu (old: 1155) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:titnghichnghom add 1408xCây mai (old: 1407) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:titnghichnghom add 1409xCây mai (old: 1408) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:titnghichnghom add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:titnghichnghom add 1228xLì xì (old: 1227) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:titnghichnghom add 1410xCây mai (old: 1409) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:titnghichnghom add 1229xLì xì (old: 1228) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:titnghichnghom add 1230xLì xì (old: 1229) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:titnghichnghom add 1411xCây mai (old: 1410) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:titnghichnghom add 1157xBình rượu (old: 1156) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:titnghichnghom add 1231xLì xì (old: 1230) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:titnghichnghom add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:titnghichnghom add 1412xCây mai (old: 1411) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:titnghichnghom add 1158xBình rượu (old: 1157) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:titnghichnghom add 1413xCây mai (old: 1412) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:titnghichnghom add 1414xCây mai (old: 1413) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:titnghichnghom add 1159xBình rượu (old: 1158) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:titnghichnghom add 1415xCây mai (old: 1414) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:titnghichnghom add 1160xBình rượu (old: 1159) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:titnghichnghom add 1416xCây mai (old: 1415) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:titnghichnghom add 1417xCây mai (old: 1416) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:titnghichnghom add 1161xBình rượu (old: 1160) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:titnghichnghom add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:titnghichnghom add 1418xCây mai (old: 1417) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:titnghichnghom add 1162xBình rượu (old: 1161) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:titnghichnghom add 1419xCây mai (old: 1418) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:titnghichnghom add 1163xBình rượu (old: 1162) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:titnghichnghom add 1420xCây mai (old: 1419) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:titnghichnghom add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:titnghichnghom add 1421xCây mai (old: 1420) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:titnghichnghom add 1164xBình rượu (old: 1163) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:titnghichnghom add 1232xLì xì (old: 1231) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:titnghichnghom add 1422xCây mai (old: 1421) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:titnghichnghom add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:titnghichnghom add 1423xCây mai (old: 1422) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:titnghichnghom add 1424xCây mai (old: 1423) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:titnghichnghom add 1165xBình rượu (old: 1164) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:titnghichnghom add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:titnghichnghom add 1425xCây mai (old: 1424) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:titnghichnghom add 1426xCây mai (old: 1425) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:titnghichnghom add 1233xLì xì (old: 1232) lydo: Nhặt từ map at 02/03/2023 9:24 SA
+BAG:titnghichnghom add 1427xCây mai (old: 1426) lydo: Nhặt từ map at 02/03/2023 9:24 SA
+BAG:titnghichnghom add 1166xBình rượu (old: 1165) lydo: Nhặt từ map at 02/03/2023 9:25 SA
+BAG:titnghichnghom add 1167xBình rượu (old: 1166) lydo: Nhặt từ map at 02/03/2023 9:26 SA
+BAG:titnghichnghom add 1168xBình rượu (old: 1167) lydo: Nhặt từ map at 02/03/2023 9:26 SA
+BAG:titnghichnghom add 1428xCây mai (old: 1427) lydo: Nhặt từ map at 02/03/2023 9:30 SA
+BAG:titnghichnghom add 1429xCây mai (old: 1428) lydo: Nhặt từ map at 02/03/2023 9:30 SA
+BAG:titnghichnghom add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:titnghichnghom add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 02/03/2023 9:33 SA
+BAG:titnghichnghom add 1430xCây mai (old: 1429) lydo: Nhặt từ map at 02/03/2023 9:33 SA
+BAG:titnghichnghom add 1169xBình rượu (old: 1168) lydo: Nhặt từ map at 02/03/2023 9:34 SA
+BAG:titnghichnghom add 1431xCây mai (old: 1430) lydo: Nhặt từ map at 02/03/2023 9:34 SA
+BAG:titnghichnghom add 1170xBình rượu (old: 1169) lydo: Nhặt từ map at 02/03/2023 9:35 SA
+BAG:titnghichnghom add 1234xLì xì (old: 1233) lydo: Nhặt từ map at 02/03/2023 9:38 SA
+BAG:titnghichnghom add 1171xBình rượu (old: 1170) lydo: Nhặt từ map at 02/03/2023 9:38 SA
+BAG:titnghichnghom add 1172xBình rượu (old: 1171) lydo: Nhặt từ map at 02/03/2023 9:41 SA
+BAG:titnghichnghom add 1432xCây mai (old: 1431) lydo: Nhặt từ map at 02/03/2023 9:42 SA
+BAG:titnghichnghom add 1433xCây mai (old: 1432) lydo: Nhặt từ map at 02/03/2023 9:42 SA
+BAG:titnghichnghom add 1173xBình rượu (old: 1172) lydo: Nhặt từ map at 02/03/2023 9:44 SA
+BAG:titnghichnghom add 1235xLì xì (old: 1234) lydo: Nhặt từ map at 02/03/2023 9:44 SA
+BAG:titnghichnghom add 1434xCây mai (old: 1433) lydo: Nhặt từ map at 02/03/2023 9:44 SA
+BAG:titnghichnghom add 1236xLì xì (old: 1235) lydo: Nhặt từ map at 02/03/2023 9:46 SA
+BAG:titnghichnghom add 1435xCây mai (old: 1434) lydo: Nhặt từ map at 02/03/2023 9:46 SA
+BAG:titnghichnghom add 1237xLì xì (old: 1236) lydo: Nhặt từ map at 02/03/2023 9:47 SA
+BAG:titnghichnghom add 1238xLì xì (old: 1237) lydo: Nhặt từ map at 02/03/2023 9:47 SA
+BAG:titnghichnghom add 1174xBình rượu (old: 1173) lydo: Nhặt từ map at 02/03/2023 9:48 SA
+BAG:titnghichnghom add 1239xLì xì (old: 1238) lydo: Nhặt từ map at 02/03/2023 9:50 SA
+BAG:titnghichnghom add 1175xBình rượu (old: 1174) lydo: Nhặt từ map at 02/03/2023 9:50 SA
+BAG:titnghichnghom add 1176xBình rượu (old: 1175) lydo: Nhặt từ map at 02/03/2023 9:50 SA
+BAG:titnghichnghom add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 02/03/2023 9:51 SA
+BAG:titnghichnghom add 1177xBình rượu (old: 1176) lydo: Nhặt từ map at 02/03/2023 9:52 SA
+BAG:titnghichnghom add 1436xCây mai (old: 1435) lydo: Nhặt từ map at 02/03/2023 9:53 SA
+BAG:titnghichnghom add 1437xCây mai (old: 1436) lydo: Nhặt từ map at 02/03/2023 9:53 SA
+BAG:titnghichnghom add 1240xLì xì (old: 1239) lydo: Nhặt từ map at 02/03/2023 9:55 SA
+BAG:titnghichnghom add 1438xCây mai (old: 1437) lydo: Nhặt từ map at 02/03/2023 9:55 SA
+BAG:titnghichnghom add 1439xCây mai (old: 1438) lydo: Nhặt từ map at 02/03/2023 9:55 SA
+BAG:titnghichnghom add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 9:56 SA
+BAG:titnghichnghom add 1178xBình rượu (old: 1177) lydo: Nhặt từ map at 02/03/2023 9:56 SA
+BAG:titnghichnghom add 1179xBình rượu (old: 1178) lydo: Nhặt từ map at 02/03/2023 9:57 SA
+BAG:titnghichnghom add 1241xLì xì (old: 1240) lydo: Nhặt từ map at 02/03/2023 9:57 SA
+BAG:titnghichnghom add 1242xLì xì (old: 1241) lydo: Nhặt từ map at 02/03/2023 9:57 SA
+BAG:titnghichnghom add 1440xCây mai (old: 1439) lydo: Nhặt từ map at 02/03/2023 9:58 SA
+BAG:titnghichnghom add 1441xCây mai (old: 1440) lydo: Nhặt từ map at 02/03/2023 9:58 SA
+BAG:titnghichnghom add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 9:59 SA
+BAG:titnghichnghom add 1442xCây mai (old: 1441) lydo: Nhặt từ map at 02/03/2023 10:00 SA
+BAG:titnghichnghom add 1443xCây mai (old: 1442) lydo: Nhặt từ map at 02/03/2023 10:00 SA
+BAG:titnghichnghom add 1180xBình rượu (old: 1179) lydo: Nhặt từ map at 02/03/2023 10:00 SA
+BAG:titnghichnghom add 1444xCây mai (old: 1443) lydo: Nhặt từ map at 02/03/2023 10:01 SA
+BAG:titnghichnghom add 1243xLì xì (old: 1242) lydo: Nhặt từ map at 02/03/2023 10:01 SA
+BAG:titnghichnghom add 1445xCây mai (old: 1444) lydo: Nhặt từ map at 02/03/2023 10:01 SA
+BAG:titnghichnghom add 1181xBình rượu (old: 1180) lydo: Nhặt từ map at 02/03/2023 10:02 SA
+BAG:titnghichnghom add 1244xLì xì (old: 1243) lydo: Nhặt từ map at 02/03/2023 10:04 SA
+BAG:titnghichnghom add 1182xBình rượu (old: 1181) lydo: Nhặt từ map at 02/03/2023 10:04 SA
+BAG:titnghichnghom add 1183xBình rượu (old: 1182) lydo: Nhặt từ map at 02/03/2023 10:05 SA
+BAG:titnghichnghom add 1446xCây mai (old: 1445) lydo: Nhặt từ map at 02/03/2023 10:06 SA
+BAG:titnghichnghom add 1245xLì xì (old: 1244) lydo: Nhặt từ map at 02/03/2023 10:06 SA
+BAG:titnghichnghom add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 02/03/2023 10:06 SA
+BAG:titnghichnghom add 1246xLì xì (old: 1245) lydo: Nhặt từ map at 02/03/2023 10:07 SA
+BAG:titnghichnghom add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 10:08 SA
+BAG:titnghichnghom add 1447xCây mai (old: 1446) lydo: Nhặt từ map at 02/03/2023 10:08 SA
+BAG:titnghichnghom add 1184xBình rượu (old: 1183) lydo: Nhặt từ map at 02/03/2023 10:08 SA
+BAG:titnghichnghom add 1247xLì xì (old: 1246) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:titnghichnghom add 1448xCây mai (old: 1447) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:titnghichnghom add 1248xLì xì (old: 1247) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:titnghichnghom add 1449xCây mai (old: 1448) lydo: Nhặt từ map at 02/03/2023 10:11 SA
+BAG:titnghichnghom add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 02/03/2023 10:13 SA
+BAG:titnghichnghom add 1185xBình rượu (old: 1184) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:titnghichnghom add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:titnghichnghom add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:titnghichnghom add 1249xLì xì (old: 1248) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:titnghichnghom add 1186xBình rượu (old: 1185) lydo: Nhặt từ map at 02/03/2023 10:18 SA
+BAG:titnghichnghom add 1250xLì xì (old: 1249) lydo: Nhặt từ map at 02/03/2023 10:18 SA
+BAG:titnghichnghom add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 10:19 SA
+BAG:titnghichnghom add 1450xCây mai (old: 1449) lydo: Nhặt từ map at 02/03/2023 10:20 SA
+BAG:titnghichnghom add 1451xCây mai (old: 1450) lydo: Nhặt từ map at 02/03/2023 10:21 SA
+BAG:titnghichnghom add 1251xLì xì (old: 1250) lydo: Nhặt từ map at 02/03/2023 10:22 SA
+BAG:titnghichnghom add 1452xCây mai (old: 1451) lydo: Nhặt từ map at 02/03/2023 10:22 SA
+BAG:titnghichnghom add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 10:22 SA
+BAG:titnghichnghom add 1187xBình rượu (old: 1186) lydo: Nhặt từ map at 02/03/2023 10:23 SA
+BAG:titnghichnghom add 1453xCây mai (old: 1452) lydo: Nhặt từ map at 02/03/2023 10:23 SA
+BAG:titnghichnghom add 1454xCây mai (old: 1453) lydo: Nhặt từ map at 02/03/2023 10:24 SA
+BAG:titnghichnghom add 1188xBình rượu (old: 1187) lydo: Nhặt từ map at 02/03/2023 10:24 SA
+BAG:titnghichnghom add 1455xCây mai (old: 1454) lydo: Nhặt từ map at 02/03/2023 10:24 SA
+BAG:titnghichnghom add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 02/03/2023 10:25 SA
+BAG:titnghichnghom add 1252xLì xì (old: 1251) lydo: Nhặt từ map at 02/03/2023 10:25 SA
+BAG:titnghichnghom add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 02/03/2023 10:27 SA
+BAG:titnghichnghom add 1456xCây mai (old: 1455) lydo: Nhặt từ map at 02/03/2023 10:27 SA
+BAG:titnghichnghom add 1457xCây mai (old: 1456) lydo: Nhặt từ map at 02/03/2023 10:27 SA
+BAG:titnghichnghom add 1189xBình rượu (old: 1188) lydo: Nhặt từ map at 02/03/2023 10:28 SA
+BAG:titnghichnghom add 1253xLì xì (old: 1252) lydo: Nhặt từ map at 02/03/2023 10:28 SA
+BAG:titnghichnghom add 1458xCây mai (old: 1457) lydo: Nhặt từ map at 02/03/2023 10:29 SA
+BAG:titnghichnghom add 1254xLì xì (old: 1253) lydo: Nhặt từ map at 02/03/2023 10:30 SA
+BAG:titnghichnghom add 1255xLì xì (old: 1254) lydo: Nhặt từ map at 02/03/2023 10:31 SA
+BAG:titnghichnghom add 1256xLì xì (old: 1255) lydo: Nhặt từ map at 02/03/2023 10:32 SA
+BAG:titnghichnghom add 1257xLì xì (old: 1256) lydo: Nhặt từ map at 02/03/2023 10:32 SA
+BAG:titnghichnghom add 1258xLì xì (old: 1257) lydo: Nhặt từ map at 02/03/2023 10:33 SA
+BAG:titnghichnghom add 1459xCây mai (old: 1458) lydo: Nhặt từ map at 02/03/2023 10:33 SA
+BAG:titnghichnghom add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 02/03/2023 10:35 SA
+BAG:titnghichnghom add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 10:35 SA
+BAG:titnghichnghom add 1190xBình rượu (old: 1189) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:titnghichnghom add 1259xLì xì (old: 1258) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:titnghichnghom add 1260xLì xì (old: 1259) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:titnghichnghom add 1261xLì xì (old: 1260) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:titnghichnghom add 1460xCây mai (old: 1459) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:titnghichnghom add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:titnghichnghom add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:titnghichnghom add 1191xBình rượu (old: 1190) lydo: Nhặt từ map at 02/03/2023 10:38 SA
+BAG:titnghichnghom add 1262xLì xì (old: 1261) lydo: Nhặt từ map at 02/03/2023 10:38 SA
+BAG:titnghichnghom add 1461xCây mai (old: 1460) lydo: Nhặt từ map at 02/03/2023 10:39 SA
+BAG:titnghichnghom add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 02/03/2023 10:39 SA
+BAG:titnghichnghom add 1462xCây mai (old: 1461) lydo: Nhặt từ map at 02/03/2023 10:39 SA
+BAG:titnghichnghom add 1463xCây mai (old: 1462) lydo: Nhặt từ map at 02/03/2023 10:40 SA
+BAG:titnghichnghom add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:titnghichnghom add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:titnghichnghom add 1263xLì xì (old: 1262) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:titnghichnghom add 1192xBình rượu (old: 1191) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:titnghichnghom add 1464xCây mai (old: 1463) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:titnghichnghom add 1193xBình rượu (old: 1192) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:titnghichnghom add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 10:43 SA
+BAG:titnghichnghom add 1465xCây mai (old: 1464) lydo: Nhặt từ map at 02/03/2023 10:44 SA
+BAG:titnghichnghom add 1466xCây mai (old: 1465) lydo: Nhặt từ map at 02/03/2023 10:44 SA
+BAG:titnghichnghom add 1194xBình rượu (old: 1193) lydo: Nhặt từ map at 02/03/2023 10:45 SA
+BAG:titnghichnghom add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:titnghichnghom add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:titnghichnghom add 1195xBình rượu (old: 1194) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:titnghichnghom add 1196xBình rượu (old: 1195) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:titnghichnghom add 1197xBình rượu (old: 1196) lydo: Nhặt từ map at 02/03/2023 10:47 SA
+BAG:titnghichnghom add 1264xLì xì (old: 1263) lydo: Nhặt từ map at 02/03/2023 10:47 SA
+BAG:titnghichnghom add 1198xBình rượu (old: 1197) lydo: Nhặt từ map at 02/03/2023 10:48 SA
+BAG:titnghichnghom add 1265xLì xì (old: 1264) lydo: Nhặt từ map at 02/03/2023 10:48 SA
+BAG:titnghichnghom add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 02/03/2023 10:48 SA
+BAG:titnghichnghom add 1266xLì xì (old: 1265) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:titnghichnghom add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:titnghichnghom add 1267xLì xì (old: 1266) lydo: Nhặt từ map at 02/03/2023 10:50 SA
+BAG:titnghichnghom add 1199xBình rượu (old: 1198) lydo: Nhặt từ map at 02/03/2023 10:50 SA
+BAG:titnghichnghom add 1268xLì xì (old: 1267) lydo: Nhặt từ map at 02/03/2023 10:50 SA
+BAG:titnghichnghom add 1269xLì xì (old: 1268) lydo: Nhặt từ map at 02/03/2023 10:50 SA
+BAG:titnghichnghom add 1200xBình rượu (old: 1199) lydo: Nhặt từ map at 02/03/2023 10:51 SA
+BAG:titnghichnghom add 1201xBình rượu (old: 1200) lydo: Nhặt từ map at 02/03/2023 10:52 SA
+BAG:titnghichnghom add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 02/03/2023 10:52 SA
+BAG:titnghichnghom add 1270xLì xì (old: 1269) lydo: Nhặt từ map at 02/03/2023 10:53 SA
+BAG:titnghichnghom add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:titnghichnghom add 1202xBình rượu (old: 1201) lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:titnghichnghom add 1203xBình rượu (old: 1202) lydo: Nhặt từ map at 02/03/2023 10:55 SA
+BAG:titnghichnghom add 1204xBình rượu (old: 1203) lydo: Nhặt từ map at 02/03/2023 10:55 SA
+BAG:titnghichnghom add 1205xBình rượu (old: 1204) lydo: Nhặt từ map at 02/03/2023 10:56 SA
+BAG:titnghichnghom add 1467xCây mai (old: 1466) lydo: Nhặt từ map at 02/03/2023 10:57 SA
+BAG:titnghichnghom add 1206xBình rượu (old: 1205) lydo: Nhặt từ map at 02/03/2023 10:57 SA
+BAG:titnghichnghom add 1271xLì xì (old: 1270) lydo: Nhặt từ map at 02/03/2023 10:57 SA
+BAG:titnghichnghom add 1468xCây mai (old: 1467) lydo: Nhặt từ map at 02/03/2023 10:57 SA
+BAG:titnghichnghom add 1207xBình rượu (old: 1206) lydo: Nhặt từ map at 02/03/2023 10:58 SA
+BAG:titnghichnghom add 1272xLì xì (old: 1271) lydo: Nhặt từ map at 02/03/2023 10:58 SA
+BAG:titnghichnghom add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:titnghichnghom add 1208xBình rượu (old: 1207) lydo: Nhặt từ map at 02/03/2023 11:00 SA
+BAG:titnghichnghom add 1469xCây mai (old: 1468) lydo: Nhặt từ map at 02/03/2023 11:01 SA
+BAG:titnghichnghom add 1470xCây mai (old: 1469) lydo: Nhặt từ map at 02/03/2023 11:02 SA
+BAG:titnghichnghom add 1209xBình rượu (old: 1208) lydo: Nhặt từ map at 02/03/2023 11:03 SA
+BAG:titnghichnghom add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 02/03/2023 11:03 SA
+BAG:titnghichnghom add 1273xLì xì (old: 1272) lydo: Nhặt từ map at 02/03/2023 11:03 SA
+BAG:titnghichnghom add 1471xCây mai (old: 1470) lydo: Nhặt từ map at 02/03/2023 11:04 SA
+BAG:titnghichnghom add 1274xLì xì (old: 1273) lydo: Nhặt từ map at 02/03/2023 11:04 SA
+BAG:titnghichnghom add 1275xLì xì (old: 1274) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:titnghichnghom add 1472xCây mai (old: 1471) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:titnghichnghom add 1276xLì xì (old: 1275) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:titnghichnghom add 1277xLì xì (old: 1276) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:titnghichnghom add 1278xLì xì (old: 1277) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:titnghichnghom add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:titnghichnghom add 1279xLì xì (old: 1278) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:titnghichnghom add 1210xBình rượu (old: 1209) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:titnghichnghom add 1211xBình rượu (old: 1210) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:titnghichnghom add 1473xCây mai (old: 1472) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:titnghichnghom add 1212xBình rượu (old: 1211) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:titnghichnghom add 1474xCây mai (old: 1473) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:titnghichnghom add 1213xBình rượu (old: 1212) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:titnghichnghom add 1280xLì xì (old: 1279) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:titnghichnghom add 1214xBình rượu (old: 1213) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:titnghichnghom add 1215xBình rượu (old: 1214) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:titnghichnghom add 1216xBình rượu (old: 1215) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:titnghichnghom add 1281xLì xì (old: 1280) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:titnghichnghom add 1217xBình rượu (old: 1216) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:titnghichnghom add 1475xCây mai (old: 1474) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:titnghichnghom add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 11:12 SA
+BAG:titnghichnghom add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 11:12 SA
+BAG:titnghichnghom add 1218xBình rượu (old: 1217) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:titnghichnghom add 1476xCây mai (old: 1475) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:titnghichnghom add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 11:13 SA
+BAG:titnghichnghom add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 11:13 SA
+BAG:titnghichnghom add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 11:13 SA
+BAG:titnghichnghom add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 11:13 SA
+BAG:titnghichnghom add 1282xLì xì (old: 1281) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:titnghichnghom add 1477xCây mai (old: 1476) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:titnghichnghom add 1478xCây mai (old: 1477) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:titnghichnghom add 1479xCây mai (old: 1478) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:titnghichnghom add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:titnghichnghom add 1219xBình rượu (old: 1218) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:titnghichnghom add 1283xLì xì (old: 1282) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:titnghichnghom add 1220xBình rượu (old: 1219) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:titnghichnghom add 1221xBình rượu (old: 1220) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:titnghichnghom add 1222xBình rượu (old: 1221) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:titnghichnghom add 1480xCây mai (old: 1479) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:titnghichnghom add 1481xCây mai (old: 1480) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:titnghichnghom add 1482xCây mai (old: 1481) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:titnghichnghom add 1483xCây mai (old: 1482) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:titnghichnghom add 1xCải trang lydo: Mua từ cửa hàng at 02/03/2023 11:19 SA
+BAG:titnghichnghom add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 02/03/2023 11:34 SA

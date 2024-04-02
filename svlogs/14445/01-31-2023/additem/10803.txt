@@ -1,0 +1,72 @@
+BAG:laze100m add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 7:31 PM
+BAG:laze100m add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:laze100m add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:laze100m add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:laze100m add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:laze100m add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:laze100m add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 7:38 PM
+BAG:laze100m add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 7:38 PM
+BAG:laze100m add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 7:38 PM
+BAG:laze100m add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/31/2023 7:38 PM
+BAG:laze100m add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:laze100m add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:laze100m add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:laze100m add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:laze100m add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:laze100m add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 7:40 PM
+BAG:laze100m add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 7:40 PM
+BAG:laze100m add 1xBột mì lydo: Nhặt từ map at 01/31/2023 7:42 PM
+BAG:laze100m add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/31/2023 7:42 PM
+BAG:laze100m add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/31/2023 7:45 PM
+BAG:laze100m add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 7:46 PM
+BAG:laze100m add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/31/2023 7:46 PM
+BAG:laze100m add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 7:47 PM
+BAG:laze100m add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/31/2023 7:48 PM
+BAG:laze100m add 1xCột nhà lydo: Mua từ cửa hàng at 01/31/2023 7:49 PM
+BAG:laze100m add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/31/2023 7:49 PM
+BAG:laze100m add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 7:50 PM
+BAG:laze100m add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/31/2023 7:50 PM
+BAG:laze100m add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 7:51 PM
+BAG:laze100m add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/31/2023 7:53 PM
+BAG:laze100m add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 8:20 PM
+BAG:laze100m add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 8:20 PM
+BAG:laze100m add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 8:20 PM
+BAG:laze100m add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/31/2023 8:20 PM
+BAG:laze100m add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/31/2023 8:20 PM
+BAG:laze100m add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/31/2023 8:20 PM
+BAG:laze100m add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/31/2023 8:20 PM
+BAG:laze100m add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/31/2023 8:21 PM
+BAG:laze100m add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 8:23 PM
+BAG:laze100m add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 8:29 PM
+BAG:laze100m add 1xGăng thun Pico lydo: Mua từ cửa hàng at 01/31/2023 8:31 PM
+BAG:laze100m add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/31/2023 8:32 PM
+BAG:laze100m add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/31/2023 8:33 PM
+BAG:laze100m add 1xMèo mun lydo: Mua từ cửa hàng at 01/31/2023 8:34 PM
+BAG:laze100m add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 8:36 PM
+BAG:laze100m add 1xGăng thun Pico lydo: Lấy từ body vào hành trang at 01/31/2023 8:37 PM
+BAG:laze100m add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 01/31/2023 8:37 PM
+BAG:laze100m add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 01/31/2023 8:37 PM
+BAG:laze100m add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 01/31/2023 8:37 PM
+BAG:laze100m add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 01/31/2023 8:37 PM
+BAG:laze100m add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 01/31/2023 8:37 PM
+BAG:laze100m add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 01/31/2023 8:37 PM
+BAG:laze100m add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/31/2023 8:39 PM
+BAG:laze100m add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/31/2023 8:39 PM
+BAG:laze100m add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/31/2023 8:40 PM
+BAG:laze100m add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/31/2023 8:41 PM
+BAG:laze100m add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/31/2023 8:41 PM
+BAG:laze100m add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/31/2023 8:41 PM
+BAG:laze100m add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/31/2023 8:42 PM
+BAG:laze100m add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/31/2023 8:45 PM
+BAG:laze100m add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/31/2023 8:45 PM
+BAG:laze100m add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 01/31/2023 8:46 PM
+BAG:laze100m add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/31/2023 8:46 PM
+BAG:laze100m add 1xMảnh Khủng long lydo: Nhặt từ map at 01/31/2023 8:46 PM
+BAG:laze100m add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/31/2023 8:46 PM
+BAG:laze100m add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 01/31/2023 8:46 PM
+BAG:laze100m add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/31/2023 8:48 PM
+BAG:laze100m add 4xĐậu thần cấp 6 lydo: Thu hoạch đậu at 01/31/2023 8:48 PM
+BAG:laze100m add 15xĐậu thần cấp 6 (old: 4) lydo: Lấy từ rương qua người at 01/31/2023 8:49 PM
+BAG:laze100m add 30xĐậu thần cấp 6 (old: 15) lydo: Lấy từ rương qua người at 01/31/2023 8:49 PM
+BAG:laze100m add 45xĐậu thần cấp 6 (old: 30) lydo: Lấy từ rương qua người at 01/31/2023 8:49 PM
+BAG:laze100m add 60xĐậu thần cấp 6 (old: 45) lydo: Lấy từ rương qua người at 01/31/2023 8:49 PM

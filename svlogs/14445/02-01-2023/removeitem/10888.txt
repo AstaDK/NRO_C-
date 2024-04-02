@@ -1,0 +1,155 @@
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:21 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:21 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:22 CH
+BAG:1hittttttt remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 4:22 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:23 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:23 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:24 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:24 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:25 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:25 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:26 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:34 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:34 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:37 CH
+BAG:1hittttttt remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/01/2023 4:39 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:39 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:39 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:39 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:40 CH
+BAG:1hittttttt remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/01/2023 4:41 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:41 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:41 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:41 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:41 CH
+BAG:1hittttttt remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/01/2023 4:41 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:43 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 4:43 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/01/2023 4:43 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/01/2023 4:45 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/01/2023 4:46 CH
+BAG:1hittttttt remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/01/2023 4:46 CH
+BAG:1hittttttt remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:48 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:50 CH
+BAG:1hittttttt remove Găng thun Pico lydo: Mặc vào người at 02/01/2023 4:54 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:55 CH
+BAG:1hittttttt remove 1xHồn ma Ca đíc lydo: Bán cho shop at 02/01/2023 4:58 CH
+BAG:1hittttttt remove Áo choàng len lydo: Mặc cho đệ tử at 02/01/2023 4:58 CH
+BAG:1hittttttt remove Găng thun Pico lydo: Mặc cho đệ tử at 02/01/2023 4:59 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:59 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:00 CH
+BAG:1hittttttt remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:00 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:02 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 1 lydo: Bán cho shop at 02/01/2023 5:03 CH
+BAG:1hittttttt remove 22xĐậu thần cấp 4 lydo: Bán cho shop at 02/01/2023 5:03 CH
+BAG:1hittttttt remove 6xĐậu thần cấp 3 lydo: Bán cho shop at 02/01/2023 5:03 CH
+BAG:1hittttttt remove Sách học Trị thương lv1 lydo: Sách kĩ năng at 02/01/2023 5:04 CH
+BAG:1hittttttt remove Sách học Trị thương lv2 lydo: Sách kĩ năng at 02/01/2023 5:04 CH
+BAG:1hittttttt remove Sách học Trị thương lv3 lydo: Sách kĩ năng at 02/01/2023 5:04 CH
+BAG:1hittttttt remove Sách học Trị thương lv4 lydo: Sách kĩ năng at 02/01/2023 5:04 CH
+BAG:1hittttttt remove Sách học Trị thương lv5 lydo: Sách kĩ năng at 02/01/2023 5:04 CH
+BAG:1hittttttt remove Sách học Trị thương lv6 lydo: Sách kĩ năng at 02/01/2023 5:04 CH
+BAG:1hittttttt remove Sách học Trị thương lv7 lydo: Sách kĩ năng at 02/01/2023 5:04 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:04 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:05 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:05 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:06 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:06 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:06 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:06 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:07 CH
+BAG:1hittttttt remove Áo sợi len lydo: Mặc vào người at 02/01/2023 5:07 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:08 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:08 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:08 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:09 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:09 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:09 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:09 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:10 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:10 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:11 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:11 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:11 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:11 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:12 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:12 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:12 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:12 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:13 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:13 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:13 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:14 CH
+BAG:1hittttttt remove Găng thun Pico lydo: Mặc vào người at 02/01/2023 5:14 CH
+BAG:1hittttttt remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 5:14 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:15 CH
+BAG:1hittttttt remove Găng thun Pico lydo: Mặc vào người at 02/01/2023 5:15 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:15 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:17 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:17 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:18 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:18 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:18 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:19 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:19 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:19 CH
+BAG:1hittttttt remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 5:20 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:20 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:21 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:21 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:22 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:22 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:23 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:24 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:25 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:27 CH
+BAG:1hittttttt remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/01/2023 5:27 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:27 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:28 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:29 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:29 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:30 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:31 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:35 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:40 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:40 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:41 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:42 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:42 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:43 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:44 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:44 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:45 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:46 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:46 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:47 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:48 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:48 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:49 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:50 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:50 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:53 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:53 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:54 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:55 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:55 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:56 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:57 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:57 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:58 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:59 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:59 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:00 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:1hittttttt remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/01/2023 6:02 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:1hittttttt remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:06 CH

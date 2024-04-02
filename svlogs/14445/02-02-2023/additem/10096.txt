@@ -1,0 +1,738 @@
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:13 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:14 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:14 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:16 SA
+BAG:darkness add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 12:17 SA
+BAG:darkness add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 12:46 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:49 SA
+BAG:darkness add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 12:50 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:50 SA
+BAG:darkness add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 02/02/2023 12:52 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:53 SA
+BAG:darkness add 1xCải trang Hổ trắng lydo: Lấy từ body đệ vào hành trang at 02/02/2023 12:54 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:54 SA
+BAG:darkness add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 12:54 SA
+BAG:darkness add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 12:54 SA
+BAG:darkness add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 12:54 SA
+BAG:darkness add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 12:54 SA
+BAG:darkness add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 12:54 SA
+BAG:darkness add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 12:54 SA
+BAG:darkness add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 02/02/2023 12:54 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:59 SA
+BAG:darkness add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 02/02/2023 1:01 SA
+BAG:darkness add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 02/02/2023 1:03 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:04 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:05 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:06 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:06 SA
+BAG:darkness add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 1:08 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:08 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:09 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:10 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:11 SA
+BAG:darkness add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 1:12 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:12 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:13 SA
+BAG:darkness add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 1:13 SA
+BAG:darkness add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 1:13 SA
+BAG:darkness add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 1:14 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:14 SA
+BAG:darkness add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 1:21 SA
+BAG:darkness add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 1:38 SA
+BAG:darkness add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/02/2023 1:42 SA
+BAG:darkness add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:darkness add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 1:46 SA
+BAG:darkness add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 02/02/2023 1:47 SA
+BAG:darkness add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/02/2023 1:56 SA
+BAG:darkness add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/02/2023 1:56 SA
+BAG:darkness add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 02/02/2023 2:11 SA
+BAG:darkness add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/02/2023 2:14 SA
+BAG:darkness add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 2:19 SA
+BAG:darkness add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/02/2023 2:24 SA
+BAG:darkness add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/02/2023 2:25 SA
+BAG:darkness add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 2:25 SA
+BAG:darkness add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 02/02/2023 2:25 SA
+BAG:darkness add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/02/2023 2:25 SA
+BAG:darkness add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/02/2023 2:26 SA
+BAG:darkness add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 2:26 SA
+BAG:darkness add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 2:27 SA
+BAG:darkness add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/02/2023 2:30 SA
+BAG:darkness add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 02/02/2023 2:31 SA
+BAG:darkness add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 02/02/2023 2:31 SA
+BAG:darkness add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 02/02/2023 2:32 SA
+BAG:darkness add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/02/2023 2:32 SA
+BAG:darkness add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 02/02/2023 2:34 SA
+BAG:darkness add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 02/02/2023 2:34 SA
+BAG:darkness add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/02/2023 2:34 SA
+BAG:darkness add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 02/02/2023 2:35 SA
+BAG:darkness add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 2:35 SA
+BAG:darkness add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 02/02/2023 2:39 SA
+BAG:darkness add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 02/02/2023 2:40 SA
+BAG:darkness add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 02/02/2023 2:41 SA
+BAG:darkness add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 2:44 SA
+BAG:darkness add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 02/02/2023 2:44 SA
+BAG:darkness add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 2:45 SA
+BAG:darkness add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/02/2023 2:46 SA
+BAG:darkness add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/02/2023 2:47 SA
+BAG:darkness add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 2:51 SA
+BAG:darkness add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/02/2023 2:52 SA
+BAG:darkness add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/02/2023 2:52 SA
+BAG:darkness add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 2:54 SA
+BAG:darkness add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/02/2023 2:55 SA
+BAG:darkness add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 02/02/2023 2:56 SA
+BAG:darkness add 1xCải trang Hổ trắng lydo: Lấy từ body đệ vào hành trang at 02/02/2023 2:59 SA
+BAG:darkness add 1xCải trang Hổ trắng lydo: Lấy từ body đệ vào hành trang at 02/02/2023 3:00 SA
+BAG:darkness add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 02/02/2023 3:00 SA
+BAG:darkness add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 02/02/2023 3:12 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 3:13 SA
+BAG:darkness add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 02/02/2023 3:16 SA
+BAG:darkness add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 02/02/2023 3:17 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 3:19 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:20 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 3:21 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:22 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 3:23 SA
+BAG:darkness add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 3:23 SA
+BAG:darkness add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 3:25 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:26 SA
+BAG:darkness add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 02/02/2023 3:28 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:30 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 3:31 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:31 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:31 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:32 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 3:32 SA
+BAG:darkness add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhặt từ map at 02/02/2023 3:33 SA
+BAG:darkness add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 3:34 SA
+BAG:darkness add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 02/02/2023 3:35 SA
+BAG:darkness add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 02/02/2023 3:52 SA
+BAG:darkness add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 3:54 SA
+BAG:darkness add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 3:55 SA
+BAG:darkness add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 3:55 SA
+BAG:darkness add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 3:56 SA
+BAG:darkness add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 02/02/2023 3:57 SA
+BAG:darkness add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 4:00 SA
+BAG:darkness add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 02/02/2023 4:04 SA
+BAG:darkness add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 4:04 SA
+BAG:darkness add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 02/02/2023 10:39 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:43 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 10:43 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 10:44 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:44 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 10:45 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:01 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:01 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:02 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:02 SA
+BAG:darkness add 99xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/02/2023 11:05 SA
+BAG:darkness add 99xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/02/2023 11:05 SA
+BAG:darkness add 2xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/02/2023 11:05 SA
+BAG:darkness add 1230xThỏi vàng (old: 1131) lydo: Lấy từ rương qua người at 02/02/2023 11:08 SA
+BAG:darkness add 1329xThỏi vàng (old: 1230) lydo: Lấy từ rương qua người at 02/02/2023 11:08 SA
+BAG:darkness add 1331xThỏi vàng (old: 1329) lydo: Lấy từ rương qua người at 02/02/2023 11:08 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:darkness add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:11 SA
+BAG:darkness add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 02/02/2023 11:11 SA
+BAG:darkness add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhặt từ map at 02/02/2023 11:13 SA
+BAG:darkness add 76xĐá lục bảo (old: 75) lydo: Nhặt từ map at 02/02/2023 11:14 SA
+BAG:darkness add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 02/02/2023 11:16 SA
+BAG:darkness add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 11:18 SA
+BAG:darkness add 77xĐá lục bảo (old: 76) lydo: Nhặt từ map at 02/02/2023 11:19 SA
+BAG:darkness add 78xĐá lục bảo (old: 77) lydo: Nhặt từ map at 02/02/2023 11:20 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:20 SA
+BAG:darkness add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 11:20 SA
+BAG:darkness add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/02/2023 11:20 SA
+BAG:darkness add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/02/2023 11:20 SA
+BAG:darkness add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/02/2023 11:21 SA
+BAG:darkness add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 02/02/2023 11:21 SA
+BAG:darkness add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/02/2023 11:21 SA
+BAG:darkness add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/02/2023 11:21 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:21 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:21 SA
+BAG:darkness add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 11:22 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:22 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:23 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:23 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:23 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:darkness add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:25 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:25 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:25 SA
+BAG:darkness add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 11:25 SA
+BAG:darkness add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/02/2023 11:26 SA
+BAG:darkness add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 11:26 SA
+BAG:darkness add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 11:26 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:26 SA
+BAG:darkness add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 11:27 SA
+BAG:darkness add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 11:27 SA
+BAG:darkness add 2xSao pha lê lydo: (GD) Nhận từ hnzero at 02/02/2023 11:28 SA
+BAG:darkness add 2xSao pha lê lydo: (GD) Nhận từ hnzero at 02/02/2023 11:28 SA
+BAG:darkness add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 11:29 SA
+BAG:darkness add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 11:29 SA
+BAG:darkness add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 11:29 SA
+BAG:darkness add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 11:29 SA
+BAG:darkness add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 11:29 SA
+BAG:darkness add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 11:29 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:30 SA
+BAG:darkness add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 02/02/2023 11:30 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:30 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:30 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:30 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:31 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:31 SA
+BAG:darkness add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 02/02/2023 11:31 SA
+BAG:darkness add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:31 SA
+BAG:darkness add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 11:31 SA
+BAG:darkness add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 11:31 SA
+BAG:darkness add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/02/2023 11:31 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:darkness add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 02/02/2023 11:33 SA
+BAG:darkness add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 11:34 SA
+BAG:darkness add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 02/02/2023 11:35 SA
+BAG:darkness add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 11:36 SA
+BAG:darkness add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:darkness add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:darkness add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:darkness add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:darkness add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/02/2023 11:38 SA
+BAG:darkness add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/02/2023 11:38 SA
+BAG:darkness add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 02/02/2023 11:39 SA
+BAG:darkness add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:darkness add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:darkness add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:darkness add 79xĐá lục bảo (old: 78) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:darkness add 80xĐá lục bảo (old: 79) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:darkness add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/02/2023 11:41 SA
+BAG:darkness add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 02/02/2023 11:41 SA
+BAG:darkness add 81xĐá lục bảo (old: 80) lydo: Nhặt từ map at 02/02/2023 11:41 SA
+BAG:darkness add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/02/2023 11:42 SA
+BAG:darkness add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:darkness add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:darkness add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:darkness add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:darkness add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:darkness add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:darkness add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:darkness add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 82xĐá lục bảo (old: 81) lydo: Nhặt từ map at 02/02/2023 10:45 CH
+BAG:darkness add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 83xĐá lục bảo (old: 82) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 10:46 CH
+BAG:darkness add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 84xĐá lục bảo (old: 83) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:darkness add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:darkness add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:darkness add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:darkness add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:darkness add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:darkness add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:darkness add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:darkness add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 1xCải trang Hổ trắng lydo: Lấy từ body vào hành trang at 02/02/2023 10:49 CH
+BAG:darkness add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:darkness add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 02/02/2023 10:50 CH
+BAG:darkness add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 1xCải trang Hổ trắng lydo: Lấy từ body vào hành trang at 02/02/2023 10:50 CH
+BAG:darkness add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:darkness add 85xĐá lục bảo (old: 84) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:darkness add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:darkness add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:darkness add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:darkness add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:darkness add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:darkness add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:darkness add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:darkness add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:darkness add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:darkness add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:darkness add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:darkness add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:darkness add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:darkness add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:darkness add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:darkness add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:darkness add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/02/2023 10:56 CH
+BAG:darkness add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/02/2023 10:57 CH
+BAG:darkness add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 02/02/2023 10:57 CH
+BAG:darkness add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/02/2023 10:57 CH
+BAG:darkness add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/02/2023 10:57 CH
+BAG:darkness add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/02/2023 10:57 CH
+BAG:darkness add 86xĐá lục bảo (old: 85) lydo: Nhặt từ map at 02/02/2023 10:57 CH
+BAG:darkness add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/02/2023 10:57 CH
+BAG:darkness add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/02/2023 10:58 CH
+BAG:darkness add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/02/2023 10:58 CH
+BAG:darkness add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 02/02/2023 10:58 CH
+BAG:darkness add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/02/2023 10:58 CH
+BAG:darkness add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/02/2023 10:58 CH
+BAG:darkness add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 92xĐá thạch anh tím (old: 91) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:darkness add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 93xĐá thạch anh tím (old: 92) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/02/2023 11:00 CH
+BAG:darkness add 94xĐá thạch anh tím (old: 93) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/02/2023 11:01 CH
+BAG:darkness add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:darkness add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:darkness add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:darkness add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:darkness add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:darkness add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:darkness add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:darkness add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:darkness add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:darkness add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 87xĐá lục bảo (old: 86) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 97xĐá thạch anh tím (old: 96) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 88xĐá lục bảo (old: 87) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 89xĐá lục bảo (old: 88) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:darkness add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 98xĐá thạch anh tím (old: 97) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:darkness add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 99xĐá thạch anh tím (old: 98) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 90xĐá lục bảo (old: 89) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:darkness add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:darkness add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:darkness add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:darkness add 70xCây mai (old: 69) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:darkness add 71xCây mai (old: 70) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:darkness add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:darkness add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:darkness add 72xCây mai (old: 71) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:darkness add 73xCây mai (old: 72) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:darkness add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:darkness add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:darkness add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:darkness add 91xĐá lục bảo (old: 90) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:darkness add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:darkness add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:darkness add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:darkness add 74xCây mai (old: 73) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 75xCây mai (old: 74) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 76xCây mai (old: 75) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 77xCây mai (old: 76) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:darkness add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 78xCây mai (old: 77) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:darkness add 79xCây mai (old: 78) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 80xCây mai (old: 79) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 81xCây mai (old: 80) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 82xCây mai (old: 81) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 83xCây mai (old: 82) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 84xCây mai (old: 83) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:darkness add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 85xCây mai (old: 84) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 86xCây mai (old: 85) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 87xCây mai (old: 86) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 53xLì xì (old: 52) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:darkness add 88xCây mai (old: 87) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 89xCây mai (old: 88) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 92xĐá lục bảo (old: 91) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 90xCây mai (old: 89) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 54xLì xì (old: 53) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 91xCây mai (old: 90) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:darkness add 92xCây mai (old: 91) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 93xCây mai (old: 92) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 94xCây mai (old: 93) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 95xCây mai (old: 94) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 55xLì xì (old: 54) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 56xLì xì (old: 55) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 93xĐá lục bảo (old: 92) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 66xBình rượu (old: 65) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 57xLì xì (old: 56) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:darkness add 94xĐá lục bảo (old: 93) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:darkness add 96xCây mai (old: 95) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:darkness add 67xBình rượu (old: 66) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:darkness add 95xĐá lục bảo (old: 94) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:darkness add 97xCây mai (old: 96) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:darkness add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:darkness add 98xCây mai (old: 97) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:darkness add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:darkness add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:darkness add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:darkness add 96xĐá lục bảo (old: 95) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:darkness add 99xCây mai (old: 98) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:darkness add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:darkness add 97xĐá lục bảo (old: 96) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 68xBình rượu (old: 67) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 62xLì xì (old: 61) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 98xĐá lục bảo (old: 97) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 69xBình rượu (old: 68) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 70xBình rượu (old: 69) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:darkness add 100xCây mai (old: 99) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 101xCây mai (old: 100) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 71xBình rượu (old: 70) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 65xLì xì (old: 64) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 102xCây mai (old: 101) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 103xCây mai (old: 102) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:darkness add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 104xCây mai (old: 103) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 72xBình rượu (old: 71) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 73xBình rượu (old: 72) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 74xBình rượu (old: 73) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 105xCây mai (old: 104) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 99xĐá lục bảo (old: 98) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 106xCây mai (old: 105) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:darkness add 107xCây mai (old: 106) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 108xCây mai (old: 107) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 75xBình rượu (old: 74) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 109xCây mai (old: 108) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 110xCây mai (old: 109) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 76xBình rượu (old: 75) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 111xCây mai (old: 110) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 66xLì xì (old: 65) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:darkness add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:darkness add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:darkness add 67xLì xì (old: 66) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:darkness add 112xCây mai (old: 111) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:darkness add 77xBình rượu (old: 76) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:darkness add 78xBình rượu (old: 77) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 79xBình rượu (old: 78) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 113xCây mai (old: 112) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 80xBình rượu (old: 79) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 114xCây mai (old: 113) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 68xLì xì (old: 67) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 69xLì xì (old: 68) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 81xBình rượu (old: 80) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 82xBình rượu (old: 81) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:darkness add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:darkness add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:darkness add 83xBình rượu (old: 82) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:darkness add 115xCây mai (old: 114) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:darkness add 84xBình rượu (old: 83) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:darkness add 36xNgọc Rồng 6 sao (old: 35) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:darkness add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:darkness add 70xLì xì (old: 69) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 85xBình rượu (old: 84) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 71xLì xì (old: 70) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 86xBình rượu (old: 85) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 87xBình rượu (old: 86) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 116xCây mai (old: 115) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 72xLì xì (old: 71) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 88xBình rượu (old: 87) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:darkness add 89xBình rượu (old: 88) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 90xBình rượu (old: 89) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 73xLì xì (old: 72) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 91xBình rượu (old: 90) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 74xLì xì (old: 73) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 117xCây mai (old: 116) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 118xCây mai (old: 117) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 92xBình rượu (old: 91) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 93xBình rượu (old: 92) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 75xLì xì (old: 74) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:darkness add 94xBình rượu (old: 93) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 37xNgọc Rồng 6 sao (old: 36) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 76xLì xì (old: 75) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 95xBình rượu (old: 94) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 77xLì xì (old: 76) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 78xLì xì (old: 77) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 119xCây mai (old: 118) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:darkness add 79xLì xì (old: 78) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:darkness add 80xLì xì (old: 79) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:darkness add 96xBình rượu (old: 95) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:darkness add 97xBình rượu (old: 96) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:darkness add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 81xLì xì (old: 80) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 120xCây mai (old: 119) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 98xBình rượu (old: 97) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 99xBình rượu (old: 98) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 121xCây mai (old: 120) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 122xCây mai (old: 121) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 82xLì xì (old: 81) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:darkness add 123xCây mai (old: 122) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 100xBình rượu (old: 99) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 83xLì xì (old: 82) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 124xCây mai (old: 123) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 125xCây mai (old: 124) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:darkness add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:darkness add 84xLì xì (old: 83) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:darkness add 126xCây mai (old: 125) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:darkness add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:darkness add 85xLì xì (old: 84) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:darkness add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:darkness add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:darkness add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 101xBình rượu (old: 100) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 86xLì xì (old: 85) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 87xLì xì (old: 86) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 127xCây mai (old: 126) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 102xBình rượu (old: 101) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 88xLì xì (old: 87) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 128xCây mai (old: 127) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:darkness add 103xBình rượu (old: 102) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 104xBình rượu (old: 103) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 89xLì xì (old: 88) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 129xCây mai (old: 128) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 90xLì xì (old: 89) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 130xCây mai (old: 129) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 38xNgọc Rồng 6 sao (old: 37) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 131xCây mai (old: 130) lydo: Nhặt từ map at 02/02/2023 11:37 CH
+BAG:darkness add 105xBình rượu (old: 104) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:darkness add 91xLì xì (old: 90) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:darkness add 106xBình rượu (old: 105) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:darkness add 92xLì xì (old: 91) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:darkness add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:darkness add 93xLì xì (old: 92) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:darkness add 132xCây mai (old: 131) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:darkness add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 02/02/2023 11:39 CH
+BAG:darkness add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 02/02/2023 11:39 CH
+BAG:darkness add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 02/02/2023 11:39 CH
+BAG:darkness add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 02/02/2023 11:39 CH
+BAG:darkness add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/02/2023 11:39 CH
+BAG:darkness add 1xGiáp tập luyện cấp 3 lydo: Lấy từ rương qua người at 02/02/2023 11:39 CH
+BAG:darkness add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 11:42 CH
+BAG:darkness add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 02/02/2023 11:52 CH
+BAG:darkness add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 11:55 CH

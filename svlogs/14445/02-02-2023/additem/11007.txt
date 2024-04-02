@@ -1,0 +1,66 @@
+BAG:bulma add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 6:41 CH
+BAG:bulma add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:bulma add 1xCây mai lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:bulma add 6xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 6:44 CH
+BAG:bulma add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 6:45 CH
+BAG:bulma add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 6:46 CH
+BAG:bulma add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 6:46 CH
+BAG:bulma add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 6:46 CH
+BAG:bulma add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 6:46 CH
+BAG:bulma add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 6:47 CH
+BAG:bulma add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 6:54 CH
+BAG:bulma add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 6:55 CH
+BAG:bulma add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:bulma add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:bulma add 1xCột nhà lydo: Mua từ cửa hàng at 02/02/2023 6:59 CH
+BAG:bulma add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 02/02/2023 7:01 CH
+BAG:bulma add 22xĐậu thần cấp 4 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 7:01 CH
+BAG:bulma add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:bulma add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:bulma add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:bulma add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 7:04 CH
+BAG:bulma add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 7:05 CH
+BAG:bulma add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 7:05 CH
+BAG:bulma add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 7:05 CH
+BAG:bulma add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:bulma add 1xGăng len Pico lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:bulma add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:bulma add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:bulma add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 7:13 CH
+BAG:bulma add 20xThỏi vàng lydo: Giftcode at 02/02/2023 7:15 CH
+BAG:bulma add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 7:15 CH
+BAG:bulma add 1xCải trang VIP lydo: Mua từ cửa hàng at 02/02/2023 7:15 CH
+BAG:bulma add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 7:16 CH
+BAG:bulma add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 7:16 CH
+BAG:bulma add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/02/2023 7:16 CH
+BAG:bulma add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 7:18 CH
+BAG:bulma add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 7:18 CH
+BAG:bulma add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 7:18 CH
+BAG:bulma add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 7:18 CH
+BAG:bulma add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 7:19 CH
+BAG:bulma add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 7:19 CH
+BAG:bulma add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 7:19 CH
+BAG:bulma add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/02/2023 7:19 CH
+BAG:bulma add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 7:22 CH
+BAG:bulma add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:bulma add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:bulma add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:bulma add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:bulma add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:bulma add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:bulma add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:bulma add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:bulma add 10xĐậu thần cấp 4 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 7:44 CH
+BAG:bulma add 1xCánh thiên thần 2 lydo: Lấy từ rương qua người at 02/02/2023 7:45 CH

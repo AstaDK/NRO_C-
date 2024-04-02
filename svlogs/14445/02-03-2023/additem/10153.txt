@@ -1,0 +1,516 @@
+BAG:ronaldo add 37xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 02/03/2023 7:09 SA
+BAG:ronaldo add 1xVàng lydo: Lấy từ rương qua người at 02/03/2023 7:09 SA
+BAG:ronaldo add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/03/2023 7:12 SA
+BAG:ronaldo add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 02/03/2023 7:12 SA
+BAG:ronaldo add 99xĐá thạch anh tím lydo: Lấy từ rương qua người at 02/03/2023 7:12 SA
+BAG:ronaldo add 99xĐá Ruby lydo: Lấy từ rương qua người at 02/03/2023 7:12 SA
+BAG:ronaldo add 5xPháo hoa lydo: Lấy từ rương qua người at 02/03/2023 7:12 SA
+BAG:ronaldo add 3xMáy dò Capsule kì bí lydo: Lấy từ rương qua người at 02/03/2023 7:12 SA
+BAG:ronaldo add 34xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 02/03/2023 7:12 SA
+BAG:ronaldo add 1xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 02/03/2023 7:12 SA
+BAG:ronaldo add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:ronaldo add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:ronaldo add 84xCây mai (old: 83) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:ronaldo add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:ronaldo add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:ronaldo add 85xCây mai (old: 84) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:ronaldo add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:ronaldo add 86xCây mai (old: 85) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:ronaldo add 87xCây mai (old: 86) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:ronaldo add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:ronaldo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:ronaldo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:ronaldo add 88xCây mai (old: 87) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:ronaldo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:ronaldo add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:ronaldo add 66xBình rượu (old: 65) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:ronaldo add 89xCây mai (old: 88) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:ronaldo add 90xCây mai (old: 89) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:ronaldo add 67xBình rượu (old: 66) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:ronaldo add 68xBình rượu (old: 67) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:ronaldo add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:ronaldo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:ronaldo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:ronaldo add 62xLì xì (old: 61) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:ronaldo add 69xBình rượu (old: 68) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:ronaldo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:ronaldo add 70xBình rượu (old: 69) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:ronaldo add 91xCây mai (old: 90) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:ronaldo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:ronaldo add 71xBình rượu (old: 70) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:ronaldo add 92xCây mai (old: 91) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:ronaldo add 72xBình rượu (old: 71) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:ronaldo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:ronaldo add 93xCây mai (old: 92) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:ronaldo add 94xCây mai (old: 93) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:ronaldo add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:ronaldo add 73xBình rượu (old: 72) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:ronaldo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:ronaldo add 74xBình rượu (old: 73) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:ronaldo add 95xCây mai (old: 94) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:ronaldo add 75xBình rượu (old: 74) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:ronaldo add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:ronaldo add 65xLì xì (old: 64) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:ronaldo add 96xCây mai (old: 95) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:ronaldo add 76xBình rượu (old: 75) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:ronaldo add 97xCây mai (old: 96) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:ronaldo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:ronaldo add 66xLì xì (old: 65) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:ronaldo add 77xBình rượu (old: 76) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:ronaldo add 98xCây mai (old: 97) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:ronaldo add 78xBình rượu (old: 77) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:ronaldo add 67xLì xì (old: 66) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:ronaldo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:ronaldo add 99xCây mai (old: 98) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:ronaldo add 68xLì xì (old: 67) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:ronaldo add 69xLì xì (old: 68) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:ronaldo add 79xBình rượu (old: 78) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:ronaldo add 80xBình rượu (old: 79) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:ronaldo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:ronaldo add 81xBình rượu (old: 80) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:ronaldo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:ronaldo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:ronaldo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 70xLì xì (old: 69) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 71xLì xì (old: 70) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 72xLì xì (old: 71) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 82xBình rượu (old: 81) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 100xCây mai (old: 99) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 73xLì xì (old: 72) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 101xCây mai (old: 100) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 74xLì xì (old: 73) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:ronaldo add 102xCây mai (old: 101) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 83xBình rượu (old: 82) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 75xLì xì (old: 74) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 103xCây mai (old: 102) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 104xCây mai (old: 103) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:ronaldo add 84xBình rượu (old: 83) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:ronaldo add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:ronaldo add 105xCây mai (old: 104) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ronaldo add 106xCây mai (old: 105) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ronaldo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ronaldo add 107xCây mai (old: 106) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ronaldo add 76xLì xì (old: 75) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:ronaldo add 85xBình rượu (old: 84) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:ronaldo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:ronaldo add 108xCây mai (old: 107) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:ronaldo add 86xBình rượu (old: 85) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ronaldo add 87xBình rượu (old: 86) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ronaldo add 109xCây mai (old: 108) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ronaldo add 77xLì xì (old: 76) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ronaldo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ronaldo add 88xBình rượu (old: 87) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ronaldo add 110xCây mai (old: 109) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ronaldo add 89xBình rượu (old: 88) lydo: Nhặt từ map at 02/03/2023 7:35 SA
+BAG:ronaldo add 111xCây mai (old: 110) lydo: Nhặt từ map at 02/03/2023 7:35 SA
+BAG:ronaldo add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 7:35 SA
+BAG:ronaldo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 7:35 SA
+BAG:ronaldo add 112xCây mai (old: 111) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:ronaldo add 90xBình rượu (old: 89) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:ronaldo add 91xBình rượu (old: 90) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:ronaldo add 113xCây mai (old: 112) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:ronaldo add 78xLì xì (old: 77) lydo: Nhặt từ map at 02/03/2023 7:37 SA
+BAG:ronaldo add 79xLì xì (old: 78) lydo: Nhặt từ map at 02/03/2023 7:37 SA
+BAG:ronaldo add 92xBình rượu (old: 91) lydo: Nhặt từ map at 02/03/2023 7:37 SA
+BAG:ronaldo add 80xLì xì (old: 79) lydo: Nhặt từ map at 02/03/2023 7:37 SA
+BAG:ronaldo add 81xLì xì (old: 80) lydo: Nhặt từ map at 02/03/2023 7:37 SA
+BAG:ronaldo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:ronaldo add 93xBình rượu (old: 92) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:ronaldo add 94xBình rượu (old: 93) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:ronaldo add 114xCây mai (old: 113) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:ronaldo add 115xCây mai (old: 114) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:ronaldo add 116xCây mai (old: 115) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:ronaldo add 117xCây mai (old: 116) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:ronaldo add 118xCây mai (old: 117) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:ronaldo add 95xBình rượu (old: 94) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:ronaldo add 119xCây mai (old: 118) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:ronaldo add 82xLì xì (old: 81) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:ronaldo add 120xCây mai (old: 119) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:ronaldo add 96xBình rượu (old: 95) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:ronaldo add 83xLì xì (old: 82) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:ronaldo add 97xBình rượu (old: 96) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:ronaldo add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:ronaldo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:ronaldo add 84xLì xì (old: 83) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:ronaldo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:ronaldo add 98xBình rượu (old: 97) lydo: Nhặt từ map at 02/03/2023 7:43 SA
+BAG:ronaldo add 121xCây mai (old: 120) lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:ronaldo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:ronaldo add 85xLì xì (old: 84) lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:ronaldo add 122xCây mai (old: 121) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 123xCây mai (old: 122) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 124xCây mai (old: 123) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 125xCây mai (old: 124) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 86xLì xì (old: 85) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 126xCây mai (old: 125) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 99xBình rượu (old: 98) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 127xCây mai (old: 126) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:ronaldo add 87xLì xì (old: 86) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:ronaldo add 128xCây mai (old: 127) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:ronaldo add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:ronaldo add 129xCây mai (old: 128) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:ronaldo add 88xLì xì (old: 87) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:ronaldo add 130xCây mai (old: 129) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:ronaldo add 131xCây mai (old: 130) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:ronaldo add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:ronaldo add 132xCây mai (old: 131) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:ronaldo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:ronaldo add 100xBình rượu (old: 99) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:ronaldo add 101xBình rượu (old: 100) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:ronaldo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:ronaldo add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:ronaldo add 133xCây mai (old: 132) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:ronaldo add 134xCây mai (old: 133) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:ronaldo add 102xBình rượu (old: 101) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:ronaldo add 135xCây mai (old: 134) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:ronaldo add 89xLì xì (old: 88) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:ronaldo add 90xLì xì (old: 89) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:ronaldo add 103xBình rượu (old: 102) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:ronaldo add 104xBình rượu (old: 103) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:ronaldo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:ronaldo add 91xLì xì (old: 90) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:ronaldo add 92xLì xì (old: 91) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:ronaldo add 105xBình rượu (old: 104) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:ronaldo add 93xLì xì (old: 92) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:ronaldo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:ronaldo add 136xCây mai (old: 135) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:ronaldo add 137xCây mai (old: 136) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:ronaldo add 106xBình rượu (old: 105) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:ronaldo add 94xLì xì (old: 93) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:ronaldo add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:ronaldo add 95xLì xì (old: 94) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:ronaldo add 138xCây mai (old: 137) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:ronaldo add 139xCây mai (old: 138) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:ronaldo add 96xLì xì (old: 95) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:ronaldo add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:ronaldo add 107xBình rượu (old: 106) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:ronaldo add 140xCây mai (old: 139) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:ronaldo add 141xCây mai (old: 140) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:ronaldo add 97xLì xì (old: 96) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:ronaldo add 108xBình rượu (old: 107) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:ronaldo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:ronaldo add 142xCây mai (old: 141) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:ronaldo add 98xLì xì (old: 97) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:ronaldo add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:ronaldo add 143xCây mai (old: 142) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:ronaldo add 144xCây mai (old: 143) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:ronaldo add 145xCây mai (old: 144) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:ronaldo add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:ronaldo add 109xBình rượu (old: 108) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:ronaldo add 110xBình rượu (old: 109) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:ronaldo add 111xBình rượu (old: 110) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:ronaldo add 146xCây mai (old: 145) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:ronaldo add 112xBình rượu (old: 111) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:ronaldo add 99xLì xì (old: 98) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:ronaldo add 147xCây mai (old: 146) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:ronaldo add 113xBình rượu (old: 112) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:ronaldo add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:ronaldo add 114xBình rượu (old: 113) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:ronaldo add 148xCây mai (old: 147) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:ronaldo add 100xLì xì (old: 99) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:ronaldo add 149xCây mai (old: 148) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:ronaldo add 115xBình rượu (old: 114) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:ronaldo add 101xLì xì (old: 100) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:ronaldo add 116xBình rượu (old: 115) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:ronaldo add 102xLì xì (old: 101) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:ronaldo add 150xCây mai (old: 149) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:ronaldo add 103xLì xì (old: 102) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:ronaldo add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:ronaldo add 151xCây mai (old: 150) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:ronaldo add 117xBình rượu (old: 116) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 118xBình rượu (old: 117) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 104xLì xì (old: 103) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 119xBình rượu (old: 118) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 105xLì xì (old: 104) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 106xLì xì (old: 105) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:ronaldo add 120xBình rượu (old: 119) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:ronaldo add 121xBình rượu (old: 120) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:ronaldo add 152xCây mai (old: 151) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:ronaldo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:ronaldo add 153xCây mai (old: 152) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:ronaldo add 154xCây mai (old: 153) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 122xBình rượu (old: 121) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 123xBình rượu (old: 122) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 107xLì xì (old: 106) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 155xCây mai (old: 154) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 156xCây mai (old: 155) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 124xBình rượu (old: 123) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:ronaldo add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:ronaldo add 157xCây mai (old: 156) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:ronaldo add 158xCây mai (old: 157) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:ronaldo add 108xLì xì (old: 107) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:ronaldo add 109xLì xì (old: 108) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:ronaldo add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:ronaldo add 125xBình rượu (old: 124) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:ronaldo add 110xLì xì (old: 109) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:ronaldo add 111xLì xì (old: 110) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:ronaldo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:ronaldo add 112xLì xì (old: 111) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:ronaldo add 113xLì xì (old: 112) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:ronaldo add 126xBình rượu (old: 125) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:ronaldo add 127xBình rượu (old: 126) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:ronaldo add 159xCây mai (old: 158) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:ronaldo add 114xLì xì (old: 113) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:ronaldo add 160xCây mai (old: 159) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 115xLì xì (old: 114) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 161xCây mai (old: 160) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 116xLì xì (old: 115) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 117xLì xì (old: 116) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 118xLì xì (old: 117) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 128xBình rượu (old: 127) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:ronaldo add 119xLì xì (old: 118) lydo: Nhặt từ map at 02/03/2023 8:37 SA
+BAG:ronaldo add 129xBình rượu (old: 128) lydo: Nhặt từ map at 02/03/2023 8:37 SA
+BAG:ronaldo add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 8:37 SA
+BAG:ronaldo add 120xLì xì (old: 119) lydo: Nhặt từ map at 02/03/2023 8:37 SA
+BAG:ronaldo add 162xCây mai (old: 161) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:ronaldo add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:ronaldo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:ronaldo add 121xLì xì (old: 120) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:ronaldo add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:ronaldo add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ronaldo add 130xBình rượu (old: 129) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ronaldo add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ronaldo add 131xBình rượu (old: 130) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ronaldo add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ronaldo add 163xCây mai (old: 162) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ronaldo add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ronaldo add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 164xCây mai (old: 163) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 122xLì xì (old: 121) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 123xLì xì (old: 122) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 165xCây mai (old: 164) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 132xBình rượu (old: 131) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 133xBình rượu (old: 132) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:ronaldo add 124xLì xì (old: 123) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:ronaldo add 166xCây mai (old: 165) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:ronaldo add 125xLì xì (old: 124) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:ronaldo add 167xCây mai (old: 166) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:ronaldo add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:ronaldo add 126xLì xì (old: 125) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 127xLì xì (old: 126) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 134xBình rượu (old: 133) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 128xLì xì (old: 127) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 129xLì xì (old: 128) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 168xCây mai (old: 167) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ronaldo add 169xCây mai (old: 168) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:ronaldo add 170xCây mai (old: 169) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:ronaldo add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:ronaldo add 171xCây mai (old: 170) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:ronaldo add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:ronaldo add 135xBình rượu (old: 134) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:ronaldo add 172xCây mai (old: 171) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:ronaldo add 130xLì xì (old: 129) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:ronaldo add 131xLì xì (old: 130) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:ronaldo add 173xCây mai (old: 172) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:ronaldo add 132xLì xì (old: 131) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:ronaldo add 174xCây mai (old: 173) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:ronaldo add 136xBình rượu (old: 135) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:ronaldo add 175xCây mai (old: 174) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:ronaldo add 137xBình rượu (old: 136) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:ronaldo add 133xLì xì (old: 132) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:ronaldo add 138xBình rượu (old: 137) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:ronaldo add 176xCây mai (old: 175) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:ronaldo add 177xCây mai (old: 176) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:ronaldo add 134xLì xì (old: 133) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:ronaldo add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:ronaldo add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:ronaldo add 178xCây mai (old: 177) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:ronaldo add 139xBình rượu (old: 138) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:ronaldo add 140xBình rượu (old: 139) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:ronaldo add 179xCây mai (old: 178) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:ronaldo add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:ronaldo add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:ronaldo add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:ronaldo add 180xCây mai (old: 179) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:ronaldo add 135xLì xì (old: 134) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:ronaldo add 136xLì xì (old: 135) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:ronaldo add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:ronaldo add 181xCây mai (old: 180) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:ronaldo add 141xBình rượu (old: 140) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:ronaldo add 182xCây mai (old: 181) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 8:55 SA
+BAG:ronaldo add 142xBình rượu (old: 141) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:ronaldo add 183xCây mai (old: 182) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:ronaldo add 184xCây mai (old: 183) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:ronaldo add 185xCây mai (old: 184) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:ronaldo add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:ronaldo add 143xBình rượu (old: 142) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:ronaldo add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:ronaldo add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:ronaldo add 144xBình rượu (old: 143) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:ronaldo add 145xBình rượu (old: 144) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:ronaldo add 137xLì xì (old: 136) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:ronaldo add 138xLì xì (old: 137) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:ronaldo add 139xLì xì (old: 138) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:ronaldo add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:ronaldo add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 8:59 SA
+BAG:ronaldo add 146xBình rượu (old: 145) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:ronaldo add 147xBình rượu (old: 146) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:ronaldo add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:ronaldo add 140xLì xì (old: 139) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:ronaldo add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:ronaldo add 186xCây mai (old: 185) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:ronaldo add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:ronaldo add 187xCây mai (old: 186) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:ronaldo add 188xCây mai (old: 187) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:ronaldo add 189xCây mai (old: 188) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:ronaldo add 190xCây mai (old: 189) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:ronaldo add 141xLì xì (old: 140) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:ronaldo add 191xCây mai (old: 190) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:ronaldo add 192xCây mai (old: 191) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:ronaldo add 142xLì xì (old: 141) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:ronaldo add 193xCây mai (old: 192) lydo: Nhặt từ map at 02/03/2023 10:31 SA
+BAG:ronaldo add 148xBình rượu (old: 147) lydo: Nhặt từ map at 02/03/2023 10:34 SA
+BAG:ronaldo add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/03/2023 10:34 SA
+BAG:ronaldo add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 02/03/2023 10:34 SA
+BAG:ronaldo add 143xLì xì (old: 142) lydo: Nhặt từ map at 02/03/2023 10:34 SA
+BAG:ronaldo add 144xLì xì (old: 143) lydo: Nhặt từ map at 02/03/2023 10:35 SA
+BAG:ronaldo add 145xLì xì (old: 144) lydo: Nhặt từ map at 02/03/2023 10:35 SA
+BAG:ronaldo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:ronaldo add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:ronaldo add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:ronaldo add 194xCây mai (old: 193) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:ronaldo add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:ronaldo add 195xCây mai (old: 194) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:ronaldo add 149xBình rượu (old: 148) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:ronaldo add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:ronaldo add 146xLì xì (old: 145) lydo: Nhặt từ map at 02/03/2023 10:38 SA
+BAG:ronaldo add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/03/2023 10:38 SA
+BAG:ronaldo add 196xCây mai (old: 195) lydo: Nhặt từ map at 02/03/2023 10:38 SA
+BAG:ronaldo add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/03/2023 10:38 SA
+BAG:ronaldo add 197xCây mai (old: 196) lydo: Nhặt từ map at 02/03/2023 10:39 SA
+BAG:ronaldo add 147xLì xì (old: 146) lydo: Nhặt từ map at 02/03/2023 10:39 SA
+BAG:ronaldo add 148xLì xì (old: 147) lydo: Nhặt từ map at 02/03/2023 10:40 SA
+BAG:ronaldo add 198xCây mai (old: 197) lydo: Nhặt từ map at 02/03/2023 10:40 SA
+BAG:ronaldo add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:ronaldo add 149xLì xì (old: 148) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:ronaldo add 150xBình rượu (old: 149) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:ronaldo add 151xBình rượu (old: 150) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:ronaldo add 152xBình rượu (old: 151) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:ronaldo add 199xCây mai (old: 198) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:ronaldo add 153xBình rượu (old: 152) lydo: Nhặt từ map at 02/03/2023 10:43 SA
+BAG:ronaldo add 154xBình rượu (old: 153) lydo: Nhặt từ map at 02/03/2023 10:43 SA
+BAG:ronaldo add 155xBình rượu (old: 154) lydo: Nhặt từ map at 02/03/2023 10:43 SA
+BAG:ronaldo add 150xLì xì (old: 149) lydo: Nhặt từ map at 02/03/2023 10:44 SA
+BAG:ronaldo add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/03/2023 10:44 SA
+BAG:ronaldo add 200xCây mai (old: 199) lydo: Nhặt từ map at 02/03/2023 10:44 SA
+BAG:ronaldo add 151xLì xì (old: 150) lydo: Nhặt từ map at 02/03/2023 10:45 SA
+BAG:ronaldo add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 02/03/2023 10:45 SA
+BAG:ronaldo add 201xCây mai (old: 200) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:ronaldo add 156xBình rượu (old: 155) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:ronaldo add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:ronaldo add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 10:46 SA
+BAG:ronaldo add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/03/2023 10:47 SA
+BAG:ronaldo add 202xCây mai (old: 201) lydo: Nhặt từ map at 02/03/2023 10:47 SA
+BAG:ronaldo add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 02/03/2023 10:47 SA
+BAG:ronaldo add 203xCây mai (old: 202) lydo: Nhặt từ map at 02/03/2023 10:47 SA
+BAG:ronaldo add 157xBình rượu (old: 156) lydo: Nhặt từ map at 02/03/2023 10:47 SA
+BAG:ronaldo add 204xCây mai (old: 203) lydo: Nhặt từ map at 02/03/2023 10:48 SA
+BAG:ronaldo add 205xCây mai (old: 204) lydo: Nhặt từ map at 02/03/2023 10:48 SA
+BAG:ronaldo add 206xCây mai (old: 205) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ronaldo add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ronaldo add 158xBình rượu (old: 157) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ronaldo add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ronaldo add 207xCây mai (old: 206) lydo: Nhặt từ map at 02/03/2023 10:50 SA
+BAG:ronaldo add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 02/03/2023 10:51 SA
+BAG:ronaldo add 159xBình rượu (old: 158) lydo: Nhặt từ map at 02/03/2023 10:51 SA
+BAG:ronaldo add 160xBình rượu (old: 159) lydo: Nhặt từ map at 02/03/2023 10:51 SA
+BAG:ronaldo add 152xLì xì (old: 151) lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:ronaldo add 161xBình rượu (old: 160) lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:ronaldo add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:ronaldo add 208xCây mai (old: 207) lydo: Nhặt từ map at 02/03/2023 10:55 SA
+BAG:ronaldo add 153xLì xì (old: 152) lydo: Nhặt từ map at 02/03/2023 10:55 SA
+BAG:ronaldo add 154xLì xì (old: 153) lydo: Nhặt từ map at 02/03/2023 10:55 SA
+BAG:ronaldo add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/03/2023 10:56 SA
+BAG:ronaldo add 162xBình rượu (old: 161) lydo: Nhặt từ map at 02/03/2023 10:58 SA
+BAG:ronaldo add 209xCây mai (old: 208) lydo: Nhặt từ map at 02/03/2023 10:58 SA
+BAG:ronaldo add 155xLì xì (old: 154) lydo: Nhặt từ map at 02/03/2023 10:58 SA
+BAG:ronaldo add 163xBình rượu (old: 162) lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:ronaldo add 164xBình rượu (old: 163) lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:ronaldo add 210xCây mai (old: 209) lydo: Nhặt từ map at 02/03/2023 11:00 SA
+BAG:ronaldo add 156xLì xì (old: 155) lydo: Nhặt từ map at 02/03/2023 11:00 SA
+BAG:ronaldo add 165xBình rượu (old: 164) lydo: Nhặt từ map at 02/03/2023 11:00 SA
+BAG:ronaldo add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 11:01 SA
+BAG:ronaldo add 211xCây mai (old: 210) lydo: Nhặt từ map at 02/03/2023 11:01 SA
+BAG:ronaldo add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/03/2023 11:01 SA
+BAG:ronaldo add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/03/2023 11:02 SA
+BAG:ronaldo add 212xCây mai (old: 211) lydo: Nhặt từ map at 02/03/2023 11:02 SA
+BAG:ronaldo add 213xCây mai (old: 212) lydo: Nhặt từ map at 02/03/2023 11:02 SA
+BAG:ronaldo add 166xBình rượu (old: 165) lydo: Nhặt từ map at 02/03/2023 11:02 SA
+BAG:ronaldo add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/03/2023 11:04 SA
+BAG:ronaldo add 167xBình rượu (old: 166) lydo: Nhặt từ map at 02/03/2023 11:04 SA
+BAG:ronaldo add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 02/03/2023 11:04 SA
+BAG:ronaldo add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:ronaldo add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:ronaldo add 168xBình rượu (old: 167) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:ronaldo add 169xBình rượu (old: 168) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:ronaldo add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:ronaldo add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:ronaldo add 170xBình rượu (old: 169) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:ronaldo add 157xLì xì (old: 156) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:ronaldo add 171xBình rượu (old: 170) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:ronaldo add 172xBình rượu (old: 171) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:ronaldo add 214xCây mai (old: 213) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:ronaldo add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:ronaldo add 158xLì xì (old: 157) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:ronaldo add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:ronaldo add 215xCây mai (old: 214) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:ronaldo add 216xCây mai (old: 215) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:ronaldo add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:ronaldo add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:ronaldo add 173xBình rượu (old: 172) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:ronaldo add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:ronaldo add 174xBình rượu (old: 173) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:ronaldo add 217xCây mai (old: 216) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:ronaldo add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:ronaldo add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:ronaldo add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:ronaldo add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:ronaldo add 175xBình rượu (old: 174) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:ronaldo add 159xLì xì (old: 158) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:ronaldo add 176xBình rượu (old: 175) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:ronaldo add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:ronaldo add 160xLì xì (old: 159) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:ronaldo add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:ronaldo add 161xLì xì (old: 160) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:ronaldo add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:ronaldo add 177xBình rượu (old: 176) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:ronaldo add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:ronaldo add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:ronaldo add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:ronaldo add 218xCây mai (old: 217) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:ronaldo add 219xCây mai (old: 218) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:ronaldo add 178xBình rượu (old: 177) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:ronaldo add 220xCây mai (old: 219) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:ronaldo add 221xCây mai (old: 220) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:ronaldo add 222xCây mai (old: 221) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:ronaldo add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:ronaldo add 223xCây mai (old: 222) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:ronaldo add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:ronaldo add 224xCây mai (old: 223) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:ronaldo add 162xLì xì (old: 161) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:ronaldo add 163xLì xì (old: 162) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:ronaldo add 179xBình rượu (old: 178) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:ronaldo add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:ronaldo add 164xLì xì (old: 163) lydo: Nhặt từ map at 02/03/2023 12:17 CH

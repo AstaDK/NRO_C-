@@ -1,0 +1,121 @@
+BAG:canhdepzai add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:canhdepzai add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:canhdepzai add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:canhdepzai add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/02/2023 11:38 SA
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:38 SA
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:38 SA
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:38 SA
+BAG:canhdepzai add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:38 SA
+BAG:canhdepzai add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 11:38 SA
+BAG:canhdepzai add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 11:39 SA
+BAG:canhdepzai add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:canhdepzai add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:canhdepzai add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:canhdepzai add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:canhdepzai add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:canhdepzai add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:canhdepzai add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:41 SA
+BAG:canhdepzai add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 11:43 SA
+BAG:canhdepzai add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:43 SA
+BAG:canhdepzai add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 11:43 SA
+BAG:canhdepzai add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 11:43 SA
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:43 SA
+BAG:canhdepzai add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 11:43 SA
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:43 SA
+BAG:canhdepzai add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/02/2023 11:45 SA
+BAG:canhdepzai add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 11:45 SA
+BAG:canhdepzai add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 11:45 SA
+BAG:canhdepzai add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 11:45 SA
+BAG:canhdepzai add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 11:48 SA
+BAG:canhdepzai add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 11:48 SA
+BAG:canhdepzai add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 11:49 SA
+BAG:canhdepzai add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 02/02/2023 11:50 SA
+BAG:canhdepzai add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 02/02/2023 11:51 SA
+BAG:canhdepzai add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 11:51 SA
+BAG:canhdepzai add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 11:52 SA
+BAG:canhdepzai add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/02/2023 11:53 SA
+BAG:canhdepzai add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 11:53 SA
+BAG:canhdepzai add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/02/2023 11:53 SA
+BAG:canhdepzai add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 11:55 SA
+BAG:canhdepzai add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/02/2023 11:56 SA
+BAG:canhdepzai add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/02/2023 11:56 SA
+BAG:canhdepzai add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/02/2023 11:56 SA
+BAG:canhdepzai add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 02/02/2023 11:58 SA
+BAG:canhdepzai add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 11:58 SA
+BAG:canhdepzai add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 11:58 SA
+BAG:canhdepzai add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 11:59 SA
+BAG:canhdepzai add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/02/2023 11:59 SA
+BAG:canhdepzai add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/02/2023 11:59 SA
+BAG:canhdepzai add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/02/2023 12:00 CH
+BAG:canhdepzai add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/02/2023 12:00 CH
+BAG:canhdepzai add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/02/2023 12:01 CH
+BAG:canhdepzai add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/02/2023 12:01 CH
+BAG:canhdepzai add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/02/2023 12:01 CH
+BAG:canhdepzai add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/02/2023 12:02 CH
+BAG:canhdepzai add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 12:04 CH
+BAG:canhdepzai add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/02/2023 12:04 CH
+BAG:canhdepzai add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/02/2023 12:05 CH
+BAG:canhdepzai add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/02/2023 12:05 CH
+BAG:canhdepzai add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/02/2023 12:06 CH
+BAG:canhdepzai add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/02/2023 12:07 CH
+BAG:canhdepzai add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/02/2023 12:08 CH
+BAG:canhdepzai add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/02/2023 12:10 CH
+BAG:canhdepzai add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/02/2023 12:10 CH
+BAG:canhdepzai add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 12:11 CH
+BAG:canhdepzai add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/02/2023 12:11 CH
+BAG:canhdepzai add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/02/2023 12:12 CH
+BAG:canhdepzai add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/02/2023 12:12 CH
+BAG:canhdepzai add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/02/2023 12:12 CH
+BAG:canhdepzai add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 02/02/2023 12:13 CH
+BAG:canhdepzai add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/02/2023 12:13 CH
+BAG:canhdepzai add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/02/2023 12:13 CH
+BAG:canhdepzai add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/02/2023 12:13 CH
+BAG:canhdepzai add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/02/2023 12:13 CH
+BAG:canhdepzai add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/02/2023 12:13 CH
+BAG:canhdepzai add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/02/2023 12:14 CH
+BAG:canhdepzai add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/02/2023 12:14 CH
+BAG:canhdepzai add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/02/2023 12:15 CH
+BAG:canhdepzai add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/02/2023 12:15 CH
+BAG:canhdepzai add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/02/2023 12:16 CH
+BAG:canhdepzai add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/02/2023 12:16 CH
+BAG:canhdepzai add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/02/2023 12:17 CH
+BAG:canhdepzai add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/02/2023 12:17 CH
+BAG:canhdepzai add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/02/2023 12:17 CH
+BAG:canhdepzai add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/02/2023 12:17 CH
+BAG:canhdepzai add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/02/2023 12:17 CH
+BAG:canhdepzai add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/02/2023 12:18 CH
+BAG:canhdepzai add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/02/2023 12:18 CH
+BAG:canhdepzai add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/02/2023 12:19 CH
+BAG:canhdepzai add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/02/2023 12:19 CH
+BAG:canhdepzai add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/02/2023 12:19 CH
+BAG:canhdepzai add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/02/2023 12:20 CH
+BAG:canhdepzai add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/02/2023 12:20 CH
+BAG:canhdepzai add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/02/2023 12:21 CH
+BAG:canhdepzai add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/02/2023 12:21 CH
+BAG:canhdepzai add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 02/02/2023 12:21 CH
+BAG:canhdepzai add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/02/2023 12:22 CH
+BAG:canhdepzai add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 12:22 CH
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:23 CH
+BAG:canhdepzai add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/02/2023 12:24 CH
+BAG:canhdepzai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:24 CH
+BAG:canhdepzai add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/02/2023 12:26 CH
+BAG:canhdepzai add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 12:30 CH
+BAG:canhdepzai add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 12:30 CH
+BAG:canhdepzai add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/02/2023 12:34 CH
+BAG:canhdepzai add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/02/2023 12:34 CH
+BAG:canhdepzai add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/02/2023 12:35 CH
+BAG:canhdepzai add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 12:37 CH
+BAG:canhdepzai add 1xÁo choàng len lydo: Mua từ cửa hàng at 02/02/2023 12:37 CH
+BAG:canhdepzai add 1xQuần len cứng lydo: Mua từ cửa hàng at 02/02/2023 12:37 CH
+BAG:canhdepzai add 1xGăng thun Pico lydo: Mua từ cửa hàng at 02/02/2023 12:37 CH
+BAG:canhdepzai add 1xGiày cao su cứng lydo: Mua từ cửa hàng at 02/02/2023 12:37 CH
+BAG:canhdepzai add 1xPhi Long VIP lydo: Mua từ cửa hàng at 02/02/2023 12:39 CH
+BAG:canhdepzai add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 12:40 CH
+BAG:canhdepzai add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 12:41 CH
+BAG:canhdepzai add 20xThỏi vàng lydo: Giftcode at 02/02/2023 12:44 CH
+BAG:canhdepzai add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 12:45 CH
+BAG:canhdepzai add 1xMèo mun lydo: Mua từ cửa hàng at 02/02/2023 12:45 CH
+BAG:canhdepzai add 1xDiều rồng lydo: Mua từ cửa hàng at 02/02/2023 12:45 CH
+BAG:canhdepzai add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 12:49 CH
+BAG:canhdepzai add 1xCải trang VIP lydo: Mua từ cửa hàng at 02/02/2023 12:49 CH

@@ -1,0 +1,122 @@
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:04 SA
+BAG:nobito remove Avatar lydo: Mặc vào người at 02/03/2023 12:11 SA
+BAG:nobito remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:12 SA
+BAG:nobito remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:12 SA
+BAG:nobito remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:12 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:23 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:24 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:24 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:24 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:25 SA
+BAG:nobito remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 12:26 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:36 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:nobito remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:41 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:41 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:nobito remove 1xÁo vải thô lydo: Bán cho shop at 02/03/2023 12:43 SA
+BAG:nobito remove 1xQuần vải thô lydo: Bán cho shop at 02/03/2023 12:43 SA
+BAG:nobito remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:46 SA
+BAG:nobito remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:46 SA
+BAG:nobito remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:46 SA
+BAG:nobito remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:46 SA
+BAG:nobito remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:46 SA
+BAG:nobito remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:46 SA
+BAG:nobito remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:46 SA
+BAG:nobito remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/03/2023 12:47 SA
+BAG:nobito remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 12:48 SA
+BAG:nobito remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/03/2023 12:49 SA
+BAG:nobito remove Avatar lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:nobito remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:nobito remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:50 SA
+BAG:nobito remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:50 SA
+BAG:nobito remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:54 SA
+BAG:nobito remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:54 SA
+BAG:nobito remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 12:54 SA
+BAG:nobito remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 02/03/2023 12:54 SA
+BAG:nobito remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 02/03/2023 12:56 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:57 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:00 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:01 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:02 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:06 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:07 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:09 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:10 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:11 SA
+BAG:nobito remove Giày lông Xayda lydo: Mặc vào người at 02/03/2023 1:14 SA
+BAG:nobito remove 1xGăng vải thô lydo: Bán cho shop at 02/03/2023 1:14 SA
+BAG:nobito remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/03/2023 1:15 SA
+BAG:nobito remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/03/2023 1:15 SA
+BAG:nobito remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/03/2023 1:15 SA
+BAG:nobito remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/03/2023 1:15 SA
+BAG:nobito remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/03/2023 1:15 SA
+BAG:nobito remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/03/2023 1:15 SA
+BAG:nobito remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/03/2023 1:15 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:16 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:17 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:18 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:22 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:24 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:25 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:26 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:29 SA
+BAG:nobito remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:30 SA
+BAG:nobito remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/03/2023 1:30 SA
+BAG:nobito remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/03/2023 1:30 SA
+BAG:nobito remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:44 SA
+BAG:nobito remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:44 SA
+BAG:nobito remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:44 SA
+BAG:nobito remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:47 SA
+BAG:nobito remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 1:47 SA
+BAG:nobito remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:47 SA
+BAG:nobito remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 1:47 SA
+BAG:nobito remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:47 SA
+BAG:nobito remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:48 SA
+BAG:nobito remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 1:55 SA
+BAG:nobito remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 1:55 SA
+BAG:nobito remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 1:55 SA
+BAG:nobito remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 2:11 SA
+BAG:nobito remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 2:11 SA
+BAG:nobito remove Mảnh Lợn lòi lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove Đá Titan lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove Đá Ruby lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove Đá Saphia lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove Đá lục bảo lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 7:39 SA
+BAG:nobito remove 5xCây mai lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xLì xì lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xBình rượu lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xCây mai lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xLì xì lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xBình rượu lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 7:39 SA
+BAG:nobito remove 5xCây mai lydo: Cay Thong at 02/03/2023 7:40 SA
+BAG:nobito remove 5xLì xì lydo: Cay Thong at 02/03/2023 7:40 SA
+BAG:nobito remove 5xBình rượu lydo: Cay Thong at 02/03/2023 7:40 SA
+BAG:nobito remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 7:40 SA
+BAG:nobito remove Vàng lydo: Tự Xóa vật phẩm at 02/03/2023 7:40 SA
+BAG:nobito remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:26 CH
+BAG:nobito remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 12:34 CH
+BAG:nobito remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:34 CH
+BAG:nobito remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:34 CH
+BAG:nobito remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 12:34 CH
+BAG:nobito remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:34 CH
+BAG:nobito remove 1xẨn danh lydo: Dùng buff at 02/03/2023 12:34 CH

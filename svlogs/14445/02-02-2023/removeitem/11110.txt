@@ -1,0 +1,31 @@
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:36 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:41 CH
+BAG:habsyw remove 1xMảnh Thằn lằn bay lydo: Bán cho shop at 02/02/2023 10:44 CH
+BAG:habsyw remove 1xMảnh Khủng long lydo: Bán cho shop at 02/02/2023 10:44 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:44 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:47 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:47 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:47 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:48 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:49 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:49 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:50 CH
+BAG:habsyw remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 10:50 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:51 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:52 CH
+BAG:habsyw remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:54 CH
+BAG:habsyw remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:54 CH
+BAG:habsyw remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:54 CH
+BAG:habsyw remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:55 CH
+BAG:habsyw remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:55 CH
+BAG:habsyw remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:55 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:56 CH
+BAG:habsyw remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 10:56 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:56 CH
+BAG:habsyw remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:56 CH
+BAG:habsyw remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:habsyw remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:habsyw remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH

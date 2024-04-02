@@ -1,0 +1,137 @@
+BAG:chloe remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:28 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 12:34 AM
+BAG:chloe remove Avatar lydo: Mặc vào người at 01/30/2023 12:34 AM
+BAG:chloe remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 12:34 AM
+BAG:chloe remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 12:34 AM
+BAG:chloe remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:36 AM
+BAG:chloe remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:36 AM
+BAG:chloe remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:38 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 12:40 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 12:40 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 12:40 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 12:40 AM
+BAG:chloe remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 01/30/2023 12:41 AM
+BAG:chloe remove Avatar lydo: Tự Xóa vật phẩm at 01/30/2023 12:41 AM
+BAG:chloe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 12:41 AM
+BAG:chloe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 12:41 AM
+BAG:chloe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 12:41 AM
+BAG:chloe remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 01/30/2023 12:42 AM
+BAG:chloe remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 12:42 AM
+BAG:chloe remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:42 AM
+BAG:chloe remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 12:45 AM
+BAG:chloe remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 12:45 AM
+BAG:chloe remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 01/30/2023 12:47 AM
+BAG:chloe remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 01/30/2023 12:47 AM
+BAG:chloe remove Sách học Trị thương lv1 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách học Trị thương lv2 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách học Trị thương lv3 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách học Trị thương lv4 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách học Trị thương lv5 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách học Trị thương lv6 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách học Trị thương lv7 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách Masenko lv1 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách Masenko lv2 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách Masenko lv3 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách Masenko lv4 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách Masenko lv5 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách Masenko lv6 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Sách Masenko lv7 lydo: Sách kĩ năng at 01/30/2023 12:50 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 12:52 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:52 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:56 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:57 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:00 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:00 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:00 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:00 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:00 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:01 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:05 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:08 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:08 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:08 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:08 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:09 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:12 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:13 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:13 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:13 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:13 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:13 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:13 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:16 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:16 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:16 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 1:17 AM
+BAG:chloe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 1:17 AM
+BAG:chloe remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 1:17 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:17 AM
+BAG:chloe remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:19 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:19 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:19 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:19 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:19 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:19 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:20 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:chloe remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:22 AM
+BAG:chloe remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 1:22 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:22 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:22 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 1:23 AM
+BAG:chloe remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:24 AM
+BAG:chloe remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 1:24 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:24 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:24 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:24 AM
+BAG:chloe remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 1:24 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:25 AM
+BAG:chloe remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:25 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:chloe remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 1:28 AM
+BAG:chloe remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 1:28 AM
+BAG:chloe remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:28 AM

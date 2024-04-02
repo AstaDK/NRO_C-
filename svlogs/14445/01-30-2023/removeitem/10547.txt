@@ -1,0 +1,16 @@
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 11:50 AM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 11:51 AM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 11:51 AM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 11:53 AM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 11:55 AM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:00 PM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:02 PM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:03 PM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:08 PM
+BAG:gshshs remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:08 PM
+BAG:gshshs remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 3:42 PM
+BAG:gshshs remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 3:43 PM
+BAG:gshshs remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 3:43 PM
+BAG:gshshs remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 3:43 PM
+BAG:gshshs remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 3:43 PM
+BAG:gshshs remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 3:43 PM

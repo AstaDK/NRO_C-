@@ -1,0 +1,69 @@
+BAG:thanhuydiet add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 1:07 SA
+BAG:thanhuydiet add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 1:08 SA
+BAG:thanhuydiet add 8xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 1:11 SA
+BAG:thanhuydiet add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 1:11 SA
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:12 SA
+BAG:thanhuydiet add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 1:13 SA
+BAG:thanhuydiet add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 02/02/2023 1:14 SA
+BAG:thanhuydiet add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 1:15 SA
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:16 SA
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:16 SA
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:17 SA
+BAG:thanhuydiet add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 1:18 SA
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:22 SA
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:22 SA
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:22 SA
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:22 SA
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:23 SA
+BAG:thanhuydiet add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 1:23 SA
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:23 SA
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:23 SA
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:23 SA
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:23 SA
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:24 SA
+BAG:thanhuydiet add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/02/2023 1:24 SA
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:25 SA
+BAG:thanhuydiet add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 1:25 SA
+BAG:thanhuydiet add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 1:25 SA
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:25 SA
+BAG:thanhuydiet add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 1:26 SA
+BAG:thanhuydiet add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 1:27 SA
+BAG:thanhuydiet add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 1:28 SA
+BAG:thanhuydiet add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 1:31 SA
+BAG:thanhuydiet add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 1:31 SA
+BAG:thanhuydiet add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 1:33 SA
+BAG:thanhuydiet add 20xThỏi vàng lydo: Giftcode at 02/02/2023 1:33 SA
+BAG:thanhuydiet add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/02/2023 1:35 SA
+BAG:thanhuydiet add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 1:37 SA
+BAG:thanhuydiet add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 1:38 SA
+BAG:thanhuydiet add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 2:53 SA
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 2:53 SA
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 2:53 SA
+BAG:thanhuydiet add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 12:24 CH
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:25 CH
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:25 CH
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:25 CH
+BAG:thanhuydiet add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 12:25 CH
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:25 CH
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:26 CH
+BAG:thanhuydiet add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 12:26 CH
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:26 CH
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:28 CH
+BAG:thanhuydiet add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:28 CH
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:28 CH
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:28 CH
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:28 CH
+BAG:thanhuydiet add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:thanhuydiet add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:thanhuydiet add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:thanhuydiet add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:thanhuydiet add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:thanhuydiet add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 12:29 CH

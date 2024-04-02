@@ -1,0 +1,42 @@
+BAG:linhdzai25 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:10 PM
+BAG:linhdzai25 add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 01/29/2023 9:11 PM
+BAG:linhdzai25 add 10xĐậu thần cấp 1 (old: 9) lydo: Thu hoạch đậu at 01/29/2023 9:11 PM
+BAG:linhdzai25 add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:linhdzai25 add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:linhdzai25 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:linhdzai25 add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:linhdzai25 add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:linhdzai25 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 9:18 PM
+BAG:linhdzai25 add 20xThỏi vàng lydo: Giftcode at 01/29/2023 9:21 PM
+BAG:linhdzai25 add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:linhdzai25 add 1xMèo mun lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:linhdzai25 add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 01/29/2023 9:23 PM
+BAG:linhdzai25 add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/29/2023 9:24 PM
+BAG:linhdzai25 add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 01/29/2023 9:24 PM
+BAG:linhdzai25 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 9:27 PM
+BAG:linhdzai25 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 9:28 PM
+BAG:linhdzai25 add 1xBột mì lydo: Nhặt từ map at 01/29/2023 9:29 PM
+BAG:linhdzai25 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 9:30 PM
+BAG:linhdzai25 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 9:30 PM
+BAG:linhdzai25 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 9:30 PM
+BAG:linhdzai25 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:linhdzai25 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:linhdzai25 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:linhdzai25 add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/29/2023 9:48 PM
+BAG:linhdzai25 add 26xĐậu thần cấp 4 (old: 10) lydo: Lấy từ rương qua người at 01/29/2023 9:48 PM
+BAG:linhdzai25 add 4xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 9:48 PM
+BAG:linhdzai25 add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:50 PM
+BAG:linhdzai25 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 9:52 PM
+BAG:linhdzai25 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/29/2023 9:54 PM
+BAG:linhdzai25 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:linhdzai25 add 2xBột mì (old: 1) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:linhdzai25 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:linhdzai25 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/29/2023 9:58 PM

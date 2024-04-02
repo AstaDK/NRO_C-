@@ -1,0 +1,61 @@
+BAG:habsyw add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:habsyw add 1xCây mai lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:habsyw add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:habsyw add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 10:35 CH
+BAG:habsyw add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 10:36 CH
+BAG:habsyw add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 10:36 CH
+BAG:habsyw add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 10:37 CH
+BAG:habsyw add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:habsyw add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:habsyw add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:habsyw add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:habsyw add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:habsyw add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:habsyw add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:habsyw add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:habsyw add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:habsyw add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 10:40 CH
+BAG:habsyw add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:habsyw add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:habsyw add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:habsyw add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:habsyw add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:habsyw add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:habsyw add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:habsyw add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:habsyw add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:habsyw add 1xBột mì lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:habsyw add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:habsyw add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 10:44 CH
+BAG:habsyw add 30xĐậu thần cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 10:46 CH
+BAG:habsyw add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 02/02/2023 10:46 CH
+BAG:habsyw add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:habsyw add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 10:48 CH
+BAG:habsyw add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 10:49 CH
+BAG:habsyw add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:habsyw add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:habsyw add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:habsyw add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:habsyw add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:habsyw add 20xThỏi vàng lydo: Giftcode at 02/02/2023 10:53 CH
+BAG:habsyw add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 10:54 CH
+BAG:habsyw add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 10:54 CH
+BAG:habsyw add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 10:54 CH
+BAG:habsyw add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 10:54 CH
+BAG:habsyw add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 10:54 CH
+BAG:habsyw add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 10:54 CH
+BAG:habsyw add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 10:54 CH
+BAG:habsyw add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/02/2023 10:54 CH
+BAG:habsyw add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:habsyw add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:habsyw add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 10:55 CH
+BAG:habsyw add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 10:55 CH
+BAG:habsyw add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 10:56 CH

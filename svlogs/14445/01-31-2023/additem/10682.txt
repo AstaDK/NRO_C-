@@ -1,0 +1,16 @@
+BAG:troclon add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 8:50 AM
+BAG:troclon add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 9:47 AM
+BAG:troclon add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 01/31/2023 9:47 AM
+BAG:troclon add 1xGhế bay lydo: Mua từ cửa hàng at 01/31/2023 9:47 AM
+BAG:troclon add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/31/2023 9:48 AM
+BAG:troclon add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 9:48 AM
+BAG:troclon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 9:49 AM
+BAG:troclon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 9:50 AM
+BAG:troclon add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 9:50 AM
+BAG:troclon add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 9:50 AM
+BAG:troclon add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 9:51 AM
+BAG:troclon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 9:51 AM
+BAG:troclon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 9:53 AM
+BAG:troclon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/31/2023 9:53 AM
+BAG:troclon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 9:53 AM
+BAG:troclon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 9:53 AM

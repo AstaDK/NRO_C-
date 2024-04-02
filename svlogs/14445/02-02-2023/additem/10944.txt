@@ -1,0 +1,8 @@
+BAG:nguyxnjr add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 12:58 CH
+BAG:nguyxnjr add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 1:01 CH
+BAG:nguyxnjr add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:01 CH
+BAG:nguyxnjr add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/02/2023 1:03 CH
+BAG:nguyxnjr add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:05 CH
+BAG:nguyxnjr add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:06 CH
+BAG:nguyxnjr add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 1:06 CH
+BAG:nguyxnjr add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:07 CH

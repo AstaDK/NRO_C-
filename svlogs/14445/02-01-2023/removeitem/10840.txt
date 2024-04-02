@@ -1,0 +1,17 @@
+BAG:kaywk remove Sách Masenko lv1 lydo: Sách kĩ năng at 02/01/2023 12:36 SA
+BAG:kaywk remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/01/2023 12:46 SA
+BAG:kaywk remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 12:46 SA
+BAG:kaywk remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/01/2023 12:47 SA
+BAG:kaywk remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/01/2023 12:52 SA
+BAG:kaywk remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 12:53 SA
+BAG:kaywk remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 12:53 SA
+BAG:kaywk remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/01/2023 12:53 SA
+BAG:kaywk remove Áo sợi len lydo: Mặc vào người at 02/01/2023 1:03 SA
+BAG:kaywk remove Găng thun Pico lydo: Mặc cho đệ tử at 02/01/2023 1:10 SA
+BAG:kaywk remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/01/2023 1:22 SA
+BAG:kaywk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 1:23 SA
+BAG:kaywk remove Găng len cứng lydo: Mặc vào người at 02/01/2023 1:23 SA
+BAG:kaywk remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 02/01/2023 1:24 SA
+BAG:kaywk remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/01/2023 1:24 SA
+BAG:kaywk remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 1:24 SA
+BAG:kaywk remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 1:25 SA

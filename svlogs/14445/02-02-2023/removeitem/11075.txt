@@ -1,0 +1,93 @@
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:51 CH
+BAG:gummball remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 8:51 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:52 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:53 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:53 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:54 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:54 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:55 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:56 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:56 CH
+BAG:gummball remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 8:58 CH
+BAG:gummball remove Avatar lydo: Mặc vào người at 02/02/2023 8:59 CH
+BAG:gummball remove Avatar lydo: Mặc vào người at 02/02/2023 9:00 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:01 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:01 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:04 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:04 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:05 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:05 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:05 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:05 CH
+BAG:gummball remove Avatar lydo: Mặc cho đệ tử at 02/02/2023 9:06 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:06 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:07 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:07 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:08 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:08 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:08 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:09 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:09 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:09 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:11 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:12 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:12 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:12 CH
+BAG:gummball remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:13 CH
+BAG:gummball remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 9:14 CH
+BAG:gummball remove Avatar lydo: Tự Xóa vật phẩm at 02/02/2023 9:15 CH
+BAG:gummball remove 5xCây mai lydo: Cay Thong at 02/02/2023 9:16 CH
+BAG:gummball remove 5xLì xì lydo: Cay Thong at 02/02/2023 9:16 CH
+BAG:gummball remove 5xBình rượu lydo: Cay Thong at 02/02/2023 9:16 CH
+BAG:gummball remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 9:16 CH
+BAG:gummball remove Đá Titan lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove Đá Saphia lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove Mảnh Lợn lòi lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove Mảnh Lợn lòi mẹ lydo: Cất vào rương at 02/02/2023 9:17 CH
+BAG:gummball remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:17 CH
+BAG:gummball remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:17 CH
+BAG:gummball remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:18 CH
+BAG:gummball remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:18 CH
+BAG:gummball remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 9:19 CH
+BAG:gummball remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 02/02/2023 9:19 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:19 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:19 CH
+BAG:gummball remove 1xMèo mun lydo: Bán cho shop at 02/02/2023 9:19 CH
+BAG:gummball remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:20 CH
+BAG:gummball remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:20 CH
+BAG:gummball remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:20 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:20 CH
+BAG:gummball remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:20 CH
+BAG:gummball remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:20 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:21 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:21 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:22 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:22 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:23 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:23 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:24 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:24 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:25 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:26 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:26 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:27 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:27 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:28 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:30 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:30 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:35 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:36 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:37 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:38 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:38 CH
+BAG:gummball remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 9:39 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:39 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:40 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:40 CH
+BAG:gummball remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:41 CH

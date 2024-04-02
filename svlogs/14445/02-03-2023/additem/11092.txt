@@ -1,0 +1,214 @@
+BAG:qirin112 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 6:25 SA
+BAG:qirin112 add 1xCột nhà lydo: Mua từ cửa hàng at 02/03/2023 6:25 SA
+BAG:qirin112 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 6:28 SA
+BAG:qirin112 add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 6:28 SA
+BAG:qirin112 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 6:29 SA
+BAG:qirin112 add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 6:29 SA
+BAG:qirin112 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 6:29 SA
+BAG:qirin112 add 20xThỏi vàng lydo: Giftcode at 02/03/2023 6:30 SA
+BAG:qirin112 add 1xMèo mun lydo: Mua từ cửa hàng at 02/03/2023 6:31 SA
+BAG:qirin112 add 1xCải trang VIP lydo: Mua từ cửa hàng at 02/03/2023 6:31 SA
+BAG:qirin112 add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 6:34 SA
+BAG:qirin112 add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 6:34 SA
+BAG:qirin112 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 6:34 SA
+BAG:qirin112 add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 6:34 SA
+BAG:qirin112 add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 6:34 SA
+BAG:qirin112 add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 6:35 SA
+BAG:qirin112 add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 6:36 SA
+BAG:qirin112 add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 6:36 SA
+BAG:qirin112 add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 6:36 SA
+BAG:qirin112 add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 6:36 SA
+BAG:qirin112 add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:qirin112 add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:qirin112 add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:qirin112 add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:qirin112 add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:qirin112 add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:qirin112 add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 6:37 SA
+BAG:qirin112 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:qirin112 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:qirin112 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:qirin112 add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:qirin112 add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:qirin112 add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 6:38 SA
+BAG:qirin112 add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:qirin112 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:qirin112 add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:qirin112 add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:qirin112 add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 6:39 SA
+BAG:qirin112 add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:qirin112 add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:qirin112 add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:qirin112 add 1xGăng thun dày lydo: Mua từ cửa hàng at 02/03/2023 6:42 SA
+BAG:qirin112 add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:qirin112 add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:qirin112 add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:qirin112 add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:qirin112 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:qirin112 add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:qirin112 add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:qirin112 add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:qirin112 add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:qirin112 add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:qirin112 add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:qirin112 add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:qirin112 add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:qirin112 add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:qirin112 add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 6:45 SA
+BAG:qirin112 add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 12:08 CH
+BAG:qirin112 add 1xBột mì lydo: Nhặt từ map at 02/03/2023 12:08 CH
+BAG:qirin112 add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 12:08 CH
+BAG:qirin112 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:qirin112 add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:qirin112 add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:qirin112 add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:qirin112 add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:qirin112 add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:qirin112 add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:qirin112 add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 1xGăng vải đen lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:qirin112 add 2xBột mì (old: 1) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:qirin112 add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:qirin112 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:qirin112 add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:qirin112 add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:qirin112 add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:qirin112 add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:qirin112 add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:qirin112 add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:qirin112 add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:qirin112 add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:qirin112 add 1xQuần vải đen lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:qirin112 add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:qirin112 add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 70xCây mai (old: 69) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 71xCây mai (old: 70) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:qirin112 add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:qirin112 add 72xCây mai (old: 71) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 73xCây mai (old: 72) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 74xCây mai (old: 73) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 75xCây mai (old: 74) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:qirin112 add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/03/2023 12:21 CH

@@ -1,0 +1,5 @@
+BAG:tobie add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 11:17 AM
+BAG:tobie add 1xĐậu xanh lydo: Nhặt từ map at 01/30/2023 11:20 AM
+BAG:tobie add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 11:20 AM
+BAG:tobie add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 01/30/2023 11:21 AM
+BAG:tobie add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 11:22 AM

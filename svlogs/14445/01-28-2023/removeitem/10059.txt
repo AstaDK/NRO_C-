@@ -1,0 +1,17 @@
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:05 PM
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:08 PM
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:16 PM
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:17 PM
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:18 PM
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:18 PM
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:18 PM
+BAG:gcute remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/28/2023 5:19 PM
+BAG:gcute remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/28/2023 5:19 PM
+BAG:gcute remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 01/28/2023 5:19 PM
+BAG:gcute remove Cải trang Hổ trắng lydo: Mặc vào người at 01/28/2023 5:20 PM
+BAG:gcute remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/28/2023 5:23 PM
+BAG:gcute remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/28/2023 5:23 PM
+BAG:gcute remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/28/2023 5:27 PM
+BAG:gcute remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/28/2023 5:35 PM
+BAG:gcute remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/28/2023 5:35 PM
+BAG:gcute remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/28/2023 5:35 PM

@@ -1,0 +1,15 @@
+BAG:levents remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 01/30/2023 12:26 AM
+BAG:levents remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 01/30/2023 12:26 AM
+BAG:levents remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 01/30/2023 12:26 AM
+BAG:levents remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 01/30/2023 12:26 AM
+BAG:levents remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 01/30/2023 12:26 AM
+BAG:levents remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 01/30/2023 12:26 AM
+BAG:levents remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:26 AM
+BAG:levents remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 12:26 AM
+BAG:levents remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:27 AM
+BAG:levents remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:27 AM
+BAG:levents remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 12:27 AM
+BAG:levents remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 12:29 AM
+BAG:levents remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 12:29 AM
+BAG:levents remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 12:30 AM
+BAG:levents remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 12:30 AM

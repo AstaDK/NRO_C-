@@ -1,0 +1,14 @@
+BAG:yatee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 6:25 PM
+BAG:yatee add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/29/2023 6:28 PM
+BAG:yatee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 6:47 PM
+BAG:yatee add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 6:47 PM
+BAG:yatee add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 6:50 PM
+BAG:yatee add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 6:51 PM
+BAG:yatee add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 6:52 PM
+BAG:yatee add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 6:52 PM
+BAG:yatee add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 6:53 PM
+BAG:yatee add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 6:53 PM
+BAG:yatee add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 6:53 PM
+BAG:yatee add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 6:55 PM
+BAG:yatee add 1xMảnh Khủng long lydo: Nhặt từ map at 01/29/2023 6:56 PM
+BAG:yatee add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 01/29/2023 6:56 PM

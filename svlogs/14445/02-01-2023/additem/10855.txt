@@ -1,0 +1,44 @@
+BAG:kallin add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 9:07 SA
+BAG:kallin add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 9:12 SA
+BAG:kallin add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 9:12 SA
+BAG:kallin add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 9:12 SA
+BAG:kallin add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 9:13 SA
+BAG:kallin add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 9:13 SA
+BAG:kallin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:kallin add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:kallin add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:kallin add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:kallin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:kallin add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:kallin add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:kallin add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:kallin add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:kallin add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 9:40 SA
+BAG:kallin add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 9:41 SA
+BAG:kallin add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/01/2023 9:42 SA
+BAG:kallin add 2xĐậu thần cấp 4 lydo: Thu hoạch đậu at 02/01/2023 9:42 SA
+BAG:kallin add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 9:44 SA
+BAG:kallin add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 9:44 SA
+BAG:kallin add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 9:45 SA
+BAG:kallin add 1xAvatar lydo: Mua từ cửa hàng at 02/01/2023 9:47 SA
+BAG:kallin add 1xCột nhà lydo: Mua từ cửa hàng at 02/01/2023 9:48 SA
+BAG:kallin add 1xPhi Long VIP lydo: Mua từ cửa hàng at 02/01/2023 9:48 SA
+BAG:kallin add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 9:53 SA
+BAG:kallin add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/01/2023 9:54 SA
+BAG:kallin add 20xThỏi vàng lydo: Giftcode at 02/01/2023 9:57 SA
+BAG:kallin add 1xCải trang Nami lydo: Mua từ cửa hàng at 02/01/2023 9:57 SA
+BAG:kallin add 1xCải trang Chill lydo: Mua từ cửa hàng at 02/01/2023 9:58 SA
+BAG:kallin add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/01/2023 9:58 SA
+BAG:kallin add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 02/01/2023 9:59 SA
+BAG:kallin add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/01/2023 9:59 SA
+BAG:kallin add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/01/2023 10:00 SA
+BAG:kallin add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 10:00 SA
+BAG:kallin add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 10:00 SA
+BAG:kallin add 1xCải trang Chill lydo: Lấy từ body đệ vào hành trang at 02/01/2023 10:00 SA
+BAG:kallin add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 10:05 SA
+BAG:kallin add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 10:07 SA
+BAG:kallin add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 02/01/2023 11:35 SA
+BAG:kallin add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 11:37 SA
+BAG:kallin add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 11:42 SA
+BAG:kallin add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 11:46 SA
+BAG:kallin add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 02/01/2023 12:12 CH

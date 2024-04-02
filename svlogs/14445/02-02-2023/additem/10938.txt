@@ -1,0 +1,52 @@
+BAG:nrolau12 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 12:42 CH
+BAG:nrolau12 add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:nrolau12 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/02/2023 12:49 CH
+BAG:nrolau12 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/02/2023 12:49 CH
+BAG:nrolau12 add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:51 CH
+BAG:nrolau12 add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 6:27 CH
+BAG:nrolau12 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 6:30 CH
+BAG:nrolau12 add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 6:35 CH
+BAG:nrolau12 add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 6:35 CH
+BAG:nrolau12 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 6:35 CH
+BAG:nrolau12 add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 6:37 CH
+BAG:nrolau12 add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 6:38 CH
+BAG:nrolau12 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 6:38 CH
+BAG:nrolau12 add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 6:38 CH
+BAG:nrolau12 add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 6:38 CH
+BAG:nrolau12 add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 6:39 CH
+BAG:nrolau12 add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 6:39 CH
+BAG:nrolau12 add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 6:39 CH
+BAG:nrolau12 add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 6:40 CH
+BAG:nrolau12 add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 6:40 CH
+BAG:nrolau12 add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 6:40 CH
+BAG:nrolau12 add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 6:41 CH
+BAG:nrolau12 add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 6:41 CH
+BAG:nrolau12 add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 6:41 CH
+BAG:nrolau12 add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 6:41 CH
+BAG:nrolau12 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 6:41 CH
+BAG:nrolau12 add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 6:42 CH
+BAG:nrolau12 add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:nrolau12 add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:nrolau12 add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:nrolau12 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:nrolau12 add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 6:45 CH
+BAG:nrolau12 add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 6:45 CH
+BAG:nrolau12 add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 6:45 CH

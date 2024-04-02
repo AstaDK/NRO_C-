@@ -1,0 +1,668 @@
+BAG:infrared remove 99xThỏi vàng lydo: Giao dịch với doremon at 02/02/2023 12:11 SA
+BAG:infrared remove 59xThỏi vàng lydo: Giao dịch với doremon at 02/02/2023 12:11 SA
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:12 SA
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:12 SA
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:12 SA
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:12 SA
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:12 SA
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:12 SA
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:12 SA
+BAG:infrared remove Lì xì lydo: Cất vào rương at 02/02/2023 12:19 SA
+BAG:infrared remove Bình rượu lydo: Cất vào rương at 02/02/2023 12:19 SA
+BAG:infrared remove Bình rượu lydo: Cất vào rương at 02/02/2023 12:19 SA
+BAG:infrared remove Cây mai lydo: Cất vào rương at 02/02/2023 12:19 SA
+BAG:infrared remove Cây mai lydo: Cất vào rương at 02/02/2023 12:19 SA
+BAG:infrared remove Bình rượu lydo: Cất vào rương at 02/02/2023 12:19 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:20 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:20 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:20 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:21 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:37 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:37 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:37 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:52 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:53 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:55 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:56 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:57 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:57 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:57 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:58 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:58 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:58 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:58 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:59 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:59 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:59 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:59 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:59 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:00 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:00 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:00 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:00 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:01 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:01 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:01 SA
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 1:01 SA
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 1:01 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:01 SA
+BAG:infrared remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 1:01 SA
+BAG:infrared remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 1:01 SA
+BAG:infrared remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 1:02 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:02 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:02 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:03 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:03 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:03 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:03 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:04 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:04 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:04 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:04 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:05 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 1:07 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:21 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:22 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 1:22 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:22 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:25 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:25 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc vào người at 02/02/2023 1:31 SA
+BAG:infrared remove Găng vải thô lydo: Mặc vào người at 02/02/2023 1:32 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:32 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 1:32 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 1:38 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:39 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 1:39 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:42 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 1:42 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 1:46 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:48 SA
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 1:52 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:52 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 1:53 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 1:53 SA
+BAG:infrared remove Quần lưỡng long lydo: Cất vào rương at 02/02/2023 1:53 SA
+BAG:infrared remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 1:53 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:57 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:57 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:00 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 2:00 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:03 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:04 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:05 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:06 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:09 SA
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 2:09 SA
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 2:10 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:11 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:11 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:12 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:12 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:15 SA
+BAG:infrared remove 1xGăng vàng Zealot lydo: Bán cho shop at 02/02/2023 2:17 SA
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:19 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:19 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 2:20 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 2:26 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 2:38 SA
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 2:38 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:40 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 2:42 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:47 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 2:47 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:50 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:51 SA
+BAG:infrared remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 02/02/2023 2:52 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 2:53 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 2:53 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 2:54 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 2:55 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:55 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 2:59 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:00 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:02 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:05 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:10 SA
+BAG:infrared remove 1xNgọc Rồng 6 sao lydo: Bán cho shop at 02/02/2023 3:13 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:14 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:15 SA
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:18 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:20 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:21 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:21 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:22 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:23 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:26 SA
+BAG:infrared remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 02/02/2023 3:28 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:31 SA
+BAG:infrared remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:39 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:42 SA
+BAG:infrared remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 3:51 SA
+BAG:infrared remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 3:51 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 SA
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:32 SA
+BAG:infrared remove Máy dò Capsule kì bí lydo: Cất vào rương at 02/02/2023 10:33 SA
+BAG:infrared remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 10:34 SA
+BAG:infrared remove Ngọc Rồng 2 sao lydo: Cất vào rương at 02/02/2023 10:42 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:53 SA
+BAG:infrared remove Cây mai lydo: Cất vào rương at 02/02/2023 10:53 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:53 SA
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 SA
+BAG:infrared remove Lì xì lydo: Cất vào rương at 02/02/2023 10:54 SA
+BAG:infrared remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 SA
+BAG:infrared remove Lì xì lydo: Cất vào rương at 02/02/2023 10:54 SA
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 SA
+BAG:infrared remove Cây mai lydo: Cất vào rương at 02/02/2023 10:54 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:12 SA
+BAG:infrared remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:13 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:13 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:13 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:26 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:39 SA
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:39 SA
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:39 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:46 SA
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:46 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 11:47 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:50 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:55 SA
+BAG:infrared remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:55 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 11:56 SA
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:58 SA
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 12:09 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 12:17 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 12:47 CH
+BAG:infrared remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:49 CH
+BAG:infrared remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:49 CH
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:50 CH
+BAG:infrared remove Găng Thần Linh lydo: Cất vào rương at 02/02/2023 12:50 CH
+BAG:infrared remove 1xÁo Thần Namếc lydo: Giao dịch với dongdz at 02/02/2023 12:52 CH
+BAG:infrared remove Cây mai lydo: Cất vào rương at 02/02/2023 1:37 CH
+BAG:infrared remove Bình rượu lydo: Cất vào rương at 02/02/2023 1:37 CH
+BAG:infrared remove Pháo hoa lydo: Cất vào rương at 02/02/2023 1:37 CH
+BAG:infrared remove 8xCây mai lydo: Cay Thong at 02/02/2023 2:18 CH
+BAG:infrared remove 8xLì xì lydo: Cay Thong at 02/02/2023 2:18 CH
+BAG:infrared remove 8xBình rượu lydo: Cay Thong at 02/02/2023 2:18 CH
+BAG:infrared remove 8xPháo hoa lydo: Cay Thong at 02/02/2023 2:18 CH
+BAG:infrared remove 15xThỏi vàng lydo: Cay Thong at 02/02/2023 2:18 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:02 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:03 CH
+BAG:infrared remove Cải Trang Thần Zeno Namec lydo: Mặc vào người at 02/02/2023 3:05 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:09 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:11 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:11 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:15 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:17 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:17 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:17 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:18 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:18 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:18 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:23 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:24 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:28 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 3:29 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:30 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:31 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:36 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:37 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:37 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:44 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 3:45 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:47 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:54 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:57 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:58 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:58 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:59 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:00 CH
+BAG:infrared remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:00 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 4:01 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 4:07 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:17 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:17 CH
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 4:18 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:18 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 4:23 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 4:29 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:30 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 4:34 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 4:36 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 4:37 CH
+BAG:infrared remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 4:47 CH
+BAG:infrared remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 4:47 CH
+BAG:infrared remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 4:47 CH
+BAG:infrared remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 4:47 CH
+BAG:infrared remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 4:47 CH
+BAG:infrared remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 4:47 CH
+BAG:infrared remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 4:47 CH
+BAG:infrared remove 15xNgọc Rồng 3 sao lydo: Giao dịch với top1xayda at 02/02/2023 4:51 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 4:53 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:21 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:21 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:21 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:21 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:28 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:31 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 5:31 CH
+BAG:infrared remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 5:31 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:31 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:31 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:36 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:36 CH
+BAG:infrared remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 5:36 CH
+BAG:infrared remove Giày vàng Zealot lydo: Cất vào rương at 02/02/2023 5:36 CH
+BAG:infrared remove Găng vàng Zealot lydo: Cất vào rương at 02/02/2023 5:36 CH
+BAG:infrared remove Cải trang Hatchiyack lydo: Cất vào rương at 02/02/2023 5:36 CH
+BAG:infrared remove Cải trang Hatchiyack lydo: Cất vào rương at 02/02/2023 5:36 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:37 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 5:37 CH
+BAG:infrared remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 5:39 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:39 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 5:39 CH
+BAG:infrared remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:39 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:39 CH
+BAG:infrared remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:40 CH
+BAG:infrared remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 5:40 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:40 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 5:40 CH
+BAG:infrared remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:41 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:41 CH
+BAG:infrared remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:41 CH
+BAG:infrared remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:41 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:41 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 5:42 CH
+BAG:infrared remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:42 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:42 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 5:42 CH
+BAG:infrared remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:43 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:43 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:43 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:43 CH
+BAG:infrared remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 5:45 CH
+BAG:infrared remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 5:45 CH
+BAG:infrared remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 5:45 CH
+BAG:infrared remove Cải Trang Thần Zeno Namec lydo: Cất vào rương at 02/02/2023 5:46 CH
+BAG:infrared remove Cải Trang Thần Zeno Namec lydo: Cất vào rương at 02/02/2023 5:46 CH
+BAG:infrared remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/02/2023 5:46 CH
+BAG:infrared remove Ghế bay lydo: Tự Xóa vật phẩm at 02/02/2023 5:46 CH
+BAG:infrared remove Cánh thiên thần 2 lydo: Cất vào rương at 02/02/2023 5:46 CH
+BAG:infrared remove Tanjiro lydo: Cất vào rương at 02/02/2023 5:46 CH
+BAG:infrared remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:47 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:47 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:47 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 5:47 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:infrared remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 5:52 CH
+BAG:infrared remove 1xGăng vàng Zealot lydo: Giao dịch với dongdz at 02/02/2023 6:00 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:infrared remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:04 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:04 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:04 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:04 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:infrared remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:07 CH
+BAG:infrared remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:07 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:07 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:08 CH
+BAG:infrared remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:08 CH
+BAG:infrared remove 1xBổ khí lydo: Dùng buff at 02/02/2023 6:09 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 6:09 CH
+BAG:infrared remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 6:11 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:11 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:11 CH
+BAG:infrared remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:11 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:11 CH
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:11 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:infrared remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:infrared remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:infrared remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:15 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:15 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:15 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:15 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:15 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:16 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:16 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 6:16 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:16 CH
+BAG:infrared remove Cải Trang Thần Zeno Namec lydo: Cất vào rương at 02/02/2023 6:17 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:17 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:17 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:18 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:18 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:18 CH
+BAG:infrared remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:18 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:20 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:20 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:20 CH
+BAG:infrared remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:22 CH
+BAG:infrared remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:23 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 6:24 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:24 CH
+BAG:infrared remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:25 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:25 CH
+BAG:infrared remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 6:25 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:25 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:25 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:25 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:27 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:27 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:27 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:27 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:infrared remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:infrared remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:30 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 6:33 CH
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:infrared remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:infrared remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:41 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:41 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:42 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:42 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:45 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:45 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:45 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:46 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:46 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:46 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:47 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:47 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:47 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:48 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:48 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:49 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:49 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 6:52 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 6:53 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 7:02 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 7:06 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 7:12 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:12 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:12 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:28 CH
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 10:56 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:56 CH
+BAG:infrared remove Cuồng nộ lydo: Tự Xóa vật phẩm at 02/02/2023 10:56 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 CH
+BAG:infrared remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 CH
+BAG:infrared remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:01 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:05 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:05 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:05 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:05 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:infrared remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:09 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:09 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:10 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:10 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:11 CH
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:11 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:12 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:12 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:12 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:12 CH
+BAG:infrared remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:13 CH
+BAG:infrared remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 CH
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:14 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:15 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:15 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:15 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:16 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:17 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:17 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:18 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:18 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:22 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:22 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:23 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:23 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:23 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:infrared remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:infrared remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 11:25 CH
+BAG:infrared remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:26 CH
+BAG:infrared remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 11:26 CH
+BAG:infrared remove Găng vải thô lydo: Cất vào rương at 02/02/2023 11:33 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:33 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:37 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:45 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:46 CH
+BAG:infrared remove Cải Trang Thần Zeno Namec lydo: Tự Xóa vật phẩm at 02/02/2023 11:47 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:47 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 11:48 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:48 CH
+BAG:infrared remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:48 CH
+BAG:infrared remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:infrared remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:infrared remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:infrared remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:infrared remove 1xBổ khí lydo: Dùng buff at 02/02/2023 11:50 CH
+BAG:infrared remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:infrared remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:51 CH
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:51 CH
+BAG:infrared remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:53 CH
+BAG:infrared remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:53 CH
+BAG:infrared remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:56 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:infrared remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:59 CH

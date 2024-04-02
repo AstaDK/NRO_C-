@@ -1,0 +1,53 @@
+BAG:dznhatsv remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 6:08 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:12 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:12 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:13 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:14 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:16 PM
+BAG:dznhatsv remove Avatar lydo: Mặc vào người at 01/30/2023 6:19 PM
+BAG:dznhatsv remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/30/2023 6:19 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:27 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:28 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:28 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:30 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:30 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 6:30 PM
+BAG:dznhatsv remove 99xĐậu thần cấp 1 lydo: Bán cho shop at 01/30/2023 6:32 PM
+BAG:dznhatsv remove Găng sắt lydo: Mặc vào người at 01/30/2023 6:32 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:35 PM
+BAG:dznhatsv remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 6:40 PM
+BAG:dznhatsv remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/30/2023 6:41 PM
+BAG:dznhatsv remove Mèo mun lydo: Tự Xóa vật phẩm at 01/30/2023 6:41 PM
+BAG:dznhatsv remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 6:41 PM
+BAG:dznhatsv remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 6:43 PM
+BAG:dznhatsv remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 6:43 PM
+BAG:dznhatsv remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 6:43 PM
+BAG:dznhatsv remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 6:43 PM
+BAG:dznhatsv remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 6:43 PM
+BAG:dznhatsv remove Avatar lydo: Tự Xóa vật phẩm at 01/30/2023 6:43 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:43 PM
+BAG:dznhatsv remove Cánh thiên thần lydo: Cất vào rương at 01/30/2023 6:44 PM
+BAG:dznhatsv remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 01/30/2023 6:45 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:45 PM
+BAG:dznhatsv remove Diều rồng lydo: Tự Xóa vật phẩm at 01/30/2023 6:45 PM
+BAG:dznhatsv remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/30/2023 6:45 PM
+BAG:dznhatsv remove Mèo mun lydo: Tự Xóa vật phẩm at 01/30/2023 6:45 PM
+BAG:dznhatsv remove Hồn ma Ca đíc lydo: Tự Xóa vật phẩm at 01/30/2023 6:45 PM
+BAG:dznhatsv remove Hồn ma Pôcôlô lydo: Tự Xóa vật phẩm at 01/30/2023 6:45 PM
+BAG:dznhatsv remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 01/30/2023 6:45 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:46 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:47 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:49 PM
+BAG:dznhatsv remove Găng sắt lydo: Mặc cho đệ tử at 01/30/2023 6:50 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:50 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 6:52 PM
+BAG:dznhatsv remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 01/30/2023 6:53 PM
+BAG:dznhatsv remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 6:57 PM
+BAG:dznhatsv remove Quần giáp đồng lydo: Tự Xóa vật phẩm at 01/30/2023 6:57 PM
+BAG:dznhatsv remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 6:58 PM
+BAG:dznhatsv remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 01/30/2023 6:58 PM
+BAG:dznhatsv remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 6:58 PM
+BAG:dznhatsv remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/30/2023 6:59 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 7:05 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 7:06 PM
+BAG:dznhatsv remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 7:08 PM

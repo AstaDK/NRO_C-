@@ -1,0 +1,26 @@
+BAG:genma10 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 10:40 PM
+BAG:genma10 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 10:46 PM
+BAG:genma10 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 10:48 PM
+BAG:genma10 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 10:48 PM
+BAG:genma10 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 10:49 PM
+BAG:genma10 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 10:56 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:58 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:58 PM
+BAG:genma10 remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 11:04 PM
+BAG:genma10 remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:04 PM
+BAG:genma10 remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 11:04 PM
+BAG:genma10 remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 11:07 PM
+BAG:genma10 remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 11:07 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/29/2023 11:07 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/29/2023 11:10 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/29/2023 11:11 PM
+BAG:genma10 remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:13 PM
+BAG:genma10 remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:13 PM
+BAG:genma10 remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:13 PM
+BAG:genma10 remove Ván bay lydo: Cất vào rương at 01/29/2023 11:25 PM
+BAG:genma10 remove Viên Capsule đặc biệt lydo: Cất vào rương at 01/29/2023 11:25 PM
+BAG:genma10 remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 11:25 PM
+BAG:genma10 remove Viên Capsule đặc biệt lydo: Cất vào rương at 01/29/2023 11:26 PM
+BAG:genma10 remove Tự động luyện tập lydo: Cất vào rương at 01/29/2023 11:26 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/29/2023 11:28 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/29/2023 11:29 PM

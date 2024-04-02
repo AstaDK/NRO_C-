@@ -1,0 +1,18 @@
+BAG:anhbar remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:00 AM
+BAG:anhbar remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:00 AM
+BAG:anhbar remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:01 AM
+BAG:anhbar remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:01 AM
+BAG:anhbar remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:01 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:01 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:02 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:02 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:02 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:03 AM
+BAG:anhbar remove Avatar đeo khẩu trang lydo: Mặc vào người at 01/29/2023 12:06 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:06 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:07 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:07 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:08 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:09 AM
+BAG:anhbar remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:09 AM
+BAG:anhbar remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 01/29/2023 12:11 AM

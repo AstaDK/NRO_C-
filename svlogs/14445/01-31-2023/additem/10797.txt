@@ -1,0 +1,18 @@
+BAG:cheese add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 6:43 PM
+BAG:cheese add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 6:44 PM
+BAG:cheese add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/31/2023 6:44 PM
+BAG:cheese add 4xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/31/2023 6:45 PM
+BAG:cheese add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/31/2023 6:48 PM
+BAG:cheese add 1xGhế bay lydo: Mua từ cửa hàng at 01/31/2023 6:52 PM
+BAG:cheese add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 6:56 PM
+BAG:cheese add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 6:56 PM
+BAG:cheese add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 6:56 PM
+BAG:cheese add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 6:56 PM
+BAG:cheese add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 6:57 PM
+BAG:cheese add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 6:58 PM
+BAG:cheese add 3xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/31/2023 6:59 PM
+BAG:cheese add 10xĐậu thần cấp 3 (old: 3) lydo: Thu hoạch đậu at 01/31/2023 6:59 PM
+BAG:cheese add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 7:01 PM
+BAG:cheese add 1xHồn ma Pôcôlô lydo: Mua từ cửa hàng at 01/31/2023 7:12 PM
+BAG:cheese add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 01/31/2023 7:12 PM
+BAG:cheese add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/31/2023 7:12 PM

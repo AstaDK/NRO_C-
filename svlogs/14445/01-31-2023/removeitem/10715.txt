@@ -1,0 +1,159 @@
+BAG:kukuri remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 11:22 AM
+BAG:kukuri remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 11:23 AM
+BAG:kukuri remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 01/31/2023 11:27 AM
+BAG:kukuri remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 01/31/2023 11:27 AM
+BAG:kukuri remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 01/31/2023 11:27 AM
+BAG:kukuri remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 01/31/2023 11:27 AM
+BAG:kukuri remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 01/31/2023 11:28 AM
+BAG:kukuri remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 01/31/2023 11:28 AM
+BAG:kukuri remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 01/31/2023 11:28 AM
+BAG:kukuri remove Avatar lydo: Mặc vào người at 01/31/2023 11:28 AM
+BAG:kukuri remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/31/2023 11:30 AM
+BAG:kukuri remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 11:31 AM
+BAG:kukuri remove Cải trang Hit lydo: Mặc vào người at 01/31/2023 11:31 AM
+BAG:kukuri remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/31/2023 11:31 AM
+BAG:kukuri remove Avatar lydo: Tự Xóa vật phẩm at 01/31/2023 11:31 AM
+BAG:kukuri remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/31/2023 11:31 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:31 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:32 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 11:33 AM
+BAG:kukuri remove 1xĐổi đệ tử lydo: Bán cho shop at 01/31/2023 11:34 AM
+BAG:kukuri remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 11:35 AM
+BAG:kukuri remove Cải trang Hit lydo: Mặc cho đệ tử at 01/31/2023 11:35 AM
+BAG:kukuri remove Găng sắt lydo: Mặc vào người at 01/31/2023 11:40 AM
+BAG:kukuri remove 1xÁo vải thô lydo: Bán cho shop at 01/31/2023 11:40 AM
+BAG:kukuri remove 1xQuần vải thô lydo: Bán cho shop at 01/31/2023 11:40 AM
+BAG:kukuri remove Giày bạc lydo: Mặc vào người at 01/31/2023 11:40 AM
+BAG:kukuri remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 01/31/2023 11:47 AM
+BAG:kukuri remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 01/31/2023 11:47 AM
+BAG:kukuri remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 11:47 AM
+BAG:kukuri remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 11:47 AM
+BAG:kukuri remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 11:47 AM
+BAG:kukuri remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 11:47 AM
+BAG:kukuri remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 11:47 AM
+BAG:kukuri remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 11:48 AM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 11:49 AM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 11:49 AM
+BAG:kukuri remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/31/2023 11:50 AM
+BAG:kukuri remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 11:50 AM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 12:02 PM
+BAG:kukuri remove Găng sắt lydo: Mặc cho đệ tử at 01/31/2023 12:02 PM
+BAG:kukuri remove Găng bạc lydo: Mặc vào người at 01/31/2023 12:03 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 12:03 PM
+BAG:kukuri remove Găng đồng lydo: Tự Xóa vật phẩm at 01/31/2023 12:06 PM
+BAG:kukuri remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/31/2023 12:06 PM
+BAG:kukuri remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 01/31/2023 12:06 PM
+BAG:kukuri remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 12:06 PM
+BAG:kukuri remove Quần giáp đồng lydo: Mặc cho đệ tử at 01/31/2023 5:02 PM
+BAG:kukuri remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 5:05 PM
+BAG:kukuri remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/31/2023 5:05 PM
+BAG:kukuri remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/31/2023 5:05 PM
+BAG:kukuri remove 99xĐậu thần cấp 3 lydo: Bán cho shop at 01/31/2023 5:06 PM
+BAG:kukuri remove 1xGăng bạc lydo: Bán cho shop at 01/31/2023 5:06 PM
+BAG:kukuri remove 1xTự động luyện tập lydo: Bán cho shop at 01/31/2023 5:06 PM
+BAG:kukuri remove 17xĐá Saphia lydo: Bán cho shop at 01/31/2023 5:06 PM
+BAG:kukuri remove 1xVán bay VIP lydo: Bán cho shop at 01/31/2023 5:09 PM
+BAG:kukuri remove 1xCánh thiên thần lydo: Bán cho shop at 01/31/2023 5:09 PM
+BAG:kukuri remove 1xViên Capsule đặc biệt lydo: Bán cho shop at 01/31/2023 5:09 PM
+BAG:kukuri remove 1xBông tai Porata lydo: Bán cho shop at 01/31/2023 5:09 PM
+BAG:kukuri remove 28xĐá Titan lydo: Bán cho shop at 01/31/2023 5:09 PM
+BAG:kukuri remove 3xNgọc Rồng 5 sao lydo: Bán cho shop at 01/31/2023 5:09 PM
+BAG:kukuri remove 3xNgọc Rồng 6 sao lydo: Bán cho shop at 01/31/2023 5:09 PM
+BAG:kukuri remove 1xBông tai Porata lydo: Bán cho shop at 01/31/2023 5:12 PM
+BAG:kukuri remove 1xViên Capsule đặc biệt lydo: Bán cho shop at 01/31/2023 5:13 PM
+BAG:kukuri remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 5:14 PM
+BAG:kukuri remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 5:15 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:16 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:17 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:18 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:18 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:19 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:19 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:20 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:20 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:21 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:21 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:22 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:22 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:23 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:23 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:24 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:24 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:25 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:25 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:26 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:26 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:27 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:27 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:28 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:28 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:29 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:29 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:30 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:30 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:31 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:31 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:32 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:32 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:33 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:33 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:34 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:35 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:35 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:36 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:36 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:37 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:37 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:38 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:38 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:38 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:39 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:39 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:40 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:40 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:41 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:41 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:42 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:42 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:43 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:43 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:44 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:44 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:45 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:45 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:46 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:46 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:47 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:47 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:48 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:48 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:49 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:49 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:50 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:50 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:51 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:51 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:52 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:52 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:53 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:53 PM
+BAG:kukuri remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/31/2023 5:54 PM

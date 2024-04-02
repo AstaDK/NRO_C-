@@ -1,0 +1,20 @@
+BAG:kizkt add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 6:52 CH
+BAG:kizkt add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 6:55 CH
+BAG:kizkt add 7xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 6:56 CH
+BAG:kizkt add 1xCây mai lydo: Nhặt từ map at 02/02/2023 6:58 CH
+BAG:kizkt add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:kizkt add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:kizkt add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 02/02/2023 7:01 CH
+BAG:kizkt add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 7:01 CH
+BAG:kizkt add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:kizkt add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:kizkt add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:kizkt add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:kizkt add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 7:12 CH
+BAG:kizkt add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 7:13 CH
+BAG:kizkt add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 7:13 CH
+BAG:kizkt add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/02/2023 7:15 CH
+BAG:kizkt add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:16 CH
+BAG:kizkt add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 7:16 CH
+BAG:kizkt add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 7:17 CH
+BAG:kizkt add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 7:18 CH

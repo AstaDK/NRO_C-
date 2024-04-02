@@ -1,0 +1,29 @@
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:33 CH
+BAG:bossxayda remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:bossxayda remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:35 CH
+BAG:bossxayda remove Găng vải thô lydo: Mặc vào người at 02/02/2023 5:42 CH
+BAG:bossxayda remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 5:44 CH
+BAG:bossxayda remove Quần vải thô lydo: Mặc vào người at 02/02/2023 5:44 CH
+BAG:bossxayda remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 5:44 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:47 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:48 CH
+BAG:bossxayda remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 5:50 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:50 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:50 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:52 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:52 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:53 CH
+BAG:bossxayda remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 5:53 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:53 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:54 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:55 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:03 CH
+BAG:bossxayda remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:06 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:07 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:08 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:09 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:10 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:11 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:13 CH
+BAG:bossxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:14 CH

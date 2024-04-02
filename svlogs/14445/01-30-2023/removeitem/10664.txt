@@ -1,0 +1,21 @@
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:35 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:38 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:39 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:39 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:40 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:42 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:43 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:43 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:44 PM
+BAG:settt remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:44 PM
+BAG:settt remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/30/2023 10:46 PM
+BAG:settt remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/30/2023 10:47 PM
+BAG:settt remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/30/2023 10:47 PM
+BAG:settt remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/30/2023 10:49 PM
+BAG:settt remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 01/30/2023 10:49 PM
+BAG:settt remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 01/30/2023 10:49 PM
+BAG:settt remove Avatar lydo: Mặc vào người at 01/30/2023 10:50 PM
+BAG:settt remove Pháo Thăng Thiên lydo: Tự Xóa vật phẩm at 01/30/2023 10:50 PM
+BAG:settt remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/30/2023 11:01 PM
+BAG:settt remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/30/2023 11:02 PM
+BAG:settt remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/30/2023 11:02 PM

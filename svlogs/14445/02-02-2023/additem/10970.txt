@@ -1,0 +1,116 @@
+BAG:rinegan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 3:50 CH
+BAG:rinegan add 1xLì xì lydo: Nhặt từ map at 02/02/2023 3:51 CH
+BAG:rinegan add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 3:55 CH
+BAG:rinegan add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 3:55 CH
+BAG:rinegan add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 3:56 CH
+BAG:rinegan add 1xCây mai lydo: Nhặt từ map at 02/02/2023 3:56 CH
+BAG:rinegan add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 02/02/2023 3:57 CH
+BAG:rinegan add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 3:57 CH
+BAG:rinegan add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 3:59 CH
+BAG:rinegan add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 4:00 CH
+BAG:rinegan add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 4:00 CH
+BAG:rinegan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 4:00 CH
+BAG:rinegan add 1xÁo thun Pico lydo: Mua từ cửa hàng at 02/02/2023 4:00 CH
+BAG:rinegan add 1xQuần thun Pico lydo: Mua từ cửa hàng at 02/02/2023 4:00 CH
+BAG:rinegan add 1xGăng len Pico lydo: Mua từ cửa hàng at 02/02/2023 4:00 CH
+BAG:rinegan add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 02/02/2023 4:00 CH
+BAG:rinegan add 1xRada cấp 4 lydo: Mua từ cửa hàng at 02/02/2023 4:00 CH
+BAG:rinegan add 20xThỏi vàng lydo: Giftcode at 02/02/2023 4:02 CH
+BAG:rinegan add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 4:03 CH
+BAG:rinegan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 4:03 CH
+BAG:rinegan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 4:03 CH
+BAG:rinegan add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 02/02/2023 4:03 CH
+BAG:rinegan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 4:04 CH
+BAG:rinegan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 4:04 CH
+BAG:rinegan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 4:04 CH
+BAG:rinegan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 4:04 CH
+BAG:rinegan add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 4:05 CH
+BAG:rinegan add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 4:07 CH
+BAG:rinegan add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 4:12 CH
+BAG:rinegan add 9xĐậu thần cấp 1 (old: 8) lydo: Clan cho đậu at 02/02/2023 4:13 CH
+BAG:rinegan add 10xĐậu thần cấp 1 (old: 9) lydo: Clan cho đậu at 02/02/2023 4:13 CH
+BAG:rinegan add 11xĐậu thần cấp 1 (old: 10) lydo: Clan cho đậu at 02/02/2023 4:13 CH
+BAG:rinegan add 12xĐậu thần cấp 1 (old: 11) lydo: Clan cho đậu at 02/02/2023 4:13 CH
+BAG:rinegan add 13xĐậu thần cấp 1 (old: 12) lydo: Clan cho đậu at 02/02/2023 4:13 CH
+BAG:rinegan add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 4:13 CH
+BAG:rinegan add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 4:14 CH
+BAG:rinegan add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 4:15 CH
+BAG:rinegan add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 4:15 CH
+BAG:rinegan add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 4:16 CH
+BAG:rinegan add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 4:17 CH
+BAG:rinegan add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 4:18 CH
+BAG:rinegan add 1xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 4:19 CH
+BAG:rinegan add 1xGăng thun Pico lydo: Mua từ cửa hàng at 02/02/2023 4:19 CH
+BAG:rinegan add 1xGăng len Pico lydo: Lấy từ body vào hành trang at 02/02/2023 4:19 CH
+BAG:rinegan add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 4:20 CH
+BAG:rinegan add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 4:21 CH
+BAG:rinegan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/02/2023 4:22 CH
+BAG:rinegan add 1xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 4:23 CH
+BAG:rinegan add 4xĐậu thần cấp 3 (old: 1) lydo: Thu hoạch đậu at 02/02/2023 4:23 CH
+BAG:rinegan add 18xĐậu thần cấp 3 (old: 4) lydo: Lấy từ rương qua người at 02/02/2023 4:23 CH
+BAG:rinegan add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 4:23 CH
+BAG:rinegan add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 4:25 CH
+BAG:rinegan add 1xCải trang Gohan Bư lydo: Lấy từ body vào hành trang at 02/02/2023 4:27 CH
+BAG:rinegan add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 4:28 CH
+BAG:rinegan add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 4:29 CH
+BAG:rinegan add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 4:30 CH
+BAG:rinegan add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 4:30 CH
+BAG:rinegan add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 4:31 CH
+BAG:rinegan add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 4:31 CH
+BAG:rinegan add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 4:32 CH
+BAG:rinegan add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 4:33 CH
+BAG:rinegan add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 6:37 CH
+BAG:rinegan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 6:37 CH
+BAG:rinegan add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 6:38 CH
+BAG:rinegan add 1xCải trang Gohan Bư lydo: Lấy từ body vào hành trang at 02/02/2023 6:39 CH
+BAG:rinegan add 1xGăng thun Pico lydo: Lấy từ body vào hành trang at 02/02/2023 6:39 CH
+BAG:rinegan add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 6:40 CH
+BAG:rinegan add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 6:40 CH
+BAG:rinegan add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 6:42 CH
+BAG:rinegan add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 6:42 CH
+BAG:rinegan add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:rinegan add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:rinegan add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:rinegan add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 6:43 CH
+BAG:rinegan add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:rinegan add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:rinegan add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:rinegan add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 6:45 CH
+BAG:rinegan add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 6:46 CH
+BAG:rinegan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 6:47 CH
+BAG:rinegan add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 6:48 CH
+BAG:rinegan add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 6:48 CH
+BAG:rinegan add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 6:49 CH
+BAG:rinegan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 6:50 CH
+BAG:rinegan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 6:50 CH
+BAG:rinegan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 6:50 CH
+BAG:rinegan add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 6:51 CH
+BAG:rinegan add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 6:51 CH
+BAG:rinegan add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 6:52 CH
+BAG:rinegan add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 6:53 CH
+BAG:rinegan add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 6:54 CH
+BAG:rinegan add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 6:54 CH
+BAG:rinegan add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 6:54 CH
+BAG:rinegan add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 6:55 CH
+BAG:rinegan add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:rinegan add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:rinegan add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 6:58 CH
+BAG:rinegan add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 6:58 CH
+BAG:rinegan add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:rinegan add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:rinegan add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:rinegan add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:rinegan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:rinegan add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 7:02 CH

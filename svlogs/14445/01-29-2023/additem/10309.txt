@@ -1,0 +1,134 @@
+BAG:shjnhan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:10 PM
+BAG:shjnhan add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 9:11 PM
+BAG:shjnhan add 10xĐậu thần cấp 1 (old: 9) lydo: Thu hoạch đậu at 01/29/2023 9:14 PM
+BAG:shjnhan add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:shjnhan add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:shjnhan add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 9:18 PM
+BAG:shjnhan add 20xThỏi vàng lydo: Giftcode at 01/29/2023 9:20 PM
+BAG:shjnhan add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 9:20 PM
+BAG:shjnhan add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:shjnhan add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:shjnhan add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:shjnhan add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:shjnhan add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:shjnhan add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:shjnhan add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 01/29/2023 9:26 PM
+BAG:shjnhan add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 01/29/2023 9:26 PM
+BAG:shjnhan add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:shjnhan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 9:36 PM
+BAG:shjnhan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 9:36 PM
+BAG:shjnhan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 9:36 PM
+BAG:shjnhan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 9:37 PM
+BAG:shjnhan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 9:41 PM
+BAG:shjnhan add 7xĐậu thần cấp 9 lydo: Thu hoạch đậu at 01/29/2023 9:43 PM
+BAG:shjnhan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 9:44 PM
+BAG:shjnhan add 1xGăng len Pico lydo: Mua từ cửa hàng at 01/29/2023 9:44 PM
+BAG:shjnhan add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 01/29/2023 9:44 PM
+BAG:shjnhan add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 01/29/2023 9:44 PM
+BAG:shjnhan add 1xÁo thun Pico lydo: Mua từ cửa hàng at 01/29/2023 9:45 PM
+BAG:shjnhan add 1xQuần thun Pico lydo: Mua từ cửa hàng at 01/29/2023 9:45 PM
+BAG:shjnhan add 10xĐậu thần cấp 9 (old: 6) lydo: Thu hoạch đậu at 01/29/2023 9:47 PM
+BAG:shjnhan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:49 PM
+BAG:shjnhan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 9:49 PM
+BAG:shjnhan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 9:49 PM
+BAG:shjnhan add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/29/2023 9:49 PM
+BAG:shjnhan add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/29/2023 9:49 PM
+BAG:shjnhan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:50 PM
+BAG:shjnhan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 9:50 PM
+BAG:shjnhan add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 9:50 PM
+BAG:shjnhan add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/29/2023 9:50 PM
+BAG:shjnhan add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/29/2023 9:50 PM
+BAG:shjnhan add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/29/2023 9:50 PM
+BAG:shjnhan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 9:51 PM
+BAG:shjnhan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 9:52 PM
+BAG:shjnhan add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 9:53 PM
+BAG:shjnhan add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 01/29/2023 9:54 PM
+BAG:shjnhan add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 01/29/2023 9:54 PM
+BAG:shjnhan add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 01/29/2023 9:54 PM
+BAG:shjnhan add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 01/29/2023 9:54 PM
+BAG:shjnhan add 9xĐậu thần cấp 9 (old: 8) lydo: Thu hoạch đậu at 01/29/2023 9:55 PM
+BAG:shjnhan add 18xĐậu thần cấp 9 (old: 9) lydo: Lấy từ rương qua người at 01/29/2023 9:55 PM
+BAG:shjnhan add 7xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 01/29/2023 9:55 PM
+BAG:shjnhan add 4xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 9:55 PM
+BAG:shjnhan add 38xĐậu thần cấp 9 (old: 18) lydo: Lấy từ rương qua người at 01/29/2023 9:55 PM
+BAG:shjnhan add 58xĐậu thần cấp 9 (old: 38) lydo: Lấy từ rương qua người at 01/29/2023 9:55 PM
+BAG:shjnhan add 78xĐậu thần cấp 9 (old: 58) lydo: Lấy từ rương qua người at 01/29/2023 9:56 PM
+BAG:shjnhan add 98xĐậu thần cấp 9 (old: 78) lydo: Lấy từ rương qua người at 01/29/2023 9:56 PM
+BAG:shjnhan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 9:57 PM
+BAG:shjnhan add 1xCải trang Mabư Noel lydo: Lấy từ body vào hành trang at 01/29/2023 9:58 PM
+BAG:shjnhan add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 9:59 PM
+BAG:shjnhan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/29/2023 9:59 PM
+BAG:shjnhan add 1xGăng len Pico lydo: Lấy từ body vào hành trang at 01/29/2023 9:59 PM
+BAG:shjnhan add 1xQuần thun Pico lydo: Lấy từ body vào hành trang at 01/29/2023 9:59 PM
+BAG:shjnhan add 1xGiầy cao su Pico lydo: Lấy từ body vào hành trang at 01/29/2023 10:00 PM
+BAG:shjnhan add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/29/2023 10:31 PM
+BAG:shjnhan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 10:32 PM
+BAG:shjnhan add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 10:34 PM
+BAG:shjnhan add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/29/2023 10:35 PM
+BAG:shjnhan add 1xGăng thun Pico lydo: Mua từ cửa hàng at 01/29/2023 10:37 PM
+BAG:shjnhan add 1xGiày cao su cứng lydo: Mua từ cửa hàng at 01/29/2023 10:37 PM
+BAG:shjnhan add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/29/2023 10:40 PM
+BAG:shjnhan add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/29/2023 10:41 PM
+BAG:shjnhan add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/29/2023 10:53 PM
+BAG:shjnhan add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/29/2023 10:53 PM
+BAG:shjnhan add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 01/29/2023 11:01 PM
+BAG:shjnhan add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 11:18 PM
+BAG:shjnhan add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:19 PM
+BAG:shjnhan add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 01/29/2023 11:19 PM
+BAG:shjnhan add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/29/2023 11:20 PM
+BAG:shjnhan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 11:20 PM
+BAG:shjnhan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 11:21 PM
+BAG:shjnhan add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 11:21 PM
+BAG:shjnhan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 11:21 PM
+BAG:shjnhan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 11:21 PM
+BAG:shjnhan add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:21 PM
+BAG:shjnhan add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/29/2023 11:21 PM
+BAG:shjnhan add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:21 PM
+BAG:shjnhan add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/29/2023 11:22 PM
+BAG:shjnhan add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 11:24 PM
+BAG:shjnhan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 11:25 PM
+BAG:shjnhan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 11:25 PM
+BAG:shjnhan add 1xBông tai Porata lydo: Mua từ cửa hàng at 01/29/2023 11:27 PM
+BAG:shjnhan add 1xGăng thun Pico lydo: Lấy từ body đệ vào hành trang at 01/29/2023 11:27 PM
+BAG:shjnhan add 1xGiày cao su cứng lydo: Lấy từ body đệ vào hành trang at 01/29/2023 11:27 PM
+BAG:shjnhan add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 01/29/2023 11:28 PM
+BAG:shjnhan add 1xGiầy sợi len lydo: Nhặt từ map at 01/29/2023 11:28 PM
+BAG:shjnhan add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/29/2023 11:28 PM
+BAG:shjnhan add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 11:28 PM
+BAG:shjnhan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 11:28 PM
+BAG:shjnhan add 1xBột mì lydo: Nhặt từ map at 01/29/2023 11:29 PM
+BAG:shjnhan add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 01/29/2023 11:29 PM
+BAG:shjnhan add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 01/29/2023 11:34 PM
+BAG:shjnhan add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 11:34 PM
+BAG:shjnhan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/29/2023 11:35 PM
+BAG:shjnhan add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 01/29/2023 11:35 PM
+BAG:shjnhan add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 01/29/2023 11:35 PM
+BAG:shjnhan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 11:35 PM
+BAG:shjnhan add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/29/2023 11:35 PM
+BAG:shjnhan add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 01/29/2023 11:36 PM
+BAG:shjnhan add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:36 PM
+BAG:shjnhan add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 11:36 PM
+BAG:shjnhan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 11:38 PM
+BAG:shjnhan add 1xCải trang lydo: Mua từ cửa hàng at 01/29/2023 11:40 PM
+BAG:shjnhan add 1xSao pha lê lydo: Nhặt từ map at 01/29/2023 11:40 PM
+BAG:shjnhan add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 11:40 PM
+BAG:shjnhan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 11:44 PM
+BAG:shjnhan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 11:44 PM
+BAG:shjnhan add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:45 PM
+BAG:shjnhan add 1xSao pha lê lydo: Nhặt từ map at 01/29/2023 11:45 PM
+BAG:shjnhan add 1xSao pha lê lydo: Nhặt từ map at 01/29/2023 11:45 PM
+BAG:shjnhan add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/29/2023 11:45 PM
+BAG:shjnhan add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 11:47 PM
+BAG:shjnhan add 1xCải trang lydo: Mua từ cửa hàng at 01/29/2023 11:47 PM
+BAG:shjnhan add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 11:50 PM
+BAG:shjnhan add 1xÁo vải Pico lydo: Mua từ cửa hàng at 01/29/2023 11:52 PM
+BAG:shjnhan add 1xQuần vải cứng Pico lydo: Mua từ cửa hàng at 01/29/2023 11:52 PM
+BAG:shjnhan add 1xGăng thun cứng lydo: Mua từ cửa hàng at 01/29/2023 11:52 PM
+BAG:shjnhan add 1xGiày da Pico lydo: Mua từ cửa hàng at 01/29/2023 11:52 PM
+BAG:shjnhan add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 11:53 PM
+BAG:shjnhan add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 11:54 PM
+BAG:shjnhan add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:54 PM
+BAG:shjnhan add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 01/29/2023 11:55 PM
+BAG:shjnhan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 11:55 PM
+BAG:shjnhan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 11:56 PM
+BAG:shjnhan add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 11:57 PM

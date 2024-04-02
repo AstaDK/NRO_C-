@@ -1,0 +1,32 @@
+BAG:nobisama add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 4:41 PM
+BAG:nobisama add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 4:41 PM
+BAG:nobisama add 1xRada cấp 1 lydo: Nhặt từ map at 01/30/2023 4:46 PM
+BAG:nobisama add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 4:47 PM
+BAG:nobisama add 1xQuần sợi len lydo: Nhặt từ map at 01/30/2023 4:47 PM
+BAG:nobisama add 1xGhế bay lydo: Mua từ cửa hàng at 01/30/2023 4:49 PM
+BAG:nobisama add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 4:49 PM
+BAG:nobisama add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 4:50 PM
+BAG:nobisama add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 4:51 PM
+BAG:nobisama add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 4:53 PM
+BAG:nobisama add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/30/2023 4:56 PM
+BAG:nobisama add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 4:58 PM
+BAG:nobisama add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/30/2023 4:58 PM
+BAG:nobisama add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 4:59 PM
+BAG:nobisama add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 5:00 PM
+BAG:nobisama add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 5:00 PM
+BAG:nobisama add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 5:00 PM
+BAG:nobisama add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 5:01 PM
+BAG:nobisama add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/30/2023 5:01 PM
+BAG:nobisama add 10xĐậu thần cấp 4 (old: 1) lydo: Thu hoạch đậu at 01/30/2023 5:01 PM
+BAG:nobisama add 24xĐậu thần cấp 4 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 5:01 PM
+BAG:nobisama add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/30/2023 5:02 PM
+BAG:nobisama add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 5:03 PM
+BAG:nobisama add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 5:03 PM
+BAG:nobisama add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 5:03 PM
+BAG:nobisama add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/30/2023 5:04 PM
+BAG:nobisama add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 5:04 PM
+BAG:nobisama add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 5:07 PM
+BAG:nobisama add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 5:09 PM
+BAG:nobisama add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/30/2023 5:09 PM
+BAG:nobisama add 1xCải trang Hit lydo: Mua từ cửa hàng at 01/30/2023 5:10 PM
+BAG:nobisama add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/30/2023 5:10 PM

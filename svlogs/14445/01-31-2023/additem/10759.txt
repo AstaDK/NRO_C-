@@ -1,0 +1,258 @@
+BAG:admindz add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 3:54 PM
+BAG:admindz add 7xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/31/2023 3:59 PM
+BAG:admindz add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 3:59 PM
+BAG:admindz add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 4:03 PM
+BAG:admindz add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/31/2023 4:05 PM
+BAG:admindz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 4:05 PM
+BAG:admindz add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 01/31/2023 4:06 PM
+BAG:admindz add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 01/31/2023 4:07 PM
+BAG:admindz add 1xAvatar lydo: Mua từ cửa hàng at 01/31/2023 4:14 PM
+BAG:admindz add 1xAvatar lydo: Lấy từ body vào hành trang at 01/31/2023 4:15 PM
+BAG:admindz add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/31/2023 4:18 PM
+BAG:admindz add 4xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/31/2023 4:18 PM
+BAG:admindz add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 4:19 PM
+BAG:admindz add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 4:20 PM
+BAG:admindz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 4:21 PM
+BAG:admindz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/31/2023 4:21 PM
+BAG:admindz add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 4:21 PM
+BAG:admindz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 4:22 PM
+BAG:admindz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 01/31/2023 4:23 PM
+BAG:admindz add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 4:23 PM
+BAG:admindz add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 4:23 PM
+BAG:admindz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 4:24 PM
+BAG:admindz add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 01/31/2023 4:24 PM
+BAG:admindz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 4:25 PM
+BAG:admindz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/31/2023 4:25 PM
+BAG:admindz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/31/2023 4:26 PM
+BAG:admindz add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 4:28 PM
+BAG:admindz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 4:29 PM
+BAG:admindz add 5xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/31/2023 4:31 PM
+BAG:admindz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 4:32 PM
+BAG:admindz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 4:32 PM
+BAG:admindz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/31/2023 4:32 PM
+BAG:admindz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 4:32 PM
+BAG:admindz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/31/2023 4:32 PM
+BAG:admindz add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/31/2023 4:33 PM
+BAG:admindz add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/31/2023 4:34 PM
+BAG:admindz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/31/2023 4:34 PM
+BAG:admindz add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/31/2023 4:35 PM
+BAG:admindz add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/31/2023 4:36 PM
+BAG:admindz add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/31/2023 4:39 PM
+BAG:admindz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 4:39 PM
+BAG:admindz add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/31/2023 4:39 PM
+BAG:admindz add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/31/2023 4:39 PM
+BAG:admindz add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/31/2023 4:39 PM
+BAG:admindz add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/31/2023 4:40 PM
+BAG:admindz add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/31/2023 4:41 PM
+BAG:admindz add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 01/31/2023 4:42 PM
+BAG:admindz add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/31/2023 4:42 PM
+BAG:admindz add 20xThỏi vàng lydo: Giftcode at 01/31/2023 4:43 PM
+BAG:admindz add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 01/31/2023 4:44 PM
+BAG:admindz add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 01/31/2023 4:44 PM
+BAG:admindz add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 01/31/2023 4:44 PM
+BAG:admindz add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 01/31/2023 4:45 PM
+BAG:admindz add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/31/2023 4:46 PM
+BAG:admindz add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 01/31/2023 4:50 PM
+BAG:admindz add 1xCải trang Xekô lydo: Mua từ cửa hàng at 01/31/2023 4:52 PM
+BAG:admindz add 1xCải trang Nobita lydo: Mua từ cửa hàng at 01/31/2023 4:52 PM
+BAG:admindz add 1xCải trang Nobita lydo: Lấy từ body vào hành trang at 01/31/2023 4:52 PM
+BAG:admindz add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 4:58 PM
+BAG:admindz add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/31/2023 4:59 PM
+BAG:admindz add 1xCải trang Luffy lydo: Mua từ cửa hàng at 01/31/2023 5:00 PM
+BAG:admindz add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/31/2023 5:00 PM
+BAG:admindz add 1xCải trang Luffy lydo: Lấy từ body vào hành trang at 01/31/2023 5:00 PM
+BAG:admindz add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 01/31/2023 5:04 PM
+BAG:admindz add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 01/31/2023 5:05 PM
+BAG:admindz add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/31/2023 5:05 PM
+BAG:admindz add 1xCải trang Chaien lydo: Mua từ cửa hàng at 01/31/2023 5:10 PM
+BAG:admindz add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 01/31/2023 5:13 PM
+BAG:admindz add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 01/31/2023 5:14 PM
+BAG:admindz add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 01/31/2023 5:14 PM
+BAG:admindz add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/31/2023 5:14 PM
+BAG:admindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 5:15 PM
+BAG:admindz add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/31/2023 5:15 PM
+BAG:admindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 5:15 PM
+BAG:admindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 5:16 PM
+BAG:admindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 5:16 PM
+BAG:admindz add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 01/31/2023 5:16 PM
+BAG:admindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 5:16 PM
+BAG:admindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 5:16 PM
+BAG:admindz add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/31/2023 5:16 PM
+BAG:admindz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 01/31/2023 5:17 PM
+BAG:admindz add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 01/31/2023 5:17 PM
+BAG:admindz add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/31/2023 5:18 PM
+BAG:admindz add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/31/2023 5:22 PM
+BAG:admindz add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 01/31/2023 5:23 PM
+BAG:admindz add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/31/2023 5:25 PM
+BAG:admindz add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 01/31/2023 5:28 PM
+BAG:admindz add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 01/31/2023 5:33 PM
+BAG:admindz add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/31/2023 5:34 PM
+BAG:admindz add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 01/31/2023 5:34 PM
+BAG:admindz add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 01/31/2023 5:35 PM
+BAG:admindz add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/31/2023 5:35 PM
+BAG:admindz add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/31/2023 5:35 PM
+BAG:admindz add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 01/31/2023 5:37 PM
+BAG:admindz add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 01/31/2023 5:37 PM
+BAG:admindz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 5:37 PM
+BAG:admindz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 5:37 PM
+BAG:admindz add 6xĐậu thần cấp 4 lydo: Lấy từ rương qua người at 01/31/2023 5:37 PM
+BAG:admindz add 14xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 01/31/2023 5:37 PM
+BAG:admindz add 1xRada cấp 6 lydo: Mua từ cửa hàng at 01/31/2023 5:38 PM
+BAG:admindz add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/31/2023 5:53 PM
+BAG:admindz add 1xTrứng vịt muối lydo: Nhặt từ map at 01/31/2023 5:54 PM
+BAG:admindz add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 01/31/2023 5:55 PM
+BAG:admindz add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 01/31/2023 5:55 PM
+BAG:admindz add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 01/31/2023 5:56 PM
+BAG:admindz add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 01/31/2023 5:57 PM
+BAG:admindz add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 01/31/2023 5:58 PM
+BAG:admindz add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 01/31/2023 5:58 PM
+BAG:admindz add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 01/31/2023 5:58 PM
+BAG:admindz add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 01/31/2023 5:59 PM
+BAG:admindz add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 5:59 PM
+BAG:admindz add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 01/31/2023 5:59 PM
+BAG:admindz add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 01/31/2023 5:59 PM
+BAG:admindz add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 01/31/2023 5:59 PM
+BAG:admindz add 1xCải trang Chaien lydo: Lấy từ body vào hành trang at 01/31/2023 6:00 PM
+BAG:admindz add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 01/31/2023 6:01 PM
+BAG:admindz add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 01/31/2023 6:07 PM
+BAG:admindz add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 01/31/2023 6:07 PM
+BAG:admindz add 7xĐậu thần cấp 5 lydo: Thu hoạch đậu at 01/31/2023 6:18 PM
+BAG:admindz add 3xĐậu thần cấp 6 lydo: Thu hoạch đậu at 01/31/2023 6:18 PM
+BAG:admindz add 20xĐậu thần cấp 6 (old: 3) lydo: Lấy từ rương qua người at 01/31/2023 6:18 PM
+BAG:admindz add 10xĐậu thần cấp 5 (old: 7) lydo: Lấy từ rương qua người at 01/31/2023 6:18 PM
+BAG:admindz add 30xĐậu thần cấp 6 (old: 20) lydo: Lấy từ rương qua người at 01/31/2023 6:18 PM
+BAG:admindz add 45xĐậu thần cấp 6 (old: 30) lydo: Lấy từ rương qua người at 01/31/2023 6:19 PM
+BAG:admindz add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 01/31/2023 6:19 PM
+BAG:admindz add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 01/31/2023 6:20 PM
+BAG:admindz add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 01/31/2023 6:20 PM
+BAG:admindz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 01/31/2023 6:20 PM
+BAG:admindz add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 01/31/2023 6:21 PM
+BAG:admindz add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 01/31/2023 6:21 PM
+BAG:admindz add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 01/31/2023 6:21 PM
+BAG:admindz add 1xBông tai Porata lydo: Mua từ cửa hàng at 01/31/2023 6:24 PM
+BAG:admindz add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/31/2023 6:27 PM
+BAG:admindz add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 01/31/2023 6:28 PM
+BAG:admindz add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 01/31/2023 6:30 PM
+BAG:admindz add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 01/31/2023 6:30 PM
+BAG:admindz add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 01/31/2023 6:31 PM
+BAG:admindz add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 01/31/2023 6:32 PM
+BAG:admindz add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 01/31/2023 6:33 PM
+BAG:admindz add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 01/31/2023 6:34 PM
+BAG:admindz add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 01/31/2023 6:36 PM
+BAG:admindz add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 01/31/2023 6:36 PM
+BAG:admindz add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 01/31/2023 6:36 PM
+BAG:admindz add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 01/31/2023 6:38 PM
+BAG:admindz add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 01/31/2023 6:39 PM
+BAG:admindz add 1xCải trang Gohan Bư lydo: Lấy từ body vào hành trang at 01/31/2023 6:39 PM
+BAG:admindz add 1xÁo lông Xayda lydo: Mua từ cửa hàng at 01/31/2023 6:42 PM
+BAG:admindz add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 01/31/2023 6:44 PM
+BAG:admindz add 1xQuần lông Xayda lydo: Mua từ cửa hàng at 01/31/2023 6:44 PM
+BAG:admindz add 1xGiày lông Xayda lydo: Mua từ cửa hàng at 01/31/2023 6:45 PM
+BAG:admindz add 1xGăng bạc lydo: Mua từ cửa hàng at 01/31/2023 6:45 PM
+BAG:admindz add 1xGiày lông Xayda lydo: Mua từ cửa hàng at 01/31/2023 6:46 PM
+BAG:admindz add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 01/31/2023 6:47 PM
+BAG:admindz add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 01/31/2023 6:48 PM
+BAG:admindz add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 01/31/2023 6:49 PM
+BAG:admindz add 1xRada cấp 7 lydo: Mua từ cửa hàng at 01/31/2023 6:49 PM
+BAG:admindz add 1xÁo giáp bạc lydo: Mua từ cửa hàng at 01/31/2023 6:51 PM
+BAG:admindz add 1xCải trang Nobita lydo: Lấy từ body đệ vào hành trang at 01/31/2023 6:51 PM
+BAG:admindz add 1xQuần giáp vàng lydo: Mua từ cửa hàng at 01/31/2023 6:52 PM
+BAG:admindz add 1xGăng đồng lydo: Mua từ cửa hàng at 01/31/2023 6:52 PM
+BAG:admindz add 1xGiày vàng lydo: Mua từ cửa hàng at 01/31/2023 6:53 PM
+BAG:admindz add 1xRada cấp 5 lydo: Mua từ cửa hàng at 01/31/2023 6:54 PM
+BAG:admindz add 1xAvatar lydo: Mua từ cửa hàng at 01/31/2023 6:55 PM
+BAG:admindz add 1xAvatar lydo: Mua từ cửa hàng at 01/31/2023 6:56 PM
+BAG:admindz add 1xAvatar lydo: Lấy từ body vào hành trang at 01/31/2023 6:56 PM
+BAG:admindz add 37xĐậu thần cấp 6 (old: 34) lydo: Lấy từ rương qua người at 01/31/2023 6:57 PM
+BAG:admindz add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 01/31/2023 6:59 PM
+BAG:admindz add 1xMèo mun lydo: Mua từ cửa hàng at 01/31/2023 7:00 PM
+BAG:admindz add 21xĐá thạch anh tím lydo: Lấy từ rương qua người at 01/31/2023 7:19 PM
+BAG:admindz add 11xĐá lục bảo lydo: Lấy từ rương qua người at 01/31/2023 7:19 PM
+BAG:admindz add 9xĐá Saphia lydo: Lấy từ rương qua người at 01/31/2023 7:19 PM
+BAG:admindz add 29xĐá Ruby lydo: Lấy từ rương qua người at 01/31/2023 7:19 PM
+BAG:admindz add 18xĐá Titan lydo: Lấy từ rương qua người at 01/31/2023 7:19 PM
+BAG:admindz add 1xÁo lông Xayda lydo: Lấy từ body vào hành trang at 01/31/2023 7:20 PM
+BAG:admindz add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 7:24 PM
+BAG:admindz add 1xCải trang lydo: Mua từ cửa hàng at 01/31/2023 7:24 PM
+BAG:admindz add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 7:24 PM
+BAG:admindz add 1xCải trang lydo: Lấy từ body vào hành trang at 01/31/2023 7:24 PM
+BAG:admindz add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 7:25 PM
+BAG:admindz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 7:25 PM
+BAG:admindz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 7:25 PM
+BAG:admindz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 7:25 PM
+BAG:admindz add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 7:26 PM
+BAG:admindz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 7:26 PM
+BAG:admindz add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/31/2023 7:27 PM
+BAG:admindz add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 7:27 PM
+BAG:admindz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 7:27 PM
+BAG:admindz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 7:27 PM
+BAG:admindz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/31/2023 7:27 PM
+BAG:admindz add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 7:28 PM
+BAG:admindz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 7:28 PM
+BAG:admindz add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/31/2023 7:29 PM
+BAG:admindz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/31/2023 7:29 PM
+BAG:admindz add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/31/2023 7:29 PM
+BAG:admindz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 7:30 PM
+BAG:admindz add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 7:30 PM
+BAG:admindz add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/31/2023 7:30 PM
+BAG:admindz add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 7:30 PM
+BAG:admindz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/31/2023 7:31 PM
+BAG:admindz add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 7:31 PM
+BAG:admindz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/31/2023 7:31 PM
+BAG:admindz add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/31/2023 7:31 PM
+BAG:admindz add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 7:31 PM
+BAG:admindz add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/31/2023 7:32 PM
+BAG:admindz add 1xMảnh Phi long lydo: Nhặt từ map at 01/31/2023 7:32 PM
+BAG:admindz add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 7:32 PM
+BAG:admindz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 7:32 PM
+BAG:admindz add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/31/2023 7:32 PM
+BAG:admindz add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 01/31/2023 7:32 PM
+BAG:admindz add 1xÁo giáp vàng lydo: Mua từ cửa hàng at 01/31/2023 7:35 PM
+BAG:admindz add 1xGăng bạc lydo: Mua từ cửa hàng at 01/31/2023 7:36 PM
+BAG:admindz add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:admindz add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:admindz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 7:37 PM
+BAG:admindz add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/31/2023 7:38 PM
+BAG:admindz add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:admindz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:admindz add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 7:39 PM
+BAG:admindz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 7:40 PM
+BAG:admindz add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 7:41 PM
+BAG:admindz add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 01/31/2023 7:42 PM
+BAG:admindz add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 7:42 PM
+BAG:admindz add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/31/2023 7:42 PM
+BAG:admindz add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/31/2023 7:43 PM
+BAG:admindz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 7:45 PM
+BAG:admindz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 7:45 PM
+BAG:admindz add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 7:46 PM
+BAG:admindz add 1xCải trang Gohan Bư lydo: Lấy từ body đệ vào hành trang at 01/31/2023 7:46 PM
+BAG:admindz add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 01/31/2023 7:48 PM
+BAG:admindz add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 7:48 PM
+BAG:admindz add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 01/31/2023 7:48 PM
+BAG:admindz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 7:49 PM
+BAG:admindz add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 7:49 PM
+BAG:admindz add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 01/31/2023 7:50 PM
+BAG:admindz add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/31/2023 7:50 PM
+BAG:admindz add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 01/31/2023 7:51 PM
+BAG:admindz add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 01/31/2023 7:51 PM
+BAG:admindz add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 01/31/2023 7:51 PM
+BAG:admindz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/31/2023 7:51 PM

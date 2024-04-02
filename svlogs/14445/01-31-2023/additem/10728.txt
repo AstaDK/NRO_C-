@@ -1,0 +1,52 @@
+BAG:miuti13 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 12:24 PM
+BAG:miuti13 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 12:26 PM
+BAG:miuti13 add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 12:28 PM
+BAG:miuti13 add 1xCột nhà lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xAvatar lydo: Mua từ cửa hàng at 01/31/2023 12:31 PM
+BAG:miuti13 add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 12:34 PM
+BAG:miuti13 add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 12:34 PM
+BAG:miuti13 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:miuti13 add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:miuti13 add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:miuti13 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:miuti13 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:miuti13 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:miuti13 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:miuti13 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:miuti13 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:miuti13 add 1xMảnh Khủng long lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:miuti13 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:miuti13 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:miuti13 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/31/2023 12:38 PM
+BAG:miuti13 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/31/2023 12:38 PM
+BAG:miuti13 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 12:38 PM
+BAG:miuti13 add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 01/31/2023 12:39 PM
+BAG:miuti13 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/31/2023 12:39 PM
+BAG:miuti13 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 12:39 PM
+BAG:miuti13 add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 01/31/2023 12:40 PM
+BAG:miuti13 add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 01/31/2023 12:40 PM
+BAG:miuti13 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/31/2023 12:41 PM
+BAG:miuti13 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 12:41 PM
+BAG:miuti13 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/31/2023 12:42 PM
+BAG:miuti13 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 12:42 PM
+BAG:miuti13 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/31/2023 12:43 PM
+BAG:miuti13 add 20xThỏi vàng lydo: Giftcode at 01/31/2023 12:44 PM
+BAG:miuti13 add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/31/2023 12:45 PM
+BAG:miuti13 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/31/2023 12:46 PM
+BAG:miuti13 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/31/2023 12:47 PM
+BAG:miuti13 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 12:48 PM
+BAG:miuti13 add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/31/2023 12:49 PM
+BAG:miuti13 add 1xMèo mun lydo: Mua từ cửa hàng at 01/31/2023 12:50 PM
+BAG:miuti13 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/31/2023 12:51 PM
+BAG:miuti13 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 12:52 PM
+BAG:miuti13 add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/31/2023 12:52 PM
+BAG:miuti13 add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/31/2023 12:53 PM

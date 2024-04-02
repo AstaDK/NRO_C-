@@ -1,0 +1,20 @@
+BAG:gemma66 add 1xGiầy vải thô lydo: (GD) Nhận từ ilikeboss at 02/02/2023 10:18 SA
+BAG:gemma66 add 1xÁo vải thô lydo: (GD) Nhận từ ilikeboss at 02/02/2023 10:18 SA
+BAG:gemma66 add 1xQuần vải thô lydo: (GD) Nhận từ ilikeboss at 02/02/2023 10:18 SA
+BAG:gemma66 add 1xRada cấp 1 lydo: (GD) Nhận từ ilikeboss at 02/02/2023 10:18 SA
+BAG:gemma66 add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/02/2023 1:47 CH
+BAG:gemma66 add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:47 CH
+BAG:gemma66 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/02/2023 1:47 CH
+BAG:gemma66 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:gemma66 add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:gemma66 add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:gemma66 add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:gemma66 add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:gemma66 add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:gemma66 add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:gemma66 add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:gemma66 add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:gemma66 add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:51 CH
+BAG:gemma66 add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 1:53 CH
+BAG:gemma66 add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 1:53 CH
+BAG:gemma66 add 1xGăng vàng lydo: Mua từ cửa hàng at 02/02/2023 10:32 CH

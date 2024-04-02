@@ -1,0 +1,37 @@
+BAG:laze100m remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 7:33 PM
+BAG:laze100m remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/31/2023 7:37 PM
+BAG:laze100m remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/31/2023 7:53 PM
+BAG:laze100m remove Bột mì lydo: Tự Xóa vật phẩm at 01/31/2023 7:53 PM
+BAG:laze100m remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/31/2023 7:53 PM
+BAG:laze100m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:20 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:21 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:21 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:21 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:21 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:21 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:21 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:22 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:22 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:23 PM
+BAG:laze100m remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/31/2023 8:30 PM
+BAG:laze100m remove Găng thun Pico lydo: Mặc vào người at 01/31/2023 8:32 PM
+BAG:laze100m remove Mèo mun lydo: Tự Xóa vật phẩm at 01/31/2023 8:36 PM
+BAG:laze100m remove Găng thun Pico lydo: Mặc vào người at 01/31/2023 8:37 PM
+BAG:laze100m remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/31/2023 8:38 PM
+BAG:laze100m remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 01/31/2023 8:38 PM
+BAG:laze100m remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 01/31/2023 8:38 PM
+BAG:laze100m remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 01/31/2023 8:38 PM
+BAG:laze100m remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 01/31/2023 8:38 PM
+BAG:laze100m remove Sách đấm Demon lv7 lydo: Sách kĩ năng at 01/31/2023 8:38 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:47 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:47 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:47 PM
+BAG:laze100m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 8:48 PM
+BAG:laze100m remove Đậu thần cấp 1 lydo: Cất vào rương at 01/31/2023 8:48 PM

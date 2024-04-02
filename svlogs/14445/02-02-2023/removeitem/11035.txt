@@ -1,0 +1,23 @@
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:23 CH
+BAG:pvnguyen remove Avatar lydo: Mặc vào người at 02/02/2023 10:25 CH
+BAG:pvnguyen remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:25 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:25 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:26 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:29 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:30 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:32 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:32 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:35 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:35 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:36 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:36 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:36 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:37 CH
+BAG:pvnguyen remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:37 CH
+BAG:pvnguyen remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:48 CH
+BAG:pvnguyen remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:48 CH
+BAG:pvnguyen remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:48 CH
+BAG:pvnguyen remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:48 CH

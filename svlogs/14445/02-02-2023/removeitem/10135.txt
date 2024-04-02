@@ -1,0 +1,160 @@
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:50 CH
+BAG:picclo remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 5:51 CH
+BAG:picclo remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 5:51 CH
+BAG:picclo remove 10xBột mì lydo: Nấu bánh at 02/02/2023 5:51 CH
+BAG:picclo remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 5:51 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:51 CH
+BAG:picclo remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/02/2023 5:54 CH
+BAG:picclo remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 5:54 CH
+BAG:picclo remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 5:54 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:01 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:picclo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:picclo remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:picclo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:40 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:41 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:43 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:44 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:45 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:47 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:50 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:51 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:51 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:51 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:51 CH
+BAG:picclo remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 6:52 CH
+BAG:picclo remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:52 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:52 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 6:52 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 6:52 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 6:52 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 6:52 CH
+BAG:picclo remove Cột nhà lydo: Tự Xóa vật phẩm at 02/02/2023 6:52 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:55 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:55 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:55 CH
+BAG:picclo remove 1xCuồng nộ lydo: Dùng buff at 02/02/2023 6:55 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:55 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:55 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:56 CH
+BAG:picclo remove 1xẨn danh lydo: Dùng buff at 02/02/2023 6:56 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:56 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:56 CH
+BAG:picclo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:57 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:57 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:57 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:57 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:58 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:59 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:00 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:00 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:00 CH
+BAG:picclo remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:00 CH
+BAG:picclo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:01 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:01 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:02 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:02 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:02 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:02 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:03 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:03 CH
+BAG:picclo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:03 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:03 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:04 CH
+BAG:picclo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:04 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:04 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:05 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:06 CH
+BAG:picclo remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:07 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:08 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:09 CH
+BAG:picclo remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:10 CH
+BAG:picclo remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:10 CH
+BAG:picclo remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:10 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:10 CH
+BAG:picclo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:10 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:10 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:10 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:11 CH
+BAG:picclo remove Ẩn danh lydo: Tự Xóa vật phẩm at 02/02/2023 7:12 CH
+BAG:picclo remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 7:12 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:12 CH
+BAG:picclo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:14 CH
+BAG:picclo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:14 CH
+BAG:picclo remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:14 CH
+BAG:picclo remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 7:14 CH
+BAG:picclo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:14 CH
+BAG:picclo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:14 CH

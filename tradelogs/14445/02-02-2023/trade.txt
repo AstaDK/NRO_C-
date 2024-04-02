@@ -1,0 +1,162 @@
+infrared đã giao dịch với doremon: cho: (10)99xThỏi vàng,cho: (11)59xThỏi vàng, at 02/02/2023 12:11 SA
+doremon đã giao dịch với infrared: nhận: 99xThỏi vàng,nhận: 59xThỏi vàng, at 02/02/2023 12:11 SA
+zeuss đã giao dịch với ztrumxx: cho: (5)99xĐậu xanh,cho: (7)99xTrứng vịt muối,cho: (8)99xGà quay nguyên con,cho: (10)87xBột mì, at 02/02/2023 12:11 SA
+ztrumxx đã giao dịch với zeuss: nhận: 99xĐậu xanh,nhận: 99xTrứng vịt muối,nhận: 99xGà quay nguyên con,nhận: 87xBột mì, at 02/02/2023 12:11 SA
+octiu957 đã giao dịch với octieukkk: cho: (7)99xThỏi vàng,cho: (8)99xThỏi vàng,cho: (13)2xThỏi vàng, at 02/02/2023 12:12 SA
+octieukkk đã giao dịch với octiu957: nhận: 99xThỏi vàng,nhận: 99xThỏi vàng,nhận: 2xThỏi vàng, at 02/02/2023 12:12 SA
+rongnsnd đã giao dịch với octiu957: nhận: 50xThỏi vàng, at 02/02/2023 12:20 SA
+octiu957 đã giao dịch với rongnsnd: cho: (10)50xThỏi vàng, at 02/02/2023 12:20 SA
+ilikeboss đã giao dịch với doremon: cho: (22)1xQuần giáp đồng,cho: (21)1xÁo giáp đồng,cho: (23)1xGiầy đồng,cho: (24)1xRada cấp 2, at 02/02/2023 3:17 SA
+doremon đã giao dịch với ilikeboss: nhận: 1xQuần giáp đồng,nhận: 1xÁo giáp đồng,nhận: 1xGiầy đồng,nhận: 1xRada cấp 2, at 02/02/2023 3:17 SA
+picoloks đã giao dịch với picolok: cho: (4)99xNgọc Rồng 3 sao, at 02/02/2023 6:17 SA
+picolok đã giao dịch với picoloks: nhận: 99xNgọc Rồng 3 sao, at 02/02/2023 6:17 SA
+quangdz đã giao dịch với kakasi: cho: (13)5xNgọc Rồng 3 sao,cho: (6)99xNgọc Rồng 4 sao,cho: (12)32xNgọc Rồng 4 sao, at 02/02/2023 8:02 SA
+kakasi đã giao dịch với quangdz: nhận: 5xNgọc Rồng 3 sao,nhận: 99xNgọc Rồng 4 sao,nhận: 32xNgọc Rồng 4 sao, at 02/02/2023 8:02 SA
+octiu957 đã giao dịch với pocolo: cho: (3)50xThỏi vàng, at 02/02/2023 8:53 SA
+pocolo đã giao dịch với octiu957: nhận: 50xThỏi vàng, at 02/02/2023 8:53 SA
+anhksnhe đã giao dịch với anhpemtat: cho: (6)99xThỏi vàng, at 02/02/2023 9:06 SA
+anhpemtat đã giao dịch với anhksnhe: nhận: 99xThỏi vàng, at 02/02/2023 9:06 SA
+octieukkk đã giao dịch với octiu957: nhận: 2xCuồng nộ, at 02/02/2023 9:39 SA
+octiu957 đã giao dịch với octieukkk: cho: (11)2xCuồng nộ, at 02/02/2023 9:39 SA
+octiu957 đã giao dịch với octieukkk: cho: (11)5xCuồng nộ, at 02/02/2023 9:43 SA
+octieukkk đã giao dịch với octiu957: nhận: 5xCuồng nộ, at 02/02/2023 9:43 SA
+pit01 đã giao dịch với pitaz: nhận: 99xĐá thạch anh tím, at 02/02/2023 9:50 SA
+pitaz đã giao dịch với pit01: cho: (8)99xĐá thạch anh tím, at 02/02/2023 9:50 SA
+pit01 đã giao dịch với pitaz: nhận: 99xĐá thạch anh tím,nhận: 99xĐá thạch anh tím,nhận: 99xĐá thạch anh tím,nhận: 31xĐá thạch anh tím,nhận: 1xNgọc Rồng 7 sao, at 02/02/2023 9:57 SA
+pitaz đã giao dịch với pit01: cho: (7)99xĐá thạch anh tím,cho: (8)99xĐá thạch anh tím,cho: (9)99xĐá thạch anh tím,cho: (13)31xĐá thạch anh tím,cho: (14)1xNgọc Rồng 7 sao, at 02/02/2023 9:57 SA
+doremon đã giao dịch với ilikeboss: cho: (9)1xÁo giáp đồng,cho: (10)1xQuần giáp đồng,cho: (11)1xGiầy đồng,cho: (12)1xRada cấp 2, at 02/02/2023 10:04 SA
+ilikeboss đã giao dịch với doremon: nhận: 1xÁo giáp đồng,nhận: 1xQuần giáp đồng,nhận: 1xGiầy đồng,nhận: 1xRada cấp 2, at 02/02/2023 10:04 SA
+dinhbang đã giao dịch với pitaz: nhận: 1xGiày lưỡng long,nhận: 99xĐá thạch anh tím, at 02/02/2023 10:05 SA
+pitaz đã giao dịch với dinhbang: cho: (7)1xGiày lưỡng long,cho: (8)99xĐá thạch anh tím, at 02/02/2023 10:05 SA
+gemma66 đã giao dịch với ilikeboss: nhận: 1xGiầy vải thô,nhận: 1xÁo vải thô,nhận: 1xQuần vải thô,nhận: 1xRada cấp 1, at 02/02/2023 10:18 SA
+ilikeboss đã giao dịch với gemma66: cho: (25)1xGiầy vải thô,cho: (26)1xÁo vải thô,cho: (27)1xQuần vải thô,cho: (28)1xRada cấp 1, at 02/02/2023 10:18 SA
+pit01 đã giao dịch với pitaz: nhận: 18xThỏi vàng, at 02/02/2023 10:20 SA
+pitaz đã giao dịch với pit01: cho: (13)18xThỏi vàng, at 02/02/2023 10:20 SA
+octiu957 đã giao dịch với darkness: cho: (6)99xThỏi vàng,cho: (7)99xThỏi vàng,cho: (2)2xThỏi vàng, at 02/02/2023 11:05 SA
+darkness đã giao dịch với octiu957: nhận: 99xThỏi vàng,nhận: 99xThỏi vàng,nhận: 2xThỏi vàng, at 02/02/2023 11:05 SA
+tuoilozks đã giao dịch với anhksnhe: nhận: 1xRada cấp 1,nhận: 1xGiầy nhựa,nhận: 1xÁo vải 3 lỗ,nhận: 1xQuần vải đen, at 02/02/2023 11:10 SA
+anhksnhe đã giao dịch với tuoilozks: cho: (15)1xRada cấp 1,cho: (16)1xGiầy nhựa,cho: (17)1xÁo vải 3 lỗ,cho: (18)1xQuần vải đen, at 02/02/2023 11:10 SA
+octiu957 đã giao dịch với trumkkr: cho: (9)99xThỏi vàng,cho: (8)99xThỏi vàng,cho: (2)2xThỏi vàng, at 02/02/2023 11:27 SA
+trumkkr đã giao dịch với octiu957: nhận: 99xThỏi vàng,nhận: 99xThỏi vàng,nhận: 2xThỏi vàng, at 02/02/2023 11:27 SA
+darkness đã giao dịch với hnzero: nhận: 2xSao pha lê,nhận: 2xSao pha lê, at 02/02/2023 11:28 SA
+hnzero đã giao dịch với darkness: cho: (30)2xSao pha lê,cho: (31)2xSao pha lê, at 02/02/2023 11:28 SA
+dongdz đã giao dịch với infrared: cho: (7)10xThỏi vàng, at 02/02/2023 12:48 CH
+infrared đã giao dịch với dongdz: nhận: 10xThỏi vàng, at 02/02/2023 12:48 CH
+infrared đã giao dịch với dongdz: cho: (13)1xÁo Thần Namếc, at 02/02/2023 12:52 CH
+dongdz đã giao dịch với infrared: nhận: 1xÁo Thần Namếc, at 02/02/2023 12:52 CH
+picolok đã giao dịch với no1st: nhận: 28xThỏi vàng, at 02/02/2023 12:52 CH
+no1st đã giao dịch với picolok: cho: (7)28xThỏi vàng, at 02/02/2023 12:52 CH
+picolok đã giao dịch với picoloks: nhận: 38xThỏi vàng, at 02/02/2023 12:53 CH
+picoloks đã giao dịch với picolok: cho: (5)38xThỏi vàng, at 02/02/2023 12:53 CH
+luxubu đã giao dịch với genma10: cho: (0)99xBổ huyết, at 02/02/2023 1:01 CH
+genma10 đã giao dịch với luxubu: nhận: 99xBổ huyết, at 02/02/2023 1:01 CH
+kakaroto đã giao dịch với picolok: cho: (20)1xCuồng nộ, at 02/02/2023 1:15 CH
+picolok đã giao dịch với kakaroto: nhận: 1xCuồng nộ, at 02/02/2023 1:15 CH
+picolok đã giao dịch với kakaroto: nhận: 1xÁo Thần Namếc, at 02/02/2023 1:18 CH
+kakaroto đã giao dịch với picolok: cho: (9)1xÁo Thần Namếc, at 02/02/2023 1:18 CH
+kakaroto đã giao dịch với picolok: cho: (17)2xCuồng nộ, at 02/02/2023 2:34 CH
+picolok đã giao dịch với kakaroto: nhận: 2xCuồng nộ, at 02/02/2023 2:34 CH
+sugarbaby đã giao dịch với picolok: nhận: 99xThỏi vàng, at 02/02/2023 2:41 CH
+picolok đã giao dịch với sugarbaby: cho: (6)99xThỏi vàng, at 02/02/2023 2:41 CH
+picolok đã giao dịch với sugarbaby: cho: (6)99xThỏi vàng, at 02/02/2023 2:44 CH
+sugarbaby đã giao dịch với picolok: nhận: 99xThỏi vàng, at 02/02/2023 2:44 CH
+picolok đã giao dịch với sugarbaby: cho: (6)52xThỏi vàng, at 02/02/2023 2:45 CH
+sugarbaby đã giao dịch với picolok: nhận: 52xThỏi vàng, at 02/02/2023 2:45 CH
+ilikeboss đã giao dịch với luxubu: cho: (11)99xThỏi vàng,nhận: 50xCuồng nộ, at 02/02/2023 3:17 CH
+luxubu đã giao dịch với ilikeboss: cho: (11)50xCuồng nộ,nhận: 99xThỏi vàng, at 02/02/2023 3:17 CH
+luxubu đã giao dịch với huyenthoai: cho: (12)50xCuồng nộ,nhận: 99xThỏi vàng, at 02/02/2023 3:52 CH
+huyenthoai đã giao dịch với luxubu: cho: (2)99xThỏi vàng,nhận: 50xCuồng nộ, at 02/02/2023 3:52 CH
+picolok đã giao dịch với top1xayda: cho: (6)99xThỏi vàng, at 02/02/2023 4:14 CH
+top1xayda đã giao dịch với picolok: nhận: 99xThỏi vàng, at 02/02/2023 4:14 CH
+picolok đã giao dịch với top1xayda: cho: (6)99xThỏi vàng, at 02/02/2023 4:15 CH
+top1xayda đã giao dịch với picolok: nhận: 99xThỏi vàng, at 02/02/2023 4:15 CH
+top1xayda đã giao dịch với picolok: nhận: 2xThỏi vàng, at 02/02/2023 4:15 CH
+picolok đã giao dịch với top1xayda: cho: (6)2xThỏi vàng, at 02/02/2023 4:15 CH
+picolok đã giao dịch với tuoilozks: cho: (6)50xThỏi vàng, at 02/02/2023 4:20 CH
+tuoilozks đã giao dịch với picolok: nhận: 50xThỏi vàng, at 02/02/2023 4:20 CH
+picolok đã giao dịch với tuoilozks: cho: (6)50xThỏi vàng, at 02/02/2023 4:22 CH
+tuoilozks đã giao dịch với picolok: nhận: 50xThỏi vàng, at 02/02/2023 4:22 CH
+dinhbang đã giao dịch với pitaz:  at 02/02/2023 4:37 CH
+pitaz đã giao dịch với dinhbang:  at 02/02/2023 4:37 CH
+top1xayda đã giao dịch với infrared: nhận: 15xNgọc Rồng 3 sao, at 02/02/2023 4:51 CH
+infrared đã giao dịch với top1xayda: cho: (14)15xNgọc Rồng 3 sao, at 02/02/2023 4:51 CH
+top1kame đã giao dịch với top1xayda: cho: (15)7xThỏi vàng, at 02/02/2023 4:53 CH
+top1xayda đã giao dịch với top1kame: nhận: 7xThỏi vàng, at 02/02/2023 4:53 CH
+trumkkr đã giao dịch với gaidiem: cho: (9)15xNgọc Rồng 3 sao, at 02/02/2023 4:56 CH
+gaidiem đã giao dịch với trumkkr: nhận: 15xNgọc Rồng 3 sao, at 02/02/2023 4:56 CH
+anhpemtat đã giao dịch với anhksnhe: cho: (11)12xNgọc Rồng 3 sao, at 02/02/2023 4:58 CH
+anhksnhe đã giao dịch với anhpemtat: nhận: 12xNgọc Rồng 3 sao, at 02/02/2023 4:58 CH
+huyenthoai đã giao dịch với kakaroto: cho: (2)20xThỏi vàng,nhận: 1xNgọc Rồng 1 sao,nhận: 1xNgọc Rồng 2 sao,nhận: 1xNgọc Rồng 3 sao,nhận: 1xNgọc Rồng 4 sao,nhận: 1xNgọc Rồng 5 sao,nhận: 1xNgọc Rồng 6 sao,nhận: 1xNgọc Rồng 7 sao, at 02/02/2023 5:04 CH
+kakaroto đã giao dịch với huyenthoai: cho: (14)1xNgọc Rồng 1 sao,cho: (15)1xNgọc Rồng 2 sao,cho: (16)1xNgọc Rồng 3 sao,cho: (8)1xNgọc Rồng 4 sao,cho: (6)1xNgọc Rồng 5 sao,cho: (7)1xNgọc Rồng 6 sao,cho: (4)1xNgọc Rồng 7 sao,nhận: 20xThỏi vàng, at 02/02/2023 5:04 CH
+huyenthoai đã giao dịch với kakaroto: cho: (2)80xThỏi vàng,nhận: 4xNgọc Rồng 1 sao,nhận: 4xNgọc Rồng 2 sao,nhận: 4xNgọc Rồng 3 sao,nhận: 4xNgọc Rồng 4 sao,nhận: 4xNgọc Rồng 5 sao,nhận: 4xNgọc Rồng 6 sao,nhận: 4xNgọc Rồng 7 sao, at 02/02/2023 5:06 CH
+kakaroto đã giao dịch với huyenthoai: cho: (14)4xNgọc Rồng 1 sao,cho: (15)4xNgọc Rồng 2 sao,cho: (16)4xNgọc Rồng 3 sao,cho: (8)4xNgọc Rồng 4 sao,cho: (6)4xNgọc Rồng 5 sao,cho: (7)4xNgọc Rồng 6 sao,cho: (4)4xNgọc Rồng 7 sao,nhận: 80xThỏi vàng, at 02/02/2023 5:06 CH
+kakaroto đã giao dịch với huyenthoai: cho: (15)7xNgọc Rồng 1 sao,cho: (16)7xNgọc Rồng 2 sao,cho: (17)7xNgọc Rồng 3 sao,cho: (9)7xNgọc Rồng 4 sao,cho: (7)7xNgọc Rồng 5 sao,cho: (8)7xNgọc Rồng 6 sao,cho: (5)7xNgọc Rồng 7 sao,nhận: 99xThỏi vàng,nhận: 21xThỏi vàng, at 02/02/2023 5:18 CH
+huyenthoai đã giao dịch với kakaroto: cho: (17)99xThỏi vàng,cho: (18)21xThỏi vàng,nhận: 7xNgọc Rồng 1 sao,nhận: 7xNgọc Rồng 2 sao,nhận: 7xNgọc Rồng 3 sao,nhận: 7xNgọc Rồng 4 sao,nhận: 7xNgọc Rồng 5 sao,nhận: 7xNgọc Rồng 6 sao,nhận: 7xNgọc Rồng 7 sao, at 02/02/2023 5:18 CH
+billi đã giao dịch với picolok: nhận: 99xThỏi vàng, at 02/02/2023 5:32 CH
+picolok đã giao dịch với billi: cho: (6)99xThỏi vàng, at 02/02/2023 5:32 CH
+billi đã giao dịch với picolok: nhận: 51xThỏi vàng, at 02/02/2023 5:32 CH
+picolok đã giao dịch với billi: cho: (12)51xThỏi vàng, at 02/02/2023 5:32 CH
+dongdz đã giao dịch với infrared: nhận: 1xGăng vàng Zealot, at 02/02/2023 6:00 CH
+infrared đã giao dịch với dongdz: cho: (8)1xGăng vàng Zealot, at 02/02/2023 6:00 CH
+admin04 đã giao dịch với top1xayda: cho: (20)99xThỏi vàng,cho: (1)61xThỏi vàng, at 02/02/2023 6:06 CH
+top1xayda đã giao dịch với admin04: nhận: 99xThỏi vàng,nhận: 61xThỏi vàng, at 02/02/2023 6:06 CH
+pitaz đã giao dịch với pit01: nhận: 57xNgọc Rồng 5 sao,nhận: 63xNgọc Rồng 6 sao,nhận: 28xNgọc Rồng 7 sao,nhận: 6xNgọc Rồng 4 sao,nhận: 2xNgọc Rồng 3 sao, at 02/02/2023 6:16 CH
+pit01 đã giao dịch với pitaz: cho: (3)57xNgọc Rồng 5 sao,cho: (4)63xNgọc Rồng 6 sao,cho: (5)28xNgọc Rồng 7 sao,cho: (10)6xNgọc Rồng 4 sao,cho: (18)2xNgọc Rồng 3 sao, at 02/02/2023 6:16 CH
+octiu957 đã giao dịch với octieukkk: cho: (15)5xCuồng nộ, at 02/02/2023 7:33 CH
+octieukkk đã giao dịch với octiu957: nhận: 5xCuồng nộ, at 02/02/2023 7:33 CH
+satsthan đã giao dịch với kakarot: nhận: 99xThỏi vàng,nhận: 99xThỏi vàng, at 02/02/2023 7:43 CH
+kakarot đã giao dịch với satsthan: cho: (11)99xThỏi vàng,cho: (12)99xThỏi vàng, at 02/02/2023 7:43 CH
+kakarot đã giao dịch với titnghichnghom: cho: (1)50xThỏi vàng, at 02/02/2023 7:44 CH
+titnghichnghom đã giao dịch với kakarot: nhận: 50xThỏi vàng, at 02/02/2023 7:44 CH
+doremon đã giao dịch với titnghichnghom: cho: (8)10xThỏi vàng, at 02/02/2023 7:56 CH
+titnghichnghom đã giao dịch với doremon: nhận: 10xThỏi vàng, at 02/02/2023 7:56 CH
+top1xayda đã giao dịch với doremon: nhận: 10xThỏi vàng, at 02/02/2023 7:56 CH
+doremon đã giao dịch với top1xayda: cho: (8)10xThỏi vàng, at 02/02/2023 7:56 CH
+doremon đã giao dịch với ztrumxx: cho: (8)10xThỏi vàng, at 02/02/2023 7:57 CH
+ztrumxx đã giao dịch với doremon: nhận: 10xThỏi vàng, at 02/02/2023 7:57 CH
+octieukkk đã giao dịch với doremon: nhận: 10xThỏi vàng, at 02/02/2023 7:58 CH
+doremon đã giao dịch với octieukkk: cho: (8)10xThỏi vàng, at 02/02/2023 7:58 CH
+tuoilozks đã giao dịch với doremon: nhận: 10xThỏi vàng, at 02/02/2023 8:01 CH
+doremon đã giao dịch với tuoilozks: cho: (8)10xThỏi vàng, at 02/02/2023 8:01 CH
+doremon đã giao dịch với ilikeboss: cho: (8)10xThỏi vàng, at 02/02/2023 8:03 CH
+ilikeboss đã giao dịch với doremon: nhận: 10xThỏi vàng, at 02/02/2023 8:03 CH
+doremon đã giao dịch với zenonappe: cho: (8)10xThỏi vàng, at 02/02/2023 8:04 CH
+zenonappe đã giao dịch với doremon: nhận: 10xThỏi vàng, at 02/02/2023 8:04 CH
+kakarot đã giao dịch với tuoilozks: cho: (1)99xThỏi vàng, at 02/02/2023 8:14 CH
+tuoilozks đã giao dịch với kakarot: nhận: 99xThỏi vàng, at 02/02/2023 8:14 CH
+octiu957 đã giao dịch với bunma: cho: (2)50xThỏi vàng, at 02/02/2023 8:15 CH
+bunma đã giao dịch với octiu957: nhận: 50xThỏi vàng, at 02/02/2023 8:15 CH
+billi đã giao dịch với octieukkk: nhận: 23xSao pha lê, at 02/02/2023 8:18 CH
+octieukkk đã giao dịch với billi: cho: (25)23xSao pha lê, at 02/02/2023 8:18 CH
+kakaroto đã giao dịch với anhksnhe: cho: (19)5xNgọc Rồng 1 sao,cho: (20)5xNgọc Rồng 2 sao,cho: (21)15xNgọc Rồng 3 sao,cho: (8)5xNgọc Rồng 4 sao,cho: (6)5xNgọc Rồng 5 sao,cho: (7)5xNgọc Rồng 6 sao,cho: (4)5xNgọc Rồng 7 sao,nhận: 99xThỏi vàng,nhận: 21xThỏi vàng, at 02/02/2023 8:48 CH
+anhksnhe đã giao dịch với kakaroto: cho: (8)99xThỏi vàng,cho: (6)21xThỏi vàng,nhận: 5xNgọc Rồng 1 sao,nhận: 5xNgọc Rồng 2 sao,nhận: 15xNgọc Rồng 3 sao,nhận: 5xNgọc Rồng 4 sao,nhận: 5xNgọc Rồng 5 sao,nhận: 5xNgọc Rồng 6 sao,nhận: 5xNgọc Rồng 7 sao, at 02/02/2023 8:48 CH
+kakarots9x99 đã giao dịch với ztrumxx: cho: (17)5xNgọc Rồng 3 sao,cho: (14)1xGiày vàng Zealot,cho: (13)1xQuần vàng Zealot, at 02/02/2023 8:52 CH
+ztrumxx đã giao dịch với kakarots9x99: nhận: 5xNgọc Rồng 3 sao,nhận: 1xGiày vàng Zealot,nhận: 1xQuần vàng Zealot, at 02/02/2023 8:52 CH
+top1xayda đã giao dịch với anhksnhe: nhận: 1xGiầy Thần Xayda, at 02/02/2023 8:58 CH
+anhksnhe đã giao dịch với top1xayda: cho: (9)1xGiầy Thần Xayda, at 02/02/2023 8:58 CH
+pocolo đã giao dịch với kakasi: cho: (14)30xNgọc Rồng 3 sao, at 02/02/2023 9:01 CH
+kakasi đã giao dịch với pocolo: nhận: 30xNgọc Rồng 3 sao, at 02/02/2023 9:01 CH
+top1xayda đã giao dịch với ztrumxx: cho: (17)1xÁo vàng Zealot, at 02/02/2023 9:32 CH
+ztrumxx đã giao dịch với top1xayda: nhận: 1xÁo vàng Zealot, at 02/02/2023 9:32 CH
+kakarots9x99 đã giao dịch với doremon: cho: (11)1xGiày lưỡng long, at 02/02/2023 9:33 CH
+doremon đã giao dịch với kakarots9x99: nhận: 1xGiày lưỡng long, at 02/02/2023 9:33 CH
+top1xayda đã giao dịch với ilikeboss: nhận: 80xThỏi vàng, at 02/02/2023 9:43 CH
+ilikeboss đã giao dịch với top1xayda: cho: (15)80xThỏi vàng, at 02/02/2023 9:43 CH
+thantd đã giao dịch với octiu957: nhận: 50xThỏi vàng, at 02/02/2023 10:12 CH
+octiu957 đã giao dịch với thantd: cho: (2)50xThỏi vàng, at 02/02/2023 10:12 CH
+alpha đã giao dịch với soc1s2bay: cho: (24)3xBổ huyết,nhận: 1xCuồng nộ, at 02/02/2023 10:32 CH
+soc1s2bay đã giao dịch với alpha: cho: (27)1xCuồng nộ,nhận: 3xBổ huyết, at 02/02/2023 10:32 CH
+pitaz đã giao dịch với dinhbang: nhận: 99xNgọc Rồng 5 sao,nhận: 3xNgọc Rồng 6 sao,nhận: 46xNgọc Rồng 3 sao, at 02/02/2023 11:08 CH
+dinhbang đã giao dịch với pitaz: cho: (6)99xNgọc Rồng 5 sao,cho: (7)3xNgọc Rồng 6 sao,cho: (16)46xNgọc Rồng 3 sao, at 02/02/2023 11:08 CH
+gaidiem đã giao dịch với pitaz: cho: (6)30xThỏi vàng,nhận: 1xNgọc Rồng 5 sao,nhận: 1xNgọc Rồng 2 sao,nhận: 1xNgọc Rồng 1 sao,nhận: 1xNgọc Rồng 6 sao,nhận: 1xNgọc Rồng 7 sao,nhận: 1xNgọc Rồng 4 sao, at 02/02/2023 11:12 CH
+pitaz đã giao dịch với gaidiem: cho: (5)1xNgọc Rồng 5 sao,cho: (13)1xNgọc Rồng 2 sao,cho: (17)1xNgọc Rồng 1 sao,cho: (16)1xNgọc Rồng 6 sao,cho: (15)1xNgọc Rồng 7 sao,cho: (14)1xNgọc Rồng 4 sao,nhận: 30xThỏi vàng, at 02/02/2023 11:12 CH
+namduck đã giao dịch với nta002: cho: (8)15xThỏi vàng,nhận: 1xÁo khoác Xayda,nhận: 1xQuần da Xayda,nhận: 1xGiày lông đỏ,nhận: 1xRada cấp 8,nhận: 3xSao pha lê,nhận: 2xSao pha lê, at 02/02/2023 11:13 CH
+nta002 đã giao dịch với namduck: cho: (6)1xÁo khoác Xayda,cho: (7)1xQuần da Xayda,cho: (8)1xGiày lông đỏ,cho: (9)1xRada cấp 8,cho: (16)3xSao pha lê,cho: (17)2xSao pha lê,nhận: 15xThỏi vàng, at 02/02/2023 11:13 CH
+pitaz đã giao dịch với gaidiem: cho: (12)1xNgọc Rồng 3 sao, at 02/02/2023 11:13 CH
+gaidiem đã giao dịch với pitaz: nhận: 1xNgọc Rồng 3 sao, at 02/02/2023 11:13 CH
+kakaroto đã giao dịch với gaidiem: cho: (20)8xNgọc Rồng 2 sao,cho: (21)1xNgọc Rồng 3 sao,cho: (10)1xNgọc Rồng 4 sao,cho: (8)1xNgọc Rồng 5 sao,cho: (9)1xNgọc Rồng 6 sao,cho: (6)1xNgọc Rồng 7 sao,nhận: 40xThỏi vàng, at 02/02/2023 11:23 CH
+gaidiem đã giao dịch với kakaroto: cho: (6)40xThỏi vàng,nhận: 8xNgọc Rồng 2 sao,nhận: 1xNgọc Rồng 3 sao,nhận: 1xNgọc Rồng 4 sao,nhận: 1xNgọc Rồng 5 sao,nhận: 1xNgọc Rồng 6 sao,nhận: 1xNgọc Rồng 7 sao, at 02/02/2023 11:23 CH
+luxubu đã giao dịch với gaidiem: cho: (5)1xNgọc Rồng 5 sao,cho: (7)8xNgọc Rồng 4 sao,cho: (9)1xNgọc Rồng 6 sao,cho: (10)1xNgọc Rồng 1 sao,cho: (12)1xNgọc Rồng 5 sao,cho: (13)1xNgọc Rồng 2 sao,cho: (11)1xNgọc Rồng 7 sao,nhận: 20xThỏi vàng, at 02/02/2023 11:34 CH
+gaidiem đã giao dịch với luxubu: cho: (7)20xThỏi vàng,nhận: 1xNgọc Rồng 5 sao,nhận: 8xNgọc Rồng 4 sao,nhận: 1xNgọc Rồng 6 sao,nhận: 1xNgọc Rồng 1 sao,nhận: 1xNgọc Rồng 5 sao,nhận: 1xNgọc Rồng 2 sao,nhận: 1xNgọc Rồng 7 sao, at 02/02/2023 11:34 CH
+luxubu đã giao dịch với top1xayda: cho: (8)2xCuồng nộ,nhận: 4xThỏi vàng, at 02/02/2023 11:56 CH
+top1xayda đã giao dịch với luxubu: cho: (19)4xThỏi vàng,nhận: 2xCuồng nộ, at 02/02/2023 11:56 CH

@@ -1,0 +1,16 @@
+BAG:testboah remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 11:09 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:09 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:10 CH
+BAG:testboah remove Quần vải đen lydo: Tự Xóa vật phẩm at 02/02/2023 11:13 CH
+BAG:testboah remove Găng vải dày lydo: Mặc vào người at 02/02/2023 11:25 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:26 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:27 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:27 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:27 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:28 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:28 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:28 CH
+BAG:testboah remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:29 CH
+BAG:testboah remove Diều rồng lydo: Tự Xóa vật phẩm at 02/02/2023 11:40 CH
+BAG:testboah remove Mèo mun lydo: Tự Xóa vật phẩm at 02/02/2023 11:41 CH
+BAG:testboah remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 11:41 CH

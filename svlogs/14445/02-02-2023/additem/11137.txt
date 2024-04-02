@@ -1,0 +1,113 @@
+BAG:gotenk add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 10:58 CH
+BAG:gotenk add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 10:58 CH
+BAG:gotenk add 7xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/02/2023 11:03 CH
+BAG:gotenk add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:gotenk add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:gotenk add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:gotenk add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:gotenk add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:gotenk add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:gotenk add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 02/02/2023 11:09 CH
+BAG:gotenk add 4xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 11:10 CH
+BAG:gotenk add 7xĐậu thần cấp 2 (old: 4) lydo: Lấy từ rương qua người at 02/02/2023 11:10 CH
+BAG:gotenk add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 11:10 CH
+BAG:gotenk add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:gotenk add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:gotenk add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:gotenk add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:gotenk add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:gotenk add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:gotenk add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:gotenk add 10xĐậu thần cấp 2 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 11:14 CH
+BAG:gotenk add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:gotenk add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:gotenk add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:gotenk add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:gotenk add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:gotenk add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:gotenk add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:gotenk add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 11:19 CH
+BAG:gotenk add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 11:19 CH
+BAG:gotenk add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:gotenk add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:gotenk add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:gotenk add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:gotenk add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:gotenk add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:gotenk add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:gotenk add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 11:24 CH
+BAG:gotenk add 8xĐậu thần cấp 2 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 11:25 CH
+BAG:gotenk add 20xThỏi vàng lydo: Giftcode at 02/02/2023 11:29 CH
+BAG:gotenk add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 11:30 CH
+BAG:gotenk add 1xCải trang Chill lydo: Mua từ cửa hàng at 02/02/2023 11:30 CH
+BAG:gotenk add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:gotenk add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:gotenk add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:gotenk add 9xĐậu thần cấp 2 (old: 6) lydo: Thu hoạch đậu at 02/02/2023 11:32 CH
+BAG:gotenk add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/02/2023 11:36 CH
+BAG:gotenk add 1xÁo thun dày lydo: Mua từ cửa hàng at 02/02/2023 11:37 CH
+BAG:gotenk add 1xQuần thun dày lydo: Mua từ cửa hàng at 02/02/2023 11:37 CH
+BAG:gotenk add 1xGăng vải dày lydo: Mua từ cửa hàng at 02/02/2023 11:37 CH
+BAG:gotenk add 1xGiày cao su đế dày lydo: Mua từ cửa hàng at 02/02/2023 11:37 CH
+BAG:gotenk add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:40 CH
+BAG:gotenk add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:gotenk add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:gotenk add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:gotenk add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:gotenk add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:gotenk add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:gotenk add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 11:45 CH
+BAG:gotenk add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:45 CH
+BAG:gotenk add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:gotenk add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:gotenk add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:gotenk add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:gotenk add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:gotenk add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:gotenk add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:gotenk add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:gotenk add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:gotenk add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 02/02/2023 11:50 CH
+BAG:gotenk add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 02/02/2023 11:50 CH
+BAG:gotenk add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/02/2023 11:50 CH
+BAG:gotenk add 1xÁo vải Kame lydo: Mua từ cửa hàng at 02/02/2023 11:51 CH
+BAG:gotenk add 1xQuần vải Kame lydo: Mua từ cửa hàng at 02/02/2023 11:51 CH
+BAG:gotenk add 1xGăng thun dày lydo: Mua từ cửa hàng at 02/02/2023 11:51 CH
+BAG:gotenk add 1xGiày nhựa Kame lydo: Mua từ cửa hàng at 02/02/2023 11:51 CH
+BAG:gotenk add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 11:52 CH
+BAG:gotenk add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 11:52 CH
+BAG:gotenk add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:gotenk add 11xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 11:54 CH
+BAG:gotenk add 13xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 02/02/2023 11:54 CH
+BAG:gotenk add 6xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 11:54 CH
+BAG:gotenk add 24xĐậu thần cấp 10 (old: 11) lydo: Lấy từ rương qua người at 02/02/2023 11:54 CH
+BAG:gotenk add 44xĐậu thần cấp 10 (old: 24) lydo: Lấy từ rương qua người at 02/02/2023 11:54 CH
+BAG:gotenk add 64xĐậu thần cấp 10 (old: 44) lydo: Lấy từ rương qua người at 02/02/2023 11:55 CH
+BAG:gotenk add 84xĐậu thần cấp 10 (old: 64) lydo: Lấy từ rương qua người at 02/02/2023 11:55 CH
+BAG:gotenk add 5xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 02/02/2023 11:55 CH
+BAG:gotenk add 99xĐậu thần cấp 10 (old: 84) lydo: Lấy từ rương qua người at 02/02/2023 11:55 CH
+BAG:gotenk add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:gotenk add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:gotenk add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:gotenk add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:gotenk add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:gotenk add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:gotenk add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:gotenk add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:gotenk add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 11:59 CH
+BAG:gotenk add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 11:59 CH

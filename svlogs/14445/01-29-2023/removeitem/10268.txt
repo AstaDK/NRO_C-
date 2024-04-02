@@ -1,0 +1,81 @@
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:18 PM
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:18 PM
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:19 PM
+BAG:kakalot remove Cải trang Chill lydo: Mặc vào người at 01/29/2023 7:32 PM
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:36 PM
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:42 PM
+BAG:kakalot remove 1xÁo vải thô lydo: Bán cho shop at 01/29/2023 7:43 PM
+BAG:kakalot remove Găng đồng lydo: Mặc vào người at 01/29/2023 7:43 PM
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:44 PM
+BAG:kakalot remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/29/2023 7:46 PM
+BAG:kakalot remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/29/2023 7:46 PM
+BAG:kakalot remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:46 PM
+BAG:kakalot remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 7:46 PM
+BAG:kakalot remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/29/2023 7:46 PM
+BAG:kakalot remove Mèo mun lydo: Tự Xóa vật phẩm at 01/29/2023 7:46 PM
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:46 PM
+BAG:kakalot remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:48 PM
+BAG:kakalot remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 7:48 PM
+BAG:kakalot remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 7:53 PM
+BAG:kakalot remove 1xÁo giáp bạc lydo: Bán cho shop at 01/29/2023 7:57 PM
+BAG:kakalot remove 1xQuần vải thô lydo: Bán cho shop at 01/29/2023 7:58 PM
+BAG:kakalot remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 01/29/2023 8:03 PM
+BAG:kakalot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:16 PM
+BAG:kakalot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 8:17 PM
+BAG:kakalot remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 8:17 PM
+BAG:kakalot remove Giầy vải thô lydo: Cất vào rương at 01/29/2023 8:18 PM
+BAG:kakalot remove Rada cấp 1 lydo: Cất vào rương at 01/29/2023 8:18 PM
+BAG:kakalot remove Áo vải thô lydo: Cất vào rương at 01/29/2023 8:18 PM
+BAG:kakalot remove Giầy vải thô lydo: Cất vào rương at 01/29/2023 8:18 PM
+BAG:kakalot remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 01/29/2023 8:26 PM
+BAG:kakalot remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 01/29/2023 8:26 PM
+BAG:kakalot remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 01/29/2023 8:26 PM
+BAG:kakalot remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 01/29/2023 8:26 PM
+BAG:kakalot remove 1xGiày bạc lydo: Bán cho shop at 01/29/2023 8:40 PM
+BAG:kakalot remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 8:41 PM
+BAG:kakalot remove Viên Capsule đặc biệt lydo: Cất vào rương at 01/29/2023 8:41 PM
+BAG:kakalot remove Bông tai Porata lydo: Cất vào rương at 01/29/2023 8:41 PM
+BAG:kakalot remove Cải trang Chill lydo: Cất vào rương at 01/29/2023 8:41 PM
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 8:43 PM
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 8:43 PM
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 8:44 PM
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:kakalot remove Cải trang lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 8:50 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 8:52 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 8:56 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:00 PM
+BAG:kakalot remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 9:00 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:04 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:08 PM
+BAG:kakalot remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 01/29/2023 9:10 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:12 PM
+BAG:kakalot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:15 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:16 PM
+BAG:kakalot remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 9:17 PM
+BAG:kakalot remove Áo vải thô lydo: Cất vào rương at 01/29/2023 9:18 PM
+BAG:kakalot remove Áo vải thô lydo: Cất vào rương at 01/29/2023 9:18 PM
+BAG:kakalot remove Rada cấp 1 lydo: Cất vào rương at 01/29/2023 9:19 PM
+BAG:kakalot remove Găng vải thô lydo: Cất vào rương at 01/29/2023 9:19 PM
+BAG:kakalot remove Quần vải thô lydo: Cất vào rương at 01/29/2023 9:19 PM
+BAG:kakalot remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 9:20 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:24 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:28 PM
+BAG:kakalot remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:32 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:32 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:36 PM
+BAG:kakalot remove Giầy vải thô lydo: Cất vào rương at 01/29/2023 9:38 PM
+BAG:kakalot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:39 PM
+BAG:kakalot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:39 PM
+BAG:kakalot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:39 PM
+BAG:kakalot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:39 PM
+BAG:kakalot remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 9:41 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:42 PM
+BAG:kakalot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:42 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:47 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:52 PM
+BAG:kakalot remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:57 PM
+BAG:kakalot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:58 PM

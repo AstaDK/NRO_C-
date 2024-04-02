@@ -1,0 +1,86 @@
+BAG:quangdz add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:quangdz add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:quangdz add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:quangdz add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:quangdz add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 12:04 SA
+BAG:quangdz add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 12:04 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:04 SA
+BAG:quangdz add 14xCủ cà rốt (old: 13) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:quangdz add 17xĐậu xanh (old: 14) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:quangdz add 4xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:quangdz add 8xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:quangdz add 16xCủ cà rốt (old: 14) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:quangdz add 21xBột mì (old: 17) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:quangdz add 25xBột mì (old: 21) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:quangdz add 29xBột mì (old: 25) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:quangdz add 32xBột mì (old: 29) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:quangdz add 35xBột mì (old: 32) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:quangdz add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:quangdz add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:quangdz add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:quangdz add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:quangdz add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:quangdz add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:quangdz add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:quangdz add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:quangdz add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:quangdz add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:quangdz add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:quangdz add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:13 SA
+BAG:quangdz add 1xBánh trung thu thập cẩm lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 17xCủ cà rốt (old: 16) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 37xBột mì (old: 35) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 5xBánh trung thu thập cẩm (old: 1) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 22xĐậu xanh (old: 18) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 10xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 26xĐậu xanh (old: 22) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 39xBột mì (old: 37) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 43xBột mì (old: 39) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:quangdz add 1xNgọc Rồng 6 sao lydo: CSTT at 02/03/2023 12:16 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:17 SA
+BAG:quangdz add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:quangdz add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:quangdz add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:23 SA
+BAG:quangdz add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:quangdz add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:quangdz add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:27 SA
+BAG:quangdz add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 6:18 SA
+BAG:quangdz add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:quangdz add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:quangdz add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:quangdz add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:quangdz add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:quangdz add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 6:19 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 6:21 SA
+BAG:quangdz add 30xĐậu xanh (old: 26) lydo: Nhặt từ map at 02/03/2023 6:22 SA
+BAG:quangdz add 21xCủ cà rốt (old: 17) lydo: Nhặt từ map at 02/03/2023 6:22 SA
+BAG:quangdz add 32xĐậu xanh (old: 30) lydo: Nhặt từ map at 02/03/2023 6:22 SA
+BAG:quangdz add 36xĐậu xanh (old: 32) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 28xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 45xBột mì (old: 43) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 48xBột mì (old: 45) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 30xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 32xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 3xBánh trung thu thập cẩm lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 13xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 02/03/2023 6:23 SA
+BAG:quangdz add 1xNgọc Rồng 6 sao lydo: CSTT at 02/03/2023 6:24 SA
+BAG:quangdz add 2xNgọc Rồng 6 sao (old: 1) lydo: CSTT at 02/03/2023 6:24 SA
+BAG:quangdz add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 6:24 SA
+BAG:quangdz add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 6:26 SA
+BAG:quangdz add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 02/03/2023 6:26 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 6:32 SA
+BAG:quangdz add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 02/03/2023 6:40 SA
+BAG:quangdz add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:quangdz add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:quangdz add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:quangdz add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:quangdz add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 6:45 SA
+BAG:quangdz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 6:46 SA
+BAG:quangdz add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 02/03/2023 7:49 SA
+BAG:quangdz add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 02/03/2023 11:50 SA

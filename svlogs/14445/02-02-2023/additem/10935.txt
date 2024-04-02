@@ -1,0 +1,11 @@
+BAG:shank add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 12:33 CH
+BAG:shank add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:43 CH
+BAG:shank add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:43 CH
+BAG:shank add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 12:43 CH
+BAG:shank add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/02/2023 12:45 CH
+BAG:shank add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:shank add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:shank add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:shank add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:46 CH
+BAG:shank add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:shank add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 12:49 CH

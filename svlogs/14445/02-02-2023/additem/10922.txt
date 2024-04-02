@@ -1,0 +1,28 @@
+BAG:hachi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 11:18 SA
+BAG:hachi add 6xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 11:20 SA
+BAG:hachi add 5xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 11:23 SA
+BAG:hachi add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 02/02/2023 12:30 CH
+BAG:hachi add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:31 CH
+BAG:hachi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 12:37 CH
+BAG:hachi add 5xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 12:37 CH
+BAG:hachi add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:38 CH
+BAG:hachi add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:40 CH
+BAG:hachi add 2xĐậu thần cấp 2 (old: 1) lydo: Thu hoạch đậu at 02/02/2023 12:41 CH
+BAG:hachi add 9xĐậu thần cấp 2 (old: 2) lydo: Thu hoạch đậu at 02/02/2023 12:41 CH
+BAG:hachi add 10xĐậu thần cấp 2 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 12:41 CH
+BAG:hachi add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 12:42 CH
+BAG:hachi add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 12:43 CH
+BAG:hachi add 10xĐậu thần cấp 2 (old: 3) lydo: Thu hoạch đậu at 02/02/2023 12:43 CH
+BAG:hachi add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:44 CH
+BAG:hachi add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:44 CH
+BAG:hachi add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:hachi add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:hachi add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 12:46 CH
+BAG:hachi add 1xLì xì lydo: Nhặt từ map at 02/02/2023 12:46 CH
+BAG:hachi add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 12:47 CH
+BAG:hachi add 1xPhi Long VIP lydo: Mua từ cửa hàng at 02/02/2023 12:47 CH
+BAG:hachi add 10xĐậu thần cấp 2 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 12:48 CH
+BAG:hachi add 20xThỏi vàng lydo: Giftcode at 02/02/2023 12:48 CH
+BAG:hachi add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/02/2023 12:49 CH
+BAG:hachi add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 12:50 CH
+BAG:hachi add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 02/02/2023 12:54 CH

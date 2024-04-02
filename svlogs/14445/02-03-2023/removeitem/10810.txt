@@ -1,0 +1,68 @@
+BAG:gaidiem remove 99xThỏi vàng lydo: Giao dịch với luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/03/2023 12:31 SA
+BAG:gaidiem remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/03/2023 12:33 SA
+BAG:gaidiem remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/03/2023 12:33 SA
+BAG:gaidiem remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/03/2023 12:33 SA
+BAG:gaidiem remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/03/2023 12:33 SA
+BAG:gaidiem remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/03/2023 12:33 SA
+BAG:gaidiem remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/03/2023 12:33 SA
+BAG:gaidiem remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/03/2023 12:33 SA
+BAG:gaidiem remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:35 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 12:37 SA
+BAG:gaidiem remove Quần vải đen lydo: Mặc vào người at 02/03/2023 12:38 SA
+BAG:gaidiem remove Áo vải 3 lỗ lydo: Mặc vào người at 02/03/2023 12:38 SA
+BAG:gaidiem remove Giầy nhựa lydo: Mặc vào người at 02/03/2023 12:38 SA
+BAG:gaidiem remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 12:38 SA
+BAG:gaidiem remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 02/03/2023 12:38 SA
+BAG:gaidiem remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:01 SA
+BAG:gaidiem remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:01 SA
+BAG:gaidiem remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:01 SA
+BAG:gaidiem remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 1:02 SA
+BAG:gaidiem remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 1:02 SA
+BAG:gaidiem remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 1:03 SA
+BAG:gaidiem remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 1:03 SA
+BAG:gaidiem remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 1:03 SA
+BAG:gaidiem remove Găng jean Calic lydo: Mặc cho đệ tử at 02/03/2023 1:04 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:55 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 7:12 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 7:29 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 7:46 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 8:03 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 8:20 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 8:37 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 8:54 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 9:11 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 9:27 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 9:44 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:01 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:18 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:35 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:52 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 11:09 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 11:26 SA
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:24 CH
+BAG:gaidiem remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:41 CH

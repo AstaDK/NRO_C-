@@ -1,0 +1,31 @@
+BAG:lugaming add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 9:02 PM
+BAG:lugaming add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:02 PM
+BAG:lugaming add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 9:03 PM
+BAG:lugaming add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 9:06 PM
+BAG:lugaming add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 9:07 PM
+BAG:lugaming add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 9:07 PM
+BAG:lugaming add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:lugaming add 1xĐậu xanh lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:lugaming add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:lugaming add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:lugaming add 6xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/29/2023 9:17 PM
+BAG:lugaming add 18xĐậu thần cấp 3 (old: 6) lydo: Lấy từ rương qua người at 01/29/2023 9:17 PM
+BAG:lugaming add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 01/29/2023 9:18 PM
+BAG:lugaming add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 01/29/2023 9:18 PM
+BAG:lugaming add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 01/29/2023 9:18 PM
+BAG:lugaming add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 01/29/2023 9:18 PM
+BAG:lugaming add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:lugaming add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 9:20 PM
+BAG:lugaming add 1xGhế bay lydo: Mua từ cửa hàng at 01/29/2023 9:21 PM
+BAG:lugaming add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 9:21 PM
+BAG:lugaming add 1xÁo giáp đồng lydo: Mua từ cửa hàng at 01/29/2023 9:21 PM
+BAG:lugaming add 1xQuần giáp đồng lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:lugaming add 1xGăng sắt lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:lugaming add 1xGiầy đồng lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:lugaming add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:lugaming add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:lugaming add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:lugaming add 20xThỏi vàng lydo: Giftcode at 01/29/2023 9:25 PM
+BAG:lugaming add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:lugaming add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:lugaming add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 9:26 PM

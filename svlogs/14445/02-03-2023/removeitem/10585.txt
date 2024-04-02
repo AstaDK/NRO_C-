@@ -1,0 +1,11 @@
+BAG:zenokkk remove 128xLì xì lydo: Bán cho shop at 02/03/2023 2:08 SA
+BAG:zenokkk remove 147xCây mai lydo: Bán cho shop at 02/03/2023 2:08 SA
+BAG:zenokkk remove 1xGăng Kaio lydo: Bán cho shop at 02/03/2023 2:08 SA
+BAG:zenokkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 2:09 SA
+BAG:zenokkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 2:09 SA
+BAG:zenokkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 2:09 SA
+BAG:zenokkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 2:09 SA
+BAG:zenokkk remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 7:38 SA
+BAG:zenokkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 7:38 SA
+BAG:zenokkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 7:38 SA
+BAG:zenokkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 7:38 SA

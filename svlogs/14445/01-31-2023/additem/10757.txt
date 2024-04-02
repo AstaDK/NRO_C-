@@ -1,0 +1,8 @@
+BAG:supermen add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 3:19 PM
+BAG:supermen add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 3:26 PM
+BAG:supermen add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/31/2023 3:26 PM
+BAG:supermen add 1xĐậu xanh lydo: Nhặt từ map at 01/31/2023 3:32 PM
+BAG:supermen add 1xPhi Long VIP lydo: Mua từ cửa hàng at 01/31/2023 3:35 PM
+BAG:supermen add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 01/31/2023 3:35 PM
+BAG:supermen add 1xMèo mun lydo: Mua từ cửa hàng at 01/31/2023 3:36 PM
+BAG:supermen add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/31/2023 3:36 PM

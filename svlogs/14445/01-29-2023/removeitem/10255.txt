@@ -1,0 +1,19 @@
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:57 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:09 PM
+BAG:dracula remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:11 PM
+BAG:dracula remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 7:11 PM
+BAG:dracula remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:11 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:11 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:12 PM
+BAG:dracula remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 7:12 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:13 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:14 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:14 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:15 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:15 PM
+BAG:dracula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:16 PM
+BAG:dracula remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 7:23 PM
+BAG:dracula remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 7:23 PM
+BAG:dracula remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 01/29/2023 7:24 PM
+BAG:dracula remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 7:24 PM
+BAG:dracula remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 7:24 PM

@@ -1,0 +1,54 @@
+BAG:1hit1m add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 7:44 SA
+BAG:1hit1m add 1xLì xì lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:1hit1m add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:1hit1m add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:1hit1m add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:1hit1m add 1xCột nhà lydo: Mua từ cửa hàng at 02/03/2023 7:49 SA
+BAG:1hit1m add 1xAvatar lydo: Mua từ cửa hàng at 02/03/2023 7:50 SA
+BAG:1hit1m add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 1xCây mai lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:1hit1m add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:1hit1m add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:1hit1m add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:1hit1m add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:1hit1m add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:1hit1m add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:1hit1m add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:1hit1m add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:1hit1m add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 7:53 SA
+BAG:1hit1m add 5xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/03/2023 7:53 SA
+BAG:1hit1m add 18xĐậu thần cấp 4 lydo: Lấy từ rương qua người at 02/03/2023 7:54 SA
+BAG:1hit1m add 2xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 02/03/2023 7:54 SA
+BAG:1hit1m add 38xĐậu thần cấp 4 (old: 18) lydo: Lấy từ rương qua người at 02/03/2023 7:54 SA
+BAG:1hit1m add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:1hit1m add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:1hit1m add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:1hit1m add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:1hit1m add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:1hit1m add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:1hit1m add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:1hit1m add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:1hit1m add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:1hit1m add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:1hit1m add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 8:04 SA
+BAG:1hit1m add 20xThỏi vàng lydo: Giftcode at 02/03/2023 8:07 SA
+BAG:1hit1m add 1xVàng lydo: SuKien at 02/03/2023 8:08 SA
+BAG:1hit1m add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/03/2023 8:09 SA
+BAG:1hit1m add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 8:10 SA

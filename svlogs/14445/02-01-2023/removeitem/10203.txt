@@ -1,0 +1,178 @@
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:03 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:18 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:35 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:51 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:07 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:23 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:39 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:56 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 2:12 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 2:29 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 2:46 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:03 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:20 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:37 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:55 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:12 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:30 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:47 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:04 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:22 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:39 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:54 SA
+BAG:picolok remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 02/01/2023 5:56 SA
+BAG:picolok remove Găng vàng Zealot lydo: Mặc cho đệ tử at 02/01/2023 5:56 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:09 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:25 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:40 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:55 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:10 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:25 SA
+BAG:picolok remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 02/01/2023 7:39 SA
+BAG:picolok remove Găng vàng Zealot lydo: Mặc cho đệ tử at 02/01/2023 7:39 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:41 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:56 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 8:11 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 8:27 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 8:42 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 8:57 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:12 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:27 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:44 SA
+BAG:picolok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:00 SA
+BAG:picolok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:00 SA
+BAG:picolok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:00 SA
+BAG:picolok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:00 SA
+BAG:picolok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:00 SA
+BAG:picolok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:00 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:00 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:00 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:01 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:23 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:38 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:45 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:54 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:06 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:06 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:07 SA
+BAG:picolok remove Găng vàng Zealot lydo: Mặc cho đệ tử at 02/01/2023 11:14 SA
+BAG:picolok remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 02/01/2023 11:14 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:16 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:20 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:25 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:47 SA
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:11 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:33 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:46 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 12:55 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:05 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:14 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:16 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:23 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:45 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 1:59 CH
+BAG:picolok remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 2:07 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 2:09 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 2:17 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 2:26 CH
+BAG:picolok remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 2:30 CH
+BAG:picolok remove Áo sợi len lydo: Cất vào rương at 02/01/2023 2:33 CH
+BAG:picolok remove Găng da Pico lydo: Tự Xóa vật phẩm at 02/01/2023 2:34 CH
+BAG:picolok remove Găng da Pico lydo: Tự Xóa vật phẩm at 02/01/2023 2:34 CH
+BAG:picolok remove Găng len cứng lydo: Tự Xóa vật phẩm at 02/01/2023 2:34 CH
+BAG:picolok remove Găng sắt Tron lydo: Tự Xóa vật phẩm at 02/01/2023 2:34 CH
+BAG:picolok remove Găng vải Pico lydo: Tự Xóa vật phẩm at 02/01/2023 2:35 CH
+BAG:picolok remove Găng thun cứng lydo: Tự Xóa vật phẩm at 02/01/2023 2:35 CH
+BAG:picolok remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 2:35 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 2:50 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:05 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:11 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:20 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:29 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:38 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:47 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:57 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:06 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:15 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:24 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:33 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:42 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 4:51 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:00 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:09 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:18 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:27 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:45 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 5:54 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:13 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:22 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:31 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:40 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:49 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 6:58 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:07 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:16 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:25 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:34 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 7:43 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:10 CH
+BAG:picolok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 9:16 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:19 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:28 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:37 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:46 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 9:57 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:18 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:33 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:42 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 10:51 CH
+BAG:picolok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 11:00 CH
+BAG:picolok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 11:00 CH
+BAG:picolok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 11:00 CH
+BAG:picolok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 11:00 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:00 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:09 CH
+BAG:picolok remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:18 CH
+BAG:picolok remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:22 CH
+BAG:picolok remove Găng sợi len lydo: Cất vào rương at 02/01/2023 11:27 CH
+BAG:picolok remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 11:27 CH
+BAG:picolok remove Quần sợi len lydo: Cất vào rương at 02/01/2023 11:27 CH
+BAG:picolok remove Giầy sợi len lydo: Cất vào rương at 02/01/2023 11:27 CH
+BAG:picolok remove Áo sợi len lydo: Cất vào rương at 02/01/2023 11:27 CH
+BAG:picolok remove Áo sợi len lydo: Mặc vào người at 02/01/2023 11:28 CH
+BAG:picolok remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 11:28 CH
+BAG:picolok remove Quần sợi len lydo: Mặc vào người at 02/01/2023 11:28 CH
+BAG:picolok remove Giầy sợi len lydo: Mặc vào người at 02/01/2023 11:28 CH
+BAG:picolok remove Găng sợi len lydo: Mặc vào người at 02/01/2023 11:28 CH
+BAG:picolok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 11:28 CH
+BAG:picolok remove Giáp tập luyện cấp 1 lydo: Cất vào rương at 02/01/2023 11:28 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:31 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:31 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:31 CH
+BAG:picolok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 11:33 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:34 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:34 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:34 CH
+BAG:picolok remove Quần sợi len lydo: Mặc vào người at 02/01/2023 11:35 CH
+BAG:picolok remove Găng sợi len lydo: Mặc vào người at 02/01/2023 11:35 CH
+BAG:picolok remove Áo sợi len lydo: Mặc vào người at 02/01/2023 11:35 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:53 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:53 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:53 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:55 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:55 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:55 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:56 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:56 CH
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:56 CH

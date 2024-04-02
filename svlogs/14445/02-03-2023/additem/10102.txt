@@ -1,0 +1,13 @@
+BAG:luxubu add 99xThỏi vàng lydo: (GD) Nhận từ gaidiem at 02/03/2023 12:31 SA
+BAG:luxubu add 94xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 02/03/2023 12:31 SA
+BAG:luxubu add 99xNgọc Rồng 5 sao (old: 94) lydo: Lấy từ rương qua người at 02/03/2023 12:31 SA
+BAG:luxubu add 1209xThỏi vàng (old: 1110) lydo: Lấy từ rương qua người at 02/03/2023 12:31 SA
+BAG:luxubu add 1233xThỏi vàng (old: 1209) lydo: Lấy từ rương qua người at 02/03/2023 12:32 SA
+BAG:luxubu add 60xThỏi vàng lydo: (GD) Nhận từ huyenthoai at 02/03/2023 9:34 SA
+BAG:luxubu add 2xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 02/03/2023 10:29 SA
+BAG:luxubu add 99xNgọc Rồng 2 sao (old: 2) lydo: Lấy từ rương qua người at 02/03/2023 10:29 SA
+BAG:luxubu add 60xThỏi vàng lydo: (GD) Nhận từ huyenthoai at 02/03/2023 10:30 SA
+BAG:luxubu add 99xĐá bảo vệ lydo: Lấy từ rương qua người at 02/03/2023 10:30 SA
+BAG:luxubu add 1254xThỏi vàng (old: 1233) lydo: Lấy từ rương qua người at 02/03/2023 10:30 SA
+BAG:luxubu add 8xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 02/03/2023 10:30 SA
+BAG:luxubu add 99xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ rương qua người at 02/03/2023 10:30 SA

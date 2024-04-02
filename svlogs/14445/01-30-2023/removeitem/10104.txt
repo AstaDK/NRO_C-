@@ -1,0 +1,417 @@
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:02 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:03 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:04 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:06 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:10 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:11 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:12 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:12 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:13 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:14 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:15 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:17 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:21 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:22 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:23 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:31 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:32 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:01 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:07 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:13 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:15 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:17 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:19 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:25 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:27 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:30 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:32 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:37 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:39 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:41 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:43 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:49 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:55 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:01 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:03 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:06 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:08 AM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 4:32 AM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 4:32 AM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 4:32 AM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:33 AM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 4:33 AM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:33 AM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 6:06 AM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 6:06 AM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 6:06 AM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 6:56 AM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 6:57 AM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 6:57 AM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 6:57 AM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 6:57 AM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 6:57 AM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 7:38 AM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 7:38 AM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 7:38 AM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 7:38 AM
+BAG:soc1s2bay remove Sao pha lê lydo: Cất vào rương at 01/30/2023 7:39 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 9:44 AM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 9:56 AM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 9:56 AM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 9:56 AM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 9:56 AM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 01/30/2023 9:59 AM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 01/30/2023 10:00 AM
+BAG:soc1s2bay remove Lồng đèn Kéo Quân lydo: Tự Xóa vật phẩm at 01/30/2023 10:24 AM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 10:49 AM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 10:49 AM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 10:49 AM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 10:49 AM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 11:17 AM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 11:18 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:23 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:25 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:25 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:25 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:26 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:26 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:28 AM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:29 AM
+BAG:soc1s2bay remove Cải trang lydo: Tự Xóa vật phẩm at 01/30/2023 11:38 AM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:44 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:44 PM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 2:53 PM
+BAG:soc1s2bay remove Ngọc Rồng 4 sao lydo: Cất vào rương at 01/30/2023 2:53 PM
+BAG:soc1s2bay remove Sao pha lê lydo: Cất vào rương at 01/30/2023 2:54 PM
+BAG:soc1s2bay remove 50xSao pha lê lydo: Giao dịch với darkness at 01/30/2023 2:56 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:03 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:04 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:05 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 3:06 PM
+BAG:soc1s2bay remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 3:07 PM
+BAG:soc1s2bay remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 3:08 PM
+BAG:soc1s2bay remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 3:08 PM
+BAG:soc1s2bay remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 3:08 PM
+BAG:soc1s2bay remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 3:08 PM
+BAG:soc1s2bay remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 3:08 PM
+BAG:soc1s2bay remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 3:08 PM
+BAG:soc1s2bay remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/30/2023 3:09 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 3:10 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:11 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 3:12 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:13 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:13 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 3:13 PM
+BAG:soc1s2bay remove Sao pha lê lydo: Cất vào rương at 01/30/2023 3:13 PM
+BAG:soc1s2bay remove Cải trang Chill cấp 2 lydo: Cất vào rương at 01/30/2023 3:13 PM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:16 PM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:17 PM
+BAG:soc1s2bay remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 3:18 PM
+BAG:soc1s2bay remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 3:18 PM
+BAG:soc1s2bay remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 3:18 PM
+BAG:soc1s2bay remove 87xNgọc Rồng 3 sao lydo: Giao dịch với alpha at 01/30/2023 3:36 PM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:51 PM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:55 PM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 3:56 PM
+BAG:soc1s2bay remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 3:56 PM
+BAG:soc1s2bay remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 3:56 PM
+BAG:soc1s2bay remove 50xSao pha lê lydo: Giao dịch với anhksnhe at 01/30/2023 5:33 PM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 7:07 PM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 7:08 PM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 7:08 PM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 7:08 PM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 8:01 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/30/2023 8:34 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/30/2023 8:35 PM
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 9:30 PM
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 9:30 PM
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 9:30 PM
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 9:30 PM
+BAG:soc1s2bay remove 40xNgọc Rồng 3 sao lydo: Giao dịch với infrared at 01/30/2023 10:30 PM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 10:33 PM
+BAG:soc1s2bay remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 10:33 PM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xTrứng vịt muối lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xGà quay nguyên con lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xBột mì lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 10xĐậu xanh lydo: Nấu bánh at 01/30/2023 10:35 PM
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:38 PM
+BAG:soc1s2bay remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 01/30/2023 10:46 PM

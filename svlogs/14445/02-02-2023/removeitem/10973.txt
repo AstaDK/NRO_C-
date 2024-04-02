@@ -1,0 +1,277 @@
+BAG:windy1st remove Quần sợi len lydo: Mặc cho đệ tử at 02/02/2023 4:17 CH
+BAG:windy1st remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 4:19 CH
+BAG:windy1st remove Avatar lydo: Mặc cho đệ tử at 02/02/2023 4:20 CH
+BAG:windy1st remove Sách học Trị thương lv1 lydo: Sách kĩ năng at 02/02/2023 4:20 CH
+BAG:windy1st remove Sách học Trị thương lv2 lydo: Sách kĩ năng at 02/02/2023 4:20 CH
+BAG:windy1st remove Sách học Trị thương lv3 lydo: Sách kĩ năng at 02/02/2023 4:20 CH
+BAG:windy1st remove Sách học Trị thương lv4 lydo: Sách kĩ năng at 02/02/2023 4:20 CH
+BAG:windy1st remove Sách học Trị thương lv5 lydo: Sách kĩ năng at 02/02/2023 4:20 CH
+BAG:windy1st remove Sách học Trị thương lv6 lydo: Sách kĩ năng at 02/02/2023 4:20 CH
+BAG:windy1st remove Sách học Trị thương lv7 lydo: Sách kĩ năng at 02/02/2023 4:21 CH
+BAG:windy1st remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 4:31 CH
+BAG:windy1st remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:32 CH
+BAG:windy1st remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 4:32 CH
+BAG:windy1st remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 4:33 CH
+BAG:windy1st remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 4:33 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:38 CH
+BAG:windy1st remove Găng thun Pico lydo: Mặc vào người at 02/02/2023 4:43 CH
+BAG:windy1st remove Giày cao su cứng lydo: Mặc vào người at 02/02/2023 4:43 CH
+BAG:windy1st remove Quần len cứng lydo: Mặc vào người at 02/02/2023 4:43 CH
+BAG:windy1st remove Rada cấp 5 lydo: Mặc vào người at 02/02/2023 4:43 CH
+BAG:windy1st remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:windy1st remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/02/2023 4:57 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 4:57 CH
+BAG:windy1st remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 4:57 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 4:57 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 4:59 CH
+BAG:windy1st remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 4:59 CH
+BAG:windy1st remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:06 CH
+BAG:windy1st remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 5:06 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 5:06 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 5:44 CH
+BAG:windy1st remove Quần sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 5:45 CH
+BAG:windy1st remove Quần sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 5:47 CH
+BAG:windy1st remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 5:47 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 5:52 CH
+BAG:windy1st remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:52 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:05 CH
+BAG:windy1st remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 6:06 CH
+BAG:windy1st remove Đậu thần cấp 9 lydo: Cất vào rương at 02/02/2023 6:06 CH
+BAG:windy1st remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 6:06 CH
+BAG:windy1st remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 6:06 CH
+BAG:windy1st remove Quần sợi len lydo: Cất vào rương at 02/02/2023 6:06 CH
+BAG:windy1st remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 6:31 CH
+BAG:windy1st remove Giầy sợi len lydo: Cất vào rương at 02/02/2023 6:31 CH
+BAG:windy1st remove Áo sợi len lydo: Cất vào rương at 02/02/2023 6:31 CH
+BAG:windy1st remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:windy1st remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 6:32 CH
+BAG:windy1st remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 6:32 CH
+BAG:windy1st remove Đá Ruby lydo: Cất vào rương at 02/02/2023 6:32 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:32 CH
+BAG:windy1st remove Đá Saphia lydo: Cất vào rương at 02/02/2023 6:32 CH
+BAG:windy1st remove Bình rượu lydo: Cất vào rương at 02/02/2023 6:33 CH
+BAG:windy1st remove Đá Titan lydo: Cất vào rương at 02/02/2023 6:33 CH
+BAG:windy1st remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:46 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:46 CH
+BAG:windy1st remove Giầy sợi len lydo: Cất vào rương at 02/02/2023 6:47 CH
+BAG:windy1st remove Áo sợi len lydo: Cất vào rương at 02/02/2023 6:47 CH
+BAG:windy1st remove Bột mì lydo: Cất vào rương at 02/02/2023 6:47 CH
+BAG:windy1st remove Đậu xanh lydo: Cất vào rương at 02/02/2023 6:47 CH
+BAG:windy1st remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:59 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:59 CH
+BAG:windy1st remove Áo sợi len lydo: Mặc vào người at 02/02/2023 7:00 CH
+BAG:windy1st remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 7:06 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:06 CH
+BAG:windy1st remove Đá Ruby lydo: Cất vào rương at 02/02/2023 7:07 CH
+BAG:windy1st remove Đá Titan lydo: Cất vào rương at 02/02/2023 7:07 CH
+BAG:windy1st remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 7:07 CH
+BAG:windy1st remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 7:07 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 7:07 CH
+BAG:windy1st remove Đá Saphia lydo: Cất vào rương at 02/02/2023 7:08 CH
+BAG:windy1st remove Áo sợi len lydo: Cất vào rương at 02/02/2023 7:08 CH
+BAG:windy1st remove Giầy sợi len lydo: Cất vào rương at 02/02/2023 7:08 CH
+BAG:windy1st remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 7:08 CH
+BAG:windy1st remove Áo sợi len lydo: Cất vào rương at 02/02/2023 7:08 CH
+BAG:windy1st remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 7:09 CH
+BAG:windy1st remove Cải trang lydo: Mặc vào người at 02/02/2023 7:12 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:15 CH
+BAG:windy1st remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 7:15 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:18 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:18 CH
+BAG:windy1st remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 7:21 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:windy1st remove Đá Ruby lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:windy1st remove Đá Saphia lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:windy1st remove Đá Titan lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:windy1st remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:windy1st remove Trứng vịt muối lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:windy1st remove Gà quay nguyên con lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:windy1st remove Quần sợi len lydo: Mặc vào người at 02/02/2023 7:22 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 7:24 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:24 CH
+BAG:windy1st remove Áo sợi len lydo: Mặc vào người at 02/02/2023 7:27 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 7:32 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:32 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 7:38 CH
+BAG:windy1st remove Sao pha lê lydo: Cất vào rương at 02/02/2023 7:39 CH
+BAG:windy1st remove Đá Ruby lydo: Cất vào rương at 02/02/2023 7:39 CH
+BAG:windy1st remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:windy1st remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:windy1st remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:windy1st remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:windy1st remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:windy1st remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/02/2023 7:56 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:56 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:56 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:56 CH
+BAG:windy1st remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 7:56 CH
+BAG:windy1st remove Giầy sợi len lydo: Cất vào rương at 02/02/2023 7:57 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 7:57 CH
+BAG:windy1st remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 7:57 CH
+BAG:windy1st remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 7:58 CH
+BAG:windy1st remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 7:58 CH
+BAG:windy1st remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 7:58 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:59 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:59 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:59 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:01 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:01 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:01 CH
+BAG:windy1st remove Găng thun Pico lydo: Tự Xóa vật phẩm at 02/02/2023 8:01 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:04 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:07 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:07 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:07 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:10 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:10 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:10 CH
+BAG:windy1st remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:11 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:12 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:12 CH
+BAG:windy1st remove Trứng vịt muối lydo: Cất vào rương at 02/02/2023 8:13 CH
+BAG:windy1st remove Đậu xanh lydo: Cất vào rương at 02/02/2023 8:13 CH
+BAG:windy1st remove Đá Saphia lydo: Cất vào rương at 02/02/2023 8:14 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 8:14 CH
+BAG:windy1st remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 8:14 CH
+BAG:windy1st remove Đá Titan lydo: Cất vào rương at 02/02/2023 8:14 CH
+BAG:windy1st remove Đá Ruby lydo: Cất vào rương at 02/02/2023 8:14 CH
+BAG:windy1st remove Bột mì lydo: Cất vào rương at 02/02/2023 8:14 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:19 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 8:20 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:20 CH
+BAG:windy1st remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 8:20 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:20 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 8:21 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 8:23 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:23 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:23 CH
+BAG:windy1st remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 8:23 CH
+BAG:windy1st remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 8:26 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:26 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:26 CH
+BAG:windy1st remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:26 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:26 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:26 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:30 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:windy1st remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:windy1st remove Đá Ruby lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Đá Saphia lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Đá Titan lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Bột mì lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Đậu xanh lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:windy1st remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 CH
+BAG:windy1st remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:41 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:42 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:46 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:46 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:46 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:46 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:47 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:windy1st remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:windy1st remove Trứng vịt muối lydo: Cất vào rương at 02/02/2023 8:51 CH
+BAG:windy1st remove Gà quay nguyên con lydo: Cất vào rương at 02/02/2023 8:51 CH
+BAG:windy1st remove Sao pha lê lydo: Cất vào rương at 02/02/2023 8:51 CH
+BAG:windy1st remove Sao pha lê lydo: Cất vào rương at 02/02/2023 8:51 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:53 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:53 CH
+BAG:windy1st remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 8:54 CH
+BAG:windy1st remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 8:54 CH
+BAG:windy1st remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 8:55 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:55 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:56 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:56 CH
+BAG:windy1st remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:56 CH
+BAG:windy1st remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:56 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:59 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:59 CH
+BAG:windy1st remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:59 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:00 CH
+BAG:windy1st remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 9:01 CH
+BAG:windy1st remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 9:01 CH
+BAG:windy1st remove Đậu xanh lydo: Cất vào rương at 02/02/2023 9:01 CH
+BAG:windy1st remove Bột mì lydo: Cất vào rương at 02/02/2023 9:01 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:05 CH
+BAG:windy1st remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 9:05 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:05 CH
+BAG:windy1st remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:05 CH
+BAG:windy1st remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:11 CH
+BAG:windy1st remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:11 CH
+BAG:windy1st remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:12 CH
+BAG:windy1st remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:12 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:23 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:windy1st remove Áo sợi len lydo: Mặc vào người at 02/02/2023 9:26 CH
+BAG:windy1st remove Găng sợi len lydo: Mặc vào người at 02/02/2023 9:26 CH
+BAG:windy1st remove Giày cao su cứng lydo: Tự Xóa vật phẩm at 02/02/2023 9:26 CH
+BAG:windy1st remove Đá Saphia lydo: Cất vào rương at 02/02/2023 9:26 CH
+BAG:windy1st remove Đá Titan lydo: Cất vào rương at 02/02/2023 9:26 CH
+BAG:windy1st remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 9:26 CH
+BAG:windy1st remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 9:26 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:28 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:29 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:29 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:29 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:29 CH
+BAG:windy1st remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:30 CH
+BAG:windy1st remove Quần sợi len lydo: Mặc vào người at 02/02/2023 9:30 CH
+BAG:windy1st remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:30 CH
+BAG:windy1st remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 9:35 CH
+BAG:windy1st remove Giầy sợi len lydo: Mặc cho đệ tử at 02/02/2023 9:35 CH
+BAG:windy1st remove Áo sợi len lydo: Mặc cho đệ tử at 02/02/2023 9:35 CH
+BAG:windy1st remove Quần sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 9:35 CH
+BAG:windy1st remove Găng sợi len lydo: Mặc cho đệ tử at 02/02/2023 9:35 CH
+BAG:windy1st remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:38 CH
+BAG:windy1st remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:38 CH
+BAG:windy1st remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:38 CH
+BAG:windy1st remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:38 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:40 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:43 CH
+BAG:windy1st remove Đá Ruby lydo: Cất vào rương at 02/02/2023 10:06 CH
+BAG:windy1st remove Sao pha lê lydo: Cất vào rương at 02/02/2023 10:06 CH
+BAG:windy1st remove Sao pha lê lydo: Cất vào rương at 02/02/2023 10:07 CH
+BAG:windy1st remove Sao pha lê lydo: Cất vào rương at 02/02/2023 10:07 CH
+BAG:windy1st remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 10:07 CH
+BAG:windy1st remove Avatar lydo: Cất vào rương at 02/02/2023 10:07 CH
+BAG:windy1st remove Găng len cứng lydo: Mặc cho đệ tử at 02/02/2023 10:08 CH
+BAG:windy1st remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:08 CH
+BAG:windy1st remove Giầy sợi len lydo: Mặc vào người at 02/02/2023 10:08 CH
+BAG:windy1st remove Găng sợi len lydo: Mặc vào người at 02/02/2023 10:08 CH
+BAG:windy1st remove Quần sợi len lydo: Mặc vào người at 02/02/2023 10:08 CH
+BAG:windy1st remove Áo sợi len lydo: Mặc vào người at 02/02/2023 10:08 CH
+BAG:windy1st remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 02/02/2023 10:09 CH
+BAG:windy1st remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 02/02/2023 10:09 CH
+BAG:windy1st remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 02/02/2023 10:09 CH
+BAG:windy1st remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 02/02/2023 10:11 CH
+BAG:windy1st remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 02/02/2023 10:12 CH
+BAG:windy1st remove Sách đấm Demon lv7 lydo: Sách kĩ năng at 02/02/2023 10:12 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:13 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:15 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:16 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:18 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:21 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:24 CH
+BAG:windy1st remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:40 CH
+BAG:windy1st remove Cải trang lydo: Cất vào rương at 02/02/2023 10:45 CH

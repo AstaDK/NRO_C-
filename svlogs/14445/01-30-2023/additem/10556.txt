@@ -1,0 +1,14 @@
+BAG:ducvip13s add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 12:05 PM
+BAG:ducvip13s add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 12:06 PM
+BAG:ducvip13s add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 12:08 PM
+BAG:ducvip13s add 1xÁo vải thô lydo: Nhặt từ map at 01/30/2023 12:09 PM
+BAG:ducvip13s add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 12:10 PM
+BAG:ducvip13s add 5xĐậu thần cấp 2 lydo: Thu hoạch đậu at 01/30/2023 12:11 PM
+BAG:ducvip13s add 1xGhế bay lydo: Mua từ cửa hàng at 01/30/2023 12:13 PM
+BAG:ducvip13s add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 12:14 PM
+BAG:ducvip13s add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 12:15 PM
+BAG:ducvip13s add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 4:41 PM
+BAG:ducvip13s add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 4:42 PM
+BAG:ducvip13s add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 4:42 PM
+BAG:ducvip13s add 1xMảnh Quỷ bay lydo: Nhặt từ map at 01/30/2023 4:42 PM
+BAG:ducvip13s add 1xGà quay nguyên con lydo: Nhặt từ map at 01/30/2023 4:43 PM

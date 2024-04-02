@@ -1,0 +1,32 @@
+BAG:bssndsn remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 12:22 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:22 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:22 SA
+BAG:bssndsn remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/03/2023 12:28 SA
+BAG:bssndsn remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 12:28 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:33 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:35 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:41 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:41 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:41 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:bssndsn remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:43 SA
+BAG:bssndsn remove Cải trang VIP lydo: Mặc vào người at 02/03/2023 12:46 SA
+BAG:bssndsn remove Quần sợi len lydo: Mặc vào người at 02/03/2023 12:59 SA
+BAG:bssndsn remove 1xQuần sợi len lydo: Bán cho shop at 02/03/2023 12:59 SA
+BAG:bssndsn remove Rada cấp 4 lydo: Mặc vào người at 02/03/2023 1:00 SA
+BAG:bssndsn remove Giầy cao su Pico lydo: Mặc vào người at 02/03/2023 1:00 SA
+BAG:bssndsn remove Găng len Pico lydo: Mặc vào người at 02/03/2023 1:00 SA
+BAG:bssndsn remove Áo thun Pico lydo: Mặc vào người at 02/03/2023 1:00 SA
+BAG:bssndsn remove Cải trang VIP lydo: Mặc cho đệ tử at 02/03/2023 1:03 SA
+BAG:bssndsn remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/03/2023 12:13 CH
+BAG:bssndsn remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/03/2023 12:13 CH
+BAG:bssndsn remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:13 CH
+BAG:bssndsn remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:13 CH
+BAG:bssndsn remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 12:13 CH
+BAG:bssndsn remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:14 CH

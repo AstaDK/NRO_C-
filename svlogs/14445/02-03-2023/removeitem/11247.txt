@@ -1,0 +1,10 @@
+BAG:siulaze remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 10:24 SA
+BAG:siulaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:28 SA
+BAG:siulaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:32 SA
+BAG:siulaze remove Avatar đeo khẩu trang lydo: Mặc vào người at 02/03/2023 10:33 SA
+BAG:siulaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:34 SA
+BAG:siulaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:34 SA
+BAG:siulaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:35 SA
+BAG:siulaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:35 SA
+BAG:siulaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:35 SA
+BAG:siulaze remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA

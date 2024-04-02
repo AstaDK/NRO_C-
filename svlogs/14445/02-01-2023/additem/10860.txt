@@ -1,0 +1,45 @@
+BAG:meowwww add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 9:30 SA
+BAG:meowwww add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 9:35 SA
+BAG:meowwww add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/01/2023 9:37 SA
+BAG:meowwww add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:meowwww add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:meowwww add 1xĐậu xanh lydo: Nhặt từ map at 02/01/2023 9:39 SA
+BAG:meowwww add 1xQuần vải đen lydo: Nhặt từ map at 02/01/2023 9:39 SA
+BAG:meowwww add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 9:42 SA
+BAG:meowwww add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 9:42 SA
+BAG:meowwww add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 9:43 SA
+BAG:meowwww add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 9:45 SA
+BAG:meowwww add 20xThỏi vàng lydo: Giftcode at 02/01/2023 9:47 SA
+BAG:meowwww add 1xMèo mun lydo: Mua từ cửa hàng at 02/01/2023 9:47 SA
+BAG:meowwww add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:47 SA
+BAG:meowwww add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 9:48 SA
+BAG:meowwww add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:48 SA
+BAG:meowwww add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 9:48 SA
+BAG:meowwww add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 9:48 SA
+BAG:meowwww add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/01/2023 9:48 SA
+BAG:meowwww add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:49 SA
+BAG:meowwww add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 9:49 SA
+BAG:meowwww add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 9:50 SA
+BAG:meowwww add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:50 SA
+BAG:meowwww add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 9:50 SA
+BAG:meowwww add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 9:50 SA
+BAG:meowwww add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/01/2023 9:50 SA
+BAG:meowwww add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/01/2023 9:50 SA
+BAG:meowwww add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:51 SA
+BAG:meowwww add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:51 SA
+BAG:meowwww add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 9:51 SA
+BAG:meowwww add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 9:51 SA
+BAG:meowwww add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 9:52 SA
+BAG:meowwww add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/01/2023 9:53 SA
+BAG:meowwww add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/01/2023 9:53 SA
+BAG:meowwww add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 9:55 SA
+BAG:meowwww add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:55 SA
+BAG:meowwww add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:56 SA
+BAG:meowwww add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/01/2023 9:58 SA
+BAG:meowwww add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/01/2023 9:58 SA
+BAG:meowwww add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 10:00 SA
+BAG:meowwww add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 10:00 SA
+BAG:meowwww add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 10:01 SA
+BAG:meowwww add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 10:02 SA
+BAG:meowwww add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/01/2023 10:02 SA
+BAG:meowwww add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 10:03 SA

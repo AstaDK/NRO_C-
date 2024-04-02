@@ -1,0 +1,18 @@
+BAG:aenrvip add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 8:00 AM
+BAG:aenrvip add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 8:00 AM
+BAG:aenrvip add 1xĐậu xanh lydo: Nhặt từ map at 01/30/2023 8:05 AM
+BAG:aenrvip add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 01/30/2023 8:05 AM
+BAG:aenrvip add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 01/30/2023 8:06 AM
+BAG:aenrvip add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 01/30/2023 8:07 AM
+BAG:aenrvip add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 8:09 AM
+BAG:aenrvip add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 8:09 AM
+BAG:aenrvip add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 01/30/2023 8:11 AM
+BAG:aenrvip add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 8:14 AM
+BAG:aenrvip add 1xMảnh Khủng long lydo: Nhặt từ map at 01/30/2023 8:14 AM
+BAG:aenrvip add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 8:15 AM
+BAG:aenrvip add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 01/30/2023 8:16 AM
+BAG:aenrvip add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 8:20 AM
+BAG:aenrvip add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 8:20 AM
+BAG:aenrvip add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 8:21 AM
+BAG:aenrvip add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 8:22 AM
+BAG:aenrvip add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/30/2023 8:22 AM

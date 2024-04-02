@@ -1,0 +1,29 @@
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:06 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:07 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:07 SA
+BAG:corgi remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 12:11 SA
+BAG:corgi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 12:12 SA
+BAG:corgi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 12:12 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:14 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:16 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:18 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:19 SA
+BAG:corgi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:19 SA
+BAG:corgi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:19 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:20 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:22 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:25 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:26 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:27 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:29 SA
+BAG:corgi remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 12:31 SA
+BAG:corgi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:32 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:35 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:corgi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:37 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:38 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:corgi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:43 SA
+BAG:corgi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:43 SA
+BAG:corgi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:44 SA

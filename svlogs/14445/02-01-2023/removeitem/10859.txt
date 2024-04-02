@@ -1,0 +1,5 @@
+BAG:loi123 remove 1xNho tím lydo: Ăn nho at 02/01/2023 9:36 SA
+BAG:loi123 remove 1xCánh thiên thần 2 lydo: Bán cho shop at 02/01/2023 9:39 SA
+BAG:loi123 remove Cải trang Hit lydo: Mặc vào người at 02/01/2023 9:40 SA
+BAG:loi123 remove Áo sợi len lydo: Mặc vào người at 02/01/2023 9:41 SA
+BAG:loi123 remove Quần sợi len lydo: Mặc vào người at 02/01/2023 9:41 SA

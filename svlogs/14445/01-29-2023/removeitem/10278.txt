@@ -1,0 +1,132 @@
+BAG:zenoosama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:19 PM
+BAG:zenoosama remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 01/29/2023 8:19 PM
+BAG:zenoosama remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 8:19 PM
+BAG:zenoosama remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/29/2023 8:19 PM
+BAG:zenoosama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:21 PM
+BAG:zenoosama remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:23 PM
+BAG:zenoosama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:24 PM
+BAG:zenoosama remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/29/2023 8:24 PM
+BAG:zenoosama remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 8:24 PM
+BAG:zenoosama remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 8:24 PM
+BAG:zenoosama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:25 PM
+BAG:zenoosama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:26 PM
+BAG:zenoosama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:27 PM
+BAG:zenoosama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:27 PM
+BAG:zenoosama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:27 PM
+BAG:zenoosama remove Đậu thần cấp 1 lydo: Cất vào rương at 01/29/2023 8:35 PM
+BAG:zenoosama remove Đậu thần cấp 8 lydo: Cất vào rương at 01/29/2023 8:35 PM
+BAG:zenoosama remove Đậu thần cấp 8 lydo: Cất vào rương at 01/29/2023 8:36 PM
+BAG:zenoosama remove Đậu thần cấp 8 lydo: Cất vào rương at 01/29/2023 8:36 PM
+BAG:zenoosama remove Đậu thần cấp 8 lydo: Cất vào rương at 01/29/2023 8:36 PM
+BAG:zenoosama remove Đậu thần cấp 8 lydo: Cất vào rương at 01/29/2023 8:36 PM
+BAG:zenoosama remove 1xCánh thiên thần lydo: Bán cho shop at 01/29/2023 8:37 PM
+BAG:zenoosama remove 1xHồn ma Ca đíc lydo: Bán cho shop at 01/29/2023 8:37 PM
+BAG:zenoosama remove 1xGăng đồng lydo: Bán cho shop at 01/29/2023 8:37 PM
+BAG:zenoosama remove 30xĐổi đệ tử lydo: Bán cho shop at 01/29/2023 8:37 PM
+BAG:zenoosama remove 1xQuần vải thô lydo: Bán cho shop at 01/29/2023 8:37 PM
+BAG:zenoosama remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 8:44 PM
+BAG:zenoosama remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/29/2023 8:45 PM
+BAG:zenoosama remove Rada cấp 1 lydo: Mặc cho đệ tử at 01/29/2023 8:47 PM
+BAG:zenoosama remove Áo vải thô lydo: Mặc cho đệ tử at 01/29/2023 8:48 PM
+BAG:zenoosama remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 9:11 PM
+BAG:zenoosama remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 9:11 PM
+BAG:zenoosama remove Cải trang Chill cấp 2 lydo: Cất vào rương at 01/29/2023 9:11 PM
+BAG:zenoosama remove Áo vải thô lydo: Cất vào rương at 01/29/2023 9:11 PM
+BAG:zenoosama remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 9:12 PM
+BAG:zenoosama remove Nâng cấp kỹ năng 1 đệ tử lydo: Cất vào rương at 01/29/2023 9:12 PM
+BAG:zenoosama remove Giầy vải thô lydo: Mặc cho đệ tử at 01/29/2023 9:20 PM
+BAG:zenoosama remove Quần vải thô lydo: Mặc cho đệ tử at 01/29/2023 9:30 PM
+BAG:zenoosama remove Găng vải thô lydo: Mặc cho đệ tử at 01/29/2023 9:31 PM
+BAG:zenoosama remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:51 PM
+BAG:zenoosama remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 9:51 PM
+BAG:zenoosama remove 1xGăng vải thô lydo: Bán cho shop at 01/29/2023 9:58 PM
+BAG:zenoosama remove 1xGiầy vải thô lydo: Bán cho shop at 01/29/2023 9:58 PM
+BAG:zenoosama remove 33xĐá lục bảo lydo: Bán cho shop at 01/29/2023 9:59 PM
+BAG:zenoosama remove 37xĐá Ruby lydo: Bán cho shop at 01/29/2023 9:59 PM
+BAG:zenoosama remove 1xGăng vải thô lydo: Bán cho shop at 01/29/2023 9:59 PM
+BAG:zenoosama remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 10:33 PM
+BAG:zenoosama remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 10:33 PM
+BAG:zenoosama remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 10:37 PM
+BAG:zenoosama remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 01/29/2023 10:45 PM
+BAG:zenoosama remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 01/29/2023 10:48 PM
+BAG:zenoosama remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 10:48 PM
+BAG:zenoosama remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 10:48 PM
+BAG:zenoosama remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 10:51 PM
+BAG:zenoosama remove Áo vải thô lydo: Cất vào rương at 01/29/2023 11:12 PM
+BAG:zenoosama remove Quần vải thô lydo: Cất vào rương at 01/29/2023 11:12 PM
+BAG:zenoosama remove Giầy vải thô lydo: Cất vào rương at 01/29/2023 11:12 PM
+BAG:zenoosama remove Rada cấp 1 lydo: Cất vào rương at 01/29/2023 11:12 PM
+BAG:zenoosama remove Rada cấp 1 lydo: Cất vào rương at 01/29/2023 11:12 PM
+BAG:zenoosama remove Giầy vải thô lydo: Mặc cho đệ tử at 01/29/2023 11:13 PM
+BAG:zenoosama remove Găng vải thô lydo: Mặc vào người at 01/29/2023 11:13 PM
+BAG:zenoosama remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 01/29/2023 11:16 PM
+BAG:zenoosama remove Găng đồng lydo: Mặc vào người at 01/29/2023 11:22 PM
+BAG:zenoosama remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:30 PM
+BAG:zenoosama remove 1xVệ tinh sinh lực lydo: Bán cho shop at 01/29/2023 11:30 PM
+BAG:zenoosama remove 1xNgọc Rồng 7 sao lydo: Bán cho shop at 01/29/2023 11:30 PM
+BAG:zenoosama remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:31 PM
+BAG:zenoosama remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:31 PM
+BAG:zenoosama remove 2xSao pha lê lydo: Bán cho shop at 01/29/2023 11:31 PM
+BAG:zenoosama remove 1xVệ tinh trí lực lydo: Bán cho shop at 01/29/2023 11:31 PM
+BAG:zenoosama remove 1xVệ tinh sinh lực lydo: Bán cho shop at 01/29/2023 11:31 PM
+BAG:zenoosama remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:31 PM
+BAG:zenoosama remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:31 PM
+BAG:zenoosama remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:37 PM
+BAG:zenoosama remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:37 PM
+BAG:zenoosama remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:37 PM
+BAG:zenoosama remove Cải trang Chill cấp 2 lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Đá thạch anh tím lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Đá Titan lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Đậu xanh lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Trứng vịt muối lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Gà quay nguyên con lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Đá Saphia lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Bột mì lydo: Cất vào rương at 01/29/2023 11:37 PM
+BAG:zenoosama remove Đá lục bảo lydo: Cất vào rương at 01/29/2023 11:38 PM
+BAG:zenoosama remove Đá Ruby lydo: Cất vào rương at 01/29/2023 11:38 PM
+BAG:zenoosama remove Ngọc Rồng 4 sao lydo: Cất vào rương at 01/29/2023 11:38 PM
+BAG:zenoosama remove Mảnh Quỷ đất lydo: Cất vào rương at 01/29/2023 11:38 PM
+BAG:zenoosama remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 01/29/2023 11:38 PM
+BAG:zenoosama remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 11:38 PM
+BAG:zenoosama remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 01/29/2023 11:38 PM
+BAG:zenoosama remove Nâng cấp kỹ năng 1 đệ tử lydo: Tự Xóa vật phẩm at 01/29/2023 11:39 PM
+BAG:zenoosama remove Vệ tinh sinh lực lydo: Cất vào rương at 01/29/2023 11:41 PM
+BAG:zenoosama remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:41 PM
+BAG:zenoosama remove Vệ tinh phòng thủ lydo: Cất vào rương at 01/29/2023 11:41 PM
+BAG:zenoosama remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:41 PM
+BAG:zenoosama remove Vệ tinh trí lực lydo: Cất vào rương at 01/29/2023 11:41 PM
+BAG:zenoosama remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:zenoosama remove Cải trang Dr Lychee lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:zenoosama remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:zenoosama remove Vệ tinh trí tuệ lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:zenoosama remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:zenoosama remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:zenoosama remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/29/2023 11:43 PM
+BAG:zenoosama remove Ngọc Rồng 7 sao lydo: Cất vào rương at 01/29/2023 11:43 PM
+BAG:zenoosama remove Ngọc Rồng 4 sao lydo: Cất vào rương at 01/29/2023 11:43 PM
+BAG:zenoosama remove Mảnh Quỷ đất lydo: Cất vào rương at 01/29/2023 11:43 PM
+BAG:zenoosama remove Đá Ruby lydo: Cất vào rương at 01/29/2023 11:43 PM
+BAG:zenoosama remove Đá lục bảo lydo: Cất vào rương at 01/29/2023 11:43 PM
+BAG:zenoosama remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:43 PM
+BAG:zenoosama remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:zenoosama remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:zenoosama remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:zenoosama remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:zenoosama remove Vệ tinh phòng thủ lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:zenoosama remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:zenoosama remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:zenoosama remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:44 PM
+BAG:zenoosama remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:49 PM
+BAG:zenoosama remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 11:49 PM
+BAG:zenoosama remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 11:52 PM
+BAG:zenoosama remove Quần giáp bạc lydo: Mặc vào người at 01/29/2023 11:54 PM
+BAG:zenoosama remove Rada cấp 1 lydo: Mặc cho đệ tử at 01/29/2023 11:54 PM
+BAG:zenoosama remove Áo vải thô lydo: Mặc vào người at 01/29/2023 11:55 PM
+BAG:zenoosama remove Giầy vải thô lydo: Mặc vào người at 01/29/2023 11:55 PM
+BAG:zenoosama remove Găng vải thô lydo: Mặc vào người at 01/29/2023 11:55 PM
+BAG:zenoosama remove Áo vải thô lydo: Cất vào rương at 01/29/2023 11:55 PM
+BAG:zenoosama remove Giầy vải thô lydo: Cất vào rương at 01/29/2023 11:55 PM
+BAG:zenoosama remove Quần giáp bạc lydo: Tự Xóa vật phẩm at 01/29/2023 11:56 PM
+BAG:zenoosama remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:59 PM

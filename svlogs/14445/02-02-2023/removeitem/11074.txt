@@ -1,0 +1,130 @@
+BAG:karaoke remove Quần sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 8:56 CH
+BAG:karaoke remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 8:56 CH
+BAG:karaoke remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:59 CH
+BAG:karaoke remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/02/2023 9:05 CH
+BAG:karaoke remove Cải trang Hit lydo: Mặc vào người at 02/02/2023 9:05 CH
+BAG:karaoke remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:05 CH
+BAG:karaoke remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:05 CH
+BAG:karaoke remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:05 CH
+BAG:karaoke remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:06 CH
+BAG:karaoke remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 9:07 CH
+BAG:karaoke remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 9:07 CH
+BAG:karaoke remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 9:07 CH
+BAG:karaoke remove Mèo mun lydo: Tự Xóa vật phẩm at 02/02/2023 9:08 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:09 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:10 CH
+BAG:karaoke remove Giầy sợi len lydo: Mặc vào người at 02/02/2023 9:13 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:16 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:16 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:16 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:21 CH
+BAG:karaoke remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:22 CH
+BAG:karaoke remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:22 CH
+BAG:karaoke remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:22 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:24 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:24 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:24 CH
+BAG:karaoke remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/02/2023 9:25 CH
+BAG:karaoke remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 9:25 CH
+BAG:karaoke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:25 CH
+BAG:karaoke remove Cải trang Mabư Noel lydo: Tự Xóa vật phẩm at 02/02/2023 9:26 CH
+BAG:karaoke remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 9:26 CH
+BAG:karaoke remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 9:33 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:36 CH
+BAG:karaoke remove Găng thun Pico lydo: Mặc cho đệ tử at 02/02/2023 9:36 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:38 CH
+BAG:karaoke remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:40 CH
+BAG:karaoke remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:40 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:40 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:41 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:42 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:42 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:43 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:44 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:44 CH
+BAG:karaoke remove Găng thun Pico lydo: Tự Xóa vật phẩm at 02/02/2023 9:44 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:45 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:45 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:46 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:47 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:57 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:57 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:58 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:58 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:59 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:11 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:11 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:11 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:11 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:12 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:13 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:14 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:15 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:15 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:16 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:17 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:18 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:19 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:20 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:21 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:22 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:23 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:24 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:25 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:26 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:27 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:28 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:29 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:30 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:32 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:34 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:35 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:36 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:37 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:39 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:40 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:41 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:43 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:44 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:45 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:47 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:48 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:50 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:51 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:53 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:54 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:56 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:00 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:02 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:04 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:05 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:07 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:09 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:11 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:15 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:17 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:19 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:21 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:24 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:26 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:28 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:31 CH
+BAG:karaoke remove Găng vải Pico lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:karaoke remove Găng len cứng lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:karaoke remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 11:35 CH
+BAG:karaoke remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 02/02/2023 11:35 CH
+BAG:karaoke remove Đậu thần cấp 6 lydo: Tự Xóa vật phẩm at 02/02/2023 11:35 CH
+BAG:karaoke remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 11:35 CH
+BAG:karaoke remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 11:35 CH
+BAG:karaoke remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 02/02/2023 11:35 CH
+BAG:karaoke remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:37 CH
+BAG:karaoke remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:37 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:39 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:42 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:45 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:48 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:50 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:53 CH
+BAG:karaoke remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:56 CH

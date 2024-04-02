@@ -1,0 +1,5 @@
+BAG:kkkdone add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 9:38 SA
+BAG:kkkdone add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 9:43 SA
+BAG:kkkdone add 1xCây mai lydo: Nhặt từ map at 02/03/2023 9:43 SA
+BAG:kkkdone add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 9:44 SA
+BAG:kkkdone add 1xLì xì lydo: Nhặt từ map at 02/03/2023 9:44 SA

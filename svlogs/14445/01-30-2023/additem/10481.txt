@@ -1,0 +1,46 @@
+BAG:vip1admin add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 5:29 AM
+BAG:vip1admin add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 5:30 AM
+BAG:vip1admin add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/30/2023 5:30 AM
+BAG:vip1admin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 01/30/2023 5:30 AM
+BAG:vip1admin add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 5:30 AM
+BAG:vip1admin add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 5:31 AM
+BAG:vip1admin add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 5:34 AM
+BAG:vip1admin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 01/30/2023 5:34 AM
+BAG:vip1admin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 5:35 AM
+BAG:vip1admin add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 5:35 AM
+BAG:vip1admin add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 5:35 AM
+BAG:vip1admin add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 01/30/2023 5:36 AM
+BAG:vip1admin add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 5:36 AM
+BAG:vip1admin add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 5:36 AM
+BAG:vip1admin add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 5:37 AM
+BAG:vip1admin add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 5:37 AM
+BAG:vip1admin add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 5:37 AM
+BAG:vip1admin add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 01/30/2023 5:38 AM
+BAG:vip1admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 5:39 AM
+BAG:vip1admin add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 5:40 AM
+BAG:vip1admin add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/30/2023 5:41 AM
+BAG:vip1admin add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 5:41 AM
+BAG:vip1admin add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 5:43 AM
+BAG:vip1admin add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 5:43 AM
+BAG:vip1admin add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 5:43 AM
+BAG:vip1admin add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 5:43 AM
+BAG:vip1admin add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 5:43 AM
+BAG:vip1admin add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 5:43 AM
+BAG:vip1admin add 20xThỏi vàng lydo: Giftcode at 01/30/2023 5:44 AM
+BAG:vip1admin add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 01/30/2023 5:45 AM
+BAG:vip1admin add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 5:45 AM
+BAG:vip1admin add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 5:45 AM
+BAG:vip1admin add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 5:46 AM
+BAG:vip1admin add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 5:46 AM
+BAG:vip1admin add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/30/2023 5:46 AM
+BAG:vip1admin add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/30/2023 5:46 AM
+BAG:vip1admin add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/30/2023 5:46 AM
+BAG:vip1admin add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 01/30/2023 5:46 AM
+BAG:vip1admin add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 01/30/2023 5:46 AM
+BAG:vip1admin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/30/2023 5:48 AM
+BAG:vip1admin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 5:48 AM
+BAG:vip1admin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 5:48 AM
+BAG:vip1admin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 5:48 AM
+BAG:vip1admin add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 5:49 AM
+BAG:vip1admin add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/30/2023 5:49 AM
+BAG:vip1admin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 01/30/2023 5:49 AM

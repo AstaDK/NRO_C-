@@ -1,0 +1,32 @@
+BAG:balckgenma add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 12:13 CH
+BAG:balckgenma add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 12:14 CH
+BAG:balckgenma add 30xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/03/2023 12:16 CH
+BAG:balckgenma add 59xĐậu thần cấp 1 (old: 29) lydo: Mua từ cửa hàng at 02/03/2023 12:16 CH
+BAG:balckgenma add 89xĐậu thần cấp 1 (old: 59) lydo: Mua từ cửa hàng at 02/03/2023 12:16 CH
+BAG:balckgenma add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 1:10 CH
+BAG:balckgenma add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 02/03/2023 1:49 CH
+BAG:balckgenma add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 02/03/2023 1:49 CH
+BAG:balckgenma add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 02/03/2023 1:49 CH
+BAG:balckgenma add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 02/03/2023 1:49 CH
+BAG:balckgenma add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/03/2023 1:49 CH
+BAG:balckgenma add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:balckgenma add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:balckgenma add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:balckgenma add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:balckgenma add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:balckgenma add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:balckgenma add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:balckgenma add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:balckgenma add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:balckgenma add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:balckgenma add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:balckgenma add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:balckgenma add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:balckgenma add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:balckgenma add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:balckgenma add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:balckgenma add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:balckgenma add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:balckgenma add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:balckgenma add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:balckgenma add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 1:59 CH

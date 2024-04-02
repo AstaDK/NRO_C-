@@ -1,0 +1,46 @@
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:13 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:13 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:18 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:18 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:21 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:22 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:24 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:24 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:24 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:25 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:26 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:26 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:27 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:29 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:31 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:31 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:32 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:32 CH
+BAG:run1208 remove Cải trang Hit lydo: Mặc vào người at 02/03/2023 1:36 CH
+BAG:run1208 remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 1:36 CH
+BAG:run1208 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:36 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:43 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:45 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:47 CH
+BAG:run1208 remove Áo vải thô lydo: Mặc vào người at 02/03/2023 1:48 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:49 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:49 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:50 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:50 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:51 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:51 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:53 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:55 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:56 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:56 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:57 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:58 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:58 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:58 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:59 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:59 CH
+BAG:run1208 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:59 CH
+BAG:run1208 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 2:01 CH
+BAG:run1208 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 2:04 CH
+BAG:run1208 remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 2:04 CH
+BAG:run1208 remove Cải trang Hit lydo: Mặc vào người at 02/03/2023 2:04 CH

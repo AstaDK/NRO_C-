@@ -1,0 +1,6 @@
+BAG:vinhliemlon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 5:51 PM
+BAG:vinhliemlon add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 5:51 PM
+BAG:vinhliemlon add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:vinhliemlon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:vinhliemlon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 5:59 PM
+BAG:vinhliemlon add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 01/29/2023 5:59 PM

@@ -1,0 +1,668 @@
+BAG:tuoilozks add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:tuoilozks add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:tuoilozks add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:tuoilozks add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:tuoilozks add 70xCây mai (old: 69) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:tuoilozks add 71xCây mai (old: 70) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:tuoilozks add 65xLì xì (old: 64) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:tuoilozks add 66xLì xì (old: 65) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:tuoilozks add 67xLì xì (old: 66) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:tuoilozks add 68xLì xì (old: 67) lydo: Nhặt từ map at 02/03/2023 12:04 SA
+BAG:tuoilozks add 72xCây mai (old: 71) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:tuoilozks add 69xLì xì (old: 68) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:tuoilozks add 70xLì xì (old: 69) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:tuoilozks add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:tuoilozks add 73xCây mai (old: 72) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:tuoilozks add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:tuoilozks add 71xLì xì (old: 70) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:tuoilozks add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:tuoilozks add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:tuoilozks add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:tuoilozks add 72xLì xì (old: 71) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:tuoilozks add 73xLì xì (old: 72) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:tuoilozks add 74xCây mai (old: 73) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:tuoilozks add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:tuoilozks add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:tuoilozks add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:tuoilozks add 75xCây mai (old: 74) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:tuoilozks add 76xCây mai (old: 75) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:tuoilozks add 74xLì xì (old: 73) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:tuoilozks add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:tuoilozks add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:tuoilozks add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:tuoilozks add 77xCây mai (old: 76) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:tuoilozks add 78xCây mai (old: 77) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:tuoilozks add 79xCây mai (old: 78) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:tuoilozks add 75xLì xì (old: 74) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:tuoilozks add 80xCây mai (old: 79) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:tuoilozks add 76xLì xì (old: 75) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:tuoilozks add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 12:23 SA
+BAG:tuoilozks add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 12:23 SA
+BAG:tuoilozks add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 12:23 SA
+BAG:tuoilozks add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 12:23 SA
+BAG:tuoilozks add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:tuoilozks add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 12:23 SA
+BAG:tuoilozks add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 12:23 SA
+BAG:tuoilozks add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:tuoilozks add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:tuoilozks add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:tuoilozks add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:tuoilozks add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:tuoilozks add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:tuoilozks add 81xCây mai (old: 80) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:tuoilozks add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:tuoilozks add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:tuoilozks add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:tuoilozks add 82xCây mai (old: 81) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:tuoilozks add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/03/2023 12:28 SA
+BAG:tuoilozks add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 02/03/2023 12:28 SA
+BAG:tuoilozks add 77xLì xì (old: 76) lydo: Nhặt từ map at 02/03/2023 12:28 SA
+BAG:tuoilozks add 83xCây mai (old: 82) lydo: Nhặt từ map at 02/03/2023 12:28 SA
+BAG:tuoilozks add 78xLì xì (old: 77) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:tuoilozks add 79xLì xì (old: 78) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:tuoilozks add 80xLì xì (old: 79) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:tuoilozks add 1xGăng vàng Goku lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:tuoilozks add 1xCải trang lydo: Mua từ cửa hàng at 02/03/2023 12:49 SA
+BAG:tuoilozks add 38xĐậu thần cấp 9 (old: 18) lydo: Lấy từ rương qua người at 02/03/2023 3:09 SA
+BAG:tuoilozks add 58xĐậu thần cấp 9 (old: 38) lydo: Lấy từ rương qua người at 02/03/2023 3:09 SA
+BAG:tuoilozks add 78xĐậu thần cấp 9 (old: 58) lydo: Lấy từ rương qua người at 02/03/2023 3:09 SA
+BAG:tuoilozks add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 3:10 SA
+BAG:tuoilozks add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 3:10 SA
+BAG:tuoilozks add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 3:10 SA
+BAG:tuoilozks add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 3:10 SA
+BAG:tuoilozks add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 3:10 SA
+BAG:tuoilozks add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 3:10 SA
+BAG:tuoilozks add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 9:44 SA
+BAG:tuoilozks add 1xGăng vàng Goku lydo: Lấy từ body đệ vào hành trang at 02/03/2023 9:44 SA
+BAG:tuoilozks add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 02/03/2023 11:43 SA
+BAG:tuoilozks add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 02/03/2023 11:43 SA
+BAG:tuoilozks add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 02/03/2023 11:43 SA
+BAG:tuoilozks add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 11:43 SA
+BAG:tuoilozks add 1xGăng vàng Goku lydo: Lấy từ body đệ vào hành trang at 02/03/2023 11:43 SA
+BAG:tuoilozks add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 11:43 SA
+BAG:tuoilozks add 7xThỏi vàng lydo: Lấy từ rương qua người at 02/03/2023 11:44 SA
+BAG:tuoilozks add 1xGăng jean Calic lydo: Mua từ cửa hàng at 02/03/2023 11:45 SA
+BAG:tuoilozks add 1xCây mai lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 1xLì xì lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tuoilozks add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tuoilozks add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:tuoilozks add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:tuoilozks add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:tuoilozks add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:tuoilozks add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:tuoilozks add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:tuoilozks add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:tuoilozks add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 02/03/2023 12:04 CH
+BAG:tuoilozks add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 02/03/2023 12:04 CH
+BAG:tuoilozks add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 02/03/2023 12:04 CH
+BAG:tuoilozks add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 12:04 CH
+BAG:tuoilozks add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 12:04 CH
+BAG:tuoilozks add 1xAvatar lydo: Mua từ cửa hàng at 02/03/2023 12:37 CH
+BAG:tuoilozks add 1xAvatar lydo: Lấy từ body đệ vào hành trang at 02/03/2023 12:39 CH
+BAG:tuoilozks add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 1:34 CH
+BAG:tuoilozks add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:tuoilozks add 1xLì xì lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:tuoilozks add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:tuoilozks add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 1xCây mai lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:tuoilozks add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:tuoilozks add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:tuoilozks add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:tuoilozks add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:tuoilozks add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:tuoilozks add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:tuoilozks add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:tuoilozks add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:tuoilozks add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:tuoilozks add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:tuoilozks add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:tuoilozks add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:tuoilozks add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:tuoilozks add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:tuoilozks add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:tuoilozks add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 70xCây mai (old: 69) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 71xCây mai (old: 70) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 72xCây mai (old: 71) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 73xCây mai (old: 72) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 74xCây mai (old: 73) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 75xCây mai (old: 74) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:tuoilozks add 76xCây mai (old: 75) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 77xCây mai (old: 76) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:tuoilozks add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 78xCây mai (old: 77) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 79xCây mai (old: 78) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:tuoilozks add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:tuoilozks add 80xCây mai (old: 79) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 81xCây mai (old: 80) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 82xCây mai (old: 81) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 83xCây mai (old: 82) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 84xCây mai (old: 83) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 85xCây mai (old: 84) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:tuoilozks add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 86xCây mai (old: 85) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 87xCây mai (old: 86) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 88xCây mai (old: 87) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 89xCây mai (old: 88) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 90xCây mai (old: 89) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 91xCây mai (old: 90) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 92xCây mai (old: 91) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 93xCây mai (old: 92) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:tuoilozks add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 94xCây mai (old: 93) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 95xCây mai (old: 94) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 96xCây mai (old: 95) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 97xCây mai (old: 96) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 98xCây mai (old: 97) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 99xCây mai (old: 98) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 66xBình rượu (old: 65) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:tuoilozks add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 67xBình rượu (old: 66) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 100xCây mai (old: 99) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 68xBình rượu (old: 67) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 101xCây mai (old: 100) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:tuoilozks add 102xCây mai (old: 101) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 69xBình rượu (old: 68) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 70xBình rượu (old: 69) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 71xBình rượu (old: 70) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 103xCây mai (old: 102) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 72xBình rượu (old: 71) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 104xCây mai (old: 103) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:tuoilozks add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 105xCây mai (old: 104) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 106xCây mai (old: 105) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 107xCây mai (old: 106) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 73xBình rượu (old: 72) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 108xCây mai (old: 107) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:tuoilozks add 74xBình rượu (old: 73) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 109xCây mai (old: 108) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 75xBình rượu (old: 74) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 76xBình rượu (old: 75) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 77xBình rượu (old: 76) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:tuoilozks add 110xCây mai (old: 109) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 78xBình rượu (old: 77) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 79xBình rượu (old: 78) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 111xCây mai (old: 110) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 112xCây mai (old: 111) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:tuoilozks add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 113xCây mai (old: 112) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 80xBình rượu (old: 79) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 81xBình rượu (old: 80) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 114xCây mai (old: 113) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 115xCây mai (old: 114) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 82xBình rượu (old: 81) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:tuoilozks add 83xBình rượu (old: 82) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 116xCây mai (old: 115) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 117xCây mai (old: 116) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 84xBình rượu (old: 83) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:tuoilozks add 85xBình rượu (old: 84) lydo: Nhặt từ map at 02/03/2023 2:05 CH

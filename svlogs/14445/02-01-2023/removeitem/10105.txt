@@ -1,0 +1,385 @@
+BAG:admin04 remove Găng vàng Zealot lydo: Mặc vào người at 02/01/2023 7:35 SA
+BAG:admin04 remove Găng vàng Zealot lydo: Mặc vào người at 02/01/2023 7:37 SA
+BAG:admin04 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 7:38 SA
+BAG:admin04 remove Quần thun cứng lydo: Mặc vào người at 02/01/2023 7:38 SA
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 8:29 SA
+BAG:admin04 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 11:00 SA
+BAG:admin04 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 11:00 SA
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 11:00 SA
+BAG:admin04 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:01 SA
+BAG:admin04 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 11:01 SA
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:01 SA
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:01 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:11 SA
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 11:11 SA
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 11:21 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:29 SA
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 11:31 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:38 SA
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 11:41 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:47 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:56 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:59 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:59 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:59 SA
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:03 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:03 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:07 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 12:07 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:16 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 12:17 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:25 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 12:28 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:34 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 12:38 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:43 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 12:48 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:52 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 12:58 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:01 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 1:08 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:10 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 1:18 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:19 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:28 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 1:28 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:37 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 1:38 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:46 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 1:49 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 1:59 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:04 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 2:09 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:13 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 2:19 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:22 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 5:26 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:26 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:31 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:31 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:32 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:32 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:32 CH
+BAG:admin04 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 5:32 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:32 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:32 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:35 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:35 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:35 CH
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:35 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:35 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:admin04 remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:36 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 5:37 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:38 CH
+BAG:admin04 remove 1xGiáp Xên bọ hung lydo: Dùng buff at 02/01/2023 5:38 CH
+BAG:admin04 remove Cuồng nộ lydo: Tự Xóa vật phẩm at 02/01/2023 5:38 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:39 CH
+BAG:admin04 remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/01/2023 5:42 CH
+BAG:admin04 remove 1xGiáp Xên bọ hung lydo: Dùng buff at 02/01/2023 5:44 CH
+BAG:admin04 remove 99xĐá Titan lydo: Bán cho shop at 02/01/2023 5:44 CH
+BAG:admin04 remove Hồn ma Ca đíc lydo: Tự Xóa vật phẩm at 02/01/2023 5:45 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 5:47 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:48 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:49 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:55 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:55 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:56 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:56 CH
+BAG:admin04 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:56 CH
+BAG:admin04 remove 1xGiáp Xên bọ hung lydo: Dùng buff at 02/01/2023 5:56 CH
+BAG:admin04 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:57 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 5:57 CH
+BAG:admin04 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:admin04 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:admin04 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 6:07 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 6:17 CH
+BAG:admin04 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 6:19 CH
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 6:19 CH
+BAG:admin04 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 6:19 CH
+BAG:admin04 remove Tái tạo năng lượng lv3 lydo: Tự Xóa vật phẩm at 02/01/2023 6:21 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 6:27 CH
+BAG:admin04 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 6:32 CH
+BAG:admin04 remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/01/2023 6:32 CH
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 6:32 CH
+BAG:admin04 remove Giáp Xên bọ hung lydo: Tự Xóa vật phẩm at 02/01/2023 6:32 CH
+BAG:admin04 remove Giầy Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:32 CH
+BAG:admin04 remove Nhẫn Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:32 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 6:37 CH
+BAG:admin04 remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/01/2023 6:38 CH
+BAG:admin04 remove Nhẫn Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:38 CH
+BAG:admin04 remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:39 CH
+BAG:admin04 remove Găng Hủy Diệt lydo: Tự Xóa vật phẩm at 02/01/2023 6:39 CH
+BAG:admin04 remove Giầy cao su thô lydo: Tự Xóa vật phẩm at 02/01/2023 6:40 CH
+BAG:admin04 remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:40 CH
+BAG:admin04 remove Quần Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:41 CH
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 6:41 CH
+BAG:admin04 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 6:41 CH
+BAG:admin04 remove Quần Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:41 CH
+BAG:admin04 remove Áo vàng Zealot lydo: Tự Xóa vật phẩm at 02/01/2023 6:42 CH
+BAG:admin04 remove Quần Hủy Diệt lydo: Tự Xóa vật phẩm at 02/01/2023 6:42 CH
+BAG:admin04 remove Găng Hủy Diệt lydo: Tự Xóa vật phẩm at 02/01/2023 6:42 CH
+BAG:admin04 remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:43 CH
+BAG:admin04 remove Giầy Thiên Sứ lydo: Tự Xóa vật phẩm at 02/01/2023 6:43 CH
+BAG:admin04 remove Nhẫn Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:44 CH
+BAG:admin04 remove Găng Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:44 CH
+BAG:admin04 remove Quần Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:44 CH
+BAG:admin04 remove Giầy Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:44 CH
+BAG:admin04 remove Áo Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:45 CH
+BAG:admin04 remove Rada cấp 12 lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Rada cấp 12 lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Rada cấp 12 lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Giày vàng Zealot lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Rada cấp 12 lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 6:45 CH
+BAG:admin04 remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 6:46 CH
+BAG:admin04 remove Đá Ruby lydo: Cất vào rương at 02/01/2023 6:46 CH
+BAG:admin04 remove Đá lục bảo lydo: Cất vào rương at 02/01/2023 6:46 CH
+BAG:admin04 remove Đá Ruby lydo: Cất vào rương at 02/01/2023 6:46 CH
+BAG:admin04 remove Đá lục bảo lydo: Cất vào rương at 02/01/2023 6:46 CH
+BAG:admin04 remove Rada cấp 12 lydo: Tự Xóa vật phẩm at 02/01/2023 6:46 CH
+BAG:admin04 remove Rada cấp 12 lydo: Tự Xóa vật phẩm at 02/01/2023 6:46 CH
+BAG:admin04 remove Rada cấp 12 lydo: Tự Xóa vật phẩm at 02/01/2023 6:46 CH
+BAG:admin04 remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 6:47 CH
+BAG:admin04 remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 6:47 CH
+BAG:admin04 remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 6:47 CH
+BAG:admin04 remove Giày vàng Zealot lydo: Tự Xóa vật phẩm at 02/01/2023 6:47 CH
+BAG:admin04 remove Giày vàng Zealot lydo: Tự Xóa vật phẩm at 02/01/2023 6:47 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 6:47 CH
+BAG:admin04 remove Giầy Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:48 CH
+BAG:admin04 remove Áo Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:48 CH
+BAG:admin04 remove Quần Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:48 CH
+BAG:admin04 remove Găng Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:48 CH
+BAG:admin04 remove Nhẫn Thiên Sứ lydo: Cất vào rương at 02/01/2023 6:48 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 6:57 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 7:07 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 7:17 CH
+BAG:admin04 remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 9:14 CH
+BAG:admin04 remove Rada cấp 6 lydo: Mặc cho đệ tử at 02/01/2023 9:22 CH
+BAG:admin04 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 9:22 CH
+BAG:admin04 remove Giày cao su cứng lydo: Mặc cho đệ tử at 02/01/2023 9:22 CH
+BAG:admin04 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 9:22 CH
+BAG:admin04 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 9:23 CH
+BAG:admin04 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 9:23 CH
+BAG:admin04 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 9:23 CH
+BAG:admin04 remove Áo Thiên Sứ lydo: Mặc vào người at 02/01/2023 9:23 CH
+BAG:admin04 remove Quần Thiên Sứ lydo: Mặc vào người at 02/01/2023 9:23 CH
+BAG:admin04 remove Giầy Thiên Sứ lydo: Mặc vào người at 02/01/2023 9:23 CH
+BAG:admin04 remove Nhẫn Thiên Sứ lydo: Mặc vào người at 02/01/2023 9:23 CH
+BAG:admin04 remove Găng Thiên Sứ lydo: Mặc vào người at 02/01/2023 9:23 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:23 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:23 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:23 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:23 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:24 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:24 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:24 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:24 CH
+BAG:admin04 remove Giáp tập luyện cấp 3 lydo: Tự Xóa vật phẩm at 02/01/2023 9:24 CH
+BAG:admin04 remove Áo choàng thun lydo: Mặc cho đệ tử at 02/01/2023 9:25 CH
+BAG:admin04 remove Quần thun cứng lydo: Mặc cho đệ tử at 02/01/2023 9:25 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:28 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:30 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:30 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:30 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:30 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:30 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:30 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:31 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:31 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:31 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:33 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:33 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:33 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:33 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:33 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:33 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:34 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:34 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:34 CH
+BAG:admin04 remove Áo Thiên Sứ lydo: Mặc vào người at 02/01/2023 9:37 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:38 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xBông tai Porata lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 99xNgọc Rồng 5 sao lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:39 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:41 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:41 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:42 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:42 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:42 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:43 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:43 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:43 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:43 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:43 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:43 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:43 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:43 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:44 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:44 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:46 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:47 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:47 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:47 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:48 CH
+BAG:admin04 remove Bông tai Porata lydo: Tự Xóa vật phẩm at 02/01/2023 9:49 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:50 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:50 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:51 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:51 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:51 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:51 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:51 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:51 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:52 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:52 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:52 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:52 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:52 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:52 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:54 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:54 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:54 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:54 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:56 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:57 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:57 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:57 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:57 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:57 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:57 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:58 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:58 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:59 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:59 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 9:59 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 9:59 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 10:00 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 10:00 CH
+BAG:admin04 remove 99xMảnh hồn bông tai lydo: CS Porata at 02/01/2023 10:01 CH
+BAG:admin04 remove 1xĐá xanh lam lydo: CS Porata at 02/01/2023 10:01 CH
+BAG:admin04 remove Bông tai Porata lydo: Tự Xóa vật phẩm at 02/01/2023 10:02 CH
+BAG:admin04 remove Bông tai Porata lydo: Tự Xóa vật phẩm at 02/01/2023 10:02 CH
+BAG:admin04 remove Mảnh hồn bông tai lydo: Tự Xóa vật phẩm at 02/01/2023 10:02 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:02 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:02 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:03 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:03 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:03 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:03 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:03 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:03 CH
+BAG:admin04 remove 17xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:03 CH
+BAG:admin04 remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:03 CH
+BAG:admin04 remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:04 CH
+BAG:admin04 remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:04 CH
+BAG:admin04 remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:04 CH
+BAG:admin04 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 10:04 CH
+BAG:admin04 remove Găng Thiên Sứ lydo: Mặc vào người at 02/01/2023 10:05 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:07 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:08 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:11 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:11 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:11 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:11 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:11 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:12 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:12 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:12 CH
+BAG:admin04 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:12 CH

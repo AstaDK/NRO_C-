@@ -1,0 +1,31 @@
+BAG:nzksksa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 6:16 CH
+BAG:nzksksa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 6:17 CH
+BAG:nzksksa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 6:22 CH
+BAG:nzksksa remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:nzksksa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 6:23 CH
+BAG:nzksksa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 6:24 CH
+BAG:nzksksa remove 7xĐậu thần cấp 1 lydo: Bán cho shop at 02/02/2023 6:25 CH
+BAG:nzksksa remove 6xĐậu thần cấp 1 lydo: Bán cho shop at 02/02/2023 6:25 CH
+BAG:nzksksa remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 6:27 CH
+BAG:nzksksa remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 6:30 CH
+BAG:nzksksa remove 1xĐổi đệ tử lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:nzksksa remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:31 CH
+BAG:nzksksa remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:31 CH
+BAG:nzksksa remove Cải trang Black Goku SSJ White lydo: Mặc vào người at 02/02/2023 6:33 CH
+BAG:nzksksa remove 18xĐậu thần cấp 3 lydo: Bán cho shop at 02/02/2023 6:33 CH
+BAG:nzksksa remove 1xVệ tinh trí lực lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xVệ tinh sinh lực lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xVệ tinh trí lực lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:nzksksa remove Cải trang Black Goku SSJ White lydo: Mặc cho đệ tử at 02/02/2023 6:35 CH
+BAG:nzksksa remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:38 CH
+BAG:nzksksa remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:38 CH
+BAG:nzksksa remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:38 CH
+BAG:nzksksa remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:38 CH
+BAG:nzksksa remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 6:39 CH

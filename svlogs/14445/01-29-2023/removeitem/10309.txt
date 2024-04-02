@@ -1,0 +1,131 @@
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:13 PM
+BAG:shjnhan remove Cải trang Mabư Noel lydo: Mặc vào người at 01/29/2023 9:25 PM
+BAG:shjnhan remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/29/2023 9:26 PM
+BAG:shjnhan remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 01/29/2023 9:26 PM
+BAG:shjnhan remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 01/29/2023 9:26 PM
+BAG:shjnhan remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 01/29/2023 9:26 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:37 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:38 PM
+BAG:shjnhan remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 9:38 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:41 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:41 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:42 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:42 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:42 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:43 PM
+BAG:shjnhan remove Găng len Pico lydo: Mặc vào người at 01/29/2023 9:44 PM
+BAG:shjnhan remove Giầy cao su Pico lydo: Mặc vào người at 01/29/2023 9:44 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:44 PM
+BAG:shjnhan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:46 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 9:46 PM
+BAG:shjnhan remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 9:50 PM
+BAG:shjnhan remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 9:50 PM
+BAG:shjnhan remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 9:50 PM
+BAG:shjnhan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 9:51 PM
+BAG:shjnhan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 9:51 PM
+BAG:shjnhan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 9:51 PM
+BAG:shjnhan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 9:51 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 9:53 PM
+BAG:shjnhan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 9:53 PM
+BAG:shjnhan remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 01/29/2023 9:53 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 9:54 PM
+BAG:shjnhan remove Sách học Trị thương lv1 lydo: Sách kĩ năng at 01/29/2023 9:54 PM
+BAG:shjnhan remove Sách học Trị thương lv2 lydo: Sách kĩ năng at 01/29/2023 9:54 PM
+BAG:shjnhan remove Sách học Trị thương lv3 lydo: Sách kĩ năng at 01/29/2023 9:54 PM
+BAG:shjnhan remove Sách học Trị thương lv4 lydo: Sách kĩ năng at 01/29/2023 9:54 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 9:56 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 9:57 PM
+BAG:shjnhan remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 01/29/2023 9:58 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 9:58 PM
+BAG:shjnhan remove Găng len Pico lydo: Mặc cho đệ tử at 01/29/2023 9:59 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 9:59 PM
+BAG:shjnhan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 10:00 PM
+BAG:shjnhan remove Giầy cao su Pico lydo: Mặc cho đệ tử at 01/29/2023 10:00 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:31 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:32 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:32 PM
+BAG:shjnhan remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 10:33 PM
+BAG:shjnhan remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 10:33 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:33 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:33 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:34 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:35 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:35 PM
+BAG:shjnhan remove Giầy cao su Pico lydo: Tự Xóa vật phẩm at 01/29/2023 10:35 PM
+BAG:shjnhan remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 10:35 PM
+BAG:shjnhan remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 10:36 PM
+BAG:shjnhan remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 10:36 PM
+BAG:shjnhan remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 01/29/2023 10:36 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:36 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:37 PM
+BAG:shjnhan remove 1xGăng len Pico lydo: Bán cho shop at 01/29/2023 10:37 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:37 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:38 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:39 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:40 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:41 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:46 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:52 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:53 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:57 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:58 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 10:59 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:00 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:16 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:20 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:20 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:21 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:21 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:21 PM
+BAG:shjnhan remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:21 PM
+BAG:shjnhan remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:21 PM
+BAG:shjnhan remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:21 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:21 PM
+BAG:shjnhan remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:21 PM
+BAG:shjnhan remove Quần thun Pico lydo: Tự Xóa vật phẩm at 01/29/2023 11:21 PM
+BAG:shjnhan remove Giầy cao su Pico lydo: Tự Xóa vật phẩm at 01/29/2023 11:21 PM
+BAG:shjnhan remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:22 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:22 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:22 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:23 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:23 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:23 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:23 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:23 PM
+BAG:shjnhan remove Cải trang Mabư Noel lydo: Mặc vào người at 01/29/2023 11:24 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:25 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:26 PM
+BAG:shjnhan remove Giày cao su cứng lydo: Mặc vào người at 01/29/2023 11:27 PM
+BAG:shjnhan remove Găng thun Pico lydo: Mặc vào người at 01/29/2023 11:27 PM
+BAG:shjnhan remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 01/29/2023 11:27 PM
+BAG:shjnhan remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:shjnhan remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:shjnhan remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:shjnhan remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:35 PM
+BAG:shjnhan remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:36 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:37 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:38 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:38 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:38 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:39 PM
+BAG:shjnhan remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:40 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:40 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:43 PM
+BAG:shjnhan remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:shjnhan remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:45 PM
+BAG:shjnhan remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:45 PM
+BAG:shjnhan remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:45 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:46 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:49 PM
+BAG:shjnhan remove 1xĐá lục bảo lydo: Bán cho shop at 01/29/2023 11:51 PM
+BAG:shjnhan remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:51 PM
+BAG:shjnhan remove 1xCánh thiên thần lydo: Bán cho shop at 01/29/2023 11:52 PM
+BAG:shjnhan remove Quần vải cứng Pico lydo: Mặc vào người at 01/29/2023 11:52 PM
+BAG:shjnhan remove 1xÁo thun Pico lydo: Bán cho shop at 01/29/2023 11:52 PM
+BAG:shjnhan remove 1xGăng thun Pico lydo: Bán cho shop at 01/29/2023 11:52 PM
+BAG:shjnhan remove 1xGiày cao su cứng lydo: Bán cho shop at 01/29/2023 11:53 PM
+BAG:shjnhan remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:54 PM
+BAG:shjnhan remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:54 PM
+BAG:shjnhan remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 11:56 PM

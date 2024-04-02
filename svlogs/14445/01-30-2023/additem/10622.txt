@@ -1,0 +1,20 @@
+BAG:adugame add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 7:26 PM
+BAG:adugame add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 7:31 PM
+BAG:adugame add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 7:32 PM
+BAG:adugame add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 7:55 PM
+BAG:adugame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 7:55 PM
+BAG:adugame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 7:56 PM
+BAG:adugame add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 7:56 PM
+BAG:adugame add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/30/2023 7:57 PM
+BAG:adugame add 30xĐậu thần cấp 4 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 7:57 PM
+BAG:adugame add 50xĐậu thần cấp 4 (old: 30) lydo: Lấy từ rương qua người at 01/30/2023 7:57 PM
+BAG:adugame add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 7:58 PM
+BAG:adugame add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 7:58 PM
+BAG:adugame add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 7:58 PM
+BAG:adugame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 7:58 PM
+BAG:adugame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 8:00 PM
+BAG:adugame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 8:00 PM
+BAG:adugame add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/30/2023 8:01 PM
+BAG:adugame add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 8:02 PM
+BAG:adugame add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 8:21 PM
+BAG:adugame add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 01/30/2023 8:21 PM

@@ -1,0 +1,247 @@
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:04 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:05 SA
+BAG:lackkakarot remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 5:16 SA
+BAG:lackkakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:17 SA
+BAG:lackkakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:18 SA
+BAG:lackkakarot remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 5:18 SA
+BAG:lackkakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:22 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:29 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 5:30 SA
+BAG:lackkakarot remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 5:31 SA
+BAG:lackkakarot remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/01/2023 5:31 SA
+BAG:lackkakarot remove Đá lục bảo lydo: Cất vào rương at 02/01/2023 5:32 SA
+BAG:lackkakarot remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 5:33 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:33 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:33 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:33 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:38 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:38 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:38 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:39 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:39 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:39 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:40 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:40 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:40 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:40 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:41 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:41 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:41 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:41 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:41 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:42 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:42 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:42 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:42 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:43 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:43 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:43 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:43 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:43 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:44 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:44 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:44 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:45 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:45 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:45 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:46 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:46 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:46 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:47 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:47 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:47 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:47 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:48 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:48 SA
+BAG:lackkakarot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 5:49 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:50 SA
+BAG:lackkakarot remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 5:51 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:51 SA
+BAG:lackkakarot remove Áo lông Xayda lydo: Cất vào rương at 02/01/2023 5:55 SA
+BAG:lackkakarot remove Găng vàng lydo: Cất vào rương at 02/01/2023 5:55 SA
+BAG:lackkakarot remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 02/01/2023 6:04 SA
+BAG:lackkakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 6:05 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:08 SA
+BAG:lackkakarot remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 6:08 SA
+BAG:lackkakarot remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 6:09 SA
+BAG:lackkakarot remove Cải trang lydo: Mặc vào người at 02/01/2023 6:11 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:11 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:11 SA
+BAG:lackkakarot remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:11 SA
+BAG:lackkakarot remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 6:12 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 6:12 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 6:21 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:33 SA
+BAG:lackkakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 6:33 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 6:34 SA
+BAG:lackkakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 6:48 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:48 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 6:49 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 6:51 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:57 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 6:58 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:58 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:02 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:03 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:04 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:06 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:07 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:08 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:09 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:13 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:14 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:17 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:18 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:19 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:19 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:22 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:23 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:24 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:25 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:28 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:28 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:30 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 7:30 SA
+BAG:lackkakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 8:06 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 8:08 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 8:12 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:13 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:13 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:14 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:33 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:35 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:37 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:38 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:40 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:42 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:44 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:46 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:48 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:50 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:52 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:55 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:57 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 8:59 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:02 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:04 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:07 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:10 SA
+BAG:lackkakarot remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/01/2023 9:10 SA
+BAG:lackkakarot remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 9:10 SA
+BAG:lackkakarot remove Quần giáp vàng lydo: Mặc cho đệ tử at 02/01/2023 9:25 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:31 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:36 SA
+BAG:lackkakarot remove Giày da Xayda lydo: Mặc cho đệ tử at 02/01/2023 9:37 SA
+BAG:lackkakarot remove Áo lông Xayda lydo: Mặc cho đệ tử at 02/01/2023 9:37 SA
+BAG:lackkakarot remove Găng vàng lydo: Mặc cho đệ tử at 02/01/2023 9:37 SA
+BAG:lackkakarot remove Rada cấp 8 lydo: Mặc cho đệ tử at 02/01/2023 9:37 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:38 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:40 SA
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:41 SA
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:41 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:42 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:43 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:50 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:54 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:55 SA
+BAG:lackkakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 10:05 SA
+BAG:lackkakarot remove Cải trang Hatchiyack lydo: Mặc vào người at 02/01/2023 10:05 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:05 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:05 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:18 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:25 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:32 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:39 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:45 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:52 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:59 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:06 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:12 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:19 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:26 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:33 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:39 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:46 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 11:51 SA
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:18 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:25 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:31 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:34 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:38 CH
+BAG:lackkakarot remove 1xĐá lục bảo lydo: Bán cho shop at 02/01/2023 12:39 CH
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:39 CH
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:39 CH
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:39 CH
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:39 CH
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:40 CH
+BAG:lackkakarot remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:40 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:55 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 1:02 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 1:09 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 1:15 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 1:19 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 1:29 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 1:36 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:03 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:10 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:17 CH
+BAG:lackkakarot remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 2:17 CH
+BAG:lackkakarot remove Cải trang lydo: Cất vào rương at 02/01/2023 2:18 CH
+BAG:lackkakarot remove Cải trang lydo: Cất vào rương at 02/01/2023 2:18 CH
+BAG:lackkakarot remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Quần giáp vàng lydo: Cất vào rương at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Giày da Xayda lydo: Cất vào rương at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Găng vàng lydo: Cất vào rương at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Áo lông Xayda lydo: Cất vào rương at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Găng vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:20 CH
+BAG:lackkakarot remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:21 CH
+BAG:lackkakarot remove Cải trang Hatchiyack lydo: Mặc vào người at 02/01/2023 2:21 CH
+BAG:lackkakarot remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:27 CH
+BAG:lackkakarot remove Găng vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:27 CH
+BAG:lackkakarot remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:27 CH
+BAG:lackkakarot remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:27 CH
+BAG:lackkakarot remove Quần vải thô lydo: Mặc vào người at 02/01/2023 2:31 CH
+BAG:lackkakarot remove Áo lưỡng long lydo: Mặc vào người at 02/01/2023 2:31 CH
+BAG:lackkakarot remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 2:31 CH
+BAG:lackkakarot remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 2:31 CH
+BAG:lackkakarot remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 2:31 CH
+BAG:lackkakarot remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 2:32 CH
+BAG:lackkakarot remove Rada cấp 8 lydo: Mặc cho đệ tử at 02/01/2023 2:32 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:39 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:46 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:52 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:59 CH
+BAG:lackkakarot remove Găng vải thô lydo: Mặc vào người at 02/01/2023 3:22 CH
+BAG:lackkakarot remove Giầy vải thô lydo: Mặc vào người at 02/01/2023 3:22 CH
+BAG:lackkakarot remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 3:22 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:23 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:30 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:37 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:43 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:50 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:57 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:04 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:05 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:17 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:24 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:31 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:37 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:44 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:51 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:58 CH
+BAG:lackkakarot remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:04 CH

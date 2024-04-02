@@ -1,0 +1,7 @@
+BAG:thuan remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 11:11 CH
+BAG:thuan remove 1xĐổi đệ tử lydo: Bán cho shop at 02/02/2023 11:14 CH
+BAG:thuan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:14 CH
+BAG:thuan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:14 CH
+BAG:thuan remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:14 CH
+BAG:thuan remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 11:15 CH
+BAG:thuan remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 11:21 CH

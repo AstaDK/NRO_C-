@@ -1,0 +1,4 @@
+BAG:cahcc add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:cahcc add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:cahcc add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:cahcc add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 12:00 SA

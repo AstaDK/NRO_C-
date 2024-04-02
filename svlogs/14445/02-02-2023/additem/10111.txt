@@ -1,0 +1,9 @@
+BAG:kakarot add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body vào hành trang at 02/02/2023 12:16 CH
+BAG:kakarot add 1xNhẫn Thiên Sứ lydo: Lấy từ body vào hành trang at 02/02/2023 12:16 CH
+BAG:kakarot add 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 7:40 CH
+BAG:kakarot add 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 7:41 CH
+BAG:kakarot add 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:20 CH
+BAG:kakarot add 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:20 CH
+BAG:kakarot add 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:21 CH
+BAG:kakarot add 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:21 CH
+BAG:kakarot add 41739xThỏi vàng (old: 41719) lydo: Giftcode at 02/02/2023 9:28 CH

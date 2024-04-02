@@ -1,0 +1,55 @@
+BAG:thantai add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 1:16 CH
+BAG:thantai add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 1:21 CH
+BAG:thantai add 1xCây mai lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:thantai add 1xLì xì lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:thantai add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:thantai add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:thantai add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:thantai add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:thantai add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:thantai add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:thantai add 7xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/03/2023 1:25 CH
+BAG:thantai add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:thantai add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:thantai add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:thantai add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:thantai add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:thantai add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:thantai add 32xĐậu thần cấp 1 (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 1:31 CH
+BAG:thantai add 62xĐậu thần cấp 1 (old: 32) lydo: Mua từ cửa hàng at 02/03/2023 1:31 CH
+BAG:thantai add 1xCột nhà lydo: Mua từ cửa hàng at 02/03/2023 1:31 CH
+BAG:thantai add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:thantai add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:thantai add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:thantai add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:thantai add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:thantai add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:thantai add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 1:39 CH
+BAG:thantai add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:thantai add 20xThỏi vàng lydo: Giftcode at 02/03/2023 1:41 CH
+BAG:thantai add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 1:42 CH
+BAG:thantai add 1xCải trang Hit lydo: Mua từ cửa hàng at 02/03/2023 1:42 CH
+BAG:thantai add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/03/2023 1:42 CH
+BAG:thantai add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/03/2023 1:42 CH
+BAG:thantai add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:50 CH
+BAG:thantai add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 1:50 CH
+BAG:thantai add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:51 CH
+BAG:thantai add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 1:51 CH
+BAG:thantai add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 1:51 CH
+BAG:thantai add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 1:51 CH
+BAG:thantai add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 1:51 CH
+BAG:thantai add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 1:51 CH
+BAG:thantai add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:thantai add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 02/03/2023 1:53 CH
+BAG:thantai add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:thantai add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:thantai add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:thantai add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:thantai add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 1:55 CH
+BAG:thantai add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:thantai add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:thantai add 1xHồn ma Pôcôlô lydo: Mua từ cửa hàng at 02/03/2023 1:57 CH
+BAG:thantai add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:thantai add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:thantai add 1xBổ khí lydo: SuKien at 02/03/2023 1:59 CH
+BAG:thantai add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 2:04 CH

@@ -1,0 +1,4 @@
+BAG:traffic add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 6:14 PM
+BAG:traffic add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 6:20 PM
+BAG:traffic add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 6:26 PM
+BAG:traffic add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 6:28 PM

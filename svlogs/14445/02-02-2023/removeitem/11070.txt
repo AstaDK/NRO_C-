@@ -1,0 +1,58 @@
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:44 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:45 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:57 CH
+BAG:phongtd remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 8:58 CH
+BAG:phongtd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 9:01 CH
+BAG:phongtd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 9:01 CH
+BAG:phongtd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 9:01 CH
+BAG:phongtd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 9:01 CH
+BAG:phongtd remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 9:07 CH
+BAG:phongtd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:15 CH
+BAG:phongtd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:15 CH
+BAG:phongtd remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 02/02/2023 9:22 CH
+BAG:phongtd remove Găng thun dày lydo: Mặc vào người at 02/02/2023 9:22 CH
+BAG:phongtd remove Quần vải đen lydo: Mặc cho đệ tử at 02/02/2023 9:24 CH
+BAG:phongtd remove Găng thun dày lydo: Mặc cho đệ tử at 02/02/2023 9:26 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:30 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:30 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:31 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:31 CH
+BAG:phongtd remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 9:32 CH
+BAG:phongtd remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/02/2023 9:32 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:36 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:38 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:41 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:55 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:55 CH
+BAG:phongtd remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:56 CH
+BAG:phongtd remove Đậu thần cấp 2 lydo: Cất vào rương at 02/02/2023 9:57 CH
+BAG:phongtd remove Đậu thần cấp 1 lydo: Cất vào rương at 02/02/2023 9:57 CH
+BAG:phongtd remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 9:58 CH
+BAG:phongtd remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/02/2023 9:58 CH
+BAG:phongtd remove Cải trang Thống Chế Kilo lydo: Tự Xóa vật phẩm at 02/02/2023 9:59 CH
+BAG:phongtd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:phongtd remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:54 CH
+BAG:phongtd remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:54 CH
+BAG:phongtd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:54 CH
+BAG:phongtd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:54 CH
+BAG:phongtd remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:phongtd remove Đậu thần cấp 6 lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:phongtd remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:55 CH
+BAG:phongtd remove Pháo Thăng Thiên lydo: Tự Xóa vật phẩm at 02/02/2023 10:56 CH
+BAG:phongtd remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 10:58 CH
+BAG:phongtd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:59 CH
+BAG:phongtd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:59 CH

@@ -1,0 +1,85 @@
+BAG:cadicz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 9:05 PM
+BAG:cadicz add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:09 PM
+BAG:cadicz add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 9:09 PM
+BAG:cadicz add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 9:11 PM
+BAG:cadicz add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:11 PM
+BAG:cadicz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 1xRada cấp 1 lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:cadicz add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:cadicz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:cadicz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:cadicz add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:cadicz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:cadicz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:cadicz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:cadicz add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:cadicz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:cadicz add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:cadicz add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:cadicz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:cadicz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:cadicz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:cadicz add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:cadicz add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:cadicz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:cadicz add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:cadicz add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:cadicz add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:cadicz add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:cadicz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:cadicz add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:cadicz add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:cadicz add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:cadicz add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:cadicz add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 01/29/2023 9:18 PM
+BAG:cadicz add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/29/2023 9:18 PM
+BAG:cadicz add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 01/29/2023 9:18 PM
+BAG:cadicz add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:cadicz add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:cadicz add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:cadicz add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:cadicz add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/29/2023 9:20 PM
+BAG:cadicz add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 01/29/2023 9:26 PM
+BAG:cadicz add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 01/29/2023 9:27 PM
+BAG:cadicz add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 01/29/2023 9:27 PM
+BAG:cadicz add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/29/2023 9:27 PM
+BAG:cadicz add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/29/2023 9:27 PM
+BAG:cadicz add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/29/2023 9:27 PM
+BAG:cadicz add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 01/29/2023 9:27 PM
+BAG:cadicz add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 01/29/2023 9:29 PM
+BAG:cadicz add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 01/29/2023 9:29 PM
+BAG:cadicz add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/29/2023 9:29 PM
+BAG:cadicz add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/29/2023 9:29 PM
+BAG:cadicz add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 01/29/2023 9:29 PM
+BAG:cadicz add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 01/29/2023 9:29 PM
+BAG:cadicz add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 01/29/2023 9:30 PM
+BAG:cadicz add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 01/29/2023 9:30 PM
+BAG:cadicz add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 01/29/2023 9:30 PM
+BAG:cadicz add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 01/29/2023 9:30 PM
+BAG:cadicz add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 01/29/2023 9:31 PM
+BAG:cadicz add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 01/29/2023 9:31 PM
+BAG:cadicz add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/29/2023 9:31 PM
+BAG:cadicz add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 01/29/2023 9:31 PM
+BAG:cadicz add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/29/2023 9:31 PM
+BAG:cadicz add 1xBột mì lydo: Nhặt từ map at 01/29/2023 9:31 PM
+BAG:cadicz add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:cadicz add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:cadicz add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:cadicz add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:cadicz add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:cadicz add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:cadicz add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:cadicz add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 01/29/2023 9:34 PM
+BAG:cadicz add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 01/29/2023 9:34 PM
+BAG:cadicz add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 01/29/2023 9:34 PM
+BAG:cadicz add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:cadicz add 1xQuần vải thô lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:cadicz add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:cadicz add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 01/29/2023 9:35 PM

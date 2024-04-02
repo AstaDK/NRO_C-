@@ -1,0 +1,164 @@
+BAG:vezito add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:vezito add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:vezito add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:vezito add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:vezito add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:vezito add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:vezito add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:vezito add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:vezito add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:vezito add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:vezito add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:vezito add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:vezito add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 02/03/2023 5:05 SA
+BAG:vezito add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 02/03/2023 5:05 SA
+BAG:vezito add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 02/03/2023 5:06 SA
+BAG:vezito add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 02/03/2023 5:06 SA
+BAG:vezito add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 02/03/2023 5:06 SA
+BAG:vezito add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 02/03/2023 5:06 SA
+BAG:vezito add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 02/03/2023 5:06 SA
+BAG:vezito add 1xVàng lydo: SuKien at 02/03/2023 5:07 SA
+BAG:vezito add 2xVàng (old: 1) lydo: SuKien at 02/03/2023 5:07 SA
+BAG:vezito add 3xVàng (old: 2) lydo: SuKien at 02/03/2023 5:07 SA
+BAG:vezito add 1xPhượng Hoàng Lửa lydo: SuKien at 02/03/2023 5:07 SA
+BAG:vezito add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/03/2023 5:10 SA
+BAG:vezito add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:vezito add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:vezito add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:vezito add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:vezito add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:vezito add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 02/03/2023 5:13 SA
+BAG:vezito add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:vezito add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:vezito add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:vezito add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:vezito add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/03/2023 5:37 SA
+BAG:vezito add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 5:43 SA
+BAG:vezito add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 5:44 SA
+BAG:vezito add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 5:44 SA
+BAG:vezito add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 5:44 SA
+BAG:vezito add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 5:45 SA
+BAG:vezito add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 02/03/2023 5:45 SA
+BAG:vezito add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 6:08 SA
+BAG:vezito add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 11:36 SA
+BAG:vezito add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 11:36 SA
+BAG:vezito add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 11:36 SA
+BAG:vezito add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 11:36 SA
+BAG:vezito add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:vezito add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:vezito add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:vezito add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:vezito add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:vezito add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:vezito add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:vezito add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/03/2023 11:40 SA
+BAG:vezito add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:vezito add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:vezito add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:vezito add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:vezito add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:vezito add 2xBột mì (old: 1) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:vezito add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:vezito add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:vezito add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:vezito add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:vezito add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:vezito add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:vezito add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:vezito add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:vezito add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:vezito add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:vezito add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:vezito add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:vezito add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:vezito add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:vezito add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:vezito add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:vezito add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:vezito add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:vezito add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:vezito add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:vezito add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:vezito add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:vezito add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:vezito add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:vezito add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:vezito add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:vezito add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 11:49 SA

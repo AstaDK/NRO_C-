@@ -1,0 +1,5 @@
+BAG:002aaa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 1:00 CH
+BAG:002aaa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 1:01 CH
+BAG:002aaa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 1:04 CH
+BAG:002aaa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 1:06 CH
+BAG:002aaa remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:09 CH

@@ -1,0 +1,279 @@
+BAG:pit01 add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 52xNgọc Rồng 6 sao (old: 51) lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 9:48 SA
+BAG:pit01 add 10xĐậu thần cấp 6 lydo: Thu hoạch đậu at 02/02/2023 9:48 SA
+BAG:pit01 add 99xĐá thạch anh tím lydo: (GD) Nhận từ pitaz at 02/02/2023 9:50 SA
+BAG:pit01 add 99xĐá thạch anh tím lydo: (GD) Nhận từ pitaz at 02/02/2023 9:57 SA
+BAG:pit01 add 99xĐá thạch anh tím lydo: (GD) Nhận từ pitaz at 02/02/2023 9:57 SA
+BAG:pit01 add 99xĐá thạch anh tím lydo: (GD) Nhận từ pitaz at 02/02/2023 9:57 SA
+BAG:pit01 add 31xĐá thạch anh tím lydo: (GD) Nhận từ pitaz at 02/02/2023 9:57 SA
+BAG:pit01 add 1xNgọc Rồng 7 sao lydo: (GD) Nhận từ pitaz at 02/02/2023 9:57 SA
+BAG:pit01 add 18xThỏi vàng lydo: (GD) Nhận từ pitaz at 02/02/2023 10:20 SA
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 5:59 CH
+BAG:pit01 add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 44xNgọc Rồng 5 sao (old: 43) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 53xNgọc Rồng 6 sao (old: 52) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 54xNgọc Rồng 6 sao (old: 53) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 18xNgọc Rồng 7 sao (old: 17) lydo: Lấy từ lucky box at 02/02/2023 6:00 CH
+BAG:pit01 add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 45xNgọc Rồng 5 sao (old: 44) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 46xNgọc Rồng 5 sao (old: 45) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 02/02/2023 6:01 CH
+BAG:pit01 add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 19xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 47xNgọc Rồng 5 sao (old: 46) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 20xNgọc Rồng 7 sao (old: 19) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 48xNgọc Rồng 5 sao (old: 47) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:02 CH
+BAG:pit01 add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 55xNgọc Rồng 6 sao (old: 54) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 21xNgọc Rồng 7 sao (old: 20) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 56xNgọc Rồng 6 sao (old: 55) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 22xNgọc Rồng 7 sao (old: 21) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 57xNgọc Rồng 6 sao (old: 56) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 58xNgọc Rồng 6 sao (old: 57) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 23xNgọc Rồng 7 sao (old: 22) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 24xNgọc Rồng 7 sao (old: 23) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 11xVệ tinh phòng thủ (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 12xVệ tinh phòng thủ (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 49xNgọc Rồng 5 sao (old: 48) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 25xNgọc Rồng 7 sao (old: 24) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 59xNgọc Rồng 6 sao (old: 58) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 50xNgọc Rồng 5 sao (old: 49) lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:03 CH
+BAG:pit01 add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xÁo sợi len lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:04 CH
+BAG:pit01 add 1xQuần sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:05 CH
+BAG:pit01 add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 6:05 CH
+BAG:pit01 add 1xGiày sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:05 CH
+BAG:pit01 add 1xRada cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 6:05 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:05 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:05 CH
+BAG:pit01 add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 02/02/2023 6:05 CH
+BAG:pit01 add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 6:06 CH
+BAG:pit01 add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 6:06 CH
+BAG:pit01 add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 6:06 CH
+BAG:pit01 add 1xÁo choàng thun lydo: Mua từ cửa hàng at 02/02/2023 6:06 CH
+BAG:pit01 add 1xÁo choàng len lydo: Mua từ cửa hàng at 02/02/2023 6:06 CH
+BAG:pit01 add 1xÁo thun Pico lydo: Mua từ cửa hàng at 02/02/2023 6:06 CH
+BAG:pit01 add 1xÁo thun Pico lydo: Mua từ cửa hàng at 02/02/2023 6:06 CH
+BAG:pit01 add 1xGăng sợi len lydo: Mua từ cửa hàng at 02/02/2023 6:07 CH
+BAG:pit01 add 1xGăng sợi len lydo: Mua từ cửa hàng at 02/02/2023 6:07 CH
+BAG:pit01 add 1xGăng sợi len lydo: Mua từ cửa hàng at 02/02/2023 6:07 CH
+BAG:pit01 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 26xNgọc Rồng 7 sao (old: 25) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 60xNgọc Rồng 6 sao (old: 59) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 51xNgọc Rồng 5 sao (old: 50) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 52xNgọc Rồng 5 sao (old: 51) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 13xVệ tinh phòng thủ (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 27xNgọc Rồng 7 sao (old: 26) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:08 CH
+BAG:pit01 add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 53xNgọc Rồng 5 sao (old: 52) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 28xNgọc Rồng 7 sao (old: 27) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 16xVệ tinh trí lực (old: 15) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 17xVệ tinh trí lực (old: 16) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 54xNgọc Rồng 5 sao (old: 53) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 55xNgọc Rồng 5 sao (old: 54) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:09 CH
+BAG:pit01 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 18xVệ tinh trí lực (old: 17) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 56xNgọc Rồng 5 sao (old: 55) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 61xNgọc Rồng 6 sao (old: 60) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 14xVệ tinh phòng thủ (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 19xVệ tinh trí lực (old: 18) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 20xVệ tinh trí lực (old: 19) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 62xNgọc Rồng 6 sao (old: 61) lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 6:13 CH
+BAG:pit01 add 57xNgọc Rồng 5 sao (old: 56) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 16xVệ tinh sinh lực (old: 15) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 63xNgọc Rồng 6 sao (old: 62) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 20xNgọc Rồng 4 sao (old: 19) lydo: Lấy từ lucky box at 02/02/2023 6:14 CH
+BAG:pit01 add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/02/2023 6:14 CH
+BAG:pit01 add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 02/02/2023 6:14 CH
+BAG:pit01 add 1xGăng da Pico lydo: Lấy từ body vào hành trang at 02/02/2023 6:15 CH

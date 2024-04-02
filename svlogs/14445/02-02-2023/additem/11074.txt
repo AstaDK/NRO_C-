@@ -1,0 +1,98 @@
+BAG:karaoke add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 02/02/2023 8:53 CH
+BAG:karaoke add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 02/02/2023 8:53 CH
+BAG:karaoke add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 8:55 CH
+BAG:karaoke add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 8:55 CH
+BAG:karaoke add 1xCây mai lydo: Nhặt từ map at 02/02/2023 8:55 CH
+BAG:karaoke add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/02/2023 8:56 CH
+BAG:karaoke add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 8:56 CH
+BAG:karaoke add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 8:56 CH
+BAG:karaoke add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 8:57 CH
+BAG:karaoke add 1xLì xì lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:karaoke add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:karaoke add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:karaoke add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:karaoke add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:karaoke add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 9:01 CH
+BAG:karaoke add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 9:02 CH
+BAG:karaoke add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 9:03 CH
+BAG:karaoke add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 9:04 CH
+BAG:karaoke add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 9:04 CH
+BAG:karaoke add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/02/2023 9:04 CH
+BAG:karaoke add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 1xCải trang Hit lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 02/02/2023 9:05 CH
+BAG:karaoke add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 9:05 CH
+BAG:karaoke add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 9:05 CH
+BAG:karaoke add 20xThỏi vàng lydo: Giftcode at 02/02/2023 9:06 CH
+BAG:karaoke add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 9:07 CH
+BAG:karaoke add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 9:07 CH
+BAG:karaoke add 1xMèo mun lydo: Mua từ cửa hàng at 02/02/2023 9:08 CH
+BAG:karaoke add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 9:09 CH
+BAG:karaoke add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 9:09 CH
+BAG:karaoke add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 02/02/2023 9:10 CH
+BAG:karaoke add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 9:11 CH
+BAG:karaoke add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 9:11 CH
+BAG:karaoke add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 9:12 CH
+BAG:karaoke add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 9:13 CH
+BAG:karaoke add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 9:13 CH
+BAG:karaoke add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 9:13 CH
+BAG:karaoke add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 9:13 CH
+BAG:karaoke add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 02/02/2023 9:13 CH
+BAG:karaoke add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 02/02/2023 9:21 CH
+BAG:karaoke add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 9:21 CH
+BAG:karaoke add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 9:22 CH
+BAG:karaoke add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 9:24 CH
+BAG:karaoke add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 9:25 CH
+BAG:karaoke add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 9:25 CH
+BAG:karaoke add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 02/02/2023 9:26 CH
+BAG:karaoke add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 9:27 CH
+BAG:karaoke add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 9:27 CH
+BAG:karaoke add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 9:27 CH
+BAG:karaoke add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 9:27 CH
+BAG:karaoke add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 9:28 CH
+BAG:karaoke add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 9:28 CH
+BAG:karaoke add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 9:29 CH
+BAG:karaoke add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 9:29 CH
+BAG:karaoke add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 9:29 CH
+BAG:karaoke add 1xGăng thun Pico lydo: Mua từ cửa hàng at 02/02/2023 9:29 CH
+BAG:karaoke add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 9:30 CH
+BAG:karaoke add 7xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 9:32 CH
+BAG:karaoke add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 9:32 CH
+BAG:karaoke add 10xĐậu thần cấp 9 lydo: Thu hoạch đậu at 02/02/2023 9:33 CH
+BAG:karaoke add 28xĐậu thần cấp 9 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 9:33 CH
+BAG:karaoke add 39xĐậu thần cấp 9 (old: 28) lydo: Lấy từ rương qua người at 02/02/2023 9:33 CH
+BAG:karaoke add 57xĐậu thần cấp 9 (old: 39) lydo: Lấy từ rương qua người at 02/02/2023 9:33 CH
+BAG:karaoke add 75xĐậu thần cấp 9 (old: 57) lydo: Lấy từ rương qua người at 02/02/2023 9:34 CH
+BAG:karaoke add 1xĐậu thần cấp 6 lydo: Clan cho đậu at 02/02/2023 9:40 CH
+BAG:karaoke add 2xĐậu thần cấp 6 (old: 1) lydo: Clan cho đậu at 02/02/2023 9:40 CH
+BAG:karaoke add 3xĐậu thần cấp 6 (old: 2) lydo: Clan cho đậu at 02/02/2023 9:40 CH
+BAG:karaoke add 4xĐậu thần cấp 6 (old: 3) lydo: Clan cho đậu at 02/02/2023 9:40 CH
+BAG:karaoke add 5xĐậu thần cấp 6 (old: 4) lydo: Clan cho đậu at 02/02/2023 9:40 CH
+BAG:karaoke add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 9:43 CH
+BAG:karaoke add 1xGăng len cứng lydo: Mua từ cửa hàng at 02/02/2023 9:43 CH
+BAG:karaoke add 32xĐậu thần cấp 9 (old: 14) lydo: Lấy từ rương qua người at 02/02/2023 10:57 CH
+BAG:karaoke add 1xGăng vải Pico lydo: Mua từ cửa hàng at 02/02/2023 10:57 CH
+BAG:karaoke add 34xĐậu thần cấp 9 (old: 16) lydo: Lấy từ rương qua người at 02/02/2023 11:32 CH
+BAG:karaoke add 1xGăng da Pico lydo: Mua từ cửa hàng at 02/02/2023 11:32 CH
+BAG:karaoke add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/02/2023 11:33 CH
+BAG:karaoke add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/02/2023 11:34 CH
+BAG:karaoke add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 11:34 CH
+BAG:karaoke add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 11:34 CH
+BAG:karaoke add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 11:34 CH
+BAG:karaoke add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 02/02/2023 11:35 CH
+BAG:karaoke add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 02/02/2023 11:35 CH
+BAG:karaoke add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 02/02/2023 11:37 CH
+BAG:karaoke add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 11:37 CH

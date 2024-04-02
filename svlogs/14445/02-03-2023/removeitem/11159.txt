@@ -1,0 +1,97 @@
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:00 SA
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:01 SA
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:04 SA
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:04 SA
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:06 SA
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:08 SA
+BAG:longnopro remove Găng vải dày lydo: Mặc vào người at 02/03/2023 12:10 SA
+BAG:longnopro remove Giày cao su đế dày lydo: Mặc vào người at 02/03/2023 12:10 SA
+BAG:longnopro remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/03/2023 12:10 SA
+BAG:longnopro remove Avatar đeo khẩu trang lydo: Mặc vào người at 02/03/2023 12:12 SA
+BAG:longnopro remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 02/03/2023 12:19 SA
+BAG:longnopro remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 12:19 SA
+BAG:longnopro remove Cải trang Chill lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 SA
+BAG:longnopro remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/03/2023 12:23 SA
+BAG:longnopro remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:30 SA
+BAG:longnopro remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:30 SA
+BAG:longnopro remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:30 SA
+BAG:longnopro remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 02/03/2023 12:32 SA
+BAG:longnopro remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:33 SA
+BAG:longnopro remove Ngọc Rồng 7 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:longnopro remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:longnopro remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:longnopro remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:34 SA
+BAG:longnopro remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:34 SA
+BAG:longnopro remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 02/03/2023 12:37 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:longnopro remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/03/2023 12:43 SA
+BAG:longnopro remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 12:43 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:44 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:47 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:48 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:49 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:54 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:57 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:58 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:59 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:01 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:05 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:06 SA
+BAG:longnopro remove Đậu thần cấp 10 lydo: Tự Xóa vật phẩm at 02/03/2023 6:23 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 6:43 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 6:58 SA
+BAG:longnopro remove 5xCây mai lydo: Cay Thong at 02/03/2023 7:03 SA
+BAG:longnopro remove 5xLì xì lydo: Cay Thong at 02/03/2023 7:03 SA
+BAG:longnopro remove 5xBình rượu lydo: Cay Thong at 02/03/2023 7:03 SA
+BAG:longnopro remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 7:03 SA
+BAG:longnopro remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/03/2023 7:04 SA
+BAG:longnopro remove 5xCây mai lydo: Cay Thong at 02/03/2023 7:04 SA
+BAG:longnopro remove 5xLì xì lydo: Cay Thong at 02/03/2023 7:04 SA
+BAG:longnopro remove 5xBình rượu lydo: Cay Thong at 02/03/2023 7:04 SA
+BAG:longnopro remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 7:04 SA
+BAG:longnopro remove Vàng lydo: Tự Xóa vật phẩm at 02/03/2023 7:05 SA
+BAG:longnopro remove 5xCây mai lydo: Cay Thong at 02/03/2023 7:05 SA
+BAG:longnopro remove 5xLì xì lydo: Cay Thong at 02/03/2023 7:05 SA
+BAG:longnopro remove 5xBình rượu lydo: Cay Thong at 02/03/2023 7:05 SA
+BAG:longnopro remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 7:05 SA
+BAG:longnopro remove Vàng lydo: Tự Xóa vật phẩm at 02/03/2023 7:05 SA
+BAG:longnopro remove 1xGiáp Xên bọ hung lydo: Dùng buff at 02/03/2023 7:05 SA
+BAG:longnopro remove Găng vải dày lydo: Mặc cho đệ tử at 02/03/2023 7:06 SA
+BAG:longnopro remove Găng vải dày lydo: Tự Xóa vật phẩm at 02/03/2023 7:06 SA
+BAG:longnopro remove Áo thun Kame lydo: Mặc cho đệ tử at 02/03/2023 7:06 SA
+BAG:longnopro remove Áo thun dày lydo: Tự Xóa vật phẩm at 02/03/2023 7:06 SA
+BAG:longnopro remove Quần thun Kame lydo: Mặc cho đệ tử at 02/03/2023 7:07 SA
+BAG:longnopro remove Giày cao su đế dày lydo: Tự Xóa vật phẩm at 02/03/2023 7:07 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 7:08 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 7:41 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 7:56 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 10:05 SA
+BAG:longnopro remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/03/2023 10:13 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 10:21 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 10:40 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 10:56 SA
+BAG:longnopro remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/03/2023 10:57 SA
+BAG:longnopro remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 11:12 SA
+BAG:longnopro remove Áo vải 3 lỗ lydo: Cất vào rương at 02/03/2023 11:13 SA
+BAG:longnopro remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/03/2023 11:13 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 11:15 SA
+BAG:longnopro remove Cải trang lydo: Tự Xóa vật phẩm at 02/03/2023 11:16 SA
+BAG:longnopro remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/03/2023 11:16 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 11:22 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 11:22 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 11:30 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 11:30 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 11:30 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 11:30 SA
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:08 CH
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:08 CH
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:08 CH
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:08 CH
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:08 CH
+BAG:longnopro remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:08 CH

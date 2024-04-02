@@ -1,0 +1,7 @@
+BAG:radic remove Rada cấp 1 lydo: Cất vào rương at 01/31/2023 4:46 PM
+BAG:radic remove 1xQuần vải thô lydo: Giao dịch với binnamek at 01/31/2023 4:54 PM
+BAG:radic remove 1xGiầy vải thô lydo: Giao dịch với binnamek at 01/31/2023 4:54 PM
+BAG:radic remove 1xÁo vải thô lydo: Giao dịch với binnamek at 01/31/2023 4:54 PM
+BAG:radic remove 20xThỏi vàng lydo: Giao dịch với binnamek at 01/31/2023 4:54 PM
+BAG:radic remove Viên Capsule đặc biệt lydo: Tự Xóa vật phẩm at 01/31/2023 5:42 PM
+BAG:radic remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/31/2023 5:42 PM

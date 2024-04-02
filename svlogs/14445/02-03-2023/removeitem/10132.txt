@@ -1,0 +1,53 @@
+BAG:sjsjj remove Cải trang Mabư Noel lydo: Mặc vào người at 02/03/2023 7:35 SA
+BAG:sjsjj remove 1xGà quay nguyên con lydo: Bán cho shop at 02/03/2023 7:35 SA
+BAG:sjsjj remove 1xQuần vải thô lydo: Bán cho shop at 02/03/2023 7:37 SA
+BAG:sjsjj remove 1xViên Capsule đặc biệt lydo: Bán cho shop at 02/03/2023 7:37 SA
+BAG:sjsjj remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 7:40 SA
+BAG:sjsjj remove Găng đồng lydo: Mặc vào người at 02/03/2023 7:44 SA
+BAG:sjsjj remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 7:44 SA
+BAG:sjsjj remove 1xGăng đồng lydo: Bán cho shop at 02/03/2023 7:46 SA
+BAG:sjsjj remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/03/2023 7:47 SA
+BAG:sjsjj remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/03/2023 7:47 SA
+BAG:sjsjj remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/03/2023 7:48 SA
+BAG:sjsjj remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/03/2023 7:48 SA
+BAG:sjsjj remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/03/2023 7:48 SA
+BAG:sjsjj remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/03/2023 7:48 SA
+BAG:sjsjj remove Rada cấp 6 lydo: Mặc vào người at 02/03/2023 7:52 SA
+BAG:sjsjj remove 1xGăng bạc lydo: Bán cho shop at 02/03/2023 8:00 SA
+BAG:sjsjj remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 8:06 SA
+BAG:sjsjj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 8:06 SA
+BAG:sjsjj remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 8:07 SA
+BAG:sjsjj remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 8:07 SA
+BAG:sjsjj remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 8:12 SA
+BAG:sjsjj remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 8:12 SA
+BAG:sjsjj remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 8:12 SA
+BAG:sjsjj remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 8:14 SA
+BAG:sjsjj remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 8:14 SA
+BAG:sjsjj remove Áo khoác Xayda lydo: Mặc vào người at 02/03/2023 8:14 SA
+BAG:sjsjj remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 8:15 SA
+BAG:sjsjj remove 1xSao pha lê lydo: Ép ngọc rồng at 02/03/2023 8:16 SA
+BAG:sjsjj remove Áo khoác Xayda lydo: Mặc vào người at 02/03/2023 8:16 SA
+BAG:sjsjj remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 8:17 SA
+BAG:sjsjj remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 8:18 SA
+BAG:sjsjj remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 8:18 SA
+BAG:sjsjj remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 8:18 SA
+BAG:sjsjj remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 8:18 SA
+BAG:sjsjj remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 8:18 SA
+BAG:sjsjj remove Cải trang lydo: Tự Xóa vật phẩm at 02/03/2023 8:20 SA
+BAG:sjsjj remove Cải trang Mabư Noel lydo: Tự Xóa vật phẩm at 02/03/2023 8:20 SA
+BAG:sjsjj remove 1xGăng vàng lydo: Bán cho shop at 02/03/2023 8:30 SA
+BAG:sjsjj remove 1xGăng lông Xayda lydo: Bán cho shop at 02/03/2023 9:01 SA
+BAG:sjsjj remove 1xGăng da Xayda lydo: Bán cho shop at 02/03/2023 9:10 SA
+BAG:sjsjj remove Quần siêu Xayda lydo: Mặc vào người at 02/03/2023 9:11 SA
+BAG:sjsjj remove Sách Trói lv1 lydo: Sách kĩ năng at 02/03/2023 9:34 SA
+BAG:sjsjj remove Sách Trói lv2 lydo: Sách kĩ năng at 02/03/2023 9:34 SA
+BAG:sjsjj remove Sách Trói lv3 lydo: Sách kĩ năng at 02/03/2023 9:34 SA
+BAG:sjsjj remove Sách Trói lv4 lydo: Sách kĩ năng at 02/03/2023 9:34 SA
+BAG:sjsjj remove Sách Trói lv5 lydo: Sách kĩ năng at 02/03/2023 9:34 SA
+BAG:sjsjj remove Sách Trói lv6 lydo: Sách kĩ năng at 02/03/2023 9:35 SA
+BAG:sjsjj remove Sách Trói lv7 lydo: Sách kĩ năng at 02/03/2023 9:35 SA
+BAG:sjsjj remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:37 SA
+BAG:sjsjj remove Giày Kaio lydo: Mặc vào người at 02/03/2023 9:37 SA
+BAG:sjsjj remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:52 SA
+BAG:sjsjj remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:52 SA
+BAG:sjsjj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:46 SA

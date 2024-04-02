@@ -1,0 +1,84 @@
+BAG:linhkangao add 20xThỏi vàng lydo: Giftcode at 02/03/2023 1:40 SA
+BAG:linhkangao add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:40 SA
+BAG:linhkangao add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 1:40 SA
+BAG:linhkangao add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 1:41 SA
+BAG:linhkangao add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 1:41 SA
+BAG:linhkangao add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 1:42 SA
+BAG:linhkangao add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:42 SA
+BAG:linhkangao add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/03/2023 1:42 SA
+BAG:linhkangao add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 1:43 SA
+BAG:linhkangao add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 1:43 SA
+BAG:linhkangao add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 1:44 SA
+BAG:linhkangao add 1xGiầy nhựa lydo: Nhặt từ map at 02/03/2023 1:44 SA
+BAG:linhkangao add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 1:44 SA
+BAG:linhkangao add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 1:44 SA
+BAG:linhkangao add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:linhkangao add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:linhkangao add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:linhkangao add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:linhkangao add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:linhkangao add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:linhkangao add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 1:46 SA
+BAG:linhkangao add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 1:46 SA
+BAG:linhkangao add 5xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/03/2023 1:48 SA
+BAG:linhkangao add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 1:49 SA
+BAG:linhkangao add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 1:49 SA
+BAG:linhkangao add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 1:51 SA
+BAG:linhkangao add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 1:51 SA
+BAG:linhkangao add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 1:51 SA
+BAG:linhkangao add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 1:51 SA
+BAG:linhkangao add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:linhkangao add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:linhkangao add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:linhkangao add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:linhkangao add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:linhkangao add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:linhkangao add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:linhkangao add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 1:53 SA
+BAG:linhkangao add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 1:53 SA
+BAG:linhkangao add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 1:53 SA
+BAG:linhkangao add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 1:53 SA
+BAG:linhkangao add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 1:53 SA
+BAG:linhkangao add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 1:53 SA
+BAG:linhkangao add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/03/2023 1:53 SA
+BAG:linhkangao add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 1:54 SA
+BAG:linhkangao add 1xĐậu thần cấp 4 lydo: Thu hoạch đậu at 02/03/2023 1:54 SA
+BAG:linhkangao add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 1:57 SA
+BAG:linhkangao add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 1:57 SA
+BAG:linhkangao add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 1:57 SA
+BAG:linhkangao add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 1:57 SA
+BAG:linhkangao add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 02/03/2023 1:58 SA
+BAG:linhkangao add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 02/03/2023 1:58 SA
+BAG:linhkangao add 1xSách đấm Demon lv1 lydo: Mua từ cửa hàng at 02/03/2023 1:59 SA
+BAG:linhkangao add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 02/03/2023 1:59 SA
+BAG:linhkangao add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 02/03/2023 1:59 SA
+BAG:linhkangao add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 02/03/2023 1:59 SA
+BAG:linhkangao add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 02/03/2023 1:59 SA
+BAG:linhkangao add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 02/03/2023 1:59 SA
+BAG:linhkangao add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 02/03/2023 1:59 SA
+BAG:linhkangao add 1xSách Masenko lv1 lydo: Mua từ cửa hàng at 02/03/2023 2:00 SA
+BAG:linhkangao add 1xSách Masenko lv2 lydo: Mua từ cửa hàng at 02/03/2023 2:00 SA
+BAG:linhkangao add 1xSách Masenko lv3 lydo: Mua từ cửa hàng at 02/03/2023 2:00 SA
+BAG:linhkangao add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 2:00 SA
+BAG:linhkangao add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 2:00 SA
+BAG:linhkangao add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 2:00 SA
+BAG:linhkangao add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 2:00 SA
+BAG:linhkangao add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:linhkangao add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:linhkangao add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:linhkangao add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 2:01 SA
+BAG:linhkangao add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 2:02 SA
+BAG:linhkangao add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 2:02 SA
+BAG:linhkangao add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 2:02 SA
+BAG:linhkangao add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 2:02 SA
+BAG:linhkangao add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 2:05 SA
+BAG:linhkangao add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 2:05 SA
+BAG:linhkangao add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/03/2023 2:06 SA
+BAG:linhkangao add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 2:07 SA
+BAG:linhkangao add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 2:08 SA
+BAG:linhkangao add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 2:08 SA
+BAG:linhkangao add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/03/2023 2:08 SA
+BAG:linhkangao add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 2:10 SA
+BAG:linhkangao add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 2:10 SA
+BAG:linhkangao add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 2:10 SA
+BAG:linhkangao add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 2:11 SA

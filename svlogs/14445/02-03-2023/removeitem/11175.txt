@@ -1,0 +1,83 @@
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:27 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:27 SA
+BAG:huyetz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 SA
+BAG:huyetz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:40 SA
+BAG:huyetz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:40 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:42 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:43 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:43 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:48 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:49 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:huyetz remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/03/2023 12:51 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:51 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:56 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:57 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:57 SA
+BAG:huyetz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:57 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:58 SA
+BAG:huyetz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:58 SA
+BAG:huyetz remove 5xĐậu thần cấp 1 lydo: Bán cho shop at 02/03/2023 1:01 SA
+BAG:huyetz remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/03/2023 1:01 SA
+BAG:huyetz remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/03/2023 1:01 SA
+BAG:huyetz remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/03/2023 1:01 SA
+BAG:huyetz remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/03/2023 1:01 SA
+BAG:huyetz remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/03/2023 1:01 SA
+BAG:huyetz remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/03/2023 1:01 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:02 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:05 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:05 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:06 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:06 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:08 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:08 SA
+BAG:huyetz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:09 SA
+BAG:huyetz remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 1:09 SA
+BAG:huyetz remove 6xĐá Titan lydo: Bán cho shop at 02/03/2023 1:24 SA
+BAG:huyetz remove 9xĐá Ruby lydo: Bán cho shop at 02/03/2023 1:24 SA
+BAG:huyetz remove 4xĐá Saphia lydo: Bán cho shop at 02/03/2023 1:24 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:25 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:26 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:26 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:26 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:27 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:27 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:28 SA
+BAG:huyetz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:28 SA
+BAG:huyetz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:28 SA
+BAG:huyetz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:28 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:28 SA
+BAG:huyetz remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/03/2023 1:28 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:29 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:29 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:29 SA
+BAG:huyetz remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:30 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:30 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:30 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:31 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:31 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:31 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:32 SA
+BAG:huyetz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:32 SA
+BAG:huyetz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:32 SA
+BAG:huyetz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:32 SA
+BAG:huyetz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:32 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:33 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:33 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 1:35 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 1:35 SA
+BAG:huyetz remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 1:35 SA
+BAG:huyetz remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:35 SA

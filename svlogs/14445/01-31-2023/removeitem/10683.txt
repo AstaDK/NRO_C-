@@ -1,0 +1,54 @@
+BAG:gamlimku remove Cải trang Mabư Noel lydo: Mặc vào người at 01/31/2023 8:58 AM
+BAG:gamlimku remove Cải trang Mabư Noel lydo: Mặc vào người at 01/31/2023 9:00 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:01 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:01 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:01 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:01 AM
+BAG:gamlimku remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 9:01 AM
+BAG:gamlimku remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 9:01 AM
+BAG:gamlimku remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 9:01 AM
+BAG:gamlimku remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/31/2023 9:02 AM
+BAG:gamlimku remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 9:16 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:24 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:25 AM
+BAG:gamlimku remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/31/2023 9:25 AM
+BAG:gamlimku remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/31/2023 9:25 AM
+BAG:gamlimku remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 01/31/2023 9:25 AM
+BAG:gamlimku remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 01/31/2023 9:26 AM
+BAG:gamlimku remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/31/2023 9:26 AM
+BAG:gamlimku remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 01/31/2023 9:26 AM
+BAG:gamlimku remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 01/31/2023 9:26 AM
+BAG:gamlimku remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 01/31/2023 9:26 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:27 AM
+BAG:gamlimku remove 1xPháo Thăng Thiên lydo: Bán cho shop at 01/31/2023 9:30 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:31 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:31 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:31 AM
+BAG:gamlimku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 9:31 AM
+BAG:gamlimku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 9:31 AM
+BAG:gamlimku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 9:32 AM
+BAG:gamlimku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 9:32 AM
+BAG:gamlimku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 9:32 AM
+BAG:gamlimku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 9:32 AM
+BAG:gamlimku remove 2xĐá lục bảo lydo: Bán cho shop at 01/31/2023 9:33 AM
+BAG:gamlimku remove 1xĐá Titan lydo: Bán cho shop at 01/31/2023 9:33 AM
+BAG:gamlimku remove 2xSao pha lê lydo: Bán cho shop at 01/31/2023 9:33 AM
+BAG:gamlimku remove 3xVệ tinh phòng thủ lydo: Bán cho shop at 01/31/2023 9:33 AM
+BAG:gamlimku remove Cải trang Hatchiyack lydo: Mặc vào người at 01/31/2023 9:35 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:36 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:36 AM
+BAG:gamlimku remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 9:36 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:39 AM
+BAG:gamlimku remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 9:40 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:40 AM
+BAG:gamlimku remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 9:41 AM
+BAG:gamlimku remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 9:41 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:41 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:41 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:43 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:44 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:44 AM
+BAG:gamlimku remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 01/31/2023 9:45 AM
+BAG:gamlimku remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 01/31/2023 9:45 AM
+BAG:gamlimku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 9:45 AM
+BAG:gamlimku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:47 AM

@@ -1,0 +1,54 @@
+BAG:gohancu remove 13xMảnh Lợn lòi lydo: Bán cho shop at 01/31/2023 8:43 AM
+BAG:gohancu remove 29xĐá Saphia lydo: Bán cho shop at 01/31/2023 8:43 AM
+BAG:gohancu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 8:45 AM
+BAG:gohancu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 8:45 AM
+BAG:gohancu remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 01/31/2023 8:46 AM
+BAG:gohancu remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/31/2023 8:51 AM
+BAG:gohancu remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/31/2023 8:51 AM
+BAG:gohancu remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 9:35 AM
+BAG:gohancu remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 9:36 AM
+BAG:gohancu remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 9:36 AM
+BAG:gohancu remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 9:36 AM
+BAG:gohancu remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 9:45 AM
+BAG:gohancu remove Giầy sợi len lydo: Cất vào rương at 01/31/2023 9:56 AM
+BAG:gohancu remove Giầy sợi len lydo: Cất vào rương at 01/31/2023 9:56 AM
+BAG:gohancu remove Thỏi vàng lydo: Cất vào rương at 01/31/2023 9:56 AM
+BAG:gohancu remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 10:07 AM
+BAG:gohancu remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/31/2023 10:22 AM
+BAG:gohancu remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 10:36 AM
+BAG:gohancu remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 10:38 AM
+BAG:gohancu remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 10:38 AM
+BAG:gohancu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 10:38 AM
+BAG:gohancu remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/31/2023 10:38 AM
+BAG:gohancu remove Quần sợi len lydo: Cất vào rương at 01/31/2023 11:05 AM
+BAG:gohancu remove Quần sợi len lydo: Cất vào rương at 01/31/2023 11:05 AM
+BAG:gohancu remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 11:37 AM
+BAG:gohancu remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 11:37 AM
+BAG:gohancu remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 11:46 AM
+BAG:gohancu remove Găng len Pico lydo: Tự Xóa vật phẩm at 01/31/2023 11:46 AM
+BAG:gohancu remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 11:56 AM
+BAG:gohancu remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/31/2023 12:05 PM
+BAG:gohancu remove 10xTrứng vịt muối lydo: Nấu bánh at 01/31/2023 12:06 PM
+BAG:gohancu remove 10xGà quay nguyên con lydo: Nấu bánh at 01/31/2023 12:06 PM
+BAG:gohancu remove 10xBột mì lydo: Nấu bánh at 01/31/2023 12:06 PM
+BAG:gohancu remove 10xĐậu xanh lydo: Nấu bánh at 01/31/2023 12:06 PM
+BAG:gohancu remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 12:20 PM
+BAG:gohancu remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 12:20 PM
+BAG:gohancu remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 12:29 PM
+BAG:gohancu remove Giầy sợi len lydo: Cất vào rương at 01/31/2023 12:29 PM
+BAG:gohancu remove Găng sợi len lydo: Cất vào rương at 01/31/2023 12:29 PM
+BAG:gohancu remove Găng sợi len lydo: Cất vào rương at 01/31/2023 12:29 PM
+BAG:gohancu remove Áo sợi len lydo: Cất vào rương at 01/31/2023 12:29 PM
+BAG:gohancu remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 12:37 PM
+BAG:gohancu remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 12:37 PM
+BAG:gohancu remove Áo sợi len lydo: Cất vào rương at 01/31/2023 12:49 PM
+BAG:gohancu remove Quần sợi len lydo: Cất vào rương at 01/31/2023 12:49 PM
+BAG:gohancu remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 12:54 PM
+BAG:gohancu remove Đá thạch anh tím lydo: Cất vào rương at 01/31/2023 1:02 PM
+BAG:gohancu remove Quần sợi len lydo: Cất vào rương at 01/31/2023 1:02 PM
+BAG:gohancu remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 1:04 PM
+BAG:gohancu remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/31/2023 1:04 PM
+BAG:gohancu remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/31/2023 1:04 PM
+BAG:gohancu remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 1:04 PM
+BAG:gohancu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 1:04 PM
+BAG:gohancu remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 1:12 PM

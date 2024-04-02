@@ -1,0 +1,47 @@
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:17 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:18 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:18 SA
+BAG:caubebanke remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 1:18 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:18 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:19 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:25 SA
+BAG:caubebanke remove Cải trang VIP lydo: Mặc vào người at 02/03/2023 1:28 SA
+BAG:caubebanke remove Cải trang VIP lydo: Mặc cho đệ tử at 02/03/2023 1:28 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:33 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:36 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:39 SA
+BAG:caubebanke remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:44 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:45 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:45 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:45 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:46 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:46 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:48 SA
+BAG:caubebanke remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:49 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:50 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:50 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:50 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:50 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:51 SA
+BAG:caubebanke remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/03/2023 1:53 SA
+BAG:caubebanke remove 4xĐá Saphia lydo: Bán cho shop at 02/03/2023 1:53 SA
+BAG:caubebanke remove 9xĐá Titan lydo: Bán cho shop at 02/03/2023 1:53 SA
+BAG:caubebanke remove 8xĐá Ruby lydo: Bán cho shop at 02/03/2023 1:53 SA
+BAG:caubebanke remove 11xĐá thạch anh tím lydo: Bán cho shop at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xCây mai lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xLì xì lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xBình rượu lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xCây mai lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xLì xì lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xBình rượu lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xCây mai lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xLì xì lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xBình rượu lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xCây mai lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xLì xì lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xBình rượu lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 1:53 SA
+BAG:caubebanke remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 1:54 SA

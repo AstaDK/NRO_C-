@@ -1,0 +1,1474 @@
+BAG:bunma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:08 SA
+BAG:bunma remove 2xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 8:12 SA
+BAG:bunma remove 2xĐá Ruby lydo: Bán cho shop at 02/02/2023 8:12 SA
+BAG:bunma remove 2xĐá lục bảo lydo: Bán cho shop at 02/02/2023 8:12 SA
+BAG:bunma remove 1xĐá Saphia lydo: Bán cho shop at 02/02/2023 8:12 SA
+BAG:bunma remove 6xĐậu thần cấp 1 lydo: Bán cho shop at 02/02/2023 8:12 SA
+BAG:bunma remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:14 SA
+BAG:bunma remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:14 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:15 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:16 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:17 SA
+BAG:bunma remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:17 SA
+BAG:bunma remove Cải trang Hit lydo: Mặc vào người at 02/02/2023 8:18 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:18 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:18 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:18 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:19 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:19 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:19 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:23 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:23 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:23 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:24 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:25 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:26 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:27 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:28 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:30 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:31 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:32 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:33 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:34 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:35 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:35 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:35 SA
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:36 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:37 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:37 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 8:38 SA
+BAG:bunma remove 53xĐổi đệ tử lydo: Bán cho shop at 02/02/2023 8:39 SA
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:39 SA
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:39 SA
+BAG:bunma remove Cải trang VIP lydo: Mặc cho đệ tử at 02/02/2023 8:40 SA
+BAG:bunma remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 02/02/2023 8:41 SA
+BAG:bunma remove Lì xì lydo: Cất vào rương at 02/02/2023 8:43 SA
+BAG:bunma remove Cây mai lydo: Cất vào rương at 02/02/2023 8:43 SA
+BAG:bunma remove Cây mai lydo: Cất vào rương at 02/02/2023 8:43 SA
+BAG:bunma remove Lì xì lydo: Cất vào rương at 02/02/2023 8:43 SA
+BAG:bunma remove Bình rượu lydo: Cất vào rương at 02/02/2023 8:43 SA
+BAG:bunma remove Bình rượu lydo: Cất vào rương at 02/02/2023 8:43 SA
+BAG:bunma remove Lì xì lydo: Cất vào rương at 02/02/2023 8:43 SA
+BAG:bunma remove Sách Antomic lv1 lydo: Sách kĩ năng at 02/02/2023 8:48 SA
+BAG:bunma remove Sách Antomic lv2 lydo: Sách kĩ năng at 02/02/2023 8:48 SA
+BAG:bunma remove Sách Antomic lv3 lydo: Sách kĩ năng at 02/02/2023 8:48 SA
+BAG:bunma remove Sách Antomic lv4 lydo: Sách kĩ năng at 02/02/2023 8:48 SA
+BAG:bunma remove Sách Antomic lv5 lydo: Sách kĩ năng at 02/02/2023 8:48 SA
+BAG:bunma remove Sách Antomic lv6 lydo: Sách kĩ năng at 02/02/2023 8:48 SA
+BAG:bunma remove Sách Antomic lv7 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 8:49 SA
+BAG:bunma remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:19 SA
+BAG:bunma remove Cải trang VIP lydo: Tự Xóa vật phẩm at 02/02/2023 9:19 SA
+BAG:bunma remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:19 SA
+BAG:bunma remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:19 SA
+BAG:bunma remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:20 SA
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:21 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:21 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:25 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:27 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:27 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:28 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:28 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:28 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:29 SA
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:bunma remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:29 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 SA
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 SA
+BAG:bunma remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 SA
+BAG:bunma remove Trứng vịt muối lydo: Cất vào rương at 02/02/2023 9:31 SA
+BAG:bunma remove Găng đồng lydo: Mặc vào người at 02/02/2023 9:31 SA
+BAG:bunma remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 9:31 SA
+BAG:bunma remove Đá Ruby lydo: Cất vào rương at 02/02/2023 9:31 SA
+BAG:bunma remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 9:31 SA
+BAG:bunma remove Cây mai lydo: Cất vào rương at 02/02/2023 9:31 SA
+BAG:bunma remove Cây mai lydo: Cất vào rương at 02/02/2023 9:32 SA
+BAG:bunma remove Cây mai lydo: Cất vào rương at 02/02/2023 9:32 SA
+BAG:bunma remove Bình rượu lydo: Cất vào rương at 02/02/2023 9:32 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:33 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:33 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:33 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:33 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:33 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:34 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:34 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:34 SA
+BAG:bunma remove Hồn ma Ca đíc lydo: Tự Xóa vật phẩm at 02/02/2023 9:43 SA
+BAG:bunma remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 02/02/2023 9:43 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:44 SA
+BAG:bunma remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 02/02/2023 9:49 SA
+BAG:bunma remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 02/02/2023 9:50 SA
+BAG:bunma remove 1xVệ tinh sinh lực lydo: Bán cho shop at 02/02/2023 9:50 SA
+BAG:bunma remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 9:50 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:55 SA
+BAG:bunma remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:55 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:55 SA
+BAG:bunma remove Giày vàng lydo: Mặc vào người at 02/02/2023 9:56 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:56 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:57 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:57 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:57 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:58 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:58 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:59 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:59 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:00 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:00 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:01 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:01 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:02 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:02 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:03 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:04 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:04 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:04 SA
+BAG:bunma remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 02/02/2023 10:05 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:06 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 SA
+BAG:bunma remove Đặt tên đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 SA
+BAG:bunma remove Giày lông Xayda lydo: Mặc vào người at 02/02/2023 10:07 SA
+BAG:bunma remove Găng bạc lydo: Mặc vào người at 02/02/2023 10:07 SA
+BAG:bunma remove Ngọc Rồng 7 sao lydo: Cất vào rương at 02/02/2023 10:08 SA
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 10:08 SA
+BAG:bunma remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 10:08 SA
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 10:08 SA
+BAG:bunma remove Sao pha lê lydo: Cất vào rương at 02/02/2023 10:08 SA
+BAG:bunma remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:08 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:09 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:09 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:12 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:12 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:12 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:12 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:13 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:14 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:14 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:15 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:15 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:15 SA
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:15 SA
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:15 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:16 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:16 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:17 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:18 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:19 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:19 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:20 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:20 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:21 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:22 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:23 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:24 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:24 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:24 SA
+BAG:bunma remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 10:24 SA
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 10:24 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:25 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:25 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:26 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:27 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:27 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:28 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:28 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:29 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:30 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:31 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:32 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:33 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:34 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:34 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:35 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:36 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:37 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:37 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:38 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:39 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:40 SA
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 10:41 SA
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 10:41 SA
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 10:41 SA
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 10:41 SA
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 10:41 SA
+BAG:bunma remove Mảnh Khủng long mẹ lydo: Cất vào rương at 02/02/2023 10:42 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:43 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:43 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:43 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:44 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:45 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:25 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:26 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:26 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:28 SA
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 11:28 SA
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 11:28 SA
+BAG:bunma remove Quần vải thô lydo: Cất vào rương at 02/02/2023 11:28 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:30 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:31 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:31 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:32 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:33 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:34 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:35 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:35 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:36 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:37 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:38 SA
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:44 SA
+BAG:bunma remove 1xLì xì lydo: Bán cho shop at 02/02/2023 11:44 SA
+BAG:bunma remove 1xLì xì lydo: Bán cho shop at 02/02/2023 11:44 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:45 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:46 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:46 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:47 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:48 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:49 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:50 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:51 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:51 SA
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:52 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:52 SA
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:53 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:53 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:54 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:55 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:56 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:57 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:58 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:59 SA
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:59 SA
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:00 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:00 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:01 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:01 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:02 CH
+BAG:bunma remove Quần vải thô lydo: Cất vào rương at 02/02/2023 12:03 CH
+BAG:bunma remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 12:03 CH
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 12:03 CH
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 12:03 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 12:03 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:04 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:05 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:05 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:06 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:07 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:08 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:08 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:09 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:09 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:10 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 12:11 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:11 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:12 CH
+BAG:bunma remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 12:12 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:13 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:13 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:14 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:16 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:17 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:18 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:19 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:21 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:22 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:23 CH
+BAG:bunma remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:25 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:27 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:28 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:30 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:31 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:32 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:33 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:34 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:36 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:37 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:38 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:39 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:40 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:41 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:42 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:43 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:44 CH
+BAG:bunma remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 12:44 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:45 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:46 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:47 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:48 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:49 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:50 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:51 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:52 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:53 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:54 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:55 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:56 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:57 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:59 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:00 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:00 CH
+BAG:bunma remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 1:01 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 1:01 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 1:04 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 1:04 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:04 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 1:05 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 1:05 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:05 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:06 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:08 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 1:09 CH
+BAG:bunma remove Găng bạc lydo: Tự Xóa vật phẩm at 02/02/2023 1:09 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:09 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:10 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:22 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:24 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:26 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:27 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:29 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:30 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:32 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 2:33 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 2:33 CH
+BAG:bunma remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 2:33 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:34 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 2:35 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 2:35 CH
+BAG:bunma remove 3xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/02/2023 2:36 CH
+BAG:bunma remove 5xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/02/2023 2:36 CH
+BAG:bunma remove Găng vải thô lydo: Mặc vào người at 02/02/2023 2:36 CH
+BAG:bunma remove 3xĐá lục bảo lydo: Dùng đá nâng cấp at 02/02/2023 2:37 CH
+BAG:bunma remove 3xĐá lục bảo lydo: Dùng đá nâng cấp at 02/02/2023 2:37 CH
+BAG:bunma remove 3xĐá lục bảo lydo: Dùng đá nâng cấp at 02/02/2023 2:37 CH
+BAG:bunma remove 3xĐá lục bảo lydo: Dùng đá nâng cấp at 02/02/2023 2:37 CH
+BAG:bunma remove 3xĐá lục bảo lydo: Dùng đá nâng cấp at 02/02/2023 2:38 CH
+BAG:bunma remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 2:38 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 2:38 CH
+BAG:bunma remove Quần vải thô lydo: Mặc vào người at 02/02/2023 2:40 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:40 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:44 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:44 CH
+BAG:bunma remove Áo vải thô lydo: Mặc vào người at 02/02/2023 2:45 CH
+BAG:bunma remove 46xĐá Titan lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 37xĐá Ruby lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 5xTrứng vịt muối lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 1xNgọc Rồng 5 sao lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 9xĐậu thần cấp 8 lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 1xMảnh Quỷ đất mẹ lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 1xĐậu xanh lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 2xLì xì lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 28xĐá lục bảo lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 41xĐá Saphia lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 35xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 2:45 CH
+BAG:bunma remove 2xSao pha lê lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 2xSao pha lê lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 2xVệ tinh trí tuệ lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 3xVệ tinh phòng thủ lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 1xVệ tinh trí lực lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 1xNgọc Rồng 5 sao lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 3xNgọc Rồng 6 sao lydo: Bán cho shop at 02/02/2023 2:46 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:50 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:50 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:50 CH
+BAG:bunma remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 2:51 CH
+BAG:bunma remove 2xVệ tinh sinh lực lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:bunma remove 1xNgọc Rồng 7 sao lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:bunma remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:bunma remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:bunma remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:bunma remove 1xVệ tinh sinh lực lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:bunma remove 1xNgọc Rồng 6 sao lydo: Bán cho shop at 02/02/2023 2:53 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:bunma remove 2xNgọc Rồng 7 sao lydo: Bán cho shop at 02/02/2023 2:55 CH
+BAG:bunma remove 2xVệ tinh phòng thủ lydo: Bán cho shop at 02/02/2023 2:55 CH
+BAG:bunma remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 2:56 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 2:56 CH
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 2:57 CH
+BAG:bunma remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 02/02/2023 2:57 CH
+BAG:bunma remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 2:57 CH
+BAG:bunma remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 02/02/2023 2:58 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 3:01 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 3:01 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:02 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:06 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:07 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:07 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:08 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:08 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:09 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:09 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:09 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:10 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:11 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:11 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:11 CH
+BAG:bunma remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 3:12 CH
+BAG:bunma remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 3:12 CH
+BAG:bunma remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 3:12 CH
+BAG:bunma remove Quần vải thô lydo: Mặc vào người at 02/02/2023 3:12 CH
+BAG:bunma remove Áo vải thô lydo: Mặc vào người at 02/02/2023 3:12 CH
+BAG:bunma remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 3:13 CH
+BAG:bunma remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 3:13 CH
+BAG:bunma remove Găng vải thô lydo: Mặc vào người at 02/02/2023 3:15 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:22 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:22 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:22 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:27 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 3:27 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 3:27 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:27 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:27 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:27 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:27 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:34 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:35 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:35 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:35 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:35 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:51 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:51 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:bunma remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:55 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:55 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:55 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:55 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:55 CH
+BAG:bunma remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 02/02/2023 3:56 CH
+BAG:bunma remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 02/02/2023 3:56 CH
+BAG:bunma remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 02/02/2023 3:56 CH
+BAG:bunma remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 02/02/2023 3:56 CH
+BAG:bunma remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 02/02/2023 3:56 CH
+BAG:bunma remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 02/02/2023 3:56 CH
+BAG:bunma remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 02/02/2023 3:56 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 4:02 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 4:02 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:02 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:02 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:03 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 4:04 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 4:04 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 4:04 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:04 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 4:05 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 4:05 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:05 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 4:05 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 4:21 CH
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 4:37 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:37 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:37 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:56 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 4:56 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:56 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:56 CH
+BAG:bunma remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 4:56 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:58 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 5:02 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:bunma remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:03 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:04 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 5:04 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:04 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 5:05 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:32 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:32 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 5:32 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:32 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:32 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:32 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:34 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:34 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:34 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:34 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:34 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:34 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:35 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:35 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 5:35 CH
+BAG:bunma remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:37 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:43 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:00 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:05 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:12 CH
+BAG:bunma remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 6:12 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:12 CH
+BAG:bunma remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 6:12 CH
+BAG:bunma remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Cải trang Hit lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:13 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:17 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:22 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:22 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:22 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:22 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:22 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 6:22 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:23 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:23 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:25 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 CH
+BAG:bunma remove Quần vải thô lydo: Cất vào rương at 02/02/2023 6:28 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 6:28 CH
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 6:28 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:30 CH
+BAG:bunma remove Đậu thần cấp 7 lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:32 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:33 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:33 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:33 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:33 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:33 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:33 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:35 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 6:35 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:38 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:38 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:38 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:38 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:40 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:41 CH
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:41 CH
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:41 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 6:42 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:43 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:43 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:44 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:44 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:46 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 6:48 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:48 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:48 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:49 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:50 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:50 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:50 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 6:50 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:50 CH
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 6:50 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 6:50 CH
+BAG:bunma remove Viên Capsule đặc biệt lydo: Cất vào rương at 02/02/2023 6:50 CH
+BAG:bunma remove Tự động luyện tập lydo: Cất vào rương at 02/02/2023 6:50 CH
+BAG:bunma remove Ghế bay lydo: Cất vào rương at 02/02/2023 6:51 CH
+BAG:bunma remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 6:51 CH
+BAG:bunma remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 6:51 CH
+BAG:bunma remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:51 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:52 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:53 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 6:53 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:53 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 6:53 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:54 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:54 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:55 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:55 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:56 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 6:56 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:56 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:56 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 6:56 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 6:57 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:57 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:57 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:58 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:01 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:04 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:05 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:06 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:06 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:08 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:08 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:08 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 7:08 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:09 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 7:10 CH
+BAG:bunma remove Quần vải thô lydo: Cất vào rương at 02/02/2023 7:10 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 7:10 CH
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 7:10 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:11 CH
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:11 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:11 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:11 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:11 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:11 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:11 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:12 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:13 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:13 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:13 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 7:13 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 7:14 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:14 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:15 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:15 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:15 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:15 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:15 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:17 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 7:17 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:17 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:17 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:17 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:18 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:18 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:18 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:18 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:18 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:20 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:20 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:20 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:20 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:20 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:21 CH
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:bunma remove 1xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 7:25 CH
+BAG:bunma remove 1xMảnh Quỷ đất mẹ lydo: Bán cho shop at 02/02/2023 7:26 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 7:27 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 7:28 CH
+BAG:bunma remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 7:28 CH
+BAG:bunma remove Găng vải thô lydo: Mặc vào người at 02/02/2023 7:29 CH
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:29 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:29 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 7:29 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:29 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 7:29 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 7:29 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:33 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:33 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:33 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:33 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:34 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:37 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:40 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:40 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:41 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:42 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:42 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:43 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:44 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:44 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:44 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 7:44 CH
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:44 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:44 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:44 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:45 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:45 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:46 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:47 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:51 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:53 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 7:54 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:54 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:54 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:54 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:57 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:58 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:58 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:00 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:00 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:00 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:00 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:01 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:02 CH
+BAG:bunma remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 8:02 CH
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:04 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:04 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:04 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:04 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:04 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:05 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:05 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:05 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:07 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 8:07 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:08 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:09 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:09 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:09 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 8:09 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:09 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:11 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:11 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:11 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 8:11 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:11 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:12 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:12 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:12 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:13 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:18 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:18 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:18 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:18 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:18 CH
+BAG:bunma remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:20 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:20 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 8:21 CH
+BAG:bunma remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:21 CH
+BAG:bunma remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:21 CH
+BAG:bunma remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:21 CH
+BAG:bunma remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:21 CH
+BAG:bunma remove 1xCuồng nộ lydo: Dùng buff at 02/02/2023 8:21 CH
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 8:22 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 8:22 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:22 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:24 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:24 CH
+BAG:bunma remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 8:24 CH
+BAG:bunma remove 1xGiáp Xên bọ hung lydo: Dùng buff at 02/02/2023 8:24 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:25 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:25 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:25 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:25 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:25 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:25 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:25 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:27 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:29 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 8:30 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:30 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:30 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:30 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:45 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:48 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:48 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:01 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:01 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:01 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:01 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:01 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:02 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 9:02 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 9:02 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:02 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 9:02 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:02 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:30 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:31 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:31 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:31 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:31 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:31 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:56 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 9:56 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:56 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:56 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:57 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:07 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 10:08 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:08 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:08 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:08 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 10:08 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:36 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:37 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:37 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:37 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:bunma remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 10:39 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:39 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:39 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:40 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 10:44 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:44 CH
+BAG:bunma remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 10:46 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:48 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:52 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:54 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:59 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:02 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:04 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:04 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:04 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:04 CH
+BAG:bunma remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:04 CH
+BAG:bunma remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:04 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:06 CH
+BAG:bunma remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 CH
+BAG:bunma remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:10 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 11:12 CH
+BAG:bunma remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 11:12 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:16 CH
+BAG:bunma remove 1xTự động luyện tập lydo: Bán cho shop at 02/02/2023 11:18 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:bunma remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 11:23 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:27 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:30 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:33 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:33 CH
+BAG:bunma remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Quần vải thô lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Quần vải thô lydo: Cất vào rương at 02/02/2023 11:34 CH
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Quần vải thô lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:35 CH
+BAG:bunma remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 11:36 CH
+BAG:bunma remove Áo vải thô lydo: Cất vào rương at 02/02/2023 11:36 CH
+BAG:bunma remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:36 CH
+BAG:bunma remove Găng vải thô lydo: Cất vào rương at 02/02/2023 11:37 CH
+BAG:bunma remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 11:37 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:39 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:41 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:44 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:47 CH
+BAG:bunma remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:49 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:50 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:52 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:54 CH
+BAG:bunma remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:56 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:57 CH
+BAG:bunma remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:58 CH
+BAG:bunma remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH
+BAG:bunma remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:58 CH

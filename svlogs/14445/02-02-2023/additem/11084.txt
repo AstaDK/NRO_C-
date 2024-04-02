@@ -1,0 +1,10 @@
+BAG:jaydee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 9:00 CH
+BAG:jaydee add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 9:10 CH
+BAG:jaydee add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 9:18 CH
+BAG:jaydee add 1xLì xì lydo: Nhặt từ map at 02/02/2023 9:18 CH
+BAG:jaydee add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 9:20 CH
+BAG:jaydee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 9:20 CH
+BAG:jaydee add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 9:20 CH
+BAG:jaydee add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 9:30 CH
+BAG:jaydee add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 9:30 CH
+BAG:jaydee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 9:31 CH

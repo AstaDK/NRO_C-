@@ -1,0 +1,6 @@
+BAG:trapboy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 9:39 AM
+BAG:trapboy add 1xMảnh Khủng long lydo: Nhặt từ map at 01/31/2023 9:41 AM
+BAG:trapboy add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 9:43 AM
+BAG:trapboy add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 9:44 AM
+BAG:trapboy add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/31/2023 9:46 AM
+BAG:trapboy add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 9:46 AM

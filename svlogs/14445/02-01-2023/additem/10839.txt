@@ -1,0 +1,27 @@
+BAG:huy34214 add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:12 SA
+BAG:huy34214 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 12:12 SA
+BAG:huy34214 add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 02/01/2023 12:19 SA
+BAG:huy34214 add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:21 SA
+BAG:huy34214 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/01/2023 12:23 SA
+BAG:huy34214 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 12:26 SA
+BAG:huy34214 add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/01/2023 12:29 SA
+BAG:huy34214 add 3xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 12:30 SA
+BAG:huy34214 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/01/2023 12:30 SA
+BAG:huy34214 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 12:32 SA
+BAG:huy34214 add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 12:33 SA
+BAG:huy34214 add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:35 SA
+BAG:huy34214 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 12:36 SA
+BAG:huy34214 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 12:41 SA
+BAG:huy34214 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 12:42 SA
+BAG:huy34214 add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:huy34214 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/01/2023 12:44 SA
+BAG:huy34214 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 12:44 SA
+BAG:huy34214 add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 02/01/2023 12:45 SA
+BAG:huy34214 add 1xCột nhà lydo: Mua từ cửa hàng at 02/01/2023 12:45 SA
+BAG:huy34214 add 20xThỏi vàng lydo: Giftcode at 02/01/2023 12:52 SA
+BAG:huy34214 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/01/2023 12:53 SA
+BAG:huy34214 add 1xCải trang Hit lydo: Mua từ cửa hàng at 02/01/2023 12:53 SA
+BAG:huy34214 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/01/2023 12:54 SA
+BAG:huy34214 add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/01/2023 1:00 SA
+BAG:huy34214 add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/01/2023 1:00 SA
+BAG:huy34214 add 1xMèo mun lydo: Mua từ cửa hàng at 02/01/2023 1:00 SA

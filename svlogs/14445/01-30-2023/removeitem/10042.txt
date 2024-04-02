@@ -1,0 +1,624 @@
+BAG:admin remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/30/2023 9:01 AM
+BAG:admin remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 2:42 PM
+BAG:admin remove Quần thun thô lydo: Mặc vào người at 01/30/2023 2:54 PM
+BAG:admin remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 01/30/2023 2:57 PM
+BAG:admin remove Cây mai lydo: Tự Xóa vật phẩm at 01/30/2023 2:57 PM
+BAG:admin remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 01/30/2023 2:57 PM
+BAG:admin remove Cây mai lydo: Tự Xóa vật phẩm at 01/30/2023 2:59 PM
+BAG:admin remove Cây mai lydo: Tự Xóa vật phẩm at 01/30/2023 2:59 PM
+BAG:admin remove Cây mai lydo: Tự Xóa vật phẩm at 01/30/2023 2:59 PM
+BAG:admin remove Cây mai lydo: Tự Xóa vật phẩm at 01/30/2023 2:59 PM
+BAG:admin remove Cây mai lydo: Tự Xóa vật phẩm at 01/30/2023 3:01 PM
+BAG:admin remove Găng Thiên Sứ lydo: Mặc vào người at 01/30/2023 4:24 PM
+BAG:admin remove Áo Thiên Sứ lydo: Mặc vào người at 01/30/2023 4:24 PM
+BAG:admin remove Quần thun thô lydo: Tự Xóa vật phẩm at 01/30/2023 4:25 PM
+BAG:admin remove Giầy Thiên Sứ lydo: Mặc vào người at 01/30/2023 4:25 PM
+BAG:admin remove Nhẫn Thiên Sứ lydo: Mặc vào người at 01/30/2023 4:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:29 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:29 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:29 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:29 PM
+BAG:admin remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 01/30/2023 4:30 PM
+BAG:admin remove Sách Trói lv1 lydo: Sách kĩ năng at 01/30/2023 4:31 PM
+BAG:admin remove Sách Trói lv2 lydo: Sách kĩ năng at 01/30/2023 4:31 PM
+BAG:admin remove Sách Trói lv3 lydo: Sách kĩ năng at 01/30/2023 4:31 PM
+BAG:admin remove Sách Trói lv4 lydo: Sách kĩ năng at 01/30/2023 4:31 PM
+BAG:admin remove Sách Trói lv5 lydo: Sách kĩ năng at 01/30/2023 4:31 PM
+BAG:admin remove Sách Trói lv6 lydo: Sách kĩ năng at 01/30/2023 4:31 PM
+BAG:admin remove Sách Trói lv7 lydo: Sách kĩ năng at 01/30/2023 4:31 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 4:33 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 4:33 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 4:35 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:37 PM
+BAG:admin remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 01/30/2023 4:38 PM
+BAG:admin remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 01/30/2023 4:38 PM
+BAG:admin remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 01/30/2023 4:38 PM
+BAG:admin remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 01/30/2023 4:38 PM
+BAG:admin remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 01/30/2023 4:38 PM
+BAG:admin remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 01/30/2023 4:38 PM
+BAG:admin remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 01/30/2023 4:38 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:40 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:41 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:43 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 4:43 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 4:43 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 4:43 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:44 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:52 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:52 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:52 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:52 PM
+BAG:admin remove Găng Thiên Sứ lydo: Mặc vào người at 01/30/2023 4:53 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 4:53 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 4:53 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:54 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:54 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:54 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:54 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:55 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 4:55 PM
+BAG:admin remove Áo Thiên Sứ lydo: Mặc vào người at 01/30/2023 4:55 PM
+BAG:admin remove Quần Thiên Sứ lydo: Mặc vào người at 01/30/2023 4:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:55 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 5:23 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 5:23 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 5:24 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 5:24 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 5:25 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 5:25 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 5:25 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 5:25 PM
+BAG:admin remove Giầy Thiên Sứ lydo: Mặc vào người at 01/30/2023 5:25 PM
+BAG:admin remove Nhẫn Thiên Sứ lydo: Mặc vào người at 01/30/2023 5:25 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 5:25 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 5:33 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 5:33 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 5:33 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 5:33 PM
+BAG:admin remove Cải Trang Thần Zeno lydo: Mặc cho đệ tử at 01/30/2023 5:35 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 5:40 PM
+BAG:admin remove 99xMảnh hồn bông tai lydo: CS Porata at 01/30/2023 5:41 PM
+BAG:admin remove 1xĐá xanh lam lydo: CS Porata at 01/30/2023 5:41 PM
+BAG:admin remove 99xMảnh hồn bông tai lydo: CS Porata at 01/30/2023 5:41 PM
+BAG:admin remove 1xĐá xanh lam lydo: CS Porata at 01/30/2023 5:41 PM
+BAG:admin remove 99xMảnh hồn bông tai lydo: CS Porata at 01/30/2023 5:41 PM
+BAG:admin remove 1xĐá xanh lam lydo: CS Porata at 01/30/2023 5:41 PM
+BAG:admin remove 99xMảnh hồn bông tai lydo: CS Porata at 01/30/2023 5:42 PM
+BAG:admin remove 1xĐá xanh lam lydo: CS Porata at 01/30/2023 5:42 PM
+BAG:admin remove Đá xanh lam lydo: Tự Xóa vật phẩm at 01/30/2023 5:42 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 5:43 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 5:43 PM
+BAG:admin remove Cải trang Yardrat lydo: Tự Xóa vật phẩm at 01/30/2023 5:43 PM
+BAG:admin remove Cải trang Siêu Thần lydo: Tự Xóa vật phẩm at 01/30/2023 5:43 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 5:43 PM
+BAG:admin remove Cây mai lydo: Tự Xóa vật phẩm at 01/30/2023 5:45 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 5:45 PM
+BAG:admin remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 01/30/2023 5:47 PM
+BAG:admin remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 01/30/2023 5:47 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 01/30/2023 5:47 PM
+BAG:admin remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 01/30/2023 5:47 PM
+BAG:admin remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 01/30/2023 5:47 PM
+BAG:admin remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 01/30/2023 5:47 PM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 01/30/2023 5:47 PM
+BAG:admin remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 01/30/2023 5:48 PM
+BAG:admin remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 01/30/2023 5:49 PM
+BAG:admin remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 01/30/2023 5:49 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 01/30/2023 5:49 PM
+BAG:admin remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 01/30/2023 5:49 PM
+BAG:admin remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 01/30/2023 5:49 PM
+BAG:admin remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 01/30/2023 5:49 PM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 01/30/2023 5:49 PM
+BAG:admin remove Áo giáp sắt lydo: Tự Xóa vật phẩm at 01/30/2023 5:51 PM
+BAG:admin remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 01/30/2023 5:51 PM
+BAG:admin remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 01/30/2023 5:51 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 01/30/2023 5:51 PM
+BAG:admin remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 01/30/2023 5:51 PM
+BAG:admin remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 01/30/2023 5:51 PM
+BAG:admin remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 01/30/2023 5:51 PM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 01/30/2023 5:51 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 5:53 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 5:53 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 01/30/2023 5:53 PM
+BAG:admin remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 01/30/2023 5:57 PM
+BAG:admin remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 01/30/2023 5:57 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 01/30/2023 5:57 PM
+BAG:admin remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 01/30/2023 5:57 PM
+BAG:admin remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 01/30/2023 5:57 PM
+BAG:admin remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 01/30/2023 5:57 PM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 01/30/2023 5:57 PM
+BAG:admin remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 01/30/2023 6:02 PM
+BAG:admin remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 01/30/2023 6:02 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 01/30/2023 6:02 PM
+BAG:admin remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 01/30/2023 6:02 PM
+BAG:admin remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 01/30/2023 6:02 PM
+BAG:admin remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 01/30/2023 6:02 PM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 01/30/2023 6:02 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 6:03 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 6:03 PM
+BAG:admin remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 01/30/2023 6:24 PM
+BAG:admin remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 01/30/2023 6:24 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 01/30/2023 6:24 PM
+BAG:admin remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 01/30/2023 6:24 PM
+BAG:admin remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 01/30/2023 6:24 PM
+BAG:admin remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 01/30/2023 6:24 PM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 01/30/2023 6:24 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 6:26 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 6:26 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 6:27 PM
+BAG:admin remove Kimono trái đất lydo: Tự Xóa vật phẩm at 01/30/2023 6:32 PM
+BAG:admin remove Kimono namec lydo: Tự Xóa vật phẩm at 01/30/2023 6:32 PM
+BAG:admin remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 01/30/2023 6:33 PM
+BAG:admin remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 01/30/2023 6:34 PM
+BAG:admin remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 01/30/2023 6:35 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 6:36 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 6:36 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 6:36 PM
+BAG:admin remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 01/30/2023 6:37 PM
+BAG:admin remove Nhẫn Thiên Sứ lydo: Tự Xóa vật phẩm at 01/30/2023 6:37 PM
+BAG:admin remove Quần Thiên Sứ lydo: Tự Xóa vật phẩm at 01/30/2023 6:37 PM
+BAG:admin remove Áo Thiên Sứ lydo: Tự Xóa vật phẩm at 01/30/2023 6:37 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 6:37 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 6:37 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 6:42 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 6:45 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 6:47 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 6:47 PM
+BAG:admin remove Găng bạc lydo: Tự Xóa vật phẩm at 01/30/2023 6:49 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 6:51 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 6:53 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 6:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 6:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 6:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 6:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 6:55 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 6:57 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 6:58 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 6:58 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:00 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 7:00 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:00 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:03 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 7:03 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 7:03 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 7:03 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 7:06 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 7:10 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 7:10 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 7:10 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:12 PM
+BAG:admin remove Ngọc Rồng 1 sao lydo: Tự Xóa vật phẩm at 01/30/2023 7:13 PM
+BAG:admin remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 01/30/2023 7:14 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 7:14 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 7:16 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 7:16 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 7:16 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:22 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 7:25 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 7:25 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 7:25 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:27 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:28 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:31 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:31 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 7:32 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 7:32 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 7:32 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 7:53 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 7:53 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 7:53 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 7:54 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 7:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 7:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 7:55 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 7:55 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 7:56 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 7:58 PM
+BAG:admin remove 92xNgọc Rồng 7 sao lydo: Giao dịch với genma10 at 01/30/2023 7:59 PM
+BAG:admin remove 99xNgọc Rồng 1 sao lydo: Giao dịch với genma10 at 01/30/2023 7:59 PM
+BAG:admin remove 11xThỏi vàng lydo: Giao dịch với genma10 at 01/30/2023 8:00 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 8:03 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 8:03 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 8:03 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 8:03 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 8:03 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 8:12 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 8:26 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 9:38 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 9:38 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 9:38 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 9:53 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 9:54 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 9:54 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 9:56 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 9:57 PM
+BAG:admin remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 01/30/2023 9:58 PM
+BAG:admin remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 01/30/2023 9:58 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:00 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:00 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:00 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:00 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:01 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:02 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:03 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:04 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:05 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:06 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:06 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:07 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:07 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:07 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:07 PM
+BAG:admin remove Găng Thiên Sứ lydo: Mặc vào người at 01/30/2023 10:07 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:08 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:08 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:08 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:08 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:09 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:09 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:09 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:09 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:10 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:11 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:12 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:12 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:12 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:12 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:12 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:12 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:13 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:13 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:13 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 10:13 PM
+BAG:admin remove Nhẫn Thiên Sứ lydo: Mặc vào người at 01/30/2023 10:13 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:14 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:15 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:16 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:17 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:18 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:19 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:20 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:20 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:20 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:20 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:20 PM
+BAG:admin remove Áo Thiên Sứ lydo: Mặc vào người at 01/30/2023 10:20 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:21 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:21 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:21 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:21 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:22 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:23 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:24 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:25 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:26 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 10:27 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:27 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:27 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:27 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:27 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:27 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:28 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:28 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:28 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:28 PM
+BAG:admin remove Quần Thiên Sứ lydo: Mặc vào người at 01/30/2023 10:29 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:30 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:30 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:30 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:30 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:31 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:32 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:32 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:32 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:32 PM
+BAG:admin remove Giầy Thiên Sứ lydo: Mặc vào người at 01/30/2023 10:33 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:38 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:38 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:38 PM
+BAG:admin remove Giầy Thiên Sứ lydo: Mặc vào người at 01/30/2023 10:39 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:39 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:39 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:39 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:39 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:40 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:41 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:42 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:43 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:43 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:43 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:43 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:44 PM
+BAG:admin remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/30/2023 10:44 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 10:45 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 10:45 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 10:45 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 10:45 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 10:49 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 10:51 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:51 PM
+BAG:admin remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 01/30/2023 10:53 PM
+BAG:admin remove 92xNgọc Rồng 4 sao lydo: Giao dịch với chjll at 01/30/2023 10:54 PM
+BAG:admin remove 1xBổ huyết lydo: Dùng buff at 01/30/2023 10:55 PM
+BAG:admin remove 1xCuồng nộ lydo: Dùng buff at 01/30/2023 10:55 PM
+BAG:admin remove 1xMì ly lydo: Ăn thức ăn at 01/30/2023 10:56 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:56 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:57 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:57 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:57 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:57 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 10:58 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 01/30/2023 10:59 PM

@@ -1,0 +1,10 @@
+BAG:banhlon add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:30 PM
+BAG:banhlon add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:35 PM
+BAG:banhlon add 2xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:38 PM
+BAG:banhlon add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/29/2023 8:40 PM
+BAG:banhlon add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 01/29/2023 8:40 PM
+BAG:banhlon add 1xÁo vải thô lydo: Nhặt từ map at 01/29/2023 8:44 PM
+BAG:banhlon add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:46 PM
+BAG:banhlon add 5xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/29/2023 8:47 PM
+BAG:banhlon add 24xĐậu thần cấp 3 (old: 5) lydo: Lấy từ rương qua người at 01/29/2023 8:47 PM
+BAG:banhlon add 1xGhế bay lydo: Mua từ cửa hàng at 01/29/2023 8:48 PM

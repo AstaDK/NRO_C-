@@ -1,0 +1,5 @@
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:44 CH
+BAG:longnopro remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 11:44 CH
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:47 CH
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:52 CH
+BAG:longnopro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:58 CH

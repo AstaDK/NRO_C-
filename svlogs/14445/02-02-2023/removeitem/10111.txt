@@ -1,0 +1,31 @@
+BAG:kakarot remove 1xLồng đèn Con gà lydo: Item hết hạn sử dụng at 02/02/2023 12:16 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:16 CH
+BAG:kakarot remove Cải Trang Thần Zeno Xayda lydo: Mặc vào người at 02/02/2023 12:16 CH
+BAG:kakarot remove Nhẫn Thiên Sứ lydo: Mặc vào người at 02/02/2023 12:16 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:22 CH
+BAG:kakarot remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:25 CH
+BAG:kakarot remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:25 CH
+BAG:kakarot remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:25 CH
+BAG:kakarot remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:25 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:29 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:35 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:47 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:53 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:58 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:03 CH
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:08 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 7:40 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 7:41 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với satsthan at 02/02/2023 7:43 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với satsthan at 02/02/2023 7:43 CH
+BAG:kakarot remove 50xThỏi vàng lydo: Giao dịch với titnghichnghom at 02/02/2023 7:44 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với tuoilozks at 02/02/2023 8:14 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:20 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:20 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:21 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/02/2023 9:21 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với binnamek at 02/02/2023 9:24 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với binnamek at 02/02/2023 9:24 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với binnamek at 02/02/2023 9:24 CH
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với binnamek at 02/02/2023 9:24 CH
+BAG:kakarot remove 8xThỏi vàng lydo: Giao dịch với binnamek at 02/02/2023 9:24 CH

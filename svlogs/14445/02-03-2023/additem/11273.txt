@@ -1,0 +1,200 @@
+BAG:run1208 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 1:10 CH
+BAG:run1208 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 1:11 CH
+BAG:run1208 add 5xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 02/03/2023 1:19 CH
+BAG:run1208 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/03/2023 1:19 CH
+BAG:run1208 add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:run1208 add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:run1208 add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:run1208 add 1xCây mai lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:run1208 add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:run1208 add 1xLì xì lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:run1208 add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:run1208 add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:run1208 add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:run1208 add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:run1208 add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:run1208 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:run1208 add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:run1208 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:run1208 add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:run1208 add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:run1208 add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:run1208 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:run1208 add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:run1208 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 1:29 CH
+BAG:run1208 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/03/2023 1:29 CH
+BAG:run1208 add 1xCải trang Hit lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 02/03/2023 1:35 CH
+BAG:run1208 add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 16xNâng cấp kỹ năng 1 đệ tử (old: 15) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 17xNâng cấp kỹ năng 1 đệ tử (old: 16) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 18xNâng cấp kỹ năng 1 đệ tử (old: 17) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 19xNâng cấp kỹ năng 1 đệ tử (old: 18) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 20xNâng cấp kỹ năng 1 đệ tử (old: 19) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 21xNâng cấp kỹ năng 1 đệ tử (old: 20) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 22xNâng cấp kỹ năng 1 đệ tử (old: 21) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 23xNâng cấp kỹ năng 1 đệ tử (old: 22) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 24xNâng cấp kỹ năng 1 đệ tử (old: 23) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 25xNâng cấp kỹ năng 1 đệ tử (old: 24) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 26xNâng cấp kỹ năng 1 đệ tử (old: 25) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 27xNâng cấp kỹ năng 1 đệ tử (old: 26) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 28xNâng cấp kỹ năng 1 đệ tử (old: 27) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 29xNâng cấp kỹ năng 1 đệ tử (old: 28) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 30xNâng cấp kỹ năng 1 đệ tử (old: 29) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 31xNâng cấp kỹ năng 1 đệ tử (old: 30) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 32xNâng cấp kỹ năng 1 đệ tử (old: 31) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 33xNâng cấp kỹ năng 1 đệ tử (old: 32) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 34xNâng cấp kỹ năng 1 đệ tử (old: 33) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 35xNâng cấp kỹ năng 1 đệ tử (old: 34) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 36xNâng cấp kỹ năng 1 đệ tử (old: 35) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 37xNâng cấp kỹ năng 1 đệ tử (old: 36) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 38xNâng cấp kỹ năng 1 đệ tử (old: 37) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 39xNâng cấp kỹ năng 1 đệ tử (old: 38) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 40xNâng cấp kỹ năng 1 đệ tử (old: 39) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 41xNâng cấp kỹ năng 1 đệ tử (old: 40) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 42xNâng cấp kỹ năng 1 đệ tử (old: 41) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 43xNâng cấp kỹ năng 1 đệ tử (old: 42) lydo: Mua từ cửa hàng at 02/03/2023 1:36 CH
+BAG:run1208 add 44xNâng cấp kỹ năng 1 đệ tử (old: 43) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 10xNâng cấp kỹ năng 2 đệ tử (old: 9) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 11xNâng cấp kỹ năng 2 đệ tử (old: 10) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 12xNâng cấp kỹ năng 2 đệ tử (old: 11) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 13xNâng cấp kỹ năng 2 đệ tử (old: 12) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 14xNâng cấp kỹ năng 2 đệ tử (old: 13) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 15xNâng cấp kỹ năng 2 đệ tử (old: 14) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 16xNâng cấp kỹ năng 2 đệ tử (old: 15) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 17xNâng cấp kỹ năng 2 đệ tử (old: 16) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 18xNâng cấp kỹ năng 2 đệ tử (old: 17) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 19xNâng cấp kỹ năng 2 đệ tử (old: 18) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 20xNâng cấp kỹ năng 2 đệ tử (old: 19) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 21xNâng cấp kỹ năng 2 đệ tử (old: 20) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 22xNâng cấp kỹ năng 2 đệ tử (old: 21) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 23xNâng cấp kỹ năng 2 đệ tử (old: 22) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 24xNâng cấp kỹ năng 2 đệ tử (old: 23) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 25xNâng cấp kỹ năng 2 đệ tử (old: 24) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 26xNâng cấp kỹ năng 2 đệ tử (old: 25) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 27xNâng cấp kỹ năng 2 đệ tử (old: 26) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 28xNâng cấp kỹ năng 2 đệ tử (old: 27) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 29xNâng cấp kỹ năng 2 đệ tử (old: 28) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 30xNâng cấp kỹ năng 2 đệ tử (old: 29) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 31xNâng cấp kỹ năng 2 đệ tử (old: 30) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 32xNâng cấp kỹ năng 2 đệ tử (old: 31) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 33xNâng cấp kỹ năng 2 đệ tử (old: 32) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 34xNâng cấp kỹ năng 2 đệ tử (old: 33) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 35xNâng cấp kỹ năng 2 đệ tử (old: 34) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 36xNâng cấp kỹ năng 2 đệ tử (old: 35) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 37xNâng cấp kỹ năng 2 đệ tử (old: 36) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 38xNâng cấp kỹ năng 2 đệ tử (old: 37) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 39xNâng cấp kỹ năng 2 đệ tử (old: 38) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 40xNâng cấp kỹ năng 2 đệ tử (old: 39) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 41xNâng cấp kỹ năng 2 đệ tử (old: 40) lydo: Mua từ cửa hàng at 02/03/2023 1:37 CH
+BAG:run1208 add 42xNâng cấp kỹ năng 2 đệ tử (old: 41) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 43xNâng cấp kỹ năng 2 đệ tử (old: 42) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 44xNâng cấp kỹ năng 2 đệ tử (old: 43) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 45xNâng cấp kỹ năng 2 đệ tử (old: 44) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 46xNâng cấp kỹ năng 2 đệ tử (old: 45) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 47xNâng cấp kỹ năng 2 đệ tử (old: 46) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 48xNâng cấp kỹ năng 2 đệ tử (old: 47) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 49xNâng cấp kỹ năng 2 đệ tử (old: 48) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 50xNâng cấp kỹ năng 2 đệ tử (old: 49) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 51xNâng cấp kỹ năng 2 đệ tử (old: 50) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 52xNâng cấp kỹ năng 2 đệ tử (old: 51) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 53xNâng cấp kỹ năng 2 đệ tử (old: 52) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 54xNâng cấp kỹ năng 2 đệ tử (old: 53) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 55xNâng cấp kỹ năng 2 đệ tử (old: 54) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 56xNâng cấp kỹ năng 2 đệ tử (old: 55) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 57xNâng cấp kỹ năng 2 đệ tử (old: 56) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 58xNâng cấp kỹ năng 2 đệ tử (old: 57) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 59xNâng cấp kỹ năng 2 đệ tử (old: 58) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 60xNâng cấp kỹ năng 2 đệ tử (old: 59) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 61xNâng cấp kỹ năng 2 đệ tử (old: 60) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 62xNâng cấp kỹ năng 2 đệ tử (old: 61) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 63xNâng cấp kỹ năng 2 đệ tử (old: 62) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 64xNâng cấp kỹ năng 2 đệ tử (old: 63) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 65xNâng cấp kỹ năng 2 đệ tử (old: 64) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 66xNâng cấp kỹ năng 2 đệ tử (old: 65) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 67xNâng cấp kỹ năng 2 đệ tử (old: 66) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 68xNâng cấp kỹ năng 2 đệ tử (old: 67) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 69xNâng cấp kỹ năng 2 đệ tử (old: 68) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 70xNâng cấp kỹ năng 2 đệ tử (old: 69) lydo: Mua từ cửa hàng at 02/03/2023 1:38 CH
+BAG:run1208 add 20xThỏi vàng lydo: Giftcode at 02/03/2023 1:40 CH
+BAG:run1208 add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 02/03/2023 1:42 CH
+BAG:run1208 add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 1:47 CH
+BAG:run1208 add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:run1208 add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:run1208 add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:run1208 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:run1208 add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:run1208 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:run1208 add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:run1208 add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:run1208 add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:run1208 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:run1208 add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:run1208 add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:run1208 add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:run1208 add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:run1208 add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:run1208 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:run1208 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:run1208 add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:run1208 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:run1208 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:run1208 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:run1208 add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:run1208 add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:run1208 add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:run1208 add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:run1208 add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:run1208 add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:run1208 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:run1208 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 1:55 CH
+BAG:run1208 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/03/2023 1:55 CH
+BAG:run1208 add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:run1208 add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:run1208 add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:run1208 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:run1208 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:run1208 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:run1208 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:run1208 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:run1208 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:run1208 add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:run1208 add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:run1208 add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:run1208 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:run1208 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:run1208 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:run1208 add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:run1208 add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:run1208 add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:run1208 add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 02/03/2023 2:01 CH
+BAG:run1208 add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/03/2023 2:01 CH
+BAG:run1208 add 1xDiều rồng lydo: Mua từ cửa hàng at 02/03/2023 2:03 CH
+BAG:run1208 add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/03/2023 2:03 CH
+BAG:run1208 add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:run1208 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 2:04 CH
+BAG:run1208 add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 2:04 CH
+BAG:run1208 add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 02/03/2023 2:04 CH

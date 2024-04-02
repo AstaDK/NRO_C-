@@ -1,0 +1,164 @@
+BAG:kubequadi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 2:52 AM
+BAG:kubequadi add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 2:57 AM
+BAG:kubequadi add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 2:58 AM
+BAG:kubequadi add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 01/30/2023 2:59 AM
+BAG:kubequadi add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 3:00 AM
+BAG:kubequadi add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 3:01 AM
+BAG:kubequadi add 1xMảnh Phi long lydo: Nhặt từ map at 01/30/2023 3:02 AM
+BAG:kubequadi add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 3:03 AM
+BAG:kubequadi add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 3:04 AM
+BAG:kubequadi add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 01/30/2023 3:04 AM
+BAG:kubequadi add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 01/30/2023 3:05 AM
+BAG:kubequadi add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 3:08 AM
+BAG:kubequadi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 3:11 AM
+BAG:kubequadi add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 3:11 AM
+BAG:kubequadi add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 3:11 AM
+BAG:kubequadi add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 3:13 AM
+BAG:kubequadi add 20xThỏi vàng lydo: Giftcode at 01/30/2023 3:17 AM
+BAG:kubequadi add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 3:18 AM
+BAG:kubequadi add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:kubequadi add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:kubequadi add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:kubequadi add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:kubequadi add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:kubequadi add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:kubequadi add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:kubequadi add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/30/2023 3:19 AM
+BAG:kubequadi add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 01/30/2023 3:20 AM
+BAG:kubequadi add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 3:21 AM
+BAG:kubequadi add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 3:21 AM
+BAG:kubequadi add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 3:22 AM
+BAG:kubequadi add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 3:22 AM
+BAG:kubequadi add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 3:22 AM
+BAG:kubequadi add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/30/2023 3:22 AM
+BAG:kubequadi add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 3:22 AM
+BAG:kubequadi add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 3:23 AM
+BAG:kubequadi add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 3:24 AM
+BAG:kubequadi add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/30/2023 3:24 AM
+BAG:kubequadi add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/30/2023 3:25 AM
+BAG:kubequadi add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/30/2023 3:25 AM
+BAG:kubequadi add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/30/2023 3:26 AM
+BAG:kubequadi add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/30/2023 3:26 AM
+BAG:kubequadi add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 3:26 AM
+BAG:kubequadi add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/30/2023 3:26 AM
+BAG:kubequadi add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/30/2023 3:27 AM
+BAG:kubequadi add 1xÁo sợi len lydo: Nhặt từ map at 01/30/2023 3:27 AM
+BAG:kubequadi add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/30/2023 3:27 AM
+BAG:kubequadi add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/30/2023 3:27 AM
+BAG:kubequadi add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/30/2023 3:27 AM
+BAG:kubequadi add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/30/2023 3:28 AM
+BAG:kubequadi add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/30/2023 3:28 AM
+BAG:kubequadi add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 01/30/2023 3:28 AM
+BAG:kubequadi add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/30/2023 3:28 AM
+BAG:kubequadi add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/30/2023 3:28 AM
+BAG:kubequadi add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:kubequadi add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:kubequadi add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:kubequadi add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:kubequadi add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 01/30/2023 3:30 AM
+BAG:kubequadi add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 3:30 AM
+BAG:kubequadi add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 01/30/2023 3:30 AM
+BAG:kubequadi add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 3:31 AM
+BAG:kubequadi add 1xĐậu xanh lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:kubequadi add 1xTrứng vịt muối lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:kubequadi add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:kubequadi add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:kubequadi add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:kubequadi add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:kubequadi add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:kubequadi add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 01/30/2023 3:33 AM
+BAG:kubequadi add 1xRada cấp 1 lydo: Nhặt từ map at 01/30/2023 3:33 AM
+BAG:kubequadi add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 3:33 AM
+BAG:kubequadi add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:33 AM
+BAG:kubequadi add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 3:33 AM
+BAG:kubequadi add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 3:34 AM
+BAG:kubequadi add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 3:34 AM
+BAG:kubequadi add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 01/30/2023 3:35 AM
+BAG:kubequadi add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 3:35 AM
+BAG:kubequadi add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 3:35 AM
+BAG:kubequadi add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/30/2023 3:35 AM
+BAG:kubequadi add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 3:36 AM
+BAG:kubequadi add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/30/2023 3:36 AM
+BAG:kubequadi add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/30/2023 3:36 AM
+BAG:kubequadi add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 01/30/2023 3:36 AM
+BAG:kubequadi add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 3:37 AM
+BAG:kubequadi add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/30/2023 3:37 AM
+BAG:kubequadi add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/30/2023 3:37 AM
+BAG:kubequadi add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/30/2023 3:37 AM
+BAG:kubequadi add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/30/2023 3:38 AM
+BAG:kubequadi add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 01/30/2023 3:38 AM
+BAG:kubequadi add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/30/2023 3:38 AM
+BAG:kubequadi add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 01/30/2023 3:39 AM
+BAG:kubequadi add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/30/2023 3:39 AM
+BAG:kubequadi add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/30/2023 3:39 AM
+BAG:kubequadi add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/30/2023 3:40 AM
+BAG:kubequadi add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 3:40 AM
+BAG:kubequadi add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 3:40 AM
+BAG:kubequadi add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/30/2023 3:40 AM
+BAG:kubequadi add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/30/2023 3:40 AM
+BAG:kubequadi add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 01/30/2023 3:41 AM
+BAG:kubequadi add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 01/30/2023 3:41 AM
+BAG:kubequadi add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/30/2023 3:41 AM
+BAG:kubequadi add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/30/2023 3:41 AM
+BAG:kubequadi add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 01/30/2023 3:42 AM
+BAG:kubequadi add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 3:43 AM
+BAG:kubequadi add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 3:43 AM
+BAG:kubequadi add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/30/2023 3:44 AM
+BAG:kubequadi add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 01/30/2023 3:44 AM
+BAG:kubequadi add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 3:44 AM
+BAG:kubequadi add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/30/2023 3:44 AM
+BAG:kubequadi add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 3:44 AM
+BAG:kubequadi add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 3:45 AM
+BAG:kubequadi add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 3:45 AM
+BAG:kubequadi add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 3:45 AM
+BAG:kubequadi add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/30/2023 3:45 AM
+BAG:kubequadi add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:45 AM
+BAG:kubequadi add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 3:45 AM
+BAG:kubequadi add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 01/30/2023 3:45 AM
+BAG:kubequadi add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/30/2023 3:46 AM
+BAG:kubequadi add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/30/2023 3:47 AM
+BAG:kubequadi add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/30/2023 3:47 AM
+BAG:kubequadi add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 01/30/2023 3:47 AM
+BAG:kubequadi add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/30/2023 3:47 AM
+BAG:kubequadi add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/30/2023 3:47 AM
+BAG:kubequadi add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/30/2023 3:47 AM
+BAG:kubequadi add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/30/2023 3:48 AM
+BAG:kubequadi add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/30/2023 3:49 AM
+BAG:kubequadi add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/30/2023 3:49 AM
+BAG:kubequadi add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 01/30/2023 3:49 AM
+BAG:kubequadi add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:50 AM
+BAG:kubequadi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 3:50 AM
+BAG:kubequadi add 5xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 3:51 AM
+BAG:kubequadi add 11xĐậu thần cấp 4 lydo: Lấy từ rương qua người at 01/30/2023 3:52 AM
+BAG:kubequadi add 5xĐậu thần cấp 6 lydo: Lấy từ rương qua người at 01/30/2023 3:52 AM
+BAG:kubequadi add 9xĐậu thần cấp 3 (old: 5) lydo: Lấy từ rương qua người at 01/30/2023 3:52 AM
+BAG:kubequadi add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 3:52 AM
+BAG:kubequadi add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 3:53 AM
+BAG:kubequadi add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 3:54 AM
+BAG:kubequadi add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 3:54 AM
+BAG:kubequadi add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 3:54 AM
+BAG:kubequadi add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 3:55 AM
+BAG:kubequadi add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:55 AM
+BAG:kubequadi add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 3:56 AM
+BAG:kubequadi add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 3:56 AM
+BAG:kubequadi add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:56 AM
+BAG:kubequadi add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 3:56 AM
+BAG:kubequadi add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/30/2023 3:57 AM
+BAG:kubequadi add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 3:57 AM
+BAG:kubequadi add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 3:57 AM
+BAG:kubequadi add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 3:57 AM
+BAG:kubequadi add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 3:58 AM
+BAG:kubequadi add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 3:59 AM
+BAG:kubequadi add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/30/2023 3:59 AM
+BAG:kubequadi add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 4:00 AM
+BAG:kubequadi add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 4:01 AM
+BAG:kubequadi add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 4:01 AM
+BAG:kubequadi add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 4:01 AM
+BAG:kubequadi add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/30/2023 4:02 AM

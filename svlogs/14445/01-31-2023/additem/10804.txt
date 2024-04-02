@@ -1,0 +1,67 @@
+BAG:satsthan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 8:22 PM
+BAG:satsthan add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/31/2023 8:25 PM
+BAG:satsthan add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 8:30 PM
+BAG:satsthan add 13xĐậu thần cấp 1 (old: 8) lydo: Lấy từ rương qua người at 01/31/2023 8:30 PM
+BAG:satsthan add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 8:38 PM
+BAG:satsthan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 8:42 PM
+BAG:satsthan add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/31/2023 8:42 PM
+BAG:satsthan add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/31/2023 8:44 PM
+BAG:satsthan add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 8:44 PM
+BAG:satsthan add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/31/2023 8:46 PM
+BAG:satsthan add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 01/31/2023 8:46 PM
+BAG:satsthan add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 01/31/2023 8:51 PM
+BAG:satsthan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 8:55 PM
+BAG:satsthan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 8:57 PM
+BAG:satsthan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/31/2023 8:58 PM
+BAG:satsthan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/31/2023 8:58 PM
+BAG:satsthan add 20xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 8:59 PM
+BAG:satsthan add 20xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 01/31/2023 9:00 PM
+BAG:satsthan add 40xĐậu thần cấp 3 (old: 20) lydo: Lấy từ rương qua người at 01/31/2023 9:00 PM
+BAG:satsthan add 60xĐậu thần cấp 3 (old: 40) lydo: Lấy từ rương qua người at 01/31/2023 9:01 PM
+BAG:satsthan add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 9:05 PM
+BAG:satsthan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 9:06 PM
+BAG:satsthan add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 9:09 PM
+BAG:satsthan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 9:09 PM
+BAG:satsthan add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 9:10 PM
+BAG:satsthan add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 01/31/2023 9:10 PM
+BAG:satsthan add 77xĐậu thần cấp 3 (old: 60) lydo: Lấy từ rương qua người at 01/31/2023 9:11 PM
+BAG:satsthan add 1xGăng vải dày lydo: Mua từ cửa hàng at 01/31/2023 9:12 PM
+BAG:satsthan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 9:13 PM
+BAG:satsthan add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 01/31/2023 9:14 PM
+BAG:satsthan add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 01/31/2023 9:14 PM
+BAG:satsthan add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 01/31/2023 9:14 PM
+BAG:satsthan add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 9:16 PM
+BAG:satsthan add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 9:16 PM
+BAG:satsthan add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/31/2023 11:27 CH
+BAG:satsthan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 11:30 CH
+BAG:satsthan add 1xMảnh Khủng long lydo: Nhặt từ map at 01/31/2023 11:30 CH
+BAG:satsthan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 11:30 CH
+BAG:satsthan add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/31/2023 11:31 CH
+BAG:satsthan add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/31/2023 11:31 CH
+BAG:satsthan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 11:31 CH
+BAG:satsthan add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 01/31/2023 11:32 CH
+BAG:satsthan add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/31/2023 11:33 CH
+BAG:satsthan add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/31/2023 11:33 CH
+BAG:satsthan add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/31/2023 11:33 CH
+BAG:satsthan add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/31/2023 11:33 CH
+BAG:satsthan add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 01/31/2023 11:34 CH
+BAG:satsthan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/31/2023 11:34 CH
+BAG:satsthan add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/31/2023 11:34 CH
+BAG:satsthan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 11:34 CH
+BAG:satsthan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/31/2023 11:34 CH
+BAG:satsthan add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 01/31/2023 11:34 CH
+BAG:satsthan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 11:35 CH
+BAG:satsthan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/31/2023 11:36 CH
+BAG:satsthan add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/31/2023 11:36 CH
+BAG:satsthan add 1xMảnh Khủng long lydo: Nhặt từ map at 01/31/2023 11:36 CH
+BAG:satsthan add 1xBột mì lydo: Nhặt từ map at 01/31/2023 11:36 CH
+BAG:satsthan add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/31/2023 11:37 CH
+BAG:satsthan add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 01/31/2023 11:37 CH
+BAG:satsthan add 1xGà quay nguyên con lydo: Nhặt từ map at 01/31/2023 11:38 CH
+BAG:satsthan add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/31/2023 11:40 CH
+BAG:satsthan add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/31/2023 11:40 CH
+BAG:satsthan add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/31/2023 11:40 CH
+BAG:satsthan add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 11:46 CH
+BAG:satsthan add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/31/2023 11:47 CH
+BAG:satsthan add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/31/2023 11:48 CH
+BAG:satsthan add 20xThỏi vàng lydo: Giftcode at 01/31/2023 11:53 CH

@@ -1,0 +1,72 @@
+BAG:lvbatman remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 8:13 PM
+BAG:lvbatman remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 8:14 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:19 PM
+BAG:lvbatman remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:21 PM
+BAG:lvbatman remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:22 PM
+BAG:lvbatman remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:22 PM
+BAG:lvbatman remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 8:24 PM
+BAG:lvbatman remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 8:24 PM
+BAG:lvbatman remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 8:24 PM
+BAG:lvbatman remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 8:24 PM
+BAG:lvbatman remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 8:24 PM
+BAG:lvbatman remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 8:24 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:26 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:26 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:26 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:26 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:26 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:26 PM
+BAG:lvbatman remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:26 PM
+BAG:lvbatman remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:27 PM
+BAG:lvbatman remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 8:27 PM
+BAG:lvbatman remove Đậu thần cấp 1 lydo: Cất vào rương at 01/29/2023 8:27 PM
+BAG:lvbatman remove Rada cấp 1 lydo: Mặc vào người at 01/29/2023 8:28 PM
+BAG:lvbatman remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 8:28 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:28 PM
+BAG:lvbatman remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 8:28 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:29 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:29 PM
+BAG:lvbatman remove Nâng cấp kỹ năng 1 đệ tử lydo: Tự Xóa vật phẩm at 01/29/2023 8:29 PM
+BAG:lvbatman remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/29/2023 8:35 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:40 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:40 PM
+BAG:lvbatman remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 8:40 PM
+BAG:lvbatman remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:lvbatman remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:lvbatman remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:lvbatman remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:lvbatman remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:lvbatman remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 8:48 PM
+BAG:lvbatman remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách học Trị thương lv1 lydo: Sách kĩ năng at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách học Trị thương lv2 lydo: Sách kĩ năng at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách học Trị thương lv3 lydo: Sách kĩ năng at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách học Trị thương lv4 lydo: Sách kĩ năng at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách học Trị thương lv5 lydo: Sách kĩ năng at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách học Trị thương lv6 lydo: Sách kĩ năng at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách học Trị thương lv7 lydo: Sách kĩ năng at 01/29/2023 8:49 PM
+BAG:lvbatman remove Sách Masenko lv1 lydo: Sách kĩ năng at 01/29/2023 8:50 PM
+BAG:lvbatman remove Sách Masenko lv2 lydo: Sách kĩ năng at 01/29/2023 8:50 PM
+BAG:lvbatman remove Sách Masenko lv3 lydo: Sách kĩ năng at 01/29/2023 8:50 PM
+BAG:lvbatman remove Sách Masenko lv4 lydo: Sách kĩ năng at 01/29/2023 8:50 PM
+BAG:lvbatman remove Sách Masenko lv5 lydo: Sách kĩ năng at 01/29/2023 8:50 PM
+BAG:lvbatman remove Sách Masenko lv6 lydo: Sách kĩ năng at 01/29/2023 8:50 PM
+BAG:lvbatman remove Sách Masenko lv7 lydo: Sách kĩ năng at 01/29/2023 8:50 PM
+BAG:lvbatman remove Găng len cứng lydo: Mặc vào người at 01/29/2023 9:05 PM
+BAG:lvbatman remove Găng thun Pico lydo: Mặc cho đệ tử at 01/29/2023 9:06 PM
+BAG:lvbatman remove Giày cao su cứng lydo: Mặc cho đệ tử at 01/29/2023 9:06 PM
+BAG:lvbatman remove Rada cấp 5 lydo: Mặc cho đệ tử at 01/29/2023 9:06 PM
+BAG:lvbatman remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 9:06 PM
+BAG:lvbatman remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/29/2023 9:06 PM
+BAG:lvbatman remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 9:06 PM
+BAG:lvbatman remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:07 PM
+BAG:lvbatman remove Găng thun Pico lydo: Tự Xóa vật phẩm at 01/29/2023 9:18 PM
+BAG:lvbatman remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/29/2023 9:19 PM

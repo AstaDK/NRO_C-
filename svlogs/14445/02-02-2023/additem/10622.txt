@@ -1,0 +1,1319 @@
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:15 SA
+BAG:adugame add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 7:15 SA
+BAG:adugame add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/02/2023 7:16 SA
+BAG:adugame add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:17 SA
+BAG:adugame add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 02/02/2023 7:17 SA
+BAG:adugame add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:17 SA
+BAG:adugame add 1xGiày Kaio lydo: Mua từ cửa hàng at 02/02/2023 7:18 SA
+BAG:adugame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 7:20 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:20 SA
+BAG:adugame add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 7:20 SA
+BAG:adugame add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:20 SA
+BAG:adugame add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/02/2023 7:21 SA
+BAG:adugame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 7:21 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:21 SA
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:21 SA
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:21 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:21 SA
+BAG:adugame add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/02/2023 7:21 SA
+BAG:adugame add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/02/2023 7:30 SA
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 7:31 SA
+BAG:adugame add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 02/02/2023 7:36 SA
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:37 SA
+BAG:adugame add 18xBột mì (old: 17) lydo: Nhặt từ map at 02/02/2023 7:39 SA
+BAG:adugame add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 02/02/2023 7:44 SA
+BAG:adugame add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 02/02/2023 7:44 SA
+BAG:adugame add 1xGăng bạc lydo: Lấy từ body đệ vào hành trang at 02/02/2023 7:44 SA
+BAG:adugame add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 02/02/2023 7:44 SA
+BAG:adugame add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 7:45 SA
+BAG:adugame add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/02/2023 7:46 SA
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:46 SA
+BAG:adugame add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:46 SA
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 7:49 SA
+BAG:adugame add 61xĐậu thần cấp 8 (old: 31) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 91xĐậu thần cấp 8 (old: 61) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 22xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 99xĐậu thần cấp 8 (old: 91) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 52xĐậu thần cấp 8 (old: 22) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 82xĐậu thần cấp 8 (old: 52) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 13xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 99xĐậu thần cấp 8 (old: 82) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 42xĐậu thần cấp 8 (old: 12) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 72xĐậu thần cấp 8 (old: 42) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 3xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 99xĐậu thần cấp 8 (old: 72) lydo: Mua từ cửa hàng at 02/02/2023 7:49 SA
+BAG:adugame add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/02/2023 7:51 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:51 SA
+BAG:adugame add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:52 SA
+BAG:adugame add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/02/2023 7:52 SA
+BAG:adugame add 19xBột mì (old: 18) lydo: Nhặt từ map at 02/02/2023 7:52 SA
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:52 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:52 SA
+BAG:adugame add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/02/2023 7:52 SA
+BAG:adugame add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 7:53 SA
+BAG:adugame add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/02/2023 7:53 SA
+BAG:adugame add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 02/02/2023 7:53 SA
+BAG:adugame add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 02/02/2023 7:54 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:55 SA
+BAG:adugame add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 02/02/2023 7:55 SA
+BAG:adugame add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/02/2023 7:57 SA
+BAG:adugame add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 02/02/2023 7:57 SA
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 7:57 SA
+BAG:adugame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 7:58 SA
+BAG:adugame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 7:58 SA
+BAG:adugame add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 02/02/2023 7:59 SA
+BAG:adugame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 8:00 SA
+BAG:adugame add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/02/2023 8:00 SA
+BAG:adugame add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 02/02/2023 8:04 SA
+BAG:adugame add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/02/2023 8:04 SA
+BAG:adugame add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 02/02/2023 8:05 SA
+BAG:adugame add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 02/02/2023 8:05 SA
+BAG:adugame add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 02/02/2023 8:07 SA
+BAG:adugame add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 02/02/2023 8:09 SA
+BAG:adugame add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/02/2023 8:11 SA
+BAG:adugame add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 02/02/2023 8:12 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 8:15 SA
+BAG:adugame add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 02/02/2023 8:16 SA
+BAG:adugame add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 02/02/2023 8:17 SA
+BAG:adugame add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/02/2023 8:18 SA
+BAG:adugame add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 02/02/2023 8:20 SA
+BAG:adugame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 8:21 SA
+BAG:adugame add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 02/02/2023 8:22 SA
+BAG:adugame add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 02/02/2023 8:22 SA
+BAG:adugame add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 02/02/2023 8:24 SA
+BAG:adugame add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 02/02/2023 8:25 SA
+BAG:adugame add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/02/2023 8:27 SA
+BAG:adugame add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/02/2023 8:29 SA
+BAG:adugame add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 02/02/2023 8:29 SA
+BAG:adugame add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 02/02/2023 8:30 SA
+BAG:adugame add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 02/02/2023 8:30 SA
+BAG:adugame add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 02/02/2023 8:33 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 8:33 SA
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 8:33 SA
+BAG:adugame add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 8:34 SA
+BAG:adugame add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 02/02/2023 8:36 SA
+BAG:adugame add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 02/02/2023 8:36 SA
+BAG:adugame add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 02/02/2023 8:37 SA
+BAG:adugame add 20xBột mì (old: 19) lydo: Nhặt từ map at 02/02/2023 8:38 SA
+BAG:adugame add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 8:38 SA
+BAG:adugame add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 02/02/2023 8:39 SA
+BAG:adugame add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 02/02/2023 8:40 SA
+BAG:adugame add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 02/02/2023 8:41 SA
+BAG:adugame add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 02/02/2023 8:41 SA
+BAG:adugame add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 02/02/2023 8:43 SA
+BAG:adugame add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 02/02/2023 8:43 SA
+BAG:adugame add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 02/02/2023 8:45 SA
+BAG:adugame add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 02/02/2023 8:46 SA
+BAG:adugame add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 02/02/2023 8:46 SA
+BAG:adugame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 8:47 SA
+BAG:adugame add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 8:47 SA
+BAG:adugame add 21xBột mì (old: 20) lydo: Nhặt từ map at 02/02/2023 8:48 SA
+BAG:adugame add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/02/2023 8:49 SA
+BAG:adugame add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/02/2023 8:49 SA
+BAG:adugame add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 8:50 SA
+BAG:adugame add 22xBột mì (old: 21) lydo: Nhặt từ map at 02/02/2023 8:50 SA
+BAG:adugame add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 02/02/2023 8:50 SA
+BAG:adugame add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 02/02/2023 8:50 SA
+BAG:adugame add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 02/02/2023 8:50 SA
+BAG:adugame add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 02/02/2023 8:51 SA
+BAG:adugame add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 02/02/2023 8:51 SA
+BAG:adugame add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 02/02/2023 8:51 SA
+BAG:adugame add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/02/2023 8:52 SA
+BAG:adugame add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 8:52 SA
+BAG:adugame add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 02/02/2023 8:52 SA
+BAG:adugame add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 02/02/2023 8:53 SA
+BAG:adugame add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 02/02/2023 8:56 SA
+BAG:adugame add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 02/02/2023 8:56 SA
+BAG:adugame add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 02/02/2023 8:58 SA
+BAG:adugame add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/02/2023 8:59 SA
+BAG:adugame add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/02/2023 8:59 SA
+BAG:adugame add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 02/02/2023 8:59 SA
+BAG:adugame add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 02/02/2023 9:01 SA
+BAG:adugame add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 02/02/2023 9:02 SA
+BAG:adugame add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 02/02/2023 9:03 SA
+BAG:adugame add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/02/2023 9:03 SA
+BAG:adugame add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 02/02/2023 9:03 SA
+BAG:adugame add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 02/02/2023 9:05 SA
+BAG:adugame add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 02/02/2023 9:05 SA
+BAG:adugame add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/02/2023 9:06 SA
+BAG:adugame add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/02/2023 9:06 SA
+BAG:adugame add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 02/02/2023 9:07 SA
+BAG:adugame add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 9:08 SA
+BAG:adugame add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 02/02/2023 9:09 SA
+BAG:adugame add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 02/02/2023 9:10 SA
+BAG:adugame add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 02/02/2023 9:11 SA
+BAG:adugame add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 02/02/2023 9:13 SA
+BAG:adugame add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 9:14 SA
+BAG:adugame add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 02/02/2023 9:15 SA
+BAG:adugame add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 02/02/2023 9:16 SA
+BAG:adugame add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/02/2023 9:17 SA
+BAG:adugame add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/02/2023 9:17 SA
+BAG:adugame add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 9:20 SA
+BAG:adugame add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 02/02/2023 9:23 SA
+BAG:adugame add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/02/2023 9:23 SA
+BAG:adugame add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/02/2023 9:23 SA
+BAG:adugame add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 02/02/2023 9:23 SA
+BAG:adugame add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/02/2023 9:24 SA
+BAG:adugame add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 02/02/2023 9:33 SA
+BAG:adugame add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 02/02/2023 9:33 SA
+BAG:adugame add 23xBột mì (old: 22) lydo: Nhặt từ map at 02/02/2023 9:33 SA
+BAG:adugame add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 02/02/2023 9:34 SA
+BAG:adugame add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/02/2023 9:35 SA
+BAG:adugame add 24xBột mì (old: 23) lydo: Nhặt từ map at 02/02/2023 9:35 SA
+BAG:adugame add 25xBột mì (old: 24) lydo: Nhặt từ map at 02/02/2023 9:36 SA
+BAG:adugame add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 02/02/2023 9:36 SA
+BAG:adugame add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 02/02/2023 9:36 SA
+BAG:adugame add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 02/02/2023 9:37 SA
+BAG:adugame add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/02/2023 9:37 SA
+BAG:adugame add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/02/2023 9:38 SA
+BAG:adugame add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 02/02/2023 9:39 SA
+BAG:adugame add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 02/02/2023 9:39 SA
+BAG:adugame add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/02/2023 9:39 SA
+BAG:adugame add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 02/02/2023 9:40 SA
+BAG:adugame add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 9:40 SA
+BAG:adugame add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 02/02/2023 9:41 SA
+BAG:adugame add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/02/2023 9:41 SA
+BAG:adugame add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 02/02/2023 9:44 SA
+BAG:adugame add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 02/02/2023 9:45 SA
+BAG:adugame add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 02/02/2023 9:47 SA
+BAG:adugame add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 02/02/2023 9:47 SA
+BAG:adugame add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 02/02/2023 9:49 SA
+BAG:adugame add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/02/2023 9:50 SA
+BAG:adugame add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 02/02/2023 9:51 SA
+BAG:adugame add 1xCây mai lydo: Nhặt từ map at 02/02/2023 9:53 SA
+BAG:adugame add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 9:54 SA
+BAG:adugame add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 02/02/2023 9:54 SA
+BAG:adugame add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 02/02/2023 9:55 SA
+BAG:adugame add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 02/02/2023 9:56 SA
+BAG:adugame add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 9:57 SA
+BAG:adugame add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/02/2023 9:58 SA
+BAG:adugame add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 02/02/2023 9:59 SA
+BAG:adugame add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/02/2023 10:00 SA
+BAG:adugame add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 02/02/2023 10:03 SA
+BAG:adugame add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 02/02/2023 10:03 SA
+BAG:adugame add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 02/02/2023 10:05 SA
+BAG:adugame add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 02/02/2023 10:05 SA
+BAG:adugame add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/02/2023 10:06 SA
+BAG:adugame add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/02/2023 10:06 SA
+BAG:adugame add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 02/02/2023 10:07 SA
+BAG:adugame add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 02/02/2023 10:09 SA
+BAG:adugame add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 02/02/2023 10:11 SA
+BAG:adugame add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhặt từ map at 02/02/2023 10:12 SA
+BAG:adugame add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 02/02/2023 10:13 SA
+BAG:adugame add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 02/02/2023 10:13 SA
+BAG:adugame add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 02/02/2023 10:14 SA
+BAG:adugame add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/02/2023 10:16 SA
+BAG:adugame add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/02/2023 10:18 SA
+BAG:adugame add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 02/02/2023 10:18 SA
+BAG:adugame add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/02/2023 10:18 SA
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:19 SA
+BAG:adugame add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/02/2023 10:20 SA
+BAG:adugame add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 02/02/2023 10:22 SA
+BAG:adugame add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/02/2023 10:24 SA
+BAG:adugame add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 02/02/2023 10:26 SA
+BAG:adugame add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 02/02/2023 10:28 SA
+BAG:adugame add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 02/02/2023 10:29 SA
+BAG:adugame add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 02/02/2023 10:29 SA
+BAG:adugame add 26xBột mì (old: 25) lydo: Nhặt từ map at 02/02/2023 10:30 SA
+BAG:adugame add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 02/02/2023 10:32 SA
+BAG:adugame add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 02/02/2023 10:32 SA
+BAG:adugame add 27xBột mì (old: 26) lydo: Nhặt từ map at 02/02/2023 10:33 SA
+BAG:adugame add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 02/02/2023 10:33 SA
+BAG:adugame add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 02/02/2023 10:35 SA
+BAG:adugame add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 02/02/2023 10:36 SA
+BAG:adugame add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 02/02/2023 10:36 SA
+BAG:adugame add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 02/02/2023 10:36 SA
+BAG:adugame add 31xNgọc Rồng 5 sao (old: 30) lydo: Nhặt từ map at 02/02/2023 10:36 SA
+BAG:adugame add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/02/2023 10:37 SA
+BAG:adugame add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 02/02/2023 10:37 SA
+BAG:adugame add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/02/2023 10:38 SA
+BAG:adugame add 32xNgọc Rồng 5 sao (old: 31) lydo: Nhặt từ map at 02/02/2023 10:38 SA
+BAG:adugame add 33xNgọc Rồng 5 sao (old: 32) lydo: Nhặt từ map at 02/02/2023 10:39 SA
+BAG:adugame add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/02/2023 10:40 SA
+BAG:adugame add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/02/2023 10:41 SA
+BAG:adugame add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 02/02/2023 10:41 SA
+BAG:adugame add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 02/02/2023 10:42 SA
+BAG:adugame add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 02/02/2023 10:44 SA
+BAG:adugame add 34xNgọc Rồng 5 sao (old: 33) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 35xNgọc Rồng 5 sao (old: 34) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 36xNgọc Rồng 5 sao (old: 35) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhập ngọc at 02/02/2023 10:45 SA
+BAG:adugame add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/02/2023 10:56 SA
+BAG:adugame add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 02/02/2023 10:56 SA
+BAG:adugame add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/02/2023 10:56 SA
+BAG:adugame add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 02/02/2023 10:57 SA
+BAG:adugame add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 02/02/2023 10:58 SA
+BAG:adugame add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/02/2023 10:58 SA
+BAG:adugame add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 02/02/2023 10:58 SA
+BAG:adugame add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/02/2023 10:59 SA
+BAG:adugame add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 02/02/2023 10:59 SA
+BAG:adugame add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/02/2023 10:59 SA
+BAG:adugame add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/02/2023 11:01 SA
+BAG:adugame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 11:01 SA
+BAG:adugame add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 02/02/2023 11:02 SA
+BAG:adugame add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 02/02/2023 11:02 SA
+BAG:adugame add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/02/2023 11:03 SA
+BAG:adugame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 11:03 SA
+BAG:adugame add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 02/02/2023 11:03 SA
+BAG:adugame add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 02/02/2023 11:03 SA
+BAG:adugame add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/02/2023 11:03 SA
+BAG:adugame add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 02/02/2023 11:04 SA
+BAG:adugame add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 02/02/2023 11:04 SA
+BAG:adugame add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:04 SA
+BAG:adugame add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 02/02/2023 11:05 SA
+BAG:adugame add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/02/2023 11:05 SA
+BAG:adugame add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 02/02/2023 11:05 SA
+BAG:adugame add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 02/02/2023 11:06 SA
+BAG:adugame add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 02/02/2023 11:06 SA
+BAG:adugame add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 02/02/2023 11:06 SA
+BAG:adugame add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 02/02/2023 11:06 SA
+BAG:adugame add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 11:06 SA
+BAG:adugame add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/02/2023 11:07 SA
+BAG:adugame add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:adugame add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:adugame add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:adugame add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 02/02/2023 11:11 SA
+BAG:adugame add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/02/2023 11:11 SA
+BAG:adugame add 28xBột mì (old: 27) lydo: Nhặt từ map at 02/02/2023 11:11 SA
+BAG:adugame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 11:12 SA
+BAG:adugame add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 02/02/2023 11:13 SA
+BAG:adugame add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 02/02/2023 11:13 SA
+BAG:adugame add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 02/02/2023 11:14 SA
+BAG:adugame add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/02/2023 11:15 SA
+BAG:adugame add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 02/02/2023 11:15 SA
+BAG:adugame add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/02/2023 11:16 SA
+BAG:adugame add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 02/02/2023 11:17 SA
+BAG:adugame add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 11:18 SA
+BAG:adugame add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 02/02/2023 11:19 SA
+BAG:adugame add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/02/2023 11:19 SA
+BAG:adugame add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 02/02/2023 11:19 SA
+BAG:adugame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 11:21 SA
+BAG:adugame add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/02/2023 11:21 SA
+BAG:adugame add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 02/02/2023 11:21 SA
+BAG:adugame add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 02/02/2023 11:22 SA
+BAG:adugame add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/02/2023 11:22 SA
+BAG:adugame add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 02/02/2023 11:22 SA
+BAG:adugame add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:adugame add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 02/02/2023 11:24 SA
+BAG:adugame add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 02/02/2023 11:25 SA
+BAG:adugame add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 02/02/2023 11:25 SA
+BAG:adugame add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/02/2023 11:25 SA
+BAG:adugame add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/02/2023 11:27 SA
+BAG:adugame add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 02/02/2023 11:28 SA
+BAG:adugame add 29xBột mì (old: 28) lydo: Nhặt từ map at 02/02/2023 11:28 SA
+BAG:adugame add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/02/2023 11:30 SA
+BAG:adugame add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/02/2023 11:30 SA
+BAG:adugame add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/02/2023 11:32 SA
+BAG:adugame add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 02/02/2023 11:33 SA
+BAG:adugame add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/02/2023 11:34 SA
+BAG:adugame add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 02/02/2023 11:34 SA
+BAG:adugame add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 02/02/2023 11:35 SA
+BAG:adugame add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/02/2023 11:35 SA
+BAG:adugame add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 02/02/2023 11:36 SA
+BAG:adugame add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 02/02/2023 11:36 SA
+BAG:adugame add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/02/2023 11:37 SA
+BAG:adugame add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 02/02/2023 11:39 SA
+BAG:adugame add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/02/2023 11:39 SA
+BAG:adugame add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:adugame add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:adugame add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 02/02/2023 11:40 SA
+BAG:adugame add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 02/02/2023 11:41 SA
+BAG:adugame add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 02/02/2023 11:41 SA
+BAG:adugame add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/02/2023 11:42 SA
+BAG:adugame add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 02/02/2023 11:45 SA
+BAG:adugame add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/02/2023 11:46 SA
+BAG:adugame add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/02/2023 11:47 SA
+BAG:adugame add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 02/02/2023 11:47 SA
+BAG:adugame add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 02/02/2023 11:48 SA
+BAG:adugame add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 02/02/2023 11:48 SA
+BAG:adugame add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 02/02/2023 11:50 SA
+BAG:adugame add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 02/02/2023 11:51 SA
+BAG:adugame add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 02/02/2023 11:51 SA
+BAG:adugame add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/02/2023 11:51 SA
+BAG:adugame add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/02/2023 11:51 SA
+BAG:adugame add 30xBột mì (old: 29) lydo: Nhặt từ map at 02/02/2023 11:52 SA
+BAG:adugame add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 11:52 SA
+BAG:adugame add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/02/2023 11:53 SA
+BAG:adugame add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 02/02/2023 11:53 SA
+BAG:adugame add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 02/02/2023 11:53 SA
+BAG:adugame add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 02/02/2023 11:53 SA
+BAG:adugame add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/02/2023 11:54 SA
+BAG:adugame add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/02/2023 11:56 SA
+BAG:adugame add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 02/02/2023 11:57 SA
+BAG:adugame add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 02/02/2023 11:58 SA
+BAG:adugame add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 02/02/2023 11:59 SA
+BAG:adugame add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 02/02/2023 11:59 SA
+BAG:adugame add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 02/02/2023 11:59 SA
+BAG:adugame add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 02/02/2023 11:59 SA
+BAG:adugame add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 12:00 CH
+BAG:adugame add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 02/02/2023 12:00 CH
+BAG:adugame add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/02/2023 12:01 CH
+BAG:adugame add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/02/2023 12:03 CH
+BAG:adugame add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/02/2023 12:03 CH
+BAG:adugame add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/02/2023 12:03 CH
+BAG:adugame add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 02/02/2023 12:03 CH
+BAG:adugame add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/02/2023 12:04 CH
+BAG:adugame add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 02/02/2023 12:04 CH
+BAG:adugame add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 02/02/2023 12:04 CH
+BAG:adugame add 31xBột mì (old: 30) lydo: Nhặt từ map at 02/02/2023 12:05 CH
+BAG:adugame add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 02/02/2023 12:06 CH
+BAG:adugame add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/02/2023 12:07 CH
+BAG:adugame add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 02/02/2023 12:07 CH
+BAG:adugame add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/02/2023 12:08 CH
+BAG:adugame add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/02/2023 12:09 CH
+BAG:adugame add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/02/2023 12:09 CH
+BAG:adugame add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/02/2023 12:10 CH
+BAG:adugame add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 02/02/2023 12:10 CH
+BAG:adugame add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/02/2023 12:10 CH
+BAG:adugame add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 02/02/2023 12:11 CH
+BAG:adugame add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/02/2023 12:11 CH
+BAG:adugame add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/02/2023 12:11 CH
+BAG:adugame add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/02/2023 12:12 CH
+BAG:adugame add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 02/02/2023 12:14 CH
+BAG:adugame add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 02/02/2023 12:14 CH
+BAG:adugame add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 02/02/2023 12:14 CH
+BAG:adugame add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 02/02/2023 12:14 CH
+BAG:adugame add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 02/02/2023 12:15 CH
+BAG:adugame add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 02/02/2023 12:16 CH
+BAG:adugame add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 02/02/2023 12:16 CH
+BAG:adugame add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 02/02/2023 12:17 CH
+BAG:adugame add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 02/02/2023 12:18 CH
+BAG:adugame add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 02/02/2023 12:18 CH
+BAG:adugame add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 02/02/2023 12:18 CH
+BAG:adugame add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 02/02/2023 12:19 CH
+BAG:adugame add 32xBột mì (old: 31) lydo: Nhặt từ map at 02/02/2023 12:19 CH
+BAG:adugame add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 02/02/2023 12:20 CH
+BAG:adugame add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/02/2023 12:20 CH
+BAG:adugame add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 02/02/2023 12:21 CH
+BAG:adugame add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 02/02/2023 12:21 CH
+BAG:adugame add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 02/02/2023 12:22 CH
+BAG:adugame add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 02/02/2023 12:23 CH
+BAG:adugame add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 02/02/2023 12:24 CH
+BAG:adugame add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 02/02/2023 12:24 CH
+BAG:adugame add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 02/02/2023 12:25 CH
+BAG:adugame add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 02/02/2023 12:25 CH
+BAG:adugame add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 02/02/2023 12:26 CH
+BAG:adugame add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 02/02/2023 12:26 CH
+BAG:adugame add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:adugame add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 02/02/2023 12:27 CH
+BAG:adugame add 33xBột mì (old: 32) lydo: Nhặt từ map at 02/02/2023 12:28 CH
+BAG:adugame add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:adugame add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:adugame add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 02/02/2023 12:29 CH
+BAG:adugame add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/02/2023 12:30 CH
+BAG:adugame add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/02/2023 12:30 CH
+BAG:adugame add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/02/2023 12:30 CH
+BAG:adugame add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 02/02/2023 12:31 CH
+BAG:adugame add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 02/02/2023 12:31 CH
+BAG:adugame add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 02/02/2023 12:31 CH
+BAG:adugame add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 02/02/2023 12:31 CH
+BAG:adugame add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 02/02/2023 12:32 CH
+BAG:adugame add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/02/2023 12:33 CH
+BAG:adugame add 34xBột mì (old: 33) lydo: Nhặt từ map at 02/02/2023 12:36 CH
+BAG:adugame add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/02/2023 12:37 CH
+BAG:adugame add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/02/2023 12:37 CH
+BAG:adugame add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/02/2023 12:37 CH
+BAG:adugame add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/02/2023 12:38 CH
+BAG:adugame add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 02/02/2023 12:38 CH
+BAG:adugame add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/02/2023 12:38 CH
+BAG:adugame add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 02/02/2023 12:39 CH
+BAG:adugame add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 02/02/2023 12:42 CH
+BAG:adugame add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 02/02/2023 12:43 CH
+BAG:adugame add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 02/02/2023 12:44 CH
+BAG:adugame add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/02/2023 12:44 CH
+BAG:adugame add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 02/02/2023 12:44 CH
+BAG:adugame add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:adugame add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:adugame add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/02/2023 12:45 CH
+BAG:adugame add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 02/02/2023 12:46 CH
+BAG:adugame add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 02/02/2023 12:47 CH
+BAG:adugame add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:adugame add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:adugame add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/02/2023 12:48 CH
+BAG:adugame add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/02/2023 12:49 CH
+BAG:adugame add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/02/2023 12:49 CH
+BAG:adugame add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 02/02/2023 12:50 CH
+BAG:adugame add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 02/02/2023 12:52 CH
+BAG:adugame add 35xBột mì (old: 34) lydo: Nhặt từ map at 02/02/2023 12:53 CH
+BAG:adugame add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/02/2023 12:54 CH
+BAG:adugame add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 02/02/2023 12:54 CH
+BAG:adugame add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/02/2023 12:55 CH
+BAG:adugame add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 02/02/2023 12:55 CH
+BAG:adugame add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/02/2023 12:56 CH
+BAG:adugame add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 02/02/2023 12:56 CH
+BAG:adugame add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 02/02/2023 12:56 CH
+BAG:adugame add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 02/02/2023 12:56 CH
+BAG:adugame add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 02/02/2023 12:56 CH
+BAG:adugame add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 02/02/2023 12:57 CH
+BAG:adugame add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 02/02/2023 12:57 CH
+BAG:adugame add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 02/02/2023 12:57 CH
+BAG:adugame add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 02/02/2023 12:58 CH
+BAG:adugame add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 02/02/2023 12:58 CH
+BAG:adugame add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/02/2023 12:58 CH
+BAG:adugame add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 02/02/2023 12:58 CH
+BAG:adugame add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 02/02/2023 12:58 CH
+BAG:adugame add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 02/02/2023 12:59 CH
+BAG:adugame add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 02/02/2023 12:59 CH
+BAG:adugame add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/02/2023 12:59 CH
+BAG:adugame add 72xĐá Titan (old: 71) lydo: Nhặt từ map at 02/02/2023 1:00 CH
+BAG:adugame add 73xĐá Titan (old: 72) lydo: Nhặt từ map at 02/02/2023 1:00 CH
+BAG:adugame add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 02/02/2023 1:02 CH
+BAG:adugame add 74xĐá Titan (old: 73) lydo: Nhặt từ map at 02/02/2023 1:03 CH
+BAG:adugame add 75xĐá Titan (old: 74) lydo: Nhặt từ map at 02/02/2023 1:04 CH
+BAG:adugame add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 02/02/2023 1:04 CH
+BAG:adugame add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 02/02/2023 1:05 CH
+BAG:adugame add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 02/02/2023 1:06 CH
+BAG:adugame add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 02/02/2023 1:06 CH
+BAG:adugame add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 02/02/2023 1:07 CH
+BAG:adugame add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 02/02/2023 1:07 CH
+BAG:adugame add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 02/02/2023 1:08 CH
+BAG:adugame add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/02/2023 1:09 CH
+BAG:adugame add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 02/02/2023 1:09 CH
+BAG:adugame add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 02/02/2023 1:09 CH
+BAG:adugame add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/02/2023 1:10 CH
+BAG:adugame add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 02/02/2023 1:10 CH
+BAG:adugame add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 02/02/2023 1:10 CH
+BAG:adugame add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 02/02/2023 1:10 CH
+BAG:adugame add 76xĐá Titan (old: 75) lydo: Nhặt từ map at 02/02/2023 1:11 CH
+BAG:adugame add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 02/02/2023 1:13 CH
+BAG:adugame add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 02/02/2023 1:13 CH
+BAG:adugame add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 02/02/2023 1:13 CH
+BAG:adugame add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/02/2023 1:14 CH
+BAG:adugame add 77xĐá Titan (old: 76) lydo: Nhặt từ map at 02/02/2023 1:15 CH
+BAG:adugame add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 02/02/2023 1:15 CH
+BAG:adugame add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 02/02/2023 1:15 CH
+BAG:adugame add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 02/02/2023 1:16 CH
+BAG:adugame add 78xĐá Titan (old: 77) lydo: Nhặt từ map at 02/02/2023 1:16 CH
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 1:16 CH
+BAG:adugame add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 02/02/2023 1:16 CH
+BAG:adugame add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 02/02/2023 1:17 CH
+BAG:adugame add 79xĐá Titan (old: 78) lydo: Nhặt từ map at 02/02/2023 1:18 CH
+BAG:adugame add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/02/2023 1:18 CH
+BAG:adugame add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 02/02/2023 1:18 CH
+BAG:adugame add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 02/02/2023 1:18 CH
+BAG:adugame add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 1:37 CH
+BAG:adugame add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 02/02/2023 1:38 CH
+BAG:adugame add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 02/02/2023 1:38 CH
+BAG:adugame add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 1:38 CH
+BAG:adugame add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 1:38 CH
+BAG:adugame add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 1:38 CH
+BAG:adugame add 92xĐá thạch anh tím (old: 91) lydo: Nhặt từ map at 02/02/2023 1:38 CH
+BAG:adugame add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 1:39 CH
+BAG:adugame add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 1:39 CH
+BAG:adugame add 93xĐá thạch anh tím (old: 92) lydo: Nhặt từ map at 02/02/2023 1:39 CH
+BAG:adugame add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 1:39 CH
+BAG:adugame add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 02/02/2023 1:39 CH
+BAG:adugame add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 1:40 CH
+BAG:adugame add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 1:40 CH
+BAG:adugame add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 1:40 CH
+BAG:adugame add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 1:41 CH
+BAG:adugame add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 1:41 CH
+BAG:adugame add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 1:41 CH
+BAG:adugame add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 1:41 CH
+BAG:adugame add 80xĐá Titan (old: 79) lydo: Nhặt từ map at 02/02/2023 1:41 CH
+BAG:adugame add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 1:41 CH
+BAG:adugame add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 1:41 CH
+BAG:adugame add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 1:42 CH
+BAG:adugame add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 1:42 CH
+BAG:adugame add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 1:42 CH
+BAG:adugame add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 1:42 CH
+BAG:adugame add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 02/02/2023 1:43 CH
+BAG:adugame add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 02/02/2023 1:43 CH
+BAG:adugame add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 1:43 CH
+BAG:adugame add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 02/02/2023 1:43 CH
+BAG:adugame add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 1:43 CH
+BAG:adugame add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 1:43 CH
+BAG:adugame add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 1:43 CH
+BAG:adugame add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 1:44 CH
+BAG:adugame add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 02/02/2023 1:44 CH
+BAG:adugame add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 1:44 CH
+BAG:adugame add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 1:44 CH
+BAG:adugame add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 1:44 CH
+BAG:adugame add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 1:44 CH
+BAG:adugame add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 1:45 CH
+BAG:adugame add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 02/02/2023 1:45 CH
+BAG:adugame add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 1:45 CH
+BAG:adugame add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 1:45 CH
+BAG:adugame add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 1:46 CH
+BAG:adugame add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 02/02/2023 1:46 CH
+BAG:adugame add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 1:46 CH
+BAG:adugame add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 1:46 CH
+BAG:adugame add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 02/02/2023 1:47 CH
+BAG:adugame add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 1:47 CH
+BAG:adugame add 81xĐá Titan (old: 80) lydo: Nhặt từ map at 02/02/2023 1:47 CH
+BAG:adugame add 94xĐá thạch anh tím (old: 93) lydo: Nhặt từ map at 02/02/2023 1:47 CH
+BAG:adugame add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:adugame add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:adugame add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:adugame add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:adugame add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:adugame add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:adugame add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 02/02/2023 1:48 CH
+BAG:adugame add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:adugame add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:adugame add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:adugame add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:adugame add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/02/2023 1:49 CH
+BAG:adugame add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/02/2023 1:50 CH
+BAG:adugame add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 02/02/2023 1:50 CH
+BAG:adugame add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 02/02/2023 1:50 CH
+BAG:adugame add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 1:50 CH
+BAG:adugame add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/02/2023 1:50 CH
+BAG:adugame add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 02/02/2023 1:50 CH
+BAG:adugame add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 1:51 CH
+BAG:adugame add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/02/2023 1:51 CH
+BAG:adugame add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 1:51 CH
+BAG:adugame add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 1:52 CH
+BAG:adugame add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 1:52 CH
+BAG:adugame add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 1:52 CH
+BAG:adugame add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 1:52 CH
+BAG:adugame add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 1:52 CH
+BAG:adugame add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/02/2023 1:52 CH
+BAG:adugame add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/02/2023 1:53 CH
+BAG:adugame add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 1:53 CH
+BAG:adugame add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 1:53 CH
+BAG:adugame add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/02/2023 1:53 CH
+BAG:adugame add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 82xĐá Titan (old: 81) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/02/2023 1:54 CH
+BAG:adugame add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/02/2023 1:55 CH
+BAG:adugame add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/02/2023 1:55 CH
+BAG:adugame add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/02/2023 1:55 CH
+BAG:adugame add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/02/2023 1:55 CH
+BAG:adugame add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 02/02/2023 1:55 CH
+BAG:adugame add 83xĐá Titan (old: 82) lydo: Nhặt từ map at 02/02/2023 1:55 CH
+BAG:adugame add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/02/2023 1:55 CH
+BAG:adugame add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/02/2023 1:56 CH
+BAG:adugame add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/02/2023 1:56 CH
+BAG:adugame add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/02/2023 1:56 CH
+BAG:adugame add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/02/2023 1:56 CH
+BAG:adugame add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 02/02/2023 1:56 CH
+BAG:adugame add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/02/2023 1:56 CH
+BAG:adugame add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/02/2023 1:56 CH
+BAG:adugame add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/02/2023 1:57 CH
+BAG:adugame add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/02/2023 2:15 CH
+BAG:adugame add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/02/2023 2:15 CH
+BAG:adugame add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 02/02/2023 2:15 CH
+BAG:adugame add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/02/2023 2:16 CH
+BAG:adugame add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 02/02/2023 2:16 CH
+BAG:adugame add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/02/2023 2:16 CH
+BAG:adugame add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/02/2023 2:16 CH
+BAG:adugame add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/02/2023 2:16 CH
+BAG:adugame add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/02/2023 2:17 CH
+BAG:adugame add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/02/2023 2:17 CH
+BAG:adugame add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/02/2023 2:17 CH
+BAG:adugame add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/02/2023 2:17 CH
+BAG:adugame add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/02/2023 2:17 CH
+BAG:adugame add 84xĐá Titan (old: 83) lydo: Nhặt từ map at 02/02/2023 2:17 CH
+BAG:adugame add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/02/2023 2:18 CH
+BAG:adugame add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/02/2023 2:18 CH
+BAG:adugame add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/02/2023 2:18 CH
+BAG:adugame add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 02/02/2023 2:19 CH
+BAG:adugame add 66xNgọc Rồng 4 sao (old: 65) lydo: Nhặt từ map at 02/02/2023 2:19 CH
+BAG:adugame add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/02/2023 2:19 CH
+BAG:adugame add 1xCuồng nộ lydo: SuKien at 02/02/2023 2:19 CH
+BAG:adugame add 1xÁo lưỡng long lydo: Mua từ cửa hàng at 02/02/2023 2:21 CH
+BAG:adugame add 1xQuần lưỡng long lydo: Mua từ cửa hàng at 02/02/2023 2:21 CH
+BAG:adugame add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 02/02/2023 2:21 CH
+BAG:adugame add 1xGiày lưỡng long lydo: Mua từ cửa hàng at 02/02/2023 2:21 CH
+BAG:adugame add 1xVàng lydo: SuKien at 02/02/2023 2:22 CH
+BAG:adugame add 1xPhượng Hoàng Lửa lydo: SuKien at 02/02/2023 2:22 CH
+BAG:adugame add 67xNgọc Rồng 4 sao (old: 66) lydo: Nhặt từ map at 02/02/2023 2:23 CH
+BAG:adugame add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/02/2023 2:23 CH
+BAG:adugame add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhặt từ map at 02/02/2023 2:23 CH
+BAG:adugame add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 02/02/2023 2:23 CH
+BAG:adugame add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 02/02/2023 2:23 CH
+BAG:adugame add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 02/02/2023 2:23 CH
+BAG:adugame add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 02/02/2023 2:24 CH
+BAG:adugame add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhặt từ map at 02/02/2023 2:25 CH
+BAG:adugame add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/02/2023 2:25 CH
+BAG:adugame add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/02/2023 2:25 CH
+BAG:adugame add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 2:25 CH
+BAG:adugame add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 02/02/2023 2:25 CH
+BAG:adugame add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 2:25 CH
+BAG:adugame add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/02/2023 2:26 CH
+BAG:adugame add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/02/2023 2:26 CH
+BAG:adugame add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/02/2023 2:26 CH
+BAG:adugame add 97xĐá thạch anh tím (old: 96) lydo: Nhặt từ map at 02/02/2023 2:26 CH
+BAG:adugame add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/02/2023 2:26 CH
+BAG:adugame add 98xĐá thạch anh tím (old: 97) lydo: Nhặt từ map at 02/02/2023 2:27 CH
+BAG:adugame add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/02/2023 2:27 CH
+BAG:adugame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 2:28 CH
+BAG:adugame add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/02/2023 2:28 CH
+BAG:adugame add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/02/2023 2:28 CH
+BAG:adugame add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/02/2023 2:29 CH
+BAG:adugame add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/02/2023 2:30 CH
+BAG:adugame add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 02/02/2023 2:31 CH
+BAG:adugame add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/02/2023 2:32 CH
+BAG:adugame add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/02/2023 2:32 CH
+BAG:adugame add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/02/2023 2:32 CH
+BAG:adugame add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/02/2023 2:33 CH
+BAG:adugame add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/02/2023 2:33 CH
+BAG:adugame add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/02/2023 2:34 CH
+BAG:adugame add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adugame add 70xNgọc Rồng 4 sao (old: 69) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adugame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adugame add 99xĐá thạch anh tím (old: 98) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adugame add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adugame add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adugame add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adugame add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adugame add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adugame add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adugame add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adugame add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adugame add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adugame add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adugame add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adugame add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adugame add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adugame add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adugame add 36xBột mì (old: 35) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adugame add 71xNgọc Rồng 4 sao (old: 70) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adugame add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adugame add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adugame add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adugame add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adugame add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adugame add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adugame add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adugame add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adugame add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adugame add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adugame add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adugame add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adugame add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adugame add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 72xNgọc Rồng 4 sao (old: 71) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adugame add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adugame add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adugame add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adugame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adugame add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adugame add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adugame add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adugame add 73xNgọc Rồng 4 sao (old: 72) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adugame add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adugame add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adugame add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adugame add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 02/02/2023 2:52 CH
+BAG:adugame add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/02/2023 2:52 CH
+BAG:adugame add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/02/2023 2:52 CH
+BAG:adugame add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/02/2023 2:53 CH
+BAG:adugame add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/02/2023 2:53 CH
+BAG:adugame add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 02/02/2023 2:53 CH
+BAG:adugame add 74xNgọc Rồng 4 sao (old: 73) lydo: Nhặt từ map at 02/02/2023 2:54 CH
+BAG:adugame add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/02/2023 2:54 CH
+BAG:adugame add 37xBột mì (old: 36) lydo: Nhặt từ map at 02/02/2023 2:54 CH
+BAG:adugame add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/02/2023 2:55 CH
+BAG:adugame add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/02/2023 2:55 CH
+BAG:adugame add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/02/2023 2:55 CH
+BAG:adugame add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/02/2023 2:55 CH
+BAG:adugame add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 02/02/2023 2:55 CH
+BAG:adugame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 2:55 CH
+BAG:adugame add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/02/2023 2:55 CH
+BAG:adugame add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/02/2023 2:56 CH
+BAG:adugame add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 02/02/2023 2:57 CH
+BAG:adugame add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/02/2023 2:57 CH
+BAG:adugame add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/02/2023 2:57 CH
+BAG:adugame add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/02/2023 2:57 CH
+BAG:adugame add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/02/2023 2:57 CH
+BAG:adugame add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/02/2023 2:58 CH
+BAG:adugame add 75xNgọc Rồng 4 sao (old: 74) lydo: Nhặt từ map at 02/02/2023 2:58 CH
+BAG:adugame add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/02/2023 2:58 CH
+BAG:adugame add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/02/2023 2:59 CH
+BAG:adugame add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/02/2023 2:59 CH
+BAG:adugame add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/02/2023 2:59 CH
+BAG:adugame add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/02/2023 2:59 CH
+BAG:adugame add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/02/2023 2:59 CH
+BAG:adugame add 53xLì xì (old: 52) lydo: Nhặt từ map at 02/02/2023 2:59 CH
+BAG:adugame add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 02/02/2023 3:00 CH
+BAG:adugame add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/02/2023 3:00 CH
+BAG:adugame add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/02/2023 3:00 CH
+BAG:adugame add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 3:00 CH
+BAG:adugame add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/02/2023 3:00 CH
+BAG:adugame add 54xLì xì (old: 53) lydo: Nhặt từ map at 02/02/2023 3:00 CH
+BAG:adugame add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/02/2023 3:00 CH
+BAG:adugame add 55xLì xì (old: 54) lydo: Nhặt từ map at 02/02/2023 3:01 CH
+BAG:adugame add 56xLì xì (old: 55) lydo: Nhặt từ map at 02/02/2023 3:01 CH
+BAG:adugame add 57xLì xì (old: 56) lydo: Nhặt từ map at 02/02/2023 3:01 CH
+BAG:adugame add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 3:01 CH
+BAG:adugame add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/02/2023 3:01 CH
+BAG:adugame add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/02/2023 3:02 CH
+BAG:adugame add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/02/2023 3:02 CH
+BAG:adugame add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/02/2023 3:02 CH
+BAG:adugame add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/02/2023 3:02 CH
+BAG:adugame add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/02/2023 3:03 CH
+BAG:adugame add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/02/2023 3:03 CH
+BAG:adugame add 62xLì xì (old: 61) lydo: Nhặt từ map at 02/02/2023 3:03 CH
+BAG:adugame add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/02/2023 3:03 CH
+BAG:adugame add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/02/2023 3:04 CH
+BAG:adugame add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/02/2023 3:04 CH
+BAG:adugame add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/02/2023 3:04 CH
+BAG:adugame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 3:04 CH
+BAG:adugame add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/02/2023 3:04 CH
+BAG:adugame add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 02/02/2023 3:04 CH
+BAG:adugame add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/02/2023 3:05 CH
+BAG:adugame add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/02/2023 3:05 CH
+BAG:adugame add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/02/2023 3:05 CH
+BAG:adugame add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/02/2023 3:05 CH
+BAG:adugame add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/02/2023 3:05 CH
+BAG:adugame add 65xLì xì (old: 64) lydo: Nhặt từ map at 02/02/2023 3:05 CH
+BAG:adugame add 66xLì xì (old: 65) lydo: Nhặt từ map at 02/02/2023 3:05 CH
+BAG:adugame add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 02/02/2023 3:06 CH
+BAG:adugame add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/02/2023 3:06 CH
+BAG:adugame add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/02/2023 3:06 CH
+BAG:adugame add 67xLì xì (old: 66) lydo: Nhặt từ map at 02/02/2023 3:07 CH
+BAG:adugame add 68xLì xì (old: 67) lydo: Nhặt từ map at 02/02/2023 3:07 CH
+BAG:adugame add 69xLì xì (old: 68) lydo: Nhặt từ map at 02/02/2023 3:08 CH
+BAG:adugame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 3:08 CH
+BAG:adugame add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/02/2023 3:08 CH
+BAG:adugame add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/02/2023 3:08 CH
+BAG:adugame add 70xLì xì (old: 69) lydo: Nhặt từ map at 02/02/2023 3:09 CH
+BAG:adugame add 71xLì xì (old: 70) lydo: Nhặt từ map at 02/02/2023 3:09 CH
+BAG:adugame add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/02/2023 3:09 CH
+BAG:adugame add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/02/2023 3:09 CH
+BAG:adugame add 72xLì xì (old: 71) lydo: Nhặt từ map at 02/02/2023 3:09 CH
+BAG:adugame add 73xLì xì (old: 72) lydo: Nhặt từ map at 02/02/2023 3:10 CH
+BAG:adugame add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/02/2023 3:11 CH
+BAG:adugame add 74xLì xì (old: 73) lydo: Nhặt từ map at 02/02/2023 3:11 CH
+BAG:adugame add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/02/2023 3:12 CH
+BAG:adugame add 75xLì xì (old: 74) lydo: Nhặt từ map at 02/02/2023 3:12 CH
+BAG:adugame add 76xLì xì (old: 75) lydo: Nhặt từ map at 02/02/2023 3:13 CH
+BAG:adugame add 70xCây mai (old: 69) lydo: Nhặt từ map at 02/02/2023 3:13 CH
+BAG:adugame add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/02/2023 3:13 CH
+BAG:adugame add 77xLì xì (old: 76) lydo: Nhặt từ map at 02/02/2023 3:13 CH
+BAG:adugame add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/02/2023 3:14 CH
+BAG:adugame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 3:14 CH
+BAG:adugame add 78xLì xì (old: 77) lydo: Nhặt từ map at 02/02/2023 3:14 CH
+BAG:adugame add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/02/2023 3:14 CH
+BAG:adugame add 71xCây mai (old: 70) lydo: Nhặt từ map at 02/02/2023 3:15 CH
+BAG:adugame add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 02/02/2023 3:15 CH
+BAG:adugame add 76xNgọc Rồng 4 sao (old: 75) lydo: Nhặt từ map at 02/02/2023 3:15 CH
+BAG:adugame add 72xCây mai (old: 71) lydo: Nhặt từ map at 02/02/2023 3:15 CH
+BAG:adugame add 79xLì xì (old: 78) lydo: Nhặt từ map at 02/02/2023 3:16 CH
+BAG:adugame add 80xLì xì (old: 79) lydo: Nhặt từ map at 02/02/2023 3:16 CH
+BAG:adugame add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 02/02/2023 3:16 CH
+BAG:adugame add 81xLì xì (old: 80) lydo: Nhặt từ map at 02/02/2023 3:17 CH
+BAG:adugame add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 02/02/2023 3:17 CH
+BAG:adugame add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 13xNgọc Rồng 3 sao (old: 12) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 14xNgọc Rồng 3 sao (old: 13) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 15xNgọc Rồng 3 sao (old: 14) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhập ngọc at 02/02/2023 3:18 CH
+BAG:adugame add 1xGăng lưỡng long lydo: Lấy từ body vào hành trang at 02/02/2023 3:19 CH
+BAG:adugame add 1xCải trang Xuka lydo: Mua từ cửa hàng at 02/02/2023 3:21 CH
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 3:28 CH
+BAG:adugame add 1xGăng da Xayda lydo: Mua từ cửa hàng at 02/02/2023 5:31 CH
+BAG:adugame add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 02/02/2023 5:31 CH
+BAG:adugame add 1xQuần lông đỏ lydo: Mua từ cửa hàng at 02/02/2023 5:31 CH
+BAG:adugame add 1xGiày lông đỏ lydo: Mua từ cửa hàng at 02/02/2023 5:32 CH
+BAG:adugame add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/02/2023 5:34 CH
+BAG:adugame add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 02/02/2023 5:35 CH
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 5:35 CH
+BAG:adugame add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 5:35 CH
+BAG:adugame add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/02/2023 5:35 CH
+BAG:adugame add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 02/02/2023 5:35 CH
+BAG:adugame add 82xLì xì (old: 81) lydo: Nhặt từ map at 02/02/2023 5:35 CH
+BAG:adugame add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 5:35 CH
+BAG:adugame add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/02/2023 5:36 CH
+BAG:adugame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 5:36 CH
+BAG:adugame add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/02/2023 5:36 CH
+BAG:adugame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 5:37 CH
+BAG:adugame add 73xCây mai (old: 72) lydo: Nhặt từ map at 02/02/2023 5:37 CH
+BAG:adugame add 74xCây mai (old: 73) lydo: Nhặt từ map at 02/02/2023 5:37 CH
+BAG:adugame add 75xCây mai (old: 74) lydo: Nhặt từ map at 02/02/2023 5:42 CH
+BAG:adugame add 76xCây mai (old: 75) lydo: Nhặt từ map at 02/02/2023 5:42 CH
+BAG:adugame add 77xCây mai (old: 76) lydo: Nhặt từ map at 02/02/2023 5:42 CH
+BAG:adugame add 83xLì xì (old: 82) lydo: Nhặt từ map at 02/02/2023 5:43 CH
+BAG:adugame add 84xLì xì (old: 83) lydo: Nhặt từ map at 02/02/2023 5:43 CH
+BAG:adugame add 85xLì xì (old: 84) lydo: Nhặt từ map at 02/02/2023 5:43 CH
+BAG:adugame add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/02/2023 5:43 CH
+BAG:adugame add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:adugame add 86xLì xì (old: 85) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:adugame add 78xCây mai (old: 77) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:adugame add 66xBình rượu (old: 65) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:adugame add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:adugame add 87xLì xì (old: 86) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:adugame add 79xCây mai (old: 78) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:adugame add 80xCây mai (old: 79) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:adugame add 88xLì xì (old: 87) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:adugame add 81xCây mai (old: 80) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:adugame add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:adugame add 89xLì xì (old: 88) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:adugame add 90xLì xì (old: 89) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 82xCây mai (old: 81) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 83xCây mai (old: 82) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 67xBình rượu (old: 66) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 84xCây mai (old: 83) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 85xCây mai (old: 84) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:adugame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 5:47 CH
+BAG:adugame add 38xBột mì (old: 37) lydo: Nhặt từ map at 02/02/2023 5:47 CH
+BAG:adugame add 91xLì xì (old: 90) lydo: Nhặt từ map at 02/02/2023 5:47 CH
+BAG:adugame add 86xCây mai (old: 85) lydo: Nhặt từ map at 02/02/2023 5:47 CH
+BAG:adugame add 92xLì xì (old: 91) lydo: Nhặt từ map at 02/02/2023 5:47 CH
+BAG:adugame add 93xLì xì (old: 92) lydo: Nhặt từ map at 02/02/2023 5:48 CH
+BAG:adugame add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/02/2023 5:48 CH
+BAG:adugame add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 02/02/2023 5:48 CH
+BAG:adugame add 87xCây mai (old: 86) lydo: Nhặt từ map at 02/02/2023 5:48 CH
+BAG:adugame add 68xBình rượu (old: 67) lydo: Nhặt từ map at 02/02/2023 5:48 CH
+BAG:adugame add 88xCây mai (old: 87) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 89xCây mai (old: 88) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 69xBình rượu (old: 68) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 90xCây mai (old: 89) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 94xLì xì (old: 93) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 95xLì xì (old: 94) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:adugame add 96xLì xì (old: 95) lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:adugame add 91xCây mai (old: 90) lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:adugame add 70xBình rượu (old: 69) lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:adugame add 92xCây mai (old: 91) lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:adugame add 93xCây mai (old: 92) lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:adugame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:adugame add 71xBình rượu (old: 70) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 94xCây mai (old: 93) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 95xCây mai (old: 94) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 97xLì xì (old: 96) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 72xBình rượu (old: 71) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 96xCây mai (old: 95) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 73xBình rượu (old: 72) lydo: Nhặt từ map at 02/02/2023 5:51 CH
+BAG:adugame add 74xBình rượu (old: 73) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 98xLì xì (old: 97) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 97xCây mai (old: 96) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 98xCây mai (old: 97) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 99xLì xì (old: 98) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 75xBình rượu (old: 74) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 100xLì xì (old: 99) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 101xLì xì (old: 100) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:adugame add 102xLì xì (old: 101) lydo: Nhặt từ map at 02/02/2023 5:53 CH
+BAG:adugame add 76xBình rượu (old: 75) lydo: Nhặt từ map at 02/02/2023 5:53 CH
+BAG:adugame add 77xBình rượu (old: 76) lydo: Nhặt từ map at 02/02/2023 5:53 CH
+BAG:adugame add 99xCây mai (old: 98) lydo: Nhặt từ map at 02/02/2023 5:53 CH
+BAG:adugame add 100xCây mai (old: 99) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 101xCây mai (old: 100) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 78xBình rượu (old: 77) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 103xLì xì (old: 102) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 104xLì xì (old: 103) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 79xBình rượu (old: 78) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 105xLì xì (old: 104) lydo: Nhặt từ map at 02/02/2023 5:54 CH
+BAG:adugame add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 02/02/2023 5:55 CH
+BAG:adugame add 102xCây mai (old: 101) lydo: Nhặt từ map at 02/02/2023 5:55 CH
+BAG:adugame add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/02/2023 5:55 CH
+BAG:adugame add 80xBình rượu (old: 79) lydo: Nhặt từ map at 02/02/2023 5:55 CH
+BAG:adugame add 103xCây mai (old: 102) lydo: Nhặt từ map at 02/02/2023 5:55 CH
+BAG:adugame add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 02/02/2023 5:56 CH
+BAG:adugame add 81xBình rượu (old: 80) lydo: Nhặt từ map at 02/02/2023 5:56 CH
+BAG:adugame add 104xCây mai (old: 103) lydo: Nhặt từ map at 02/02/2023 5:56 CH
+BAG:adugame add 106xLì xì (old: 105) lydo: Nhặt từ map at 02/02/2023 5:56 CH
+BAG:adugame add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/02/2023 5:56 CH
+BAG:adugame add 105xCây mai (old: 104) lydo: Nhặt từ map at 02/02/2023 5:56 CH
+BAG:adugame add 107xLì xì (old: 106) lydo: Nhặt từ map at 02/02/2023 5:56 CH
+BAG:adugame add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 02/02/2023 5:57 CH
+BAG:adugame add 82xBình rượu (old: 81) lydo: Nhặt từ map at 02/02/2023 5:57 CH
+BAG:adugame add 106xCây mai (old: 105) lydo: Nhặt từ map at 02/02/2023 5:57 CH
+BAG:adugame add 107xCây mai (old: 106) lydo: Nhặt từ map at 02/02/2023 5:57 CH
+BAG:adugame add 108xLì xì (old: 107) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 109xLì xì (old: 108) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 110xLì xì (old: 109) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 83xBình rượu (old: 82) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 111xLì xì (old: 110) lydo: Nhặt từ map at 02/02/2023 5:58 CH
+BAG:adugame add 108xCây mai (old: 107) lydo: Nhặt từ map at 02/02/2023 5:59 CH
+BAG:adugame add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 02/02/2023 5:59 CH
+BAG:adugame add 84xBình rượu (old: 83) lydo: Nhặt từ map at 02/02/2023 5:59 CH
+BAG:adugame add 109xCây mai (old: 108) lydo: Nhặt từ map at 02/02/2023 5:59 CH
+BAG:adugame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 6:00 CH
+BAG:adugame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 6:00 CH
+BAG:adugame add 110xCây mai (old: 109) lydo: Nhặt từ map at 02/02/2023 6:00 CH
+BAG:adugame add 112xLì xì (old: 111) lydo: Nhặt từ map at 02/02/2023 6:00 CH
+BAG:adugame add 111xCây mai (old: 110) lydo: Nhặt từ map at 02/02/2023 6:00 CH
+BAG:adugame add 85xBình rượu (old: 84) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 86xBình rượu (old: 85) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 113xLì xì (old: 112) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 114xLì xì (old: 113) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 87xBình rượu (old: 86) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 88xBình rượu (old: 87) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 89xBình rượu (old: 88) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 115xLì xì (old: 114) lydo: Nhặt từ map at 02/02/2023 6:01 CH
+BAG:adugame add 112xCây mai (old: 111) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 116xLì xì (old: 115) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 90xBình rượu (old: 89) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 113xCây mai (old: 112) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 117xLì xì (old: 116) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 02/02/2023 6:02 CH
+BAG:adugame add 114xCây mai (old: 113) lydo: Nhặt từ map at 02/02/2023 6:03 CH
+BAG:adugame add 115xCây mai (old: 114) lydo: Nhặt từ map at 02/02/2023 6:03 CH
+BAG:adugame add 116xCây mai (old: 115) lydo: Nhặt từ map at 02/02/2023 6:03 CH
+BAG:adugame add 91xBình rượu (old: 90) lydo: Nhặt từ map at 02/02/2023 6:03 CH
+BAG:adugame add 92xBình rượu (old: 91) lydo: Nhặt từ map at 02/02/2023 6:03 CH
+BAG:adugame add 118xLì xì (old: 117) lydo: Nhặt từ map at 02/02/2023 6:03 CH
+BAG:adugame add 119xLì xì (old: 118) lydo: Nhặt từ map at 02/02/2023 6:03 CH
+BAG:adugame add 93xBình rượu (old: 92) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:adugame add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:adugame add 117xCây mai (old: 116) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:adugame add 120xLì xì (old: 119) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:adugame add 118xCây mai (old: 117) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:adugame add 119xCây mai (old: 118) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 120xCây mai (old: 119) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 121xLì xì (old: 120) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 121xCây mai (old: 120) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 122xLì xì (old: 121) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 39xBột mì (old: 38) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 123xLì xì (old: 122) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:adugame add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 94xBình rượu (old: 93) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 95xBình rượu (old: 94) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 124xLì xì (old: 123) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 122xCây mai (old: 121) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 123xCây mai (old: 122) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 125xLì xì (old: 124) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 126xLì xì (old: 125) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:adugame add 124xCây mai (old: 123) lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:adugame add 125xCây mai (old: 124) lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:adugame add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:adugame add 127xLì xì (old: 126) lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:adugame add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 6:08 CH
+BAG:adugame add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 02/02/2023 6:08 CH
+BAG:adugame add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 6:08 CH
+BAG:adugame add 126xCây mai (old: 125) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 127xCây mai (old: 126) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 128xCây mai (old: 127) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 129xCây mai (old: 128) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 128xLì xì (old: 127) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 130xCây mai (old: 129) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/02/2023 6:09 CH
+BAG:adugame add 129xLì xì (old: 128) lydo: Nhặt từ map at 02/02/2023 6:10 CH
+BAG:adugame add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/02/2023 6:10 CH
+BAG:adugame add 130xLì xì (old: 129) lydo: Nhặt từ map at 02/02/2023 6:10 CH
+BAG:adugame add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/02/2023 6:10 CH
+BAG:adugame add 131xCây mai (old: 130) lydo: Nhặt từ map at 02/02/2023 6:10 CH
+BAG:adugame add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/02/2023 6:10 CH
+BAG:adugame add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 02/02/2023 6:10 CH
+BAG:adugame add 132xCây mai (old: 131) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 96xBình rượu (old: 95) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 131xLì xì (old: 130) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 132xLì xì (old: 131) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 133xCây mai (old: 132) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 134xCây mai (old: 133) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 6:11 CH
+BAG:adugame add 97xBình rượu (old: 96) lydo: Nhặt từ map at 02/02/2023 6:12 CH
+BAG:adugame add 135xCây mai (old: 134) lydo: Nhặt từ map at 02/02/2023 6:12 CH
+BAG:adugame add 133xLì xì (old: 132) lydo: Nhặt từ map at 02/02/2023 6:12 CH
+BAG:adugame add 136xCây mai (old: 135) lydo: Nhặt từ map at 02/02/2023 6:12 CH
+BAG:adugame add 137xCây mai (old: 136) lydo: Nhặt từ map at 02/02/2023 6:12 CH
+BAG:adugame add 98xBình rượu (old: 97) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 134xLì xì (old: 133) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 99xBình rượu (old: 98) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 138xCây mai (old: 137) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 100xBình rượu (old: 99) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 139xCây mai (old: 138) lydo: Nhặt từ map at 02/02/2023 6:13 CH
+BAG:adugame add 140xCây mai (old: 139) lydo: Nhặt từ map at 02/02/2023 6:14 CH
+BAG:adugame add 101xBình rượu (old: 100) lydo: Nhặt từ map at 02/02/2023 6:14 CH
+BAG:adugame add 141xCây mai (old: 140) lydo: Nhặt từ map at 02/02/2023 6:14 CH
+BAG:adugame add 135xLì xì (old: 134) lydo: Nhặt từ map at 02/02/2023 6:17 CH
+BAG:adugame add 62xĐậu thần cấp 8 (old: 32) lydo: Mua từ cửa hàng at 02/02/2023 6:17 CH
+BAG:adugame add 92xĐậu thần cấp 8 (old: 62) lydo: Mua từ cửa hàng at 02/02/2023 6:17 CH
+BAG:adugame add 23xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 6:17 CH
+BAG:adugame add 99xĐậu thần cấp 8 (old: 92) lydo: Mua từ cửa hàng at 02/02/2023 6:17 CH
+BAG:adugame add 53xĐậu thần cấp 8 (old: 23) lydo: Mua từ cửa hàng at 02/02/2023 6:17 CH
+BAG:adugame add 142xCây mai (old: 141) lydo: Nhặt từ map at 02/02/2023 6:20 CH
+BAG:adugame add 102xBình rượu (old: 101) lydo: Nhặt từ map at 02/02/2023 6:21 CH
+BAG:adugame add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 02/02/2023 6:21 CH
+BAG:adugame add 143xCây mai (old: 142) lydo: Nhặt từ map at 02/02/2023 6:21 CH
+BAG:adugame add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/02/2023 6:24 CH
+BAG:adugame add 103xBình rượu (old: 102) lydo: Nhặt từ map at 02/02/2023 6:27 CH
+BAG:adugame add 136xLì xì (old: 135) lydo: Nhặt từ map at 02/02/2023 6:28 CH
+BAG:adugame add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 6:30 CH
+BAG:adugame add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/02/2023 6:31 CH
+BAG:adugame add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 6:35 CH
+BAG:adugame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 6:35 CH
+BAG:adugame add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/02/2023 6:36 CH
+BAG:adugame add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 02/02/2023 6:39 CH
+BAG:adugame add 137xLì xì (old: 136) lydo: Nhặt từ map at 02/02/2023 6:45 CH
+BAG:adugame add 104xBình rượu (old: 103) lydo: Nhặt từ map at 02/02/2023 6:47 CH
+BAG:adugame add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 02/02/2023 6:48 CH
+BAG:adugame add 105xBình rượu (old: 104) lydo: Nhặt từ map at 02/02/2023 6:50 CH
+BAG:adugame add 106xBình rượu (old: 105) lydo: Nhặt từ map at 02/02/2023 6:51 CH
+BAG:adugame add 138xLì xì (old: 137) lydo: Nhặt từ map at 02/02/2023 6:54 CH
+BAG:adugame add 139xLì xì (old: 138) lydo: Nhặt từ map at 02/02/2023 6:55 CH
+BAG:adugame add 107xBình rượu (old: 106) lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:adugame add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:adugame add 144xCây mai (old: 143) lydo: Nhặt từ map at 02/02/2023 7:05 CH
+BAG:adugame add 108xBình rượu (old: 107) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:adugame add 145xCây mai (old: 144) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:adugame add 109xBình rượu (old: 108) lydo: Nhặt từ map at 02/02/2023 7:16 CH
+BAG:adugame add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 7:22 CH
+BAG:adugame add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 02/02/2023 7:22 CH
+BAG:adugame add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:adugame add 140xLì xì (old: 139) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:adugame add 110xBình rượu (old: 109) lydo: Nhặt từ map at 02/02/2023 7:27 CH
+BAG:adugame add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 02/02/2023 7:27 CH
+BAG:adugame add 46xĐậu thần cấp 8 (old: 16) lydo: Mua từ cửa hàng at 02/02/2023 7:28 CH
+BAG:adugame add 76xĐậu thần cấp 8 (old: 46) lydo: Mua từ cửa hàng at 02/02/2023 7:28 CH
+BAG:adugame add 7xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 7:28 CH
+BAG:adugame add 99xĐậu thần cấp 8 (old: 76) lydo: Mua từ cửa hàng at 02/02/2023 7:28 CH
+BAG:adugame add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 7:28 CH
+BAG:adugame add 146xCây mai (old: 145) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:adugame add 141xLì xì (old: 140) lydo: Nhặt từ map at 02/02/2023 7:32 CH
+BAG:adugame add 142xLì xì (old: 141) lydo: Nhặt từ map at 02/02/2023 7:32 CH
+BAG:adugame add 111xBình rượu (old: 110) lydo: Nhặt từ map at 02/02/2023 7:36 CH
+BAG:adugame add 143xLì xì (old: 142) lydo: Nhặt từ map at 02/02/2023 7:36 CH
+BAG:adugame add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 02/02/2023 7:36 CH
+BAG:adugame add 112xBình rượu (old: 111) lydo: Nhặt từ map at 02/02/2023 7:37 CH
+BAG:adugame add 147xCây mai (old: 146) lydo: Nhặt từ map at 02/02/2023 7:38 CH
+BAG:adugame add 148xCây mai (old: 147) lydo: Nhặt từ map at 02/02/2023 7:38 CH
+BAG:adugame add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 02/02/2023 7:40 CH
+BAG:adugame add 113xBình rượu (old: 112) lydo: Nhặt từ map at 02/02/2023 7:41 CH
+BAG:adugame add 149xCây mai (old: 148) lydo: Nhặt từ map at 02/02/2023 7:41 CH
+BAG:adugame add 150xCây mai (old: 149) lydo: Nhặt từ map at 02/02/2023 7:42 CH
+BAG:adugame add 151xCây mai (old: 150) lydo: Nhặt từ map at 02/02/2023 7:42 CH
+BAG:adugame add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 02/02/2023 7:43 CH
+BAG:adugame add 152xCây mai (old: 151) lydo: Nhặt từ map at 02/02/2023 7:43 CH
+BAG:adugame add 114xBình rượu (old: 113) lydo: Nhặt từ map at 02/02/2023 7:44 CH
+BAG:adugame add 153xCây mai (old: 152) lydo: Nhặt từ map at 02/02/2023 7:45 CH
+BAG:adugame add 154xCây mai (old: 153) lydo: Nhặt từ map at 02/02/2023 7:45 CH
+BAG:adugame add 155xCây mai (old: 154) lydo: Nhặt từ map at 02/02/2023 7:46 CH
+BAG:adugame add 156xCây mai (old: 155) lydo: Nhặt từ map at 02/02/2023 7:47 CH
+BAG:adugame add 157xCây mai (old: 156) lydo: Nhặt từ map at 02/02/2023 7:51 CH
+BAG:adugame add 144xLì xì (old: 143) lydo: Nhặt từ map at 02/02/2023 7:52 CH
+BAG:adugame add 158xCây mai (old: 157) lydo: Nhặt từ map at 02/02/2023 7:52 CH
+BAG:adugame add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 02/02/2023 7:54 CH
+BAG:adugame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 7:54 CH
+BAG:adugame add 115xBình rượu (old: 114) lydo: Nhặt từ map at 02/02/2023 7:56 CH
+BAG:adugame add 145xLì xì (old: 144) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:adugame add 159xCây mai (old: 158) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:adugame add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 02/02/2023 7:58 CH
+BAG:adugame add 160xCây mai (old: 159) lydo: Nhặt từ map at 02/02/2023 7:59 CH
+BAG:adugame add 161xCây mai (old: 160) lydo: Nhặt từ map at 02/02/2023 8:00 CH
+BAG:adugame add 116xBình rượu (old: 115) lydo: Nhặt từ map at 02/02/2023 8:01 CH
+BAG:adugame add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 02/02/2023 8:02 CH
+BAG:adugame add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 02/02/2023 8:04 CH
+BAG:adugame add 117xBình rượu (old: 116) lydo: Nhặt từ map at 02/02/2023 8:04 CH
+BAG:adugame add 118xBình rượu (old: 117) lydo: Nhặt từ map at 02/02/2023 8:05 CH
+BAG:adugame add 146xLì xì (old: 145) lydo: Nhặt từ map at 02/02/2023 8:06 CH
+BAG:adugame add 119xBình rượu (old: 118) lydo: Nhặt từ map at 02/02/2023 8:07 CH
+BAG:adugame add 147xLì xì (old: 146) lydo: Nhặt từ map at 02/02/2023 8:08 CH
+BAG:adugame add 120xBình rượu (old: 119) lydo: Nhặt từ map at 02/02/2023 8:09 CH
+BAG:adugame add 121xBình rượu (old: 120) lydo: Nhặt từ map at 02/02/2023 8:09 CH
+BAG:adugame add 162xCây mai (old: 161) lydo: Nhặt từ map at 02/02/2023 8:10 CH
+BAG:adugame add 148xLì xì (old: 147) lydo: Nhặt từ map at 02/02/2023 8:11 CH
+BAG:adugame add 163xCây mai (old: 162) lydo: Nhặt từ map at 02/02/2023 8:11 CH
+BAG:adugame add 164xCây mai (old: 163) lydo: Nhặt từ map at 02/02/2023 8:11 CH
+BAG:adugame add 122xBình rượu (old: 121) lydo: Nhặt từ map at 02/02/2023 8:14 CH
+BAG:adugame add 165xCây mai (old: 164) lydo: Nhặt từ map at 02/02/2023 8:14 CH
+BAG:adugame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 8:15 CH
+BAG:adugame add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 02/02/2023 8:15 CH
+BAG:adugame add 166xCây mai (old: 165) lydo: Nhặt từ map at 02/02/2023 8:17 CH
+BAG:adugame add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 02/02/2023 8:18 CH
+BAG:adugame add 61xĐậu thần cấp 8 (old: 31) lydo: Mua từ cửa hàng at 02/02/2023 8:18 CH
+BAG:adugame add 91xĐậu thần cấp 8 (old: 61) lydo: Mua từ cửa hàng at 02/02/2023 8:18 CH
+BAG:adugame add 22xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 8:18 CH
+BAG:adugame add 99xĐậu thần cấp 8 (old: 91) lydo: Mua từ cửa hàng at 02/02/2023 8:18 CH
+BAG:adugame add 52xĐậu thần cấp 8 (old: 22) lydo: Mua từ cửa hàng at 02/02/2023 8:18 CH
+BAG:adugame add 149xLì xì (old: 148) lydo: Nhặt từ map at 02/02/2023 8:21 CH
+BAG:adugame add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 02/02/2023 8:21 CH
+BAG:adugame add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 02/02/2023 8:21 CH
+BAG:adugame add 123xBình rượu (old: 122) lydo: Nhặt từ map at 02/02/2023 8:22 CH
+BAG:adugame add 124xBình rượu (old: 123) lydo: Nhặt từ map at 02/02/2023 8:23 CH
+BAG:adugame add 125xBình rượu (old: 124) lydo: Nhặt từ map at 02/02/2023 8:24 CH
+BAG:adugame add 167xCây mai (old: 166) lydo: Nhặt từ map at 02/02/2023 8:24 CH
+BAG:adugame add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 02/02/2023 8:25 CH
+BAG:adugame add 168xCây mai (old: 167) lydo: Nhặt từ map at 02/02/2023 8:30 CH
+BAG:adugame add 150xLì xì (old: 149) lydo: Nhặt từ map at 02/02/2023 8:32 CH
+BAG:adugame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 8:33 CH
+BAG:adugame add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 02/02/2023 8:34 CH
+BAG:adugame add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 02/02/2023 8:34 CH
+BAG:adugame add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 02/02/2023 8:34 CH
+BAG:adugame add 126xBình rượu (old: 125) lydo: Nhặt từ map at 02/02/2023 8:35 CH
+BAG:adugame add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:adugame add 169xCây mai (old: 168) lydo: Nhặt từ map at 02/02/2023 8:37 CH
+BAG:adugame add 170xCây mai (old: 169) lydo: Nhặt từ map at 02/02/2023 8:37 CH
+BAG:adugame add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:adugame add 151xLì xì (old: 150) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:adugame add 152xLì xì (old: 151) lydo: Nhặt từ map at 02/02/2023 8:50 CH
+BAG:adugame add 127xBình rượu (old: 126) lydo: Nhặt từ map at 02/02/2023 8:51 CH
+BAG:adugame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 8:52 CH
+BAG:adugame add 153xLì xì (old: 152) lydo: Nhặt từ map at 02/02/2023 8:54 CH
+BAG:adugame add 171xCây mai (old: 170) lydo: Nhặt từ map at 02/02/2023 8:54 CH
+BAG:adugame add 172xCây mai (old: 171) lydo: Nhặt từ map at 02/02/2023 8:55 CH
+BAG:adugame add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 02/02/2023 8:55 CH
+BAG:adugame add 173xCây mai (old: 172) lydo: Nhặt từ map at 02/02/2023 8:55 CH
+BAG:adugame add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 02/02/2023 8:56 CH
+BAG:adugame add 128xBình rượu (old: 127) lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:adugame add 129xBình rượu (old: 128) lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:adugame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 8:59 CH
+BAG:adugame add 174xCây mai (old: 173) lydo: Nhặt từ map at 02/02/2023 9:00 CH
+BAG:adugame add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 02/02/2023 9:00 CH
+BAG:adugame add 130xBình rượu (old: 129) lydo: Nhặt từ map at 02/02/2023 9:00 CH
+BAG:adugame add 175xCây mai (old: 174) lydo: Nhặt từ map at 02/02/2023 9:00 CH
+BAG:adugame add 176xCây mai (old: 175) lydo: Nhặt từ map at 02/02/2023 9:01 CH
+BAG:adugame add 131xBình rượu (old: 130) lydo: Nhặt từ map at 02/02/2023 9:03 CH
+BAG:adugame add 177xCây mai (old: 176) lydo: Nhặt từ map at 02/02/2023 9:04 CH
+BAG:adugame add 132xBình rượu (old: 131) lydo: Nhặt từ map at 02/02/2023 9:06 CH
+BAG:adugame add 154xLì xì (old: 153) lydo: Nhặt từ map at 02/02/2023 9:06 CH
+BAG:adugame add 178xCây mai (old: 177) lydo: Nhặt từ map at 02/02/2023 9:07 CH
+BAG:adugame add 179xCây mai (old: 178) lydo: Nhặt từ map at 02/02/2023 9:08 CH
+BAG:adugame add 180xCây mai (old: 179) lydo: Nhặt từ map at 02/02/2023 9:08 CH
+BAG:adugame add 155xLì xì (old: 154) lydo: Nhặt từ map at 02/02/2023 9:09 CH
+BAG:adugame add 181xCây mai (old: 180) lydo: Nhặt từ map at 02/02/2023 9:09 CH
+BAG:adugame add 182xCây mai (old: 181) lydo: Nhặt từ map at 02/02/2023 9:14 CH
+BAG:adugame add 133xBình rượu (old: 132) lydo: Nhặt từ map at 02/02/2023 9:15 CH
+BAG:adugame add 134xBình rượu (old: 133) lydo: Nhặt từ map at 02/02/2023 9:15 CH
+BAG:adugame add 156xLì xì (old: 155) lydo: Nhặt từ map at 02/02/2023 9:16 CH
+BAG:adugame add 183xCây mai (old: 182) lydo: Nhặt từ map at 02/02/2023 9:19 CH
+BAG:adugame add 184xCây mai (old: 183) lydo: Nhặt từ map at 02/02/2023 9:21 CH
+BAG:adugame add 157xLì xì (old: 156) lydo: Nhặt từ map at 02/02/2023 9:22 CH
+BAG:adugame add 185xCây mai (old: 184) lydo: Nhặt từ map at 02/02/2023 9:22 CH
+BAG:adugame add 158xLì xì (old: 157) lydo: Nhặt từ map at 02/02/2023 9:23 CH
+BAG:adugame add 159xLì xì (old: 158) lydo: Nhặt từ map at 02/02/2023 9:25 CH
+BAG:adugame add 135xBình rượu (old: 134) lydo: Nhặt từ map at 02/02/2023 9:26 CH
+BAG:adugame add 186xCây mai (old: 185) lydo: Nhặt từ map at 02/02/2023 9:28 CH
+BAG:adugame add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 02/02/2023 9:28 CH
+BAG:adugame add 187xCây mai (old: 186) lydo: Nhặt từ map at 02/02/2023 9:28 CH
+BAG:adugame add 188xCây mai (old: 187) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:adugame add 29xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 99xĐậu thần cấp 8 (old: 98) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 59xĐậu thần cấp 8 (old: 29) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 89xĐậu thần cấp 8 (old: 59) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 20xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 99xĐậu thần cấp 8 (old: 89) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 50xĐậu thần cấp 8 (old: 20) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 80xĐậu thần cấp 8 (old: 50) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 11xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 99xĐậu thần cấp 8 (old: 80) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 41xĐậu thần cấp 8 (old: 11) lydo: Mua từ cửa hàng at 02/02/2023 11:21 CH
+BAG:adugame add 160xLì xì (old: 159) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:adugame add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:adugame add 136xBình rượu (old: 135) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:adugame add 137xBình rượu (old: 136) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:adugame add 189xCây mai (old: 188) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:adugame add 190xCây mai (old: 189) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:adugame add 161xLì xì (old: 160) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:adugame add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:adugame add 191xCây mai (old: 190) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:adugame add 138xBình rượu (old: 137) lydo: Nhặt từ map at 02/02/2023 11:30 CH
+BAG:adugame add 139xBình rượu (old: 138) lydo: Nhặt từ map at 02/02/2023 11:31 CH
+BAG:adugame add 140xBình rượu (old: 139) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:adugame add 192xCây mai (old: 191) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:adugame add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:adugame add 141xBình rượu (old: 140) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:adugame add 142xBình rượu (old: 141) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:adugame add 193xCây mai (old: 192) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:adugame add 143xBình rượu (old: 142) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:adugame add 144xBình rượu (old: 143) lydo: Nhặt từ map at 02/02/2023 11:40 CH
+BAG:adugame add 194xCây mai (old: 193) lydo: Nhặt từ map at 02/02/2023 11:40 CH
+BAG:adugame add 162xLì xì (old: 161) lydo: Nhặt từ map at 02/02/2023 11:40 CH
+BAG:adugame add 195xCây mai (old: 194) lydo: Nhặt từ map at 02/02/2023 11:42 CH
+BAG:adugame add 145xBình rượu (old: 144) lydo: Nhặt từ map at 02/02/2023 11:42 CH
+BAG:adugame add 146xBình rượu (old: 145) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:adugame add 147xBình rượu (old: 146) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:adugame add 163xLì xì (old: 162) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:adugame add 196xCây mai (old: 195) lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:adugame add 197xCây mai (old: 196) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:adugame add 164xLì xì (old: 163) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:adugame add 165xLì xì (old: 164) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:adugame add 166xLì xì (old: 165) lydo: Nhặt từ map at 02/02/2023 11:50 CH
+BAG:adugame add 167xLì xì (old: 166) lydo: Nhặt từ map at 02/02/2023 11:50 CH
+BAG:adugame add 198xCây mai (old: 197) lydo: Nhặt từ map at 02/02/2023 11:51 CH
+BAG:adugame add 199xCây mai (old: 198) lydo: Nhặt từ map at 02/02/2023 11:52 CH
+BAG:adugame add 200xCây mai (old: 199) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:adugame add 148xBình rượu (old: 147) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:adugame add 201xCây mai (old: 200) lydo: Nhặt từ map at 02/02/2023 11:54 CH
+BAG:adugame add 202xCây mai (old: 201) lydo: Nhặt từ map at 02/02/2023 11:54 CH
+BAG:adugame add 168xLì xì (old: 167) lydo: Nhặt từ map at 02/02/2023 11:55 CH
+BAG:adugame add 149xBình rượu (old: 148) lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:adugame add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:adugame add 150xBình rượu (old: 149) lydo: Nhặt từ map at 02/02/2023 11:59 CH
+BAG:adugame add 151xBình rượu (old: 150) lydo: Nhặt từ map at 02/02/2023 11:59 CH
+BAG:adugame add 203xCây mai (old: 202) lydo: Nhặt từ map at 02/02/2023 11:59 CH

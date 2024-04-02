@@ -1,0 +1,344 @@
+BAG:ronaldo add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 02/01/2023 6:16 SA
+BAG:ronaldo add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 02/01/2023 6:16 SA
+BAG:ronaldo add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/01/2023 6:16 SA
+BAG:ronaldo add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/01/2023 6:16 SA
+BAG:ronaldo add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/01/2023 6:17 SA
+BAG:ronaldo add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 02/01/2023 6:17 SA
+BAG:ronaldo add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 02/01/2023 6:17 SA
+BAG:ronaldo add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/01/2023 6:17 SA
+BAG:ronaldo add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 02/01/2023 6:17 SA
+BAG:ronaldo add 32xBột mì (old: 31) lydo: Nhặt từ map at 02/01/2023 6:17 SA
+BAG:ronaldo add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/01/2023 6:18 SA
+BAG:ronaldo add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 02/01/2023 6:18 SA
+BAG:ronaldo add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 02/01/2023 6:18 SA
+BAG:ronaldo add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 02/01/2023 6:18 SA
+BAG:ronaldo add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 02/01/2023 6:18 SA
+BAG:ronaldo add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 02/01/2023 6:19 SA
+BAG:ronaldo add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 02/01/2023 6:20 SA
+BAG:ronaldo add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 02/01/2023 6:21 SA
+BAG:ronaldo add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 02/01/2023 6:21 SA
+BAG:ronaldo add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 02/01/2023 6:21 SA
+BAG:ronaldo add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 02/01/2023 6:21 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 6:25 SA
+BAG:ronaldo add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 02/01/2023 6:25 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 6:30 SA
+BAG:ronaldo add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 02/01/2023 6:30 SA
+BAG:ronaldo add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 02/01/2023 6:35 SA
+BAG:ronaldo add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 02/01/2023 6:35 SA
+BAG:ronaldo add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 02/01/2023 6:38 SA
+BAG:ronaldo add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 02/01/2023 6:39 SA
+BAG:ronaldo add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 02/01/2023 6:40 SA
+BAG:ronaldo add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 02/01/2023 6:40 SA
+BAG:ronaldo add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 02/01/2023 6:41 SA
+BAG:ronaldo add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 02/01/2023 6:41 SA
+BAG:ronaldo add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 02/01/2023 6:44 SA
+BAG:ronaldo add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 02/01/2023 6:44 SA
+BAG:ronaldo add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 02/01/2023 6:44 SA
+BAG:ronaldo add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 02/01/2023 6:45 SA
+BAG:ronaldo add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 02/01/2023 6:45 SA
+BAG:ronaldo add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 02/01/2023 6:45 SA
+BAG:ronaldo add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 02/01/2023 6:47 SA
+BAG:ronaldo add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 02/01/2023 6:47 SA
+BAG:ronaldo add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 02/01/2023 6:49 SA
+BAG:ronaldo add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 02/01/2023 6:50 SA
+BAG:ronaldo add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 02/01/2023 6:50 SA
+BAG:ronaldo add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 02/01/2023 6:51 SA
+BAG:ronaldo add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 02/01/2023 6:51 SA
+BAG:ronaldo add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 02/01/2023 6:51 SA
+BAG:ronaldo add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 02/01/2023 6:52 SA
+BAG:ronaldo add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 02/01/2023 6:52 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 7:07 SA
+BAG:ronaldo add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 02/01/2023 7:07 SA
+BAG:ronaldo add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 02/01/2023 7:11 SA
+BAG:ronaldo add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 02/01/2023 7:15 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 7:15 SA
+BAG:ronaldo add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 02/01/2023 7:17 SA
+BAG:ronaldo add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 02/01/2023 7:28 SA
+BAG:ronaldo add 33xBột mì (old: 32) lydo: Nhặt từ map at 02/01/2023 7:30 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 7:31 SA
+BAG:ronaldo add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 02/01/2023 7:37 SA
+BAG:ronaldo add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 02/01/2023 7:39 SA
+BAG:ronaldo add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 02/01/2023 7:39 SA
+BAG:ronaldo add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 02/01/2023 7:40 SA
+BAG:ronaldo add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 02/01/2023 7:44 SA
+BAG:ronaldo add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 02/01/2023 7:45 SA
+BAG:ronaldo add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 02/01/2023 7:49 SA
+BAG:ronaldo add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 02/01/2023 7:50 SA
+BAG:ronaldo add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 02/01/2023 7:50 SA
+BAG:ronaldo add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 02/01/2023 7:52 SA
+BAG:ronaldo add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 02/01/2023 7:53 SA
+BAG:ronaldo add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 02/01/2023 7:59 SA
+BAG:ronaldo add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 02/01/2023 8:01 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 8:03 SA
+BAG:ronaldo add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 02/01/2023 8:03 SA
+BAG:ronaldo add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 02/01/2023 8:05 SA
+BAG:ronaldo add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 02/01/2023 8:08 SA
+BAG:ronaldo add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 02/01/2023 8:08 SA
+BAG:ronaldo add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 02/01/2023 8:09 SA
+BAG:ronaldo add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 02/01/2023 8:10 SA
+BAG:ronaldo add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 02/01/2023 8:15 SA
+BAG:ronaldo add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 02/01/2023 8:23 SA
+BAG:ronaldo add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 02/01/2023 8:24 SA
+BAG:ronaldo add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 02/01/2023 8:25 SA
+BAG:ronaldo add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 02/01/2023 8:26 SA
+BAG:ronaldo add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 02/01/2023 8:27 SA
+BAG:ronaldo add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 02/01/2023 8:28 SA
+BAG:ronaldo add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 02/01/2023 8:33 SA
+BAG:ronaldo add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 02/01/2023 8:34 SA
+BAG:ronaldo add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 02/01/2023 8:42 SA
+BAG:ronaldo add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 02/01/2023 8:43 SA
+BAG:ronaldo add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 02/01/2023 8:48 SA
+BAG:ronaldo add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 02/01/2023 8:51 SA
+BAG:ronaldo add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 02/01/2023 8:55 SA
+BAG:ronaldo add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 02/01/2023 8:57 SA
+BAG:ronaldo add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 02/01/2023 8:57 SA
+BAG:ronaldo add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 02/01/2023 9:00 SA
+BAG:ronaldo add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 02/01/2023 9:01 SA
+BAG:ronaldo add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 02/01/2023 9:02 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 9:03 SA
+BAG:ronaldo add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 02/01/2023 9:06 SA
+BAG:ronaldo add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 02/01/2023 9:08 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 10:54 SA
+BAG:ronaldo add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 02/01/2023 10:55 SA
+BAG:ronaldo add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 02/01/2023 10:56 SA
+BAG:ronaldo add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 02/01/2023 10:56 SA
+BAG:ronaldo add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 02/01/2023 10:56 SA
+BAG:ronaldo add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 02/01/2023 10:57 SA
+BAG:ronaldo add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 02/01/2023 10:59 SA
+BAG:ronaldo add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 02/01/2023 11:00 SA
+BAG:ronaldo add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 02/01/2023 11:06 SA
+BAG:ronaldo add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 02/01/2023 11:16 SA
+BAG:ronaldo add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 02/01/2023 11:17 SA
+BAG:ronaldo add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 02/01/2023 11:22 SA
+BAG:ronaldo add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 02/01/2023 11:23 SA
+BAG:ronaldo add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 02/01/2023 11:24 SA
+BAG:ronaldo add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 02/01/2023 11:25 SA
+BAG:ronaldo add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 02/01/2023 11:26 SA
+BAG:ronaldo add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 02/01/2023 11:27 SA
+BAG:ronaldo add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 02/01/2023 11:28 SA
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 11:45 SA
+BAG:ronaldo add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 02/01/2023 11:46 SA
+BAG:ronaldo add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 02/01/2023 11:46 SA
+BAG:ronaldo add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 02/01/2023 11:47 SA
+BAG:ronaldo add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 02/01/2023 11:47 SA
+BAG:ronaldo add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 02/01/2023 11:51 SA
+BAG:ronaldo add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 02/01/2023 11:54 SA
+BAG:ronaldo add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 02/01/2023 11:54 SA
+BAG:ronaldo add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 02/01/2023 11:55 SA
+BAG:ronaldo add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 02/01/2023 11:56 SA
+BAG:ronaldo add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 02/01/2023 11:57 SA
+BAG:ronaldo add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 02/01/2023 11:58 SA
+BAG:ronaldo add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 02/01/2023 11:58 SA
+BAG:ronaldo add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 02/01/2023 11:59 SA
+BAG:ronaldo add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 02/01/2023 11:59 SA
+BAG:ronaldo add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 02/01/2023 12:00 CH
+BAG:ronaldo add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 02/01/2023 12:01 CH
+BAG:ronaldo add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 02/01/2023 12:03 CH
+BAG:ronaldo add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 02/01/2023 12:04 CH
+BAG:ronaldo add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 02/01/2023 12:06 CH
+BAG:ronaldo add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 02/01/2023 12:06 CH
+BAG:ronaldo add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 02/01/2023 12:07 CH
+BAG:ronaldo add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 02/01/2023 12:08 CH
+BAG:ronaldo add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 02/01/2023 12:09 CH
+BAG:ronaldo add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 02/01/2023 12:10 CH
+BAG:ronaldo add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 02/01/2023 12:12 CH
+BAG:ronaldo add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 02/01/2023 12:12 CH
+BAG:ronaldo add 70xThỏi vàng lydo: Lấy từ rương qua người at 02/01/2023 12:40 CH
+BAG:ronaldo add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 02/01/2023 12:44 CH
+BAG:ronaldo add 24xNgọc Rồng 5 sao (old: 23) lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xSao pha lê lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 25xNgọc Rồng 5 sao (old: 24) lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xSao pha lê lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 26xNgọc Rồng 5 sao (old: 25) lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xSao pha lê lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xSao pha lê lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xSao pha lê lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 17xNgọc Rồng 6 sao (old: 16) lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xSao pha lê lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 02/01/2023 12:45 CH
+BAG:ronaldo add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 02/01/2023 12:46 CH
+BAG:ronaldo add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 02/01/2023 12:46 CH
+BAG:ronaldo add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 02/01/2023 12:46 CH
+BAG:ronaldo add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 02/01/2023 12:46 CH
+BAG:ronaldo add 55xNgọc Rồng 4 sao (old: 54) lydo: Lấy từ lucky box at 02/01/2023 12:47 CH
+BAG:ronaldo add 56xNgọc Rồng 4 sao (old: 55) lydo: Lấy từ lucky box at 02/01/2023 12:47 CH
+BAG:ronaldo add 57xNgọc Rồng 4 sao (old: 56) lydo: Lấy từ lucky box at 02/01/2023 12:47 CH
+BAG:ronaldo add 58xNgọc Rồng 4 sao (old: 57) lydo: Lấy từ lucky box at 02/01/2023 12:47 CH
+BAG:ronaldo add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 02/01/2023 12:48 CH
+BAG:ronaldo add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 02/01/2023 12:48 CH
+BAG:ronaldo add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 02/01/2023 12:48 CH
+BAG:ronaldo add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 02/01/2023 3:24 CH
+BAG:ronaldo add 59xNgọc Rồng 4 sao (old: 58) lydo: Lấy từ lucky box at 02/01/2023 3:24 CH
+BAG:ronaldo add 60xNgọc Rồng 4 sao (old: 59) lydo: Lấy từ lucky box at 02/01/2023 3:24 CH
+BAG:ronaldo add 61xNgọc Rồng 4 sao (old: 60) lydo: Lấy từ lucky box at 02/01/2023 3:24 CH
+BAG:ronaldo add 1xBông tai Porata lydo: Lấy từ rương qua người at 02/01/2023 3:25 CH
+BAG:ronaldo add 47xĐậu thần cấp 5 (old: 34) lydo: Lấy từ rương qua người at 02/01/2023 3:25 CH
+BAG:ronaldo add 39xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 02/01/2023 3:25 CH
+BAG:ronaldo add 25xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 02/01/2023 3:25 CH
+BAG:ronaldo add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 02/01/2023 3:26 CH
+BAG:ronaldo add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 02/01/2023 3:26 CH
+BAG:ronaldo add 1xGăng sợi len lydo: Lấy từ body đệ vào hành trang at 02/01/2023 3:26 CH
+BAG:ronaldo add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 02/01/2023 3:26 CH
+BAG:ronaldo add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/01/2023 3:26 CH
+BAG:ronaldo add 1xÁo sợi len lydo: Lấy từ rương qua người at 02/01/2023 4:41 CH
+BAG:ronaldo add 1xQuần sợi len lydo: Lấy từ rương qua người at 02/01/2023 4:41 CH
+BAG:ronaldo add 1xGăng sợi len lydo: Lấy từ rương qua người at 02/01/2023 4:41 CH
+BAG:ronaldo add 8xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 02/01/2023 4:41 CH
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 4:45 CH
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 5:03 CH
+BAG:ronaldo add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 02/01/2023 5:04 CH
+BAG:ronaldo add 59xThỏi vàng lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 61xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 61xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 99xNgọc Rồng 4 sao (old: 61) lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 15xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 17xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 99xNgọc Rồng 6 sao (old: 17) lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 26xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 99xNgọc Rồng 5 sao (old: 26) lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 26xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 99xNgọc Rồng 5 sao (old: 26) lydo: Lấy từ rương qua người at 02/01/2023 5:10 CH
+BAG:ronaldo add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhập ngọc at 02/01/2023 5:11 CH
+BAG:ronaldo add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 20xNgọc Rồng 3 sao (old: 19) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 21xNgọc Rồng 3 sao (old: 20) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 22xNgọc Rồng 3 sao (old: 21) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 23xNgọc Rồng 3 sao (old: 22) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 24xNgọc Rồng 3 sao (old: 23) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 25xNgọc Rồng 3 sao (old: 24) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 26xNgọc Rồng 3 sao (old: 25) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 27xNgọc Rồng 3 sao (old: 26) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 28xNgọc Rồng 3 sao (old: 27) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 29xNgọc Rồng 3 sao (old: 28) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 30xNgọc Rồng 3 sao (old: 29) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 31xNgọc Rồng 3 sao (old: 30) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 32xNgọc Rồng 3 sao (old: 31) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 33xNgọc Rồng 3 sao (old: 32) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 34xNgọc Rồng 3 sao (old: 33) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 35xNgọc Rồng 3 sao (old: 34) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 36xNgọc Rồng 3 sao (old: 35) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 37xNgọc Rồng 3 sao (old: 36) lydo: Nhập ngọc at 02/01/2023 5:12 CH
+BAG:ronaldo add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhập ngọc at 02/01/2023 5:13 CH
+BAG:ronaldo add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 02/01/2023 5:15 CH
+BAG:ronaldo add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 02/01/2023 5:16 CH
+BAG:ronaldo add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 5:21 CH
+BAG:ronaldo add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 02/01/2023 5:24 CH
+BAG:ronaldo add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 5:27 CH
+BAG:ronaldo add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 02/01/2023 5:28 CH
+BAG:ronaldo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 5:28 CH
+BAG:ronaldo add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 02/01/2023 5:29 CH
+BAG:ronaldo add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 02/01/2023 5:33 CH
+BAG:ronaldo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 5:35 CH
+BAG:ronaldo add 37xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 02/01/2023 5:38 CH
+BAG:ronaldo add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 02/01/2023 5:39 CH
+BAG:ronaldo add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 02/01/2023 5:39 CH
+BAG:ronaldo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 5:40 CH
+BAG:ronaldo add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 02/01/2023 5:40 CH
+BAG:ronaldo add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 02/01/2023 5:40 CH
+BAG:ronaldo add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 02/01/2023 5:41 CH
+BAG:ronaldo add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 02/01/2023 5:41 CH
+BAG:ronaldo add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 02/01/2023 5:41 CH
+BAG:ronaldo add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 02/01/2023 5:42 CH
+BAG:ronaldo add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 02/01/2023 5:42 CH
+BAG:ronaldo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 5:43 CH
+BAG:ronaldo add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 02/01/2023 5:43 CH
+BAG:ronaldo add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/01/2023 5:43 CH
+BAG:ronaldo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 5:47 CH
+BAG:ronaldo add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 02/01/2023 5:47 CH
+BAG:ronaldo add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 02/01/2023 5:48 CH
+BAG:ronaldo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 5:48 CH
+BAG:ronaldo add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 02/01/2023 5:48 CH
+BAG:ronaldo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 5:49 CH
+BAG:ronaldo add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 02/01/2023 5:49 CH
+BAG:ronaldo add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 02/01/2023 5:49 CH
+BAG:ronaldo add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 02/01/2023 5:49 CH
+BAG:ronaldo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 5:51 CH
+BAG:ronaldo add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 02/01/2023 5:51 CH
+BAG:ronaldo add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 02/01/2023 5:51 CH
+BAG:ronaldo add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 02/01/2023 5:53 CH
+BAG:ronaldo add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 02/01/2023 5:54 CH
+BAG:ronaldo add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 02/01/2023 5:55 CH
+BAG:ronaldo add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 02/01/2023 5:55 CH
+BAG:ronaldo add 38xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 02/01/2023 5:55 CH
+BAG:ronaldo add 18xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 02/01/2023 5:56 CH
+BAG:ronaldo add 99xNgọc Rồng 6 sao (old: 18) lydo: Lấy từ rương qua người at 02/01/2023 5:56 CH
+BAG:ronaldo add 29xNgọc Rồng 3 sao (old: 28) lydo: Nhập ngọc at 02/01/2023 5:56 CH
+BAG:ronaldo add 30xNgọc Rồng 3 sao (old: 29) lydo: Nhập ngọc at 02/01/2023 5:56 CH
+BAG:ronaldo add 31xNgọc Rồng 3 sao (old: 30) lydo: Nhập ngọc at 02/01/2023 5:56 CH
+BAG:ronaldo add 32xNgọc Rồng 3 sao (old: 31) lydo: Nhập ngọc at 02/01/2023 5:56 CH
+BAG:ronaldo add 33xNgọc Rồng 3 sao (old: 32) lydo: Nhập ngọc at 02/01/2023 5:56 CH
+BAG:ronaldo add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 02/01/2023 6:01 CH
+BAG:ronaldo add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 02/01/2023 6:01 CH
+BAG:ronaldo add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:ronaldo add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 02/01/2023 6:03 CH
+BAG:ronaldo add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 02/01/2023 6:03 CH
+BAG:ronaldo add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 02/01/2023 6:06 CH
+BAG:ronaldo add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 02/01/2023 6:07 CH
+BAG:ronaldo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 6:08 CH
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 6:14 CH
+BAG:ronaldo add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/01/2023 6:19 CH
+BAG:ronaldo add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/01/2023 6:19 CH
+BAG:ronaldo add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/01/2023 6:20 CH
+BAG:ronaldo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 6:22 CH
+BAG:ronaldo add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 02/01/2023 6:28 CH
+BAG:ronaldo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 6:32 CH
+BAG:ronaldo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 6:39 CH
+BAG:ronaldo add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 02/01/2023 6:39 CH
+BAG:ronaldo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 6:41 CH
+BAG:ronaldo add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 02/01/2023 6:43 CH
+BAG:ronaldo add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 02/01/2023 6:43 CH

@@ -1,0 +1,135 @@
+BAG:kthaba add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:kthaba add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:kthaba add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:kthaba add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:kthaba add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:kthaba add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:kthaba add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:kthaba add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:kthaba add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:kthaba add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:kthaba add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:kthaba add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/03/2023 12:04 SA
+BAG:kthaba add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 12:04 SA
+BAG:kthaba add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:kthaba add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:kthaba add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:kthaba add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:kthaba add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:kthaba add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:kthaba add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:kthaba add 1xGiầy sợi len lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:kthaba add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:kthaba add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:kthaba add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:kthaba add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:kthaba add 70xCây mai (old: 69) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:kthaba add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:kthaba add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:kthaba add 1xÁo sợi len lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:kthaba add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:kthaba add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:kthaba add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:kthaba add 71xCây mai (old: 70) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:kthaba add 72xCây mai (old: 71) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:kthaba add 53xLì xì (old: 52) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:kthaba add 54xLì xì (old: 53) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:kthaba add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:kthaba add 55xLì xì (old: 54) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:kthaba add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:kthaba add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:kthaba add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:kthaba add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:kthaba add 73xCây mai (old: 72) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:kthaba add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:kthaba add 56xLì xì (old: 55) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:kthaba add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:kthaba add 57xLì xì (old: 56) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:kthaba add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:kthaba add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:kthaba add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:kthaba add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:kthaba add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:kthaba add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:kthaba add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:kthaba add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:kthaba add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:kthaba add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/03/2023 12:27 SA
+BAG:kthaba add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/03/2023 12:28 SA
+BAG:kthaba add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/03/2023 12:28 SA
+BAG:kthaba add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:kthaba add 74xCây mai (old: 73) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:kthaba add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 12:30 SA
+BAG:kthaba add 75xCây mai (old: 74) lydo: Nhặt từ map at 02/03/2023 12:31 SA
+BAG:kthaba add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/03/2023 12:31 SA
+BAG:kthaba add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:kthaba add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:kthaba add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:kthaba add 76xCây mai (old: 75) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:kthaba add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:kthaba add 77xCây mai (old: 76) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:kthaba add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 6:23 SA
+BAG:kthaba add 1xLì xì lydo: Nhặt từ map at 02/03/2023 11:35 SA
+BAG:kthaba add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 11:35 SA
+BAG:kthaba add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 11:36 SA
+BAG:kthaba add 1xCây mai lydo: Nhặt từ map at 02/03/2023 11:36 SA
+BAG:kthaba add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:kthaba add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:kthaba add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:kthaba add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:kthaba add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:kthaba add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:kthaba add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:kthaba add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:kthaba add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:kthaba add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:kthaba add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:kthaba add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:kthaba add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:kthaba add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:kthaba add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:kthaba add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:kthaba add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:kthaba add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:kthaba add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:kthaba add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:kthaba add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:kthaba add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:kthaba add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:kthaba add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:kthaba add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:kthaba add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:kthaba add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:kthaba add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:kthaba add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:kthaba add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:kthaba add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:kthaba add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:kthaba add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:kthaba add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:kthaba add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:kthaba add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:kthaba add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:kthaba add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:kthaba add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:kthaba add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:kthaba add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:kthaba add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:kthaba add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:kthaba add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 12:04 CH
+BAG:kthaba add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 12:04 CH
+BAG:kthaba add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 12:05 CH
+BAG:kthaba add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:kthaba add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:kthaba add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:kthaba add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:kthaba add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:kthaba add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:kthaba add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:kthaba add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:kthaba add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:kthaba add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:kthaba add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:kthaba add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/03/2023 12:14 CH
+BAG:kthaba add 20xThỏi vàng lydo: Giftcode at 02/03/2023 12:46 CH
+BAG:kthaba add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 02/03/2023 12:48 CH

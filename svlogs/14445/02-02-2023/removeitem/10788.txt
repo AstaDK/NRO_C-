@@ -1,0 +1,31 @@
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Cục xương lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:ngocvipro remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:33 CH
+BAG:ngocvipro remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 8:33 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:33 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:38 CH
+BAG:ngocvipro remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/02/2023 8:39 CH
+BAG:ngocvipro remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:39 CH
+BAG:ngocvipro remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:39 CH
+BAG:ngocvipro remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:39 CH
+BAG:ngocvipro remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 8:39 CH
+BAG:ngocvipro remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:39 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:39 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:39 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:40 CH
+BAG:ngocvipro remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:41 CH

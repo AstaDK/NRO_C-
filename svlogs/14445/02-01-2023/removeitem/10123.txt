@@ -1,0 +1,552 @@
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 12:07 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 12:10 SA
+BAG:octieukkk remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 12:29 SA
+BAG:octieukkk remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/01/2023 12:30 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 3:40 SA
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 3:53 SA
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 3:56 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 3:56 SA
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 3:56 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 3:56 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 3:56 SA
+BAG:octieukkk remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 4:02 SA
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 4:07 SA
+BAG:octieukkk remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 4:12 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 4:20 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 4:31 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 4:37 SA
+BAG:octieukkk remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 4:37 SA
+BAG:octieukkk remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 4:38 SA
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Cất vào rương at 02/01/2023 4:38 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 4:45 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 4:45 SA
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 4:45 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 4:45 SA
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 4:45 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xTrứng vịt muối lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xGà quay nguyên con lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xBột mì lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xĐậu xanh lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xTrứng vịt muối lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xGà quay nguyên con lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xBột mì lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xĐậu xanh lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xTrứng vịt muối lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xGà quay nguyên con lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xBột mì lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xĐậu xanh lydo: Nấu bánh at 02/01/2023 4:45 SA
+BAG:octieukkk remove 10xTrứng vịt muối lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 10xGà quay nguyên con lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 10xBột mì lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 10xĐậu xanh lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 10xTrứng vịt muối lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 10xGà quay nguyên con lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 10xBột mì lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 10xĐậu xanh lydo: Nấu bánh at 02/01/2023 4:46 SA
+BAG:octieukkk remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/01/2023 4:46 SA
+BAG:octieukkk remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/01/2023 4:46 SA
+BAG:octieukkk remove Lồng đèn Kéo Quân lydo: Tự Xóa vật phẩm at 02/01/2023 4:46 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:48 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:48 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:48 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:48 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:50 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:50 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:50 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:50 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:50 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:51 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:51 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:51 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:51 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:52 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:52 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:52 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:52 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:53 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:53 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:53 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 SA
+BAG:octieukkk remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 SA
+BAG:octieukkk remove 17xSao pha lê lydo: Bán cho shop at 02/01/2023 5:14 SA
+BAG:octieukkk remove 17xĐá Ruby lydo: Bán cho shop at 02/01/2023 5:14 SA
+BAG:octieukkk remove 32xĐá thạch anh tím lydo: Bán cho shop at 02/01/2023 5:14 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:17 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:18 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:18 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:18 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:19 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:19 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:19 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:19 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:20 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:20 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:20 SA
+BAG:octieukkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:20 SA
+BAG:octieukkk remove Cải trang lydo: Tự Xóa vật phẩm at 02/01/2023 5:21 SA
+BAG:octieukkk remove Găng sợi len lydo: Cất vào rương at 02/01/2023 5:30 SA
+BAG:octieukkk remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 5:30 SA
+BAG:octieukkk remove Áo sợi len lydo: Cất vào rương at 02/01/2023 5:30 SA
+BAG:octieukkk remove Giầy sợi len lydo: Cất vào rương at 02/01/2023 5:31 SA
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Cất vào rương at 02/01/2023 5:31 SA
+BAG:octieukkk remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 5:32 SA
+BAG:octieukkk remove Quần sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 5:32 SA
+BAG:octieukkk remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 5:32 SA
+BAG:octieukkk remove Quần vàng Zealot lydo: Cất vào rương at 02/01/2023 5:33 SA
+BAG:octieukkk remove Quần bạc Zealot lydo: Mặc vào người at 02/01/2023 5:36 SA
+BAG:octieukkk remove Giày bạc Zealot lydo: Mặc vào người at 02/01/2023 5:36 SA
+BAG:octieukkk remove 1xĐá Titan lydo: Bán cho shop at 02/01/2023 5:36 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:37 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:44 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:45 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:45 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:45 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:46 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:46 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:46 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:46 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:46 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:47 SA
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 5:47 SA
+BAG:octieukkk remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/01/2023 5:47 SA
+BAG:octieukkk remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 5:47 SA
+BAG:octieukkk remove Giầy sợi len lydo: Mặc cho đệ tử at 02/01/2023 5:47 SA
+BAG:octieukkk remove Găng bạc Zealot lydo: Mặc cho đệ tử at 02/01/2023 5:47 SA
+BAG:octieukkk remove Quần sợi len lydo: Mặc cho đệ tử at 02/01/2023 5:47 SA
+BAG:octieukkk remove Áo sợi len lydo: Mặc cho đệ tử at 02/01/2023 5:47 SA
+BAG:octieukkk remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 SA
+BAG:octieukkk remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 SA
+BAG:octieukkk remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 SA
+BAG:octieukkk remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 SA
+BAG:octieukkk remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 SA
+BAG:octieukkk remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:11 SA
+BAG:octieukkk remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/01/2023 6:33 SA
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 6:33 SA
+BAG:octieukkk remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 6:33 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 7:19 SA
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 7:19 SA
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 7:20 SA
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 7:20 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 7:20 SA
+BAG:octieukkk remove 1xGăng da Pico lydo: Giao dịch với rongnsnd at 02/01/2023 7:26 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 7:28 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 7:28 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 7:28 SA
+BAG:octieukkk remove Quần sợi len lydo: Mặc vào người at 02/01/2023 7:36 SA
+BAG:octieukkk remove Giầy sợi len lydo: Mặc vào người at 02/01/2023 7:37 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 7:38 SA
+BAG:octieukkk remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 7:45 SA
+BAG:octieukkk remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 7:54 SA
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 8:41 SA
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 8:41 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 8:41 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 8:41 SA
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 8:41 SA
+BAG:octieukkk remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 8:46 SA
+BAG:octieukkk remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 9:30 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 9:40 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 9:40 SA
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 9:40 SA
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 9:40 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:07 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 10:11 SA
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 10:18 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 10:24 SA
+BAG:octieukkk remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 10:32 SA
+BAG:octieukkk remove Quần vàng Zealot lydo: Cất vào rương at 02/01/2023 10:32 SA
+BAG:octieukkk remove Sao pha lê lydo: Cất vào rương at 02/01/2023 10:32 SA
+BAG:octieukkk remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 10:32 SA
+BAG:octieukkk remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 02/01/2023 10:33 SA
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 10:33 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:33 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:35 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:42 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 10:44 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 10:44 SA
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 10:44 SA
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 10:44 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:49 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:50 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:55 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:55 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:56 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:58 SA
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:59 SA
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 11:01 SA
+BAG:octieukkk remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 11:09 SA
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:octieukkk remove Máy dò Capsule kì bí lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:27 SA
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 11:27 SA
+BAG:octieukkk remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/01/2023 11:43 SA
+BAG:octieukkk remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 11:43 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:45 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:45 SA
+BAG:octieukkk remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:45 SA
+BAG:octieukkk remove Găng sợi len lydo: Mặc cho đệ tử at 02/01/2023 11:49 SA
+BAG:octieukkk remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 11:49 SA
+BAG:octieukkk remove Áo sợi len lydo: Mặc cho đệ tử at 02/01/2023 11:49 SA
+BAG:octieukkk remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 11:50 SA
+BAG:octieukkk remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/01/2023 11:50 SA
+BAG:octieukkk remove Quần sợi len lydo: Mặc cho đệ tử at 02/01/2023 11:50 SA
+BAG:octieukkk remove Giầy sợi len lydo: Mặc cho đệ tử at 02/01/2023 11:50 SA
+BAG:octieukkk remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:00 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:00 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:00 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:01 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:40 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 12:56 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:13 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:31 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:48 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:05 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:21 CH
+BAG:octieukkk remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 2:35 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:37 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:38 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:39 CH
+BAG:octieukkk remove Găng sợi len lydo: Mặc vào người at 02/01/2023 2:40 CH
+BAG:octieukkk remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 2:41 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:54 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:54 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:54 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:56 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:56 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 2:59 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 3:15 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 3:15 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 3:16 CH
+BAG:octieukkk remove 32xĐá lục bảo lydo: Bán cho shop at 02/01/2023 3:30 CH
+BAG:octieukkk remove 40xĐá Titan lydo: Bán cho shop at 02/01/2023 3:30 CH
+BAG:octieukkk remove 44xĐá Ruby lydo: Bán cho shop at 02/01/2023 3:30 CH
+BAG:octieukkk remove 29xĐá thạch anh tím lydo: Bán cho shop at 02/01/2023 3:30 CH
+BAG:octieukkk remove 33xĐá Saphia lydo: Bán cho shop at 02/01/2023 3:30 CH
+BAG:octieukkk remove Găng sợi len lydo: Mặc vào người at 02/01/2023 3:31 CH
+BAG:octieukkk remove Áo sợi len lydo: Mặc vào người at 02/01/2023 3:31 CH
+BAG:octieukkk remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 3:31 CH
+BAG:octieukkk remove Găng sợi len lydo: Mặc vào người at 02/01/2023 3:32 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 3:37 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 3:54 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:07 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:11 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:12 CH
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 4:13 CH
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 4:13 CH
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 4:13 CH
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 4:13 CH
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 4:13 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:14 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 02/01/2023 4:15 CH
+BAG:octieukkk remove 7xNgọc Rồng 2 sao lydo: Nhập ngọc at 02/01/2023 4:16 CH
+BAG:octieukkk remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/01/2023 4:18 CH
+BAG:octieukkk remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/01/2023 4:18 CH
+BAG:octieukkk remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/01/2023 4:18 CH
+BAG:octieukkk remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/01/2023 4:18 CH
+BAG:octieukkk remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/01/2023 4:18 CH
+BAG:octieukkk remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/01/2023 4:18 CH
+BAG:octieukkk remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/01/2023 4:18 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:20 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:20 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:20 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:20 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:20 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:20 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:21 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:22 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:22 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:23 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:23 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:24 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:24 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:25 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:25 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:25 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:26 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:26 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:27 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:27 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:28 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:29 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:29 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:30 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:30 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:31 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:31 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:32 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:33 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:33 CH
+BAG:octieukkk remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/01/2023 4:34 CH
+BAG:octieukkk remove Ngọc Rồng 2 sao lydo: Cất vào rương at 02/01/2023 4:34 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:34 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:35 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:35 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:36 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:37 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:37 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:38 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:39 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:40 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:40 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:41 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:42 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:43 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:44 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:44 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:45 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:46 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:47 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:48 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:49 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:50 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:50 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:51 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:52 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:53 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:54 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:55 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:56 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:57 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:58 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 4:59 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:00 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:02 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:03 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:04 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:05 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:06 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:07 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:08 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:10 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:11 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:12 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:13 CH
+BAG:octieukkk remove Quần sợi len lydo: Mặc vào người at 02/01/2023 5:14 CH
+BAG:octieukkk remove Giầy sợi len lydo: Mặc vào người at 02/01/2023 5:14 CH
+BAG:octieukkk remove 1xCuồng nộ lydo: Dùng buff at 02/01/2023 5:15 CH
+BAG:octieukkk remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 5:18 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:19 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:20 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:22 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:23 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:24 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:26 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:27 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:28 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:30 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:31 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:39 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:40 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:42 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:44 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:45 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:47 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:49 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:50 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:52 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:54 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:56 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:57 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 5:59 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:07 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:09 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:11 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:13 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:15 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:17 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:19 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:21 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:23 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:25 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:26 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:27 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:28 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:30 CH
+BAG:octieukkk remove Cải trang lydo: Tự Xóa vật phẩm at 02/01/2023 6:32 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:51 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 7:08 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 7:25 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 7:43 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 9:24 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 9:41 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:51 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/01/2023 9:52 CH
+BAG:octieukkk remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 9:54 CH
+BAG:octieukkk remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 9:54 CH
+BAG:octieukkk remove 30xThỏi vàng lydo: Giao dịch với kakaroto at 02/01/2023 9:54 CH
+BAG:octieukkk remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/01/2023 9:55 CH
+BAG:octieukkk remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/01/2023 9:55 CH
+BAG:octieukkk remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/01/2023 9:55 CH
+BAG:octieukkk remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/01/2023 9:55 CH
+BAG:octieukkk remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/01/2023 9:55 CH
+BAG:octieukkk remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/01/2023 9:55 CH
+BAG:octieukkk remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/01/2023 9:55 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:57 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:57 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:57 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:57 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:57 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:57 CH
+BAG:octieukkk remove Nâng cấp kỹ năng 2 đệ tử lydo: Tự Xóa vật phẩm at 02/01/2023 9:58 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:58 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:58 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:58 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:58 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:58 CH
+BAG:octieukkk remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:58 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:07 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:24 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:41 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:58 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:15 CH
+BAG:octieukkk remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 11:32 CH
+BAG:octieukkk remove Quần bạc Zealot lydo: Mặc vào người at 02/01/2023 11:50 CH
+BAG:octieukkk remove Giày bạc Zealot lydo: Mặc vào người at 02/01/2023 11:50 CH
+BAG:octieukkk remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 11:50 CH
+BAG:octieukkk remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 11:50 CH
+BAG:octieukkk remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:50 CH
+BAG:octieukkk remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 11:50 CH
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:53 CH
+BAG:octieukkk remove Cây mai lydo: Cất vào rương at 02/01/2023 11:54 CH
+BAG:octieukkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:54 CH
+BAG:octieukkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:54 CH
+BAG:octieukkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:54 CH

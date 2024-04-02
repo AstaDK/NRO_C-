@@ -1,0 +1,69 @@
+BAG:kaakak remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 5:53 SA
+BAG:kaakak remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 11:31 SA
+BAG:kaakak remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/01/2023 11:39 SA
+BAG:kaakak remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/01/2023 11:39 SA
+BAG:kaakak remove Cải trang lydo: Mặc vào người at 02/01/2023 11:58 SA
+BAG:kaakak remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 02/01/2023 12:00 CH
+BAG:kaakak remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 12:00 CH
+BAG:kaakak remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 12:01 CH
+BAG:kaakak remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 12:01 CH
+BAG:kaakak remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 12:01 CH
+BAG:kaakak remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:08 CH
+BAG:kaakak remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 12:09 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:09 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:09 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:09 CH
+BAG:kaakak remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 12:10 CH
+BAG:kaakak remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 12:10 CH
+BAG:kaakak remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 12:10 CH
+BAG:kaakak remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 12:10 CH
+BAG:kaakak remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 12:11 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:11 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:11 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:12 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:12 CH
+BAG:kaakak remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:12 CH
+BAG:kaakak remove 17xĐá Titan lydo: Bán cho shop at 02/01/2023 12:12 CH
+BAG:kaakak remove 7xMảnh Quỷ đất lydo: Bán cho shop at 02/01/2023 12:12 CH
+BAG:kaakak remove 33xĐá thạch anh tím lydo: Bán cho shop at 02/01/2023 12:13 CH
+BAG:kaakak remove 26xĐá lục bảo lydo: Bán cho shop at 02/01/2023 12:13 CH
+BAG:kaakak remove 4xGà quay nguyên con lydo: Bán cho shop at 02/01/2023 12:13 CH
+BAG:kaakak remove 10xNgọc Rồng 5 sao lydo: Bán cho shop at 02/01/2023 12:13 CH
+BAG:kaakak remove 3xBột mì lydo: Bán cho shop at 02/01/2023 12:13 CH
+BAG:kaakak remove 2xTrứng vịt muối lydo: Bán cho shop at 02/01/2023 12:13 CH
+BAG:kaakak remove Cải trang Hatchiyack lydo: Mặc vào người at 02/01/2023 12:15 CH
+BAG:kaakak remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 12:16 CH
+BAG:kaakak remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:45 CH
+BAG:kaakak remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 5:45 CH
+BAG:kaakak remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 5:45 CH
+BAG:kaakak remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 5:45 CH
+BAG:kaakak remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:45 CH
+BAG:kaakak remove Sách Trói lv1 lydo: Sách kĩ năng at 02/01/2023 5:46 CH
+BAG:kaakak remove Sách Trói lv2 lydo: Sách kĩ năng at 02/01/2023 5:46 CH
+BAG:kaakak remove Sách Trói lv3 lydo: Sách kĩ năng at 02/01/2023 5:46 CH
+BAG:kaakak remove Sách Trói lv4 lydo: Sách kĩ năng at 02/01/2023 5:46 CH
+BAG:kaakak remove Sách Trói lv5 lydo: Sách kĩ năng at 02/01/2023 5:46 CH
+BAG:kaakak remove Sách Trói lv6 lydo: Sách kĩ năng at 02/01/2023 5:46 CH
+BAG:kaakak remove Sách Trói lv7 lydo: Sách kĩ năng at 02/01/2023 5:46 CH
+BAG:kaakak remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 9:18 CH
+BAG:kaakak remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 9:19 CH
+BAG:kaakak remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/01/2023 9:19 CH
+BAG:kaakak remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/01/2023 9:19 CH
+BAG:kaakak remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/01/2023 9:19 CH
+BAG:kaakak remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/01/2023 9:19 CH
+BAG:kaakak remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/01/2023 9:19 CH
+BAG:kaakak remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/01/2023 9:19 CH
+BAG:kaakak remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 02/01/2023 9:20 CH
+BAG:kaakak remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 02/01/2023 9:20 CH
+BAG:kaakak remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 02/01/2023 9:20 CH
+BAG:kaakak remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 02/01/2023 9:20 CH
+BAG:kaakak remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 02/01/2023 9:20 CH
+BAG:kaakak remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 02/01/2023 9:20 CH
+BAG:kaakak remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 02/01/2023 9:20 CH

@@ -1,0 +1,20 @@
+BAG:oshit add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 10:16 CH
+BAG:oshit add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:16 CH
+BAG:oshit add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 10:16 CH
+BAG:oshit add 1xCây mai lydo: Nhặt từ map at 02/02/2023 10:16 CH
+BAG:oshit add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 10:17 CH
+BAG:oshit add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 10:18 CH
+BAG:oshit add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 10:18 CH
+BAG:oshit add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 10:18 CH
+BAG:oshit add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 10:18 CH
+BAG:oshit add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 10:19 CH
+BAG:oshit add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 10:19 CH
+BAG:oshit add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 10:19 CH
+BAG:oshit add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 10:19 CH
+BAG:oshit add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 10:19 CH
+BAG:oshit add 27xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 10:20 CH
+BAG:oshit add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:oshit add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:oshit add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:oshit add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:oshit add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 10:21 CH

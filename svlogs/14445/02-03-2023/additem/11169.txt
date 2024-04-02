@@ -1,0 +1,14 @@
+BAG:hguhhuy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 12:09 SA
+BAG:hguhhuy add 4xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 02/03/2023 12:13 SA
+BAG:hguhhuy add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:hguhhuy add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:hguhhuy add 1xLì xì lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:hguhhuy add 1xCây mai lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:hguhhuy add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:hguhhuy add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:hguhhuy add 1xBột mì lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:hguhhuy add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:hguhhuy add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:hguhhuy add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:hguhhuy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 12:19 SA
+BAG:hguhhuy add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/03/2023 12:19 SA

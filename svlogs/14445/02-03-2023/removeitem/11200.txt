@@ -1,0 +1,20 @@
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:46 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:48 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:49 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:49 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:49 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:51 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:52 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:53 SA
+BAG:nameclaze remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/03/2023 5:53 SA
+BAG:nameclaze remove Hồn ma Pôcôlô lydo: Tự Xóa vật phẩm at 02/03/2023 5:54 SA
+BAG:nameclaze remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 5:54 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:55 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:55 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:55 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:55 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:57 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 5:58 SA
+BAG:nameclaze remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 02/03/2023 6:00 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 6:01 SA
+BAG:nameclaze remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 6:03 SA

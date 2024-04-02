@@ -1,0 +1,28 @@
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:01 SA
+BAG:l3badgirl remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 9:03 SA
+BAG:l3badgirl remove Lì xì lydo: Cất vào rương at 02/02/2023 9:07 SA
+BAG:l3badgirl remove Cây mai lydo: Cất vào rương at 02/02/2023 9:07 SA
+BAG:l3badgirl remove Lì xì lydo: Cất vào rương at 02/02/2023 9:07 SA
+BAG:l3badgirl remove Lì xì lydo: Cất vào rương at 02/02/2023 9:07 SA
+BAG:l3badgirl remove Cây mai lydo: Cất vào rương at 02/02/2023 9:08 SA
+BAG:l3badgirl remove Cây mai lydo: Cất vào rương at 02/02/2023 9:08 SA
+BAG:l3badgirl remove Cây mai lydo: Cất vào rương at 02/02/2023 9:08 SA
+BAG:l3badgirl remove Lì xì lydo: Cất vào rương at 02/02/2023 9:08 SA
+BAG:l3badgirl remove Bình rượu lydo: Cất vào rương at 02/02/2023 9:08 SA
+BAG:l3badgirl remove Lì xì lydo: Cất vào rương at 02/02/2023 9:08 SA
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:14 SA
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:14 SA
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:20 SA
+BAG:l3badgirl remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 02/02/2023 9:22 SA
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:23 SA
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:24 SA
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:24 SA
+BAG:l3badgirl remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:25 SA
+BAG:l3badgirl remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 9:27 SA
+BAG:l3badgirl remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 9:28 SA
+BAG:l3badgirl remove 1xLì xì lydo: Bán cho shop at 02/02/2023 9:28 SA
+BAG:l3badgirl remove 1xCây mai lydo: Bán cho shop at 02/02/2023 9:28 SA
+BAG:l3badgirl remove 1xCây mai lydo: Bán cho shop at 02/02/2023 9:28 SA
+BAG:l3badgirl remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:l3badgirl remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA
+BAG:l3badgirl remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:29 SA

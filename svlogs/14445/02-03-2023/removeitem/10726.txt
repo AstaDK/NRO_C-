@@ -1,0 +1,16 @@
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/03/2023 6:26 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/03/2023 6:41 SA
+BAG:thantd remove Găng võ Kame lydo: Tự Xóa vật phẩm at 02/03/2023 11:49 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/03/2023 11:51 SA
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 11:52 SA
+BAG:thantd remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 11:52 SA
+BAG:thantd remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 11:53 SA
+BAG:thantd remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 02/03/2023 11:53 SA
+BAG:thantd remove Găng bạc Goku lydo: Mặc cho đệ tử at 02/03/2023 11:53 SA
+BAG:thantd remove Quần vải đen lydo: Mặc cho đệ tử at 02/03/2023 11:53 SA
+BAG:thantd remove Giầy nhựa lydo: Mặc cho đệ tử at 02/03/2023 11:53 SA
+BAG:thantd remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 11:53 SA
+BAG:thantd remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 02/03/2023 11:53 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/03/2023 12:06 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/03/2023 12:42 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/03/2023 1:23 CH

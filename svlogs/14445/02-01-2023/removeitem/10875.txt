@@ -1,0 +1,6 @@
+BAG:top1trd remove Gói 10 viên Capsule lydo: Tự Xóa vật phẩm at 02/01/2023 4:59 CH
+BAG:top1trd remove Avatar lydo: Mặc vào người at 02/01/2023 5:00 CH
+BAG:top1trd remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/01/2023 5:04 CH
+BAG:top1trd remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/01/2023 5:07 CH
+BAG:top1trd remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 5:07 CH
+BAG:top1trd remove Quần vải đen lydo: Tự Xóa vật phẩm at 02/01/2023 5:23 CH

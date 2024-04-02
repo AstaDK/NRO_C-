@@ -1,0 +1,19 @@
+BAG:pedator remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:58 CH
+BAG:pedator remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:01 CH
+BAG:pedator remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:01 CH
+BAG:pedator remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:03 CH
+BAG:pedator remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:03 CH
+BAG:pedator remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 8:07 CH
+BAG:pedator remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:13 CH
+BAG:pedator remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 8:14 CH
+BAG:pedator remove Cải trang Hit lydo: Mặc vào người at 02/02/2023 8:15 CH
+BAG:pedator remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:17 CH
+BAG:pedator remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:18 CH
+BAG:pedator remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:18 CH
+BAG:pedator remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:19 CH
+BAG:pedator remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:19 CH
+BAG:pedator remove Cải trang Mabư Noel lydo: Tự Xóa vật phẩm at 02/02/2023 8:19 CH
+BAG:pedator remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:20 CH
+BAG:pedator remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:20 CH
+BAG:pedator remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:20 CH
+BAG:pedator remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 8:21 CH

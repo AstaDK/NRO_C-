@@ -1,0 +1,6 @@
+BAG:gcubil remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 1:15 AM
+BAG:gcubil remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 1:15 AM
+BAG:gcubil remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 1:16 AM
+BAG:gcubil remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 1:18 AM
+BAG:gcubil remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 1:23 AM
+BAG:gcubil remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 1:24 AM

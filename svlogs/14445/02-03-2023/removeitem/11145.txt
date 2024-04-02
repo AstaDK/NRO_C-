@@ -1,0 +1,30 @@
+BAG:zedonee remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:01 SA
+BAG:zedonee remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:01 SA
+BAG:zedonee remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:02 SA
+BAG:zedonee remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:05 SA
+BAG:zedonee remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:06 SA
+BAG:zedonee remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:07 SA
+BAG:zedonee remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 SA
+BAG:zedonee remove Đậu thần cấp 9 lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Đậu thần cấp 9 lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Cây mai lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Bình rượu lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Lì xì lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Đá Ruby lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Gà quay nguyên con lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Đá Saphia lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Đá Titan lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Đá lục bảo lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Bột mì lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Đậu xanh lydo: Cất vào rương at 02/03/2023 12:14 SA
+BAG:zedonee remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:15 SA
+BAG:zedonee remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/03/2023 12:22 SA
+BAG:zedonee remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/03/2023 12:22 SA
+BAG:zedonee remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/03/2023 12:22 SA
+BAG:zedonee remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/03/2023 12:22 SA
+BAG:zedonee remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/03/2023 12:22 SA
+BAG:zedonee remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/03/2023 12:22 SA
+BAG:zedonee remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/03/2023 12:22 SA

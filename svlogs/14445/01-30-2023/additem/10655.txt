@@ -1,0 +1,11 @@
+BAG:pocollo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:04 PM
+BAG:pocollo add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 10:09 PM
+BAG:pocollo add 1xTrứng vịt muối lydo: Nhặt từ map at 01/30/2023 10:11 PM
+BAG:pocollo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 10:12 PM
+BAG:pocollo add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 10:12 PM
+BAG:pocollo add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/30/2023 10:12 PM
+BAG:pocollo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 10:13 PM
+BAG:pocollo add 1xMảnh Quỷ bay lydo: Nhặt từ map at 01/30/2023 10:13 PM
+BAG:pocollo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 10:13 PM
+BAG:pocollo add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 10:14 PM
+BAG:pocollo add 20xThỏi vàng lydo: Giftcode at 01/30/2023 10:15 PM

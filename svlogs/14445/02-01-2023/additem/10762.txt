@@ -1,0 +1,13 @@
+BAG:concacsiuto add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:concacsiuto add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:concacsiuto add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:concacsiuto add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:concacsiuto add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:concacsiuto add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:concacsiuto add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:concacsiuto add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:concacsiuto add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:concacsiuto add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 9:38 SA
+BAG:concacsiuto add 1xMảnh Phi long lydo: Nhặt từ map at 02/01/2023 9:44 SA
+BAG:concacsiuto add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/01/2023 11:49 CH
+BAG:concacsiuto add 1xNho tím lydo: Mua từ cửa hàng at 02/01/2023 11:49 CH

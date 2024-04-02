@@ -1,0 +1,17 @@
+BAG:anhkaiboy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 6:29 AM
+BAG:anhkaiboy add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 6:29 AM
+BAG:anhkaiboy add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 6:31 AM
+BAG:anhkaiboy add 20xThỏi vàng lydo: Giftcode at 01/30/2023 6:32 AM
+BAG:anhkaiboy add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 6:41 AM
+BAG:anhkaiboy add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 6:41 AM
+BAG:anhkaiboy add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 6:41 AM
+BAG:anhkaiboy add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/30/2023 6:41 AM
+BAG:anhkaiboy add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 6:41 AM
+BAG:anhkaiboy add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 6:42 AM
+BAG:anhkaiboy add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 6:42 AM
+BAG:anhkaiboy add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 6:42 AM
+BAG:anhkaiboy add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 6:42 AM
+BAG:anhkaiboy add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/30/2023 6:42 AM
+BAG:anhkaiboy add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/30/2023 6:42 AM
+BAG:anhkaiboy add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/30/2023 6:42 AM
+BAG:anhkaiboy add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 01/30/2023 6:44 AM

@@ -1,0 +1,23 @@
+BAG:oppooo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:06 CH
+BAG:oppooo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:09 CH
+BAG:oppooo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:10 CH
+BAG:oppooo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:11 CH
+BAG:oppooo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:13 CH
+BAG:oppooo remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:15 CH
+BAG:oppooo remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 9:16 CH
+BAG:oppooo remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 9:26 CH
+BAG:oppooo remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:oppooo remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Quần sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 9:38 CH
+BAG:oppooo remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 9:39 CH
+BAG:oppooo remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 9:42 CH
+BAG:oppooo remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 9:44 CH
+BAG:oppooo remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 9:45 CH

@@ -1,0 +1,454 @@
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 12:08 SA
+BAG:mygoku remove Cây mai lydo: Cất vào rương at 02/02/2023 12:08 SA
+BAG:mygoku remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 SA
+BAG:mygoku remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 SA
+BAG:mygoku remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 SA
+BAG:mygoku remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 SA
+BAG:mygoku remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:40 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:46 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:53 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:59 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:05 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:11 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:18 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:24 SA
+BAG:mygoku remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:32 SA
+BAG:mygoku remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:32 SA
+BAG:mygoku remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:32 SA
+BAG:mygoku remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 02/02/2023 9:33 SA
+BAG:mygoku remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 02/02/2023 9:33 SA
+BAG:mygoku remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 02/02/2023 9:33 SA
+BAG:mygoku remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 02/02/2023 9:33 SA
+BAG:mygoku remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 02/02/2023 9:33 SA
+BAG:mygoku remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 02/02/2023 9:33 SA
+BAG:mygoku remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 02/02/2023 9:33 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:45 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:51 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:57 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:03 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:35 SA
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:42 SA
+BAG:mygoku remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:mygoku remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:mygoku remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:mygoku remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:mygoku remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:24 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 12:48 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 12:51 CH
+BAG:mygoku remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:mygoku remove Sách Antomic lv1 lydo: Sách kĩ năng at 02/02/2023 12:52 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:02 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:02 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:02 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:03 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:03 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:04 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:04 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:04 CH
+BAG:mygoku remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 3:04 CH
+BAG:mygoku remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 3:04 CH
+BAG:mygoku remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 3:04 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:05 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:05 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:05 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:05 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:05 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:05 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:05 CH
+BAG:mygoku remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:06 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:06 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:06 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:07 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:07 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:07 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:09 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:11 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:11 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:11 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:11 CH
+BAG:mygoku remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:11 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:12 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:12 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:12 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:12 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:12 CH
+BAG:mygoku remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 3:13 CH
+BAG:mygoku remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 3:13 CH
+BAG:mygoku remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 3:13 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:13 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:13 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:13 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:14 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:15 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:15 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:16 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:16 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:16 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:16 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:16 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:16 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:17 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:17 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:17 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:18 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:18 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:18 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:19 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:19 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:19 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:19 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 3:20 CH
+BAG:mygoku remove 1xRada cấp 1 lydo: Bán cho shop at 02/02/2023 3:20 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:20 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:21 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:21 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:22 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:22 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:22 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:22 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:22 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:22 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:23 CH
+BAG:mygoku remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 3:23 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:24 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:25 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:25 CH
+BAG:mygoku remove Găng vải thô lydo: Mặc cho đệ tử at 02/02/2023 3:26 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:26 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:26 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:28 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:28 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:28 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:28 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:28 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:29 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:29 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:29 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:29 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:29 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:30 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:31 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:31 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:31 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:32 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:32 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:33 CH
+BAG:mygoku remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 3:34 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:34 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:35 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:35 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:35 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:36 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:36 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:36 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:36 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:36 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:37 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:38 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:38 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:38 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:38 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:39 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:39 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:39 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:39 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:39 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:40 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:40 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:40 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:41 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:41 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:41 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:41 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:41 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:42 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:42 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:42 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:42 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:43 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:43 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:47 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:47 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:47 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:47 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:47 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:47 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:48 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:48 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:48 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:48 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:48 CH
+BAG:mygoku remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 3:48 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:48 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:48 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:49 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:49 CH
+BAG:mygoku remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:50 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 3:52 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:53 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:53 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:53 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:53 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:53 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:54 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:54 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:54 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 3:55 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:56 CH
+BAG:mygoku remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:57 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:58 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 3:58 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:59 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 3:59 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:01 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:01 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:01 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:01 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 4:01 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:01 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:06 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:06 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:06 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:06 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:06 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:06 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:06 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:08 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:08 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:08 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:08 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:09 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:09 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:09 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:09 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:09 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:10 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:10 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:10 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:10 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:10 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:11 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 4:12 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:13 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:13 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:13 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:14 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:14 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:14 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:14 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:14 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:15 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:15 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:15 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:15 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:15 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:mygoku remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:26 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:27 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:27 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:27 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:27 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:27 CH
+BAG:mygoku remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 4:30 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 4:30 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:34 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:34 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:34 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:34 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:34 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:34 CH
+BAG:mygoku remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 4:34 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:35 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:35 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:35 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:37 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:37 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:37 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:37 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:38 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:39 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:39 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 4:39 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:39 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:39 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:42 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:42 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:42 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:42 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:43 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:43 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:43 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:43 CH
+BAG:mygoku remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 4:44 CH
+BAG:mygoku remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:54 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:54 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:54 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:55 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:55 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 4:57 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:59 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:59 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:59 CH
+BAG:mygoku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:59 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:00 CH
+BAG:mygoku remove Găng siêu Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 5:00 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 5:21 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 5:38 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 5:44 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 5:55 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:02 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:08 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:14 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:20 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:26 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:32 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:38 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:44 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:50 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 6:56 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:02 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:08 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:14 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:19 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:19 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:19 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:19 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:19 CH
+BAG:mygoku remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 7:23 CH
+BAG:mygoku remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:24 CH
+BAG:mygoku remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:24 CH
+BAG:mygoku remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:24 CH
+BAG:mygoku remove Găng lưỡng long lydo: Mặc vào người at 02/02/2023 7:33 CH
+BAG:mygoku remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 7:33 CH
+BAG:mygoku remove Áo vải thô lydo: Mặc vào người at 02/02/2023 7:33 CH
+BAG:mygoku remove Quần vải thô lydo: Mặc vào người at 02/02/2023 7:33 CH
+BAG:mygoku remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 7:34 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 CH
+BAG:mygoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:mygoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:mygoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:38 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:mygoku remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:mygoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:41 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:47 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:31 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:37 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:43 CH
+BAG:mygoku remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:49 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:52 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:54 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:54 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:54 CH
+BAG:mygoku remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 8:54 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:54 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:54 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:54 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:55 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:55 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:55 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:55 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:55 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:55 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:55 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:56 CH
+BAG:mygoku remove Áo vải thô lydo: Mặc vào người at 02/02/2023 8:56 CH
+BAG:mygoku remove Quần vải thô lydo: Mặc vào người at 02/02/2023 8:56 CH
+BAG:mygoku remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 8:56 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:56 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:56 CH
+BAG:mygoku remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:56 CH
+BAG:mygoku remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:00 CH
+BAG:mygoku remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 9:01 CH
+BAG:mygoku remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 9:01 CH
+BAG:mygoku remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 9:01 CH
+BAG:mygoku remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 9:01 CH
+BAG:mygoku remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 9:01 CH
+BAG:mygoku remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 9:01 CH
+BAG:mygoku remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 9:02 CH
+BAG:mygoku remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 9:02 CH
+BAG:mygoku remove Găng lưỡng long lydo: Mặc vào người at 02/02/2023 9:02 CH
+BAG:mygoku remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:02 CH
+BAG:mygoku remove Cải trang lydo: Cất vào rương at 02/02/2023 9:02 CH
+BAG:mygoku remove Cải trang lydo: Cất vào rương at 02/02/2023 9:02 CH
+BAG:mygoku remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 9:02 CH

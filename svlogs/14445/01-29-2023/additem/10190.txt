@@ -1,0 +1,42 @@
+BAG:gohanbest add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 5:55 PM
+BAG:gohanbest add 1xBột mì lydo: Nhặt từ map at 01/29/2023 6:06 PM
+BAG:gohanbest add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 01/29/2023 6:06 PM
+BAG:gohanbest add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 6:06 PM
+BAG:gohanbest add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 6:06 PM
+BAG:gohanbest add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 6:07 PM
+BAG:gohanbest add 2xBột mì (old: 1) lydo: Nhặt từ map at 01/29/2023 6:08 PM
+BAG:gohanbest add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 6:08 PM
+BAG:gohanbest add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 6:15 PM
+BAG:gohanbest add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 6:16 PM
+BAG:gohanbest add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/29/2023 6:17 PM
+BAG:gohanbest add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 6:19 PM
+BAG:gohanbest add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 6:19 PM
+BAG:gohanbest add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 6:19 PM
+BAG:gohanbest add 1xMảnh Khủng long lydo: Nhặt từ map at 01/29/2023 6:20 PM
+BAG:gohanbest add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 01/29/2023 6:20 PM
+BAG:gohanbest add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/29/2023 6:21 PM
+BAG:gohanbest add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 01/29/2023 6:21 PM
+BAG:gohanbest add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 6:21 PM
+BAG:gohanbest add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 6:21 PM
+BAG:gohanbest add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 6:21 PM
+BAG:gohanbest add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 6:22 PM
+BAG:gohanbest add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 6:23 PM
+BAG:gohanbest add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 6:24 PM
+BAG:gohanbest add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/29/2023 6:25 PM
+BAG:gohanbest add 1xMảnh Phi long lydo: Nhặt từ map at 01/29/2023 6:26 PM
+BAG:gohanbest add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 6:26 PM
+BAG:gohanbest add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 6:26 PM
+BAG:gohanbest add 20xThỏi vàng lydo: Giftcode at 01/29/2023 6:28 PM
+BAG:gohanbest add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 6:29 PM
+BAG:gohanbest add 1xMèo mun lydo: Mua từ cửa hàng at 01/29/2023 6:29 PM
+BAG:gohanbest add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 6:29 PM
+BAG:gohanbest add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 6:29 PM
+BAG:gohanbest add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 01/29/2023 6:31 PM
+BAG:gohanbest add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/29/2023 6:33 PM
+BAG:gohanbest add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/29/2023 6:33 PM
+BAG:gohanbest add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 6:33 PM
+BAG:gohanbest add 1xMảnh Khủng long lydo: Nhặt từ map at 01/29/2023 6:33 PM
+BAG:gohanbest add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/29/2023 6:33 PM
+BAG:gohanbest add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 6:33 PM
+BAG:gohanbest add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/29/2023 6:34 PM
+BAG:gohanbest add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 6:34 PM

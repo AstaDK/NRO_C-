@@ -1,0 +1,180 @@
+BAG:caytien remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:27 SA
+BAG:caytien remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:caytien remove 1xGà quay nguyên con lydo: Bán cho shop at 02/02/2023 11:28 SA
+BAG:caytien remove 2xĐá Ruby lydo: Bán cho shop at 02/02/2023 11:28 SA
+BAG:caytien remove 2xĐá Titan lydo: Bán cho shop at 02/02/2023 11:28 SA
+BAG:caytien remove 2xĐá lục bảo lydo: Bán cho shop at 02/02/2023 11:28 SA
+BAG:caytien remove Găng len Pico lydo: Mặc vào người at 02/02/2023 11:29 SA
+BAG:caytien remove 1xNgọc Rồng 5 sao lydo: Bán cho shop at 02/02/2023 11:32 SA
+BAG:caytien remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 11:32 SA
+BAG:caytien remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 11:32 SA
+BAG:caytien remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 11:33 SA
+BAG:caytien remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 11:33 SA
+BAG:caytien remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 11:35 SA
+BAG:caytien remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:35 SA
+BAG:caytien remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:36 SA
+BAG:caytien remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:36 SA
+BAG:caytien remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:36 SA
+BAG:caytien remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:36 SA
+BAG:caytien remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:36 SA
+BAG:caytien remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:36 SA
+BAG:caytien remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:37 SA
+BAG:caytien remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:37 SA
+BAG:caytien remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:37 SA
+BAG:caytien remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:37 SA
+BAG:caytien remove 3xĐậu thần cấp 1 lydo: Bán cho shop at 02/02/2023 11:38 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:38 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:39 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:39 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:40 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:40 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:40 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:41 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:41 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:41 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:42 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:42 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:43 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:43 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:43 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:44 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:44 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:44 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:45 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:45 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:46 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:46 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:46 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:47 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:47 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:47 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:48 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:48 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:49 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:49 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:49 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:50 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:50 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:51 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:51 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:51 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:52 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:52 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:53 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:53 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:54 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:54 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:54 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:55 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:55 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:56 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:56 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:56 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:57 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:57 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:58 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:58 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:59 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:59 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:59 SA
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:00 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:00 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:01 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:01 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:02 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:02 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:02 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:03 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:03 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:04 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:04 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:05 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:05 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:06 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:06 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:06 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:07 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:07 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:08 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:08 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:09 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:09 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:10 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:10 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:11 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:11 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:12 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:12 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:13 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:13 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:14 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:14 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:15 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:15 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:16 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:16 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:17 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:17 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:18 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:18 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:19 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:19 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:20 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:20 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:21 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:21 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:22 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:22 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:23 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:23 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:24 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:24 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:25 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:25 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:26 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:26 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:27 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:27 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:28 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:28 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:29 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:29 CH
+BAG:caytien remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 12:30 CH
+BAG:caytien remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:30 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:30 CH
+BAG:caytien remove 1xĐá Ruby lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:32 CH
+BAG:caytien remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:33 CH
+BAG:caytien remove Găng len Pico lydo: Tự Xóa vật phẩm at 02/02/2023 12:33 CH
+BAG:caytien remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:34 CH
+BAG:caytien remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:caytien remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:caytien remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:caytien remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:caytien remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:caytien remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:caytien remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:36 CH
+BAG:caytien remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:36 CH
+BAG:caytien remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:36 CH

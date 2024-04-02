@@ -1,0 +1,21 @@
+BAG:thuan add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 11:09 CH
+BAG:thuan add 20xThỏi vàng lydo: Giftcode at 02/02/2023 11:13 CH
+BAG:thuan add 1xMèo mun lydo: Mua từ cửa hàng at 02/02/2023 11:14 CH
+BAG:thuan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 11:14 CH
+BAG:thuan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 11:14 CH
+BAG:thuan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 11:14 CH
+BAG:thuan add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 11:14 CH
+BAG:thuan add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 11:15 CH
+BAG:thuan add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 11:15 CH
+BAG:thuan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 11:15 CH
+BAG:thuan add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:thuan add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:thuan add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 11:20 CH
+BAG:thuan add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 11:20 CH
+BAG:thuan add 18xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 11:20 CH
+BAG:thuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:thuan add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:thuan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:thuan add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:thuan add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:thuan add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:25 CH

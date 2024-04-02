@@ -1,0 +1,21 @@
+BAG:betum remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 1:46 CH
+BAG:betum remove Quần vải đen lydo: Tự Xóa vật phẩm at 02/03/2023 1:48 CH
+BAG:betum remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:54 CH
+BAG:betum remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:54 CH
+BAG:betum remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:55 CH
+BAG:betum remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:55 CH
+BAG:betum remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:55 CH
+BAG:betum remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 1:56 CH
+BAG:betum remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:56 CH
+BAG:betum remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 1:56 CH
+BAG:betum remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:57 CH
+BAG:betum remove Găng vải dày lydo: Mặc vào người at 02/03/2023 1:58 CH
+BAG:betum remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/03/2023 2:00 CH
+BAG:betum remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 2:00 CH
+BAG:betum remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 2:01 CH
+BAG:betum remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 2:01 CH
+BAG:betum remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/03/2023 2:01 CH
+BAG:betum remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 2:02 CH
+BAG:betum remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 2:02 CH
+BAG:betum remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 2:05 CH
+BAG:betum remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 2:05 CH

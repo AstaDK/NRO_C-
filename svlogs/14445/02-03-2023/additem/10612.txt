@@ -1,0 +1,177 @@
+BAG:tansat add 1xGiầy vải thô lydo: Lấy từ rương qua người at 02/03/2023 11:36 SA
+BAG:tansat add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:tansat add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:tansat add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:tansat add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:tansat add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:tansat add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:tansat add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:tansat add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:tansat add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:tansat add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:tansat add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:tansat add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:tansat add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:tansat add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:tansat add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:tansat add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:tansat add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:tansat add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:tansat add 96xĐá Ruby (old: 95) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:tansat add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:tansat add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:tansat add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:tansat add 97xĐá Ruby (old: 96) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:tansat add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:tansat add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:tansat add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:tansat add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:tansat add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:tansat add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:tansat add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:tansat add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:tansat add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:tansat add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:tansat add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:tansat add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:tansat add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:tansat add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 24xBột mì (old: 23) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:tansat add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:tansat add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:tansat add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:tansat add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:tansat add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:tansat add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:tansat add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tansat add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tansat add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tansat add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tansat add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:tansat add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:tansat add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tansat add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tansat add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tansat add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tansat add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tansat add 98xĐá Ruby (old: 97) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tansat add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:tansat add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:tansat add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:tansat add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:tansat add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:tansat add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 02/03/2023 12:11 CH
+BAG:tansat add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 02/03/2023 12:11 CH
+BAG:tansat add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 02/03/2023 12:11 CH
+BAG:tansat add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 02/03/2023 12:11 CH
+BAG:tansat add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 02/03/2023 12:11 CH
+BAG:tansat add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 02/03/2023 12:11 CH
+BAG:tansat add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 02/03/2023 12:11 CH
+BAG:tansat add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:tansat add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:tansat add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:tansat add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:tansat add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:tansat add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:tansat add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:tansat add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:tansat add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:tansat add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:tansat add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:tansat add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:tansat add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:tansat add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:tansat add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:tansat add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:tansat add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:tansat add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:tansat add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:tansat add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 12:26 CH
+BAG:tansat add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:tansat add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:tansat add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:tansat add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:tansat add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:tansat add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 1:12 CH
+BAG:tansat add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 1:12 CH
+BAG:tansat add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 1:13 CH
+BAG:tansat add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 1:13 CH
+BAG:tansat add 20xThỏi vàng lydo: Đổi vàng at 02/03/2023 1:32 CH
+BAG:tansat add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 1:33 CH
+BAG:tansat add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 1:33 CH
+BAG:tansat add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 1:33 CH
+BAG:tansat add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 1:33 CH
+BAG:tansat add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 1:33 CH
+BAG:tansat add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 1:49 CH
+BAG:tansat add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 02/03/2023 1:49 CH
+BAG:tansat add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 02/03/2023 1:49 CH
+BAG:tansat add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 02/03/2023 1:49 CH
+BAG:tansat add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 02/03/2023 1:49 CH
+BAG:tansat add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 02/03/2023 1:50 CH
+BAG:tansat add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/03/2023 1:50 CH
+BAG:tansat add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 02/03/2023 1:50 CH
+BAG:tansat add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 02/03/2023 1:50 CH
+BAG:tansat add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 1:52 CH
+BAG:tansat add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 1:54 CH
+BAG:tansat add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 1:54 CH
+BAG:tansat add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 02/03/2023 1:54 CH
+BAG:tansat add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 1:56 CH
+BAG:tansat add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 1:56 CH
+BAG:tansat add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/03/2023 1:57 CH
+BAG:tansat add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 02/03/2023 1:57 CH
+BAG:tansat add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 02/03/2023 1:58 CH
+BAG:tansat add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 02/03/2023 1:58 CH
+BAG:tansat add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 02/03/2023 1:58 CH
+BAG:tansat add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/03/2023 1:58 CH
+BAG:tansat add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 1:59 CH
+BAG:tansat add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 1:59 CH
+BAG:tansat add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 2:00 CH
+BAG:tansat add 6xSao pha lê lydo: (GD) Nhận từ huyenthoai at 02/03/2023 2:04 CH
+BAG:tansat add 5xNgọc Rồng 7 sao lydo: (GD) Nhận từ huyenthoai at 02/03/2023 2:04 CH
+BAG:tansat add 99xThỏi vàng lydo: (GD) Nhận từ huyenthoai at 02/03/2023 2:04 CH
+BAG:tansat add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 2:04 CH
+BAG:tansat add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 2:05 CH

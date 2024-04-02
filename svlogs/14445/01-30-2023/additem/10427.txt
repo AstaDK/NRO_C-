@@ -1,0 +1,20 @@
+BAG:zinvipp add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 01/30/2023 4:27 PM
+BAG:zinvipp add 8xĐậu thần cấp 5 lydo: Thu hoạch đậu at 01/30/2023 4:28 PM
+BAG:zinvipp add 13xĐậu thần cấp 5 (old: 8) lydo: Lấy từ rương qua người at 01/30/2023 4:29 PM
+BAG:zinvipp add 15xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 01/30/2023 4:29 PM
+BAG:zinvipp add 35xĐậu thần cấp 10 (old: 15) lydo: Lấy từ rương qua người at 01/30/2023 4:29 PM
+BAG:zinvipp add 55xĐậu thần cấp 10 (old: 35) lydo: Lấy từ rương qua người at 01/30/2023 4:29 PM
+BAG:zinvipp add 75xĐậu thần cấp 10 (old: 55) lydo: Lấy từ rương qua người at 01/30/2023 4:30 PM
+BAG:zinvipp add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 4:31 PM
+BAG:zinvipp add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 4:34 PM
+BAG:zinvipp add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 4:36 PM
+BAG:zinvipp add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 4:38 PM
+BAG:zinvipp add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/30/2023 4:40 PM
+BAG:zinvipp add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 4:40 PM
+BAG:zinvipp add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 4:41 PM
+BAG:zinvipp add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 4:44 PM
+BAG:zinvipp add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/30/2023 4:45 PM
+BAG:zinvipp add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 4:45 PM
+BAG:zinvipp add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/30/2023 4:46 PM
+BAG:zinvipp add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 01/30/2023 4:47 PM
+BAG:zinvipp add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 4:49 PM

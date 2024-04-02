@@ -1,0 +1,20 @@
+BAG:newbie035 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 8:32 CH
+BAG:newbie035 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 8:35 CH
+BAG:newbie035 add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:newbie035 add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:newbie035 add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:newbie035 add 1xLì xì lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:newbie035 add 1xCây mai lydo: Nhặt từ map at 02/02/2023 8:37 CH
+BAG:newbie035 add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 8:37 CH
+BAG:newbie035 add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 8:37 CH
+BAG:newbie035 add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:newbie035 add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:newbie035 add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:newbie035 add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:newbie035 add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 8:39 CH
+BAG:newbie035 add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 8:39 CH
+BAG:newbie035 add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:newbie035 add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:newbie035 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:newbie035 add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:newbie035 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 8:41 CH

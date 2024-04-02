@@ -1,0 +1,6 @@
+BAG:tiendzp add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 10:32 PM
+BAG:tiendzp add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 10:38 PM
+BAG:tiendzp add 1xBột mì lydo: Nhặt từ map at 01/29/2023 10:38 PM
+BAG:tiendzp add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 10:39 PM
+BAG:tiendzp add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 10:39 PM
+BAG:tiendzp add 1xGà quay nguyên con lydo: Nhặt từ map at 01/29/2023 10:39 PM

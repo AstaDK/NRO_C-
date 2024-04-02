@@ -1,0 +1,12 @@
+BAG:ksssss add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/01/2023 6:25 SA
+BAG:ksssss add 1xCải trang Nobita lydo: Mua từ cửa hàng at 02/01/2023 6:25 SA
+BAG:ksssss add 20xThỏi vàng lydo: Giftcode at 02/01/2023 6:26 SA
+BAG:ksssss add 10xĐậu thần cấp 6 lydo: Thu hoạch đậu at 02/01/2023 7:00 SA
+BAG:ksssss add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 7:04 SA
+BAG:ksssss add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 02/01/2023 7:05 SA
+BAG:ksssss add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 02/01/2023 7:05 SA
+BAG:ksssss add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 02/01/2023 7:05 SA
+BAG:ksssss add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 02/01/2023 7:06 SA
+BAG:ksssss add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 02/01/2023 7:06 SA
+BAG:ksssss add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 02/01/2023 7:06 SA
+BAG:ksssss add 1xPhi Long VIP lydo: Mua từ cửa hàng at 02/01/2023 7:06 SA

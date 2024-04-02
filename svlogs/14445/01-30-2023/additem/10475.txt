@@ -1,0 +1,50 @@
+BAG:tindzvcl add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 3:07 AM
+BAG:tindzvcl add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 3:07 AM
+BAG:tindzvcl add 5xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/30/2023 3:13 AM
+BAG:tindzvcl add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 3:13 AM
+BAG:tindzvcl add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 3:14 AM
+BAG:tindzvcl add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 3:15 AM
+BAG:tindzvcl add 1xCột nhà lydo: Mua từ cửa hàng at 01/30/2023 3:17 AM
+BAG:tindzvcl add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:tindzvcl add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:tindzvcl add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:tindzvcl add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:tindzvcl add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:tindzvcl add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 01/30/2023 3:18 AM
+BAG:tindzvcl add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 3:19 AM
+BAG:tindzvcl add 20xThỏi vàng lydo: Giftcode at 01/30/2023 3:19 AM
+BAG:tindzvcl add 1xCải trang lydo: Mua từ cửa hàng at 01/30/2023 3:20 AM
+BAG:tindzvcl add 1xMèo mun lydo: Mua từ cửa hàng at 01/30/2023 3:20 AM
+BAG:tindzvcl add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/30/2023 3:20 AM
+BAG:tindzvcl add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 01/30/2023 3:24 AM
+BAG:tindzvcl add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/30/2023 3:25 AM
+BAG:tindzvcl add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:25 AM
+BAG:tindzvcl add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 3:26 AM
+BAG:tindzvcl add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 01/30/2023 3:28 AM
+BAG:tindzvcl add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 3:28 AM
+BAG:tindzvcl add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 3:28 AM
+BAG:tindzvcl add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:tindzvcl add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:tindzvcl add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:tindzvcl add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 3:29 AM
+BAG:tindzvcl add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 3:30 AM
+BAG:tindzvcl add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 3:30 AM
+BAG:tindzvcl add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 3:30 AM
+BAG:tindzvcl add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 3:30 AM
+BAG:tindzvcl add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 3:31 AM
+BAG:tindzvcl add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 3:31 AM
+BAG:tindzvcl add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/30/2023 3:31 AM
+BAG:tindzvcl add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/30/2023 3:31 AM
+BAG:tindzvcl add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 3:31 AM
+BAG:tindzvcl add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:tindzvcl add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:tindzvcl add 1xGà quay nguyên con lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:tindzvcl add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:tindzvcl add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 3:32 AM
+BAG:tindzvcl add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 3:33 AM
+BAG:tindzvcl add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 01/30/2023 3:33 AM
+BAG:tindzvcl add 10xĐậu thần cấp 10 (old: 1) lydo: Thu hoạch đậu at 01/30/2023 3:34 AM
+BAG:tindzvcl add 1xGhế bay lydo: Mua từ cửa hàng at 01/30/2023 3:34 AM
+BAG:tindzvcl add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 01/30/2023 3:37 AM
+BAG:tindzvcl add 1xDiều rồng lydo: Mua từ cửa hàng at 01/30/2023 3:38 AM
+BAG:tindzvcl add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 01/30/2023 3:38 AM

@@ -1,0 +1,173 @@
+BAG:admin add 1xÁo Thiên Sứ lydo: Lấy từ body vào hành trang at 02/02/2023 7:46 SA
+BAG:admin add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:47 SA
+BAG:admin add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:47 SA
+BAG:admin add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:47 SA
+BAG:admin add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:47 SA
+BAG:admin add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 7:47 SA
+BAG:admin add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:48 SA
+BAG:admin add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:48 SA
+BAG:admin add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:48 SA
+BAG:admin add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:48 SA
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 7:48 SA
+BAG:admin add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:48 SA
+BAG:admin add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:49 SA
+BAG:admin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/02/2023 7:49 SA
+BAG:admin add 1xCT Genma 02 lydo: Lấy từ rương qua người at 02/02/2023 8:55 SA
+BAG:admin add 1xMèo mun lydo: Mua từ cửa hàng at 02/02/2023 8:59 SA
+BAG:admin add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 02/02/2023 9:03 SA
+BAG:admin add 1xGiầy Thần Namếc lydo: buff at 02/02/2023 9:12 SA
+BAG:admin add 1xQuần Thần Linh lydo: buff at 02/02/2023 9:12 SA
+BAG:admin add 1xÁo Thần Namếc lydo: buff at 02/02/2023 9:12 SA
+BAG:admin add 1xCải trang lydo: buff at 02/02/2023 9:13 SA
+BAG:admin add 1xCải trang lydo: buff at 02/02/2023 9:13 SA
+BAG:admin add 1xCải trang lydo: buff at 02/02/2023 9:13 SA
+BAG:admin add 1xQuần Hủy Diệt lydo: buff at 02/02/2023 9:14 SA
+BAG:admin add 1xNhẫn Hủy Diệt lydo: buff at 02/02/2023 9:14 SA
+BAG:admin add 1xGăng Hủy Diệt lydo: buff at 02/02/2023 9:14 SA
+BAG:admin add 1xGiầy Hủy Diệt lydo: buff at 02/02/2023 9:14 SA
+BAG:admin add 1xSách học Trị thương lv2 lydo: buff at 02/02/2023 9:15 SA
+BAG:admin add 1xÁo Thần Xayda lydo: buff at 02/02/2023 9:15 SA
+BAG:admin add 1005616xThỏi vàng (old: 1005416) lydo: Đổi vàng at 02/02/2023 1:25 CH
+BAG:admin add 101xLì xì (old: 2) lydo: buff at 02/02/2023 1:26 CH
+BAG:admin add 1xCải Trang Thần Zeno Xayda lydo: buff at 02/02/2023 2:00 CH
+BAG:admin add 1xCải Trang Thần Zeno Namec lydo: buff at 02/02/2023 2:00 CH
+BAG:admin add 99xPháo hoa lydo: buff at 02/02/2023 2:17 CH
+BAG:admin add 103xCây mai (old: 4) lydo: buff at 02/02/2023 2:17 CH
+BAG:admin add 102xBình rượu (old: 3) lydo: buff at 02/02/2023 2:18 CH
+BAG:admin add 1005715xThỏi vàng (old: 1005616) lydo: Lấy từ rương qua người at 02/02/2023 2:19 CH
+BAG:admin add 1006061xThỏi vàng (old: 1005715) lydo: Lấy từ rương qua người at 02/02/2023 2:19 CH
+BAG:admin add 1xGiáp Xên bọ hung lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 1xBổ huyết lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 2xGiáp Xên bọ hung (old: 1) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 1xẨn danh lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 1xVàng lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 2xBổ huyết (old: 1) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 33xCuồng nộ (old: 32) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 2xPhượng Hoàng Lửa (old: 1) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 2xVàng (old: 1) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 3xPhượng Hoàng Lửa (old: 2) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 3xVàng (old: 2) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 3xBổ huyết (old: 2) lydo: SuKien at 02/02/2023 2:21 CH
+BAG:admin add 1xCải Trang Thần Zeno lydo: buff at 02/02/2023 2:29 CH
+BAG:admin add 1xLì xì lydo: Nhặt từ map at 02/02/2023 3:22 CH
+BAG:admin add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 3:22 CH
+BAG:admin add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 3:22 CH
+BAG:admin add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 3:22 CH
+BAG:admin add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 3:22 CH
+BAG:admin add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 3:22 CH
+BAG:admin add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 3:22 CH
+BAG:admin add 3xCây mai lydo: Lấy từ rương qua người at 02/02/2023 3:23 CH
+BAG:admin add 5xBình rượu lydo: Lấy từ rương qua người at 02/02/2023 3:23 CH
+BAG:admin add 3xPháo hoa lydo: Lấy từ rương qua người at 02/02/2023 3:23 CH
+BAG:admin add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 3:24 CH
+BAG:admin add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 3:25 CH
+BAG:admin add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 3:25 CH
+BAG:admin add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 3:25 CH
+BAG:admin add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 3:25 CH
+BAG:admin add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 3:25 CH
+BAG:admin add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 3:25 CH
+BAG:admin add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 3:25 CH
+BAG:admin add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 3:26 CH
+BAG:admin add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 3:27 CH
+BAG:admin add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 3:30 CH
+BAG:admin add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 3:31 CH
+BAG:admin add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 3:32 CH
+BAG:admin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 3:33 CH
+BAG:admin add 1xÁo sợi len lydo: buff at 02/02/2023 3:34 CH
+BAG:admin add 1xÁo vải 3 lỗ lydo: admin at 02/02/2023 3:36 CH
+BAG:admin add 1xÁo vải thô lydo: admin at 02/02/2023 3:36 CH
+BAG:admin add 1xQuần vải thô lydo: admin at 02/02/2023 3:37 CH
+BAG:admin add 1xRada cấp 1 lydo: admin at 02/02/2023 3:37 CH
+BAG:admin add 3xVàng lydo: Lấy từ rương qua người at 02/02/2023 3:53 CH
+BAG:admin add 99xBổ khí (old: 98) lydo: SuKien at 02/02/2023 3:53 CH
+BAG:admin add 1xBổ huyết lydo: SuKien at 02/02/2023 3:54 CH
+BAG:admin add 1005965xThỏi vàng (old: 1005866) lydo: Lấy từ rương qua người at 02/02/2023 3:55 CH
+BAG:admin add 99xThỏi vàng lydo: buff at 02/02/2023 3:55 CH
+BAG:admin add 81xCây mai (old: 11) lydo: buff at 02/02/2023 3:59 CH
+BAG:admin add 73xLì xì (old: 3) lydo: buff at 02/02/2023 4:00 CH
+BAG:admin add 78xBình rượu (old: 8) lydo: buff at 02/02/2023 4:00 CH
+BAG:admin add 73xPháo hoa (old: 3) lydo: buff at 02/02/2023 4:00 CH
+BAG:admin add 1xGiáp Xên bọ hung lydo: SuKien at 02/02/2023 4:00 CH
+BAG:admin add 4xVàng (old: 3) lydo: SuKien at 02/02/2023 4:00 CH
+BAG:admin add 5xVàng (old: 4) lydo: SuKien at 02/02/2023 4:01 CH
+BAG:admin add 1xGiáp Xên bọ hung lydo: SuKien at 02/02/2023 4:01 CH
+BAG:admin add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/02/2023 4:01 CH
+BAG:admin add 94xCây mai (old: 44) lydo: buff at 02/02/2023 4:02 CH
+BAG:admin add 86xLì xì (old: 36) lydo: buff at 02/02/2023 4:02 CH
+BAG:admin add 91xBình rượu (old: 41) lydo: buff at 02/02/2023 4:02 CH
+BAG:admin add 91xPháo hoa (old: 41) lydo: buff at 02/02/2023 4:02 CH
+BAG:admin add 99xThỏi vàng lydo: Lấy từ rương qua người at 02/02/2023 4:04 CH
+BAG:admin add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/02/2023 4:04 CH
+BAG:admin add 1xBổ khí lydo: SuKien at 02/02/2023 4:06 CH
+BAG:admin add 6xVàng (old: 5) lydo: SuKien at 02/02/2023 4:06 CH
+BAG:admin add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/02/2023 4:06 CH
+BAG:admin add 91xPháo hoa lydo: Lấy từ rương qua người at 02/02/2023 4:07 CH
+BAG:admin add 1xBổ huyết lydo: SuKien at 02/02/2023 4:07 CH
+BAG:admin add 1xGiáp Xên bọ hung lydo: SuKien at 02/02/2023 4:07 CH
+BAG:admin add 1xBổ khí lydo: SuKien at 02/02/2023 4:07 CH
+BAG:admin add 7xVàng (old: 6) lydo: SuKien at 02/02/2023 4:07 CH
+BAG:admin add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/02/2023 4:07 CH
+BAG:admin add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 4:12 CH
+BAG:admin add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 02/02/2023 4:16 CH
+BAG:admin add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/02/2023 4:16 CH
+BAG:admin add 1xBổ khí lydo: SuKien at 02/02/2023 5:12 CH

@@ -1,0 +1,89 @@
+BAG:darkslord remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 6:58 PM
+BAG:darkslord remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/29/2023 7:01 PM
+BAG:darkslord remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 01/29/2023 7:02 PM
+BAG:darkslord remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 01/29/2023 7:02 PM
+BAG:darkslord remove Cải trang Hit lydo: Mặc vào người at 01/29/2023 7:02 PM
+BAG:darkslord remove Viên Capsule đặc biệt lydo: Cất vào rương at 01/29/2023 7:08 PM
+BAG:darkslord remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 7:08 PM
+BAG:darkslord remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:09 PM
+BAG:darkslord remove Giày nhựa cứng lydo: Mặc vào người at 01/29/2023 7:12 PM
+BAG:darkslord remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:13 PM
+BAG:darkslord remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:14 PM
+BAG:darkslord remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:19 PM
+BAG:darkslord remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:22 PM
+BAG:darkslord remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:23 PM
+BAG:darkslord remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:36 PM
+BAG:darkslord remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:39 PM
+BAG:darkslord remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:39 PM
+BAG:darkslord remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 7:45 PM
+BAG:darkslord remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:49 PM
+BAG:darkslord remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:57 PM
+BAG:darkslord remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:01 PM
+BAG:darkslord remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 8:05 PM
+BAG:darkslord remove Rada cấp 1 lydo: Cất vào rương at 01/29/2023 8:05 PM
+BAG:darkslord remove Áo sợi len lydo: Cất vào rương at 01/29/2023 8:05 PM
+BAG:darkslord remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:08 PM
+BAG:darkslord remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:12 PM
+BAG:darkslord remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:20 PM
+BAG:darkslord remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:32 PM
+BAG:darkslord remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:38 PM
+BAG:darkslord remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 8:46 PM
+BAG:darkslord remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 8:52 PM
+BAG:darkslord remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 9:09 PM
+BAG:darkslord remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 9:09 PM
+BAG:darkslord remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 9:09 PM
+BAG:darkslord remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 9:09 PM
+BAG:darkslord remove 10xTrứng vịt muối lydo: Nấu bánh at 01/29/2023 9:10 PM
+BAG:darkslord remove 10xGà quay nguyên con lydo: Nấu bánh at 01/29/2023 9:10 PM
+BAG:darkslord remove 10xBột mì lydo: Nấu bánh at 01/29/2023 9:10 PM
+BAG:darkslord remove 10xĐậu xanh lydo: Nấu bánh at 01/29/2023 9:10 PM
+BAG:darkslord remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 9:12 PM
+BAG:darkslord remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 9:13 PM
+BAG:darkslord remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 9:13 PM
+BAG:darkslord remove Đá Saphia lydo: Cất vào rương at 01/29/2023 9:13 PM
+BAG:darkslord remove Đá lục bảo lydo: Cất vào rương at 01/29/2023 9:13 PM
+BAG:darkslord remove Đá thạch anh tím lydo: Cất vào rương at 01/29/2023 9:13 PM
+BAG:darkslord remove Găng sợi len lydo: Cất vào rương at 01/29/2023 9:20 PM
+BAG:darkslord remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/29/2023 9:34 PM
+BAG:darkslord remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 01/29/2023 9:34 PM
+BAG:darkslord remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 01/29/2023 9:35 PM
+BAG:darkslord remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/29/2023 9:35 PM
+BAG:darkslord remove Cải trang Hit lydo: Mặc vào người at 01/29/2023 9:36 PM
+BAG:darkslord remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 01/29/2023 9:38 PM
+BAG:darkslord remove Găng len cứng lydo: Tự Xóa vật phẩm at 01/29/2023 9:39 PM
+BAG:darkslord remove Cải trang lydo: Tự Xóa vật phẩm at 01/29/2023 9:50 PM
+BAG:darkslord remove Sao pha lê lydo: Cất vào rương at 01/29/2023 9:50 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:50 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:50 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:51 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:51 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:54 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:54 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:57 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:57 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:58 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 9:59 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 10:27 PM
+BAG:darkslord remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/29/2023 10:27 PM
+BAG:darkslord remove Đá Ruby lydo: Cất vào rương at 01/29/2023 10:27 PM
+BAG:darkslord remove Đá Titan lydo: Cất vào rương at 01/29/2023 10:27 PM
+BAG:darkslord remove Cải trang Hit lydo: Cất vào rương at 01/29/2023 10:27 PM
+BAG:darkslord remove Sao pha lê lydo: Cất vào rương at 01/29/2023 10:28 PM
+BAG:darkslord remove Sao pha lê lydo: Cất vào rương at 01/29/2023 10:28 PM
+BAG:darkslord remove Cải trang lydo: Tự Xóa vật phẩm at 01/29/2023 10:28 PM
+BAG:darkslord remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 10:28 PM
+BAG:darkslord remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/29/2023 10:32 PM
+BAG:darkslord remove Găng thun cứng lydo: Tự Xóa vật phẩm at 01/29/2023 10:45 PM
+BAG:darkslord remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/29/2023 10:49 PM
+BAG:darkslord remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 01/29/2023 10:49 PM
+BAG:darkslord remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 01/29/2023 10:49 PM
+BAG:darkslord remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 01/29/2023 10:49 PM
+BAG:darkslord remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 01/29/2023 10:49 PM
+BAG:darkslord remove Sách đấm Demon lv7 lydo: Sách kĩ năng at 01/29/2023 10:49 PM
+BAG:darkslord remove Giầy sợi len lydo: Cất vào rương at 01/29/2023 11:03 PM
+BAG:darkslord remove Áo sợi len lydo: Cất vào rương at 01/29/2023 11:03 PM
+BAG:darkslord remove Quần sợi len lydo: Cất vào rương at 01/29/2023 11:03 PM
+BAG:darkslord remove Găng vải Pico lydo: Tự Xóa vật phẩm at 01/29/2023 11:05 PM
+BAG:darkslord remove Cải trang Hit lydo: Mặc vào người at 01/29/2023 11:06 PM
+BAG:darkslord remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:56 PM
+BAG:darkslord remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 11:57 PM

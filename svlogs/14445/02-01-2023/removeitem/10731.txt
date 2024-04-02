@@ -1,0 +1,100 @@
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:09 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:10 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:23 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:24 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:26 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:27 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:28 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:29 CH
+BAG:supergoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:30 CH
+BAG:supergoku remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 12:42 CH
+BAG:supergoku remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 12:45 CH
+BAG:supergoku remove Cải trang lydo: Mặc vào người at 02/01/2023 12:47 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:06 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:06 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 4:47 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:13 CH
+BAG:supergoku remove Găng lông Xayda lydo: Mặc vào người at 02/01/2023 5:16 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:38 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 6:27 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 6:53 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 7:23 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 7:43 CH
+BAG:supergoku remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/01/2023 9:31 CH
+BAG:supergoku remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/01/2023 9:31 CH
+BAG:supergoku remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/01/2023 9:31 CH
+BAG:supergoku remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/01/2023 9:31 CH
+BAG:supergoku remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/01/2023 9:31 CH
+BAG:supergoku remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/01/2023 9:31 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:34 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:36 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:38 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:41 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:43 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:46 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:48 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:49 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:50 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:51 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:52 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:53 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:54 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:55 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:56 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:57 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:58 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:59 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:00 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:01 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:02 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:03 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:04 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:05 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:06 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:07 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:08 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:09 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:10 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:11 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:12 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:13 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:14 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:15 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:16 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:17 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:18 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:19 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:20 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:21 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:21 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:23 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:24 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:25 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:26 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:27 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:28 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:29 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:30 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:31 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:32 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:33 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:34 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:35 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:36 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:37 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:38 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:39 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:40 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:41 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:43 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:44 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:45 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:46 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:47 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:48 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:49 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:50 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:51 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:52 CH
+BAG:supergoku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:53 CH

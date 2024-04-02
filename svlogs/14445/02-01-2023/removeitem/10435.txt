@@ -1,0 +1,23 @@
+BAG:anhpemtat remove Đẻ trứng lv1 lydo: Sách kĩ năng at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đẻ trứng lv2 lydo: Sách kĩ năng at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đẻ trứng lv3 lydo: Sách kĩ năng at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đẻ trứng lv4 lydo: Sách kĩ năng at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đẻ trứng lv5 lydo: Sách kĩ năng at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đẻ trứng lv6 lydo: Sách kĩ năng at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đẻ trứng lv7 lydo: Sách kĩ năng at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 12:36 CH
+BAG:anhpemtat remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 3:15 CH
+BAG:anhpemtat remove 4xThỏi vàng lydo: Giao dịch với anhksnhe at 02/01/2023 5:27 CH
+BAG:anhpemtat remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 6:21 CH
+BAG:anhpemtat remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 6:21 CH
+BAG:anhpemtat remove Đá Ruby lydo: Cất vào rương at 02/01/2023 9:12 CH
+BAG:anhpemtat remove Đá Saphia lydo: Cất vào rương at 02/01/2023 9:12 CH
+BAG:anhpemtat remove Đá lục bảo lydo: Cất vào rương at 02/01/2023 9:12 CH
+BAG:anhpemtat remove Đá Titan lydo: Cất vào rương at 02/01/2023 9:12 CH
+BAG:anhpemtat remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 9:13 CH
+BAG:anhpemtat remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 9:13 CH
+BAG:anhpemtat remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 9:13 CH
+BAG:anhpemtat remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 9:13 CH

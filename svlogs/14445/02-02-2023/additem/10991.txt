@@ -1,0 +1,67 @@
+BAG:nzksksa add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 6:14 CH
+BAG:nzksksa add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 6:14 CH
+BAG:nzksksa add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 02/02/2023 6:18 CH
+BAG:nzksksa add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 6:19 CH
+BAG:nzksksa add 1xCây mai lydo: Nhặt từ map at 02/02/2023 6:19 CH
+BAG:nzksksa add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 6:20 CH
+BAG:nzksksa add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 6:21 CH
+BAG:nzksksa add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 6:21 CH
+BAG:nzksksa add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:22 CH
+BAG:nzksksa add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 6:22 CH
+BAG:nzksksa add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 6:22 CH
+BAG:nzksksa add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 6:22 CH
+BAG:nzksksa add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 6:23 CH
+BAG:nzksksa add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 6:23 CH
+BAG:nzksksa add 1xMảnh Phi long lydo: Nhặt từ map at 02/02/2023 6:23 CH
+BAG:nzksksa add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 6:24 CH
+BAG:nzksksa add 3xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 6:24 CH
+BAG:nzksksa add 10xĐậu thần cấp 3 (old: 3) lydo: Thu hoạch đậu at 02/02/2023 6:25 CH
+BAG:nzksksa add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 6:25 CH
+BAG:nzksksa add 6xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 6:25 CH
+BAG:nzksksa add 18xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 6:25 CH
+BAG:nzksksa add 1xBột mì lydo: Nhặt từ map at 02/02/2023 6:25 CH
+BAG:nzksksa add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 6:27 CH
+BAG:nzksksa add 20xThỏi vàng lydo: Giftcode at 02/02/2023 6:28 CH
+BAG:nzksksa add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 6:30 CH
+BAG:nzksksa add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 6:30 CH
+BAG:nzksksa add 19xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 02/02/2023 6:31 CH
+BAG:nzksksa add 38xĐậu thần cấp 8 (old: 19) lydo: Lấy từ rương qua người at 02/02/2023 6:31 CH
+BAG:nzksksa add 57xĐậu thần cấp 8 (old: 38) lydo: Lấy từ rương qua người at 02/02/2023 6:32 CH
+BAG:nzksksa add 76xĐậu thần cấp 8 (old: 57) lydo: Lấy từ rương qua người at 02/02/2023 6:32 CH
+BAG:nzksksa add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:33 CH
+BAG:nzksksa add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 02/02/2023 6:34 CH
+BAG:nzksksa add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 02/02/2023 6:34 CH
+BAG:nzksksa add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 02/02/2023 6:34 CH
+BAG:nzksksa add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:34 CH
+BAG:nzksksa add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/02/2023 6:34 CH
+BAG:nzksksa add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 02/02/2023 6:35 CH
+BAG:nzksksa add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:36 CH
+BAG:nzksksa add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/02/2023 6:37 CH
+BAG:nzksksa add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:37 CH
+BAG:nzksksa add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 02/02/2023 6:37 CH
+BAG:nzksksa add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/02/2023 6:37 CH

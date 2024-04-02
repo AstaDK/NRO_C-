@@ -1,0 +1,236 @@
+BAG:adchimto add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:adchimto add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:adchimto add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:adchimto add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:adchimto add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:adchimto add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 1:43 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 1xLì xì lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/02/2023 1:44 SA
+BAG:adchimto add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 1:52 SA
+BAG:adchimto add 20xThỏi vàng lydo: Giftcode at 02/02/2023 1:52 SA
+BAG:adchimto add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 2:42 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/02/2023 2:43 SA
+BAG:adchimto add 1xLì xì lydo: Nhặt từ map at 02/02/2023 3:01 SA
+BAG:adchimto add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/02/2023 3:01 SA
+BAG:adchimto add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 3:02 SA
+BAG:adchimto add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 3:02 SA
+BAG:adchimto add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 3:02 SA
+BAG:adchimto add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 02/02/2023 3:03 SA
+BAG:adchimto add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/02/2023 3:04 SA
+BAG:adchimto add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 02/02/2023 3:04 SA
+BAG:adchimto add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/02/2023 3:05 SA
+BAG:adchimto add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 3:05 SA
+BAG:adchimto add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 02/02/2023 3:06 SA
+BAG:adchimto add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/02/2023 3:06 SA
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:37 CH
+BAG:adchimto add 1xCây mai lydo: Nhặt từ map at 02/02/2023 12:37 CH
+BAG:adchimto add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 12:37 CH
+BAG:adchimto add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 02/02/2023 12:37 CH
+BAG:adchimto add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 02/02/2023 12:38 CH
+BAG:adchimto add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 12:43 CH
+BAG:adchimto add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 12:47 CH
+BAG:adchimto add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/02/2023 12:55 CH
+BAG:adchimto add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 02/02/2023 1:08 CH
+BAG:adchimto add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 02/02/2023 1:09 CH
+BAG:adchimto add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 02/02/2023 1:15 CH
+BAG:adchimto add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/02/2023 1:16 CH
+BAG:adchimto add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/02/2023 2:35 CH
+BAG:adchimto add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 2:36 CH
+BAG:adchimto add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:adchimto add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:adchimto add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 1xQuần vải thô lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:adchimto add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adchimto add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adchimto add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adchimto add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adchimto add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adchimto add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adchimto add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 2:40 CH
+BAG:adchimto add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 1xRada cấp 1 lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 2:41 CH
+BAG:adchimto add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 1xBột mì lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:adchimto add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:adchimto add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 1xBột mì lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/02/2023 2:44 CH
+BAG:adchimto add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 2:45 CH
+BAG:adchimto add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adchimto add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adchimto add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adchimto add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adchimto add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adchimto add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adchimto add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 2:46 CH
+BAG:adchimto add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/02/2023 2:47 CH
+BAG:adchimto add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 1xRada cấp 1 lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/02/2023 2:48 CH
+BAG:adchimto add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 02/02/2023 2:49 CH
+BAG:adchimto add 1xBột mì lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 1xRada cấp 1 lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/02/2023 2:50 CH
+BAG:adchimto add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 02/02/2023 2:51 CH
+BAG:adchimto add 1xVàng lydo: SuKien at 02/02/2023 2:51 CH
+BAG:adchimto add 1xẨn danh lydo: SuKien at 02/02/2023 2:52 CH
+BAG:adchimto add 1xPhượng Hoàng Lửa lydo: SuKien at 02/02/2023 2:52 CH
+BAG:adchimto add 1xVàng lydo: SuKien at 02/02/2023 2:53 CH

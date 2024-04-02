@@ -1,0 +1,31 @@
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:30 PM
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:31 PM
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:32 PM
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:32 PM
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:32 PM
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:32 PM
+BAG:hieusu remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/31/2023 12:35 PM
+BAG:hieusu remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/31/2023 12:36 PM
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:37 PM
+BAG:hieusu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 12:37 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 12:42 PM
+BAG:hieusu remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 3:18 PM
+BAG:hieusu remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/31/2023 3:18 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 3:20 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 3:41 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 3:47 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 3:54 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:01 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:08 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:14 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:21 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:28 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:34 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:41 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:48 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 4:55 PM
+BAG:hieusu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 4:58 PM
+BAG:hieusu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 4:58 PM
+BAG:hieusu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 4:59 PM
+BAG:hieusu remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/31/2023 4:59 PM
+BAG:hieusu remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 5:02 PM

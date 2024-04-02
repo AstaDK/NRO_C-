@@ -1,0 +1,697 @@
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 9:20 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:21 AM
+BAG:genma10 remove Áo vải thô lydo: Mặc cho đệ tử at 01/31/2023 9:21 AM
+BAG:genma10 remove Quần vải thô lydo: Mặc cho đệ tử at 01/31/2023 9:21 AM
+BAG:genma10 remove Găng vải thô lydo: Mặc cho đệ tử at 01/31/2023 9:21 AM
+BAG:genma10 remove Giầy vải thô lydo: Mặc cho đệ tử at 01/31/2023 9:21 AM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc cho đệ tử at 01/31/2023 9:21 AM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 01/31/2023 9:21 AM
+BAG:genma10 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 01/31/2023 9:21 AM
+BAG:genma10 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/31/2023 9:22 AM
+BAG:genma10 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/31/2023 9:22 AM
+BAG:genma10 remove Sao pha lê lydo: Cất vào rương at 01/31/2023 9:23 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:34 AM
+BAG:genma10 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:41 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:42 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:50 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:57 AM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:59 AM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 10:00 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 10:05 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 10:15 AM
+BAG:genma10 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 10:17 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 10:23 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 10:31 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 10:39 AM
+BAG:genma10 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 10:47 AM
+BAG:genma10 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 10:47 AM
+BAG:genma10 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/31/2023 10:47 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 10:47 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 10:55 AM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 10:57 AM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 10:57 AM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 10:57 AM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:02 AM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:02 AM
+BAG:genma10 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:06 AM
+BAG:genma10 remove 1xNgọc Rồng 1 sao lydo: Giao dịch với quangdz at 01/31/2023 11:09 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 11:15 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 11:30 AM
+BAG:genma10 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:33 AM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 11:37 AM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:37 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:39 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:40 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:41 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:43 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:43 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:43 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:43 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:43 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:43 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:44 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:44 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:44 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:44 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:44 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:44 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:45 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:46 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:46 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:46 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:46 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:46 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:46 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:48 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:48 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:48 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:48 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:48 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:48 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:49 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:50 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:52 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:52 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:52 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:52 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:52 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:52 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:53 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:53 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:53 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:53 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:53 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:53 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:54 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:54 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:54 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:54 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:54 AM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:54 AM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 11:57 AM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:59 AM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:59 AM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:00 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:00 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:00 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:00 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:00 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:00 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:00 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:01 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:01 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:01 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:01 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:01 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 12:01 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 12:01 PM
+BAG:genma10 remove Găng vải thô lydo: Mặc vào người at 01/31/2023 12:01 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:02 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:02 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:02 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:04 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:04 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:04 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:05 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:05 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:05 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:05 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:05 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:05 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:06 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:07 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:07 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:07 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:07 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:08 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:08 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:08 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:08 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:08 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:09 PM
+BAG:genma10 remove Ngọc Rồng 1 sao lydo: Cất vào rương at 01/31/2023 12:09 PM
+BAG:genma10 remove Thỏi vàng lydo: Cất vào rương at 01/31/2023 12:09 PM
+BAG:genma10 remove Ngọc Rồng 4 sao lydo: Cất vào rương at 01/31/2023 12:09 PM
+BAG:genma10 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/31/2023 12:09 PM
+BAG:genma10 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 12:09 PM
+BAG:genma10 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/31/2023 12:10 PM
+BAG:genma10 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 12:10 PM
+BAG:genma10 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 12:10 PM
+BAG:genma10 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 12:10 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 12:10 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 12:10 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc vào người at 01/31/2023 12:10 PM
+BAG:genma10 remove Găng vải thô lydo: Cất vào rương at 01/31/2023 12:12 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 12:13 PM
+BAG:genma10 remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/31/2023 12:13 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 12:16 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc vào người at 01/31/2023 12:16 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 12:16 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:20 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:20 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:20 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:20 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:20 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:20 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:21 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:22 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:23 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:23 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 12:23 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:24 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:24 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:24 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:24 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:24 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:25 PM
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 12:25 PM
+BAG:genma10 remove Thỏi vàng lydo: Cất vào rương at 01/31/2023 12:26 PM
+BAG:genma10 remove Ngọc Rồng 3 sao lydo: Cất vào rương at 01/31/2023 12:26 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 12:27 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 12:28 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 12:28 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc vào người at 01/31/2023 12:28 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/31/2023 12:28 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/31/2023 12:28 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/31/2023 12:28 PM
+BAG:genma10 remove 5xNgọc Rồng 6 sao lydo: Giao dịch với luxubu at 01/31/2023 12:39 PM
+BAG:genma10 remove 98xNgọc Rồng 1 sao lydo: Giao dịch với luxubu at 01/31/2023 12:39 PM
+BAG:genma10 remove 53xNgọc Rồng 3 sao lydo: Giao dịch với luxubu at 01/31/2023 12:39 PM
+BAG:genma10 remove 3xNgọc Rồng 4 sao lydo: Giao dịch với luxubu at 01/31/2023 12:39 PM
+BAG:genma10 remove 4xNgọc Rồng 5 sao lydo: Giao dịch với luxubu at 01/31/2023 12:39 PM
+BAG:genma10 remove 89xNgọc Rồng 7 sao lydo: Giao dịch với luxubu at 01/31/2023 12:39 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 12:45 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 12:50 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 12:50 PM
+BAG:genma10 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 12:55 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 12:56 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 12:56 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 12:56 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 12:56 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 1:07 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 1:10 PM
+BAG:genma10 remove Cải trang Hatchiyack lydo: Mặc vào người at 01/31/2023 1:18 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/31/2023 1:18 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 01/31/2023 1:18 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc vào người at 01/31/2023 1:19 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 1:19 PM
+BAG:genma10 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 01/31/2023 1:20 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 1:20 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 1:21 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc cho đệ tử at 01/31/2023 1:21 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc cho đệ tử at 01/31/2023 1:21 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc cho đệ tử at 01/31/2023 1:21 PM
+BAG:genma10 remove Cải trang Hatchiyack lydo: Mặc vào người at 01/31/2023 1:25 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 1:27 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 1:53 PM
+BAG:genma10 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 01/31/2023 2:24 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 2:26 PM
+BAG:genma10 remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 01/31/2023 2:28 PM
+BAG:genma10 remove Cải trang lydo: Tự Xóa vật phẩm at 01/31/2023 2:28 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 2:31 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/31/2023 2:42 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 2:42 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/31/2023 2:55 PM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc cho đệ tử at 01/31/2023 2:55 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 3:05 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 3:06 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 3:17 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc vào người at 01/31/2023 3:20 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 3:20 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 3:20 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 3:20 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:22 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:22 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:22 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:22 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:22 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:22 PM
+BAG:genma10 remove Nâng cấp kỹ năng 2 đệ tử lydo: Tự Xóa vật phẩm at 01/31/2023 3:25 PM
+BAG:genma10 remove 10xTrứng vịt muối lydo: Nấu bánh at 01/31/2023 3:25 PM
+BAG:genma10 remove 10xGà quay nguyên con lydo: Nấu bánh at 01/31/2023 3:25 PM
+BAG:genma10 remove 10xBột mì lydo: Nấu bánh at 01/31/2023 3:25 PM
+BAG:genma10 remove 10xĐậu xanh lydo: Nấu bánh at 01/31/2023 3:25 PM
+BAG:genma10 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/31/2023 3:25 PM
+BAG:genma10 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/31/2023 3:25 PM
+BAG:genma10 remove Bột mì lydo: Tự Xóa vật phẩm at 01/31/2023 3:25 PM
+BAG:genma10 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/31/2023 3:25 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 3:26 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 3:26 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 3:26 PM
+BAG:genma10 remove Thỏi vàng lydo: Cất vào rương at 01/31/2023 3:26 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc cho đệ tử at 01/31/2023 3:27 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc cho đệ tử at 01/31/2023 3:27 PM
+BAG:genma10 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 01/31/2023 3:27 PM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc cho đệ tử at 01/31/2023 3:27 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 01/31/2023 3:27 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc cho đệ tử at 01/31/2023 3:27 PM
+BAG:genma10 remove Găng bạc lydo: Mặc cho đệ tử at 01/31/2023 3:27 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:28 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 3:28 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:29 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:29 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:29 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:29 PM
+BAG:genma10 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/31/2023 3:29 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 3:29 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 3:29 PM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 3:29 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 3:29 PM
+BAG:genma10 remove Găng bạc lydo: Tự Xóa vật phẩm at 01/31/2023 3:32 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 3:32 PM
+BAG:genma10 remove Găng vàng lydo: Tự Xóa vật phẩm at 01/31/2023 3:42 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 3:42 PM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 3:42 PM
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 3:43 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 3:44 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 3:44 PM
+BAG:genma10 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/31/2023 3:45 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 4:13 PM
+BAG:genma10 remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 01/31/2023 4:32 PM
+BAG:genma10 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 4:32 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 4:32 PM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 4:32 PM
+BAG:genma10 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 4:32 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 4:32 PM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 4:32 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 4:44 PM
+BAG:genma10 remove Quần lưỡng long lydo: Mặc vào người at 01/31/2023 4:50 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 4:50 PM
+BAG:genma10 remove Găng vải thô lydo: Mặc vào người at 01/31/2023 4:50 PM
+BAG:genma10 remove Giầy vải thô lydo: Mặc vào người at 01/31/2023 4:50 PM
+BAG:genma10 remove Quần lưỡng long lydo: Cất vào rương at 01/31/2023 4:51 PM
+BAG:genma10 remove Đá Ruby lydo: Cất vào rương at 01/31/2023 4:51 PM
+BAG:genma10 remove Đá Ruby lydo: Cất vào rương at 01/31/2023 4:51 PM
+BAG:genma10 remove Cải trang Hatchiyack lydo: Cất vào rương at 01/31/2023 4:51 PM
+BAG:genma10 remove Rada cấp 1 lydo: Cất vào rương at 01/31/2023 4:51 PM
+BAG:genma10 remove Quần lưỡng long lydo: Mặc vào người at 01/31/2023 4:51 PM
+BAG:genma10 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/31/2023 4:52 PM
+BAG:genma10 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 4:52 PM
+BAG:genma10 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/31/2023 4:52 PM
+BAG:genma10 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/31/2023 4:52 PM
+BAG:genma10 remove Bột mì lydo: Tự Xóa vật phẩm at 01/31/2023 4:52 PM
+BAG:genma10 remove 1xBom hi sinh lv1 lydo: Bán cho shop at 01/31/2023 4:53 PM
+BAG:genma10 remove Bom hi sinh lv1 lydo: Sách kĩ năng at 01/31/2023 4:53 PM
+BAG:genma10 remove Bom hi sinh lv2 lydo: Sách kĩ năng at 01/31/2023 4:53 PM
+BAG:genma10 remove Bom hi sinh lv3 lydo: Sách kĩ năng at 01/31/2023 4:53 PM
+BAG:genma10 remove Bom hi sinh lv4 lydo: Sách kĩ năng at 01/31/2023 4:53 PM
+BAG:genma10 remove Bom hi sinh lv5 lydo: Sách kĩ năng at 01/31/2023 4:53 PM
+BAG:genma10 remove Bom hi sinh lv6 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Bom hi sinh lv7 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Trói lv1 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Trói lv2 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Trói lv3 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Trói lv4 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Trói lv5 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Trói lv6 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Trói lv7 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Huýt Sáo lv1 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Huýt Sáo lv2 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Huýt Sáo lv3 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Huýt Sáo lv4 lydo: Sách kĩ năng at 01/31/2023 4:54 PM
+BAG:genma10 remove Sách Huýt Sáo lv5 lydo: Sách kĩ năng at 01/31/2023 4:55 PM
+BAG:genma10 remove Sách Huýt Sáo lv6 lydo: Sách kĩ năng at 01/31/2023 4:55 PM
+BAG:genma10 remove Sách Huýt Sáo lv7 lydo: Sách kĩ năng at 01/31/2023 4:55 PM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc cho đệ tử at 01/31/2023 4:55 PM
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 5:13 PM
+BAG:genma10 remove Cải trang Black Goku SSJ White lydo: Cất vào rương at 01/31/2023 5:15 PM
+BAG:genma10 remove Giáp tập luyện cấp 3 lydo: Cất vào rương at 01/31/2023 5:15 PM
+BAG:genma10 remove Quần lưỡng long lydo: Cất vào rương at 01/31/2023 5:15 PM
+BAG:genma10 remove Giáp tập luyện cấp 1 lydo: Cất vào rương at 01/31/2023 5:15 PM
+BAG:genma10 remove Găng vải thô lydo: Cất vào rương at 01/31/2023 5:15 PM
+BAG:genma10 remove Găng vải thô lydo: Cất vào rương at 01/31/2023 5:15 PM
+BAG:genma10 remove Giầy vải thô lydo: Cất vào rương at 01/31/2023 5:15 PM
+BAG:genma10 remove Cải trang Black Goku SSJ White lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Rada cấp 1 lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Găng vải thô lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Áo vải thô lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Quần lưỡng long lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Áo vải thô lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Nâng cấp kỹ năng 2 đệ tử lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Giầy vải thô lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Rada cấp 1 lydo: Cất vào rương at 01/31/2023 5:16 PM
+BAG:genma10 remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 5:17 PM
+BAG:genma10 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 5:19 PM
+BAG:genma10 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 5:19 PM
+BAG:genma10 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 5:19 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 5:30 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 5:42 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 5:45 PM
+BAG:genma10 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 5:45 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 5:54 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 6:06 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 6:15 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 6:15 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 6:17 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 6:29 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 6:41 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 6:43 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 6:43 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 6:43 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 6:43 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 6:53 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 6:54 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 7:02 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 7:02 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 7:06 PM
+BAG:genma10 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 7:07 PM
+BAG:genma10 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 7:07 PM
+BAG:genma10 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 7:07 PM
+BAG:genma10 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/31/2023 7:07 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 7:18 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 7:20 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 7:20 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 7:20 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 7:30 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 7:41 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 7:43 PM
+BAG:genma10 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/31/2023 7:43 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 7:53 PM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 8:26 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 8:26 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 8:34 PM
+BAG:genma10 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 8:37 PM
+BAG:genma10 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 8:37 PM
+BAG:genma10 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 8:37 PM
+BAG:genma10 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 8:37 PM
+BAG:genma10 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/31/2023 8:37 PM
+BAG:genma10 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 8:42 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 8:48 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:00 PM
+BAG:genma10 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:04 PM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:04 PM
+BAG:genma10 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:04 PM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:04 PM
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:04 PM
+BAG:genma10 remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:04 PM
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 9:12 PM
+BAG:genma10 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 9:14 PM
+BAG:genma10 remove Bột mì lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/31/2023 9:15 PM
+BAG:genma10 remove Quần vải thô lydo: Cất vào rương at 01/31/2023 9:16 PM
+BAG:genma10 remove Quần vải thô lydo: Cất vào rương at 01/31/2023 9:16 PM
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 10:47 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 10:47 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 10:47 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:02 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:02 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:02 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:02 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:02 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:02 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:03 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:04 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:04 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:04 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:05 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:06 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:06 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:06 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:06 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:06 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:06 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:06 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:07 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:08 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:08 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:08 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:08 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:08 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:08 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:09 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:09 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:09 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:10 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:12 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:12 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:12 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:12 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:12 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:12 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:13 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:13 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:13 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:13 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:13 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:13 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:14 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:15 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:15 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:15 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:15 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:15 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:15 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:16 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:16 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:16 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:17 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:17 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:17 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:18 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:18 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:18 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:18 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:18 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:18 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:19 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:19 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:19 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:20 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:21 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:22 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:22 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:22 CH
+BAG:genma10 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/31/2023 11:24 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 01/31/2023 11:25 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:28 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:28 CH
+BAG:genma10 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/31/2023 11:28 CH
+BAG:genma10 remove Ngọc Rồng 4 sao lydo: Cất vào rương at 01/31/2023 11:28 CH
+BAG:genma10 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/31/2023 11:29 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:29 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:29 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:29 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:30 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:30 CH
+BAG:genma10 remove 1xThỏi vàng lydo: Bán cho shop at 01/31/2023 11:30 CH
+BAG:genma10 remove Nâng cấp kỹ năng 2 đệ tử lydo: Cất vào rương at 01/31/2023 11:30 CH
+BAG:genma10 remove Vệ tinh trí tuệ lydo: Cất vào rương at 01/31/2023 11:30 CH
+BAG:genma10 remove Quần vải thô lydo: Cất vào rương at 01/31/2023 11:31 CH
+BAG:genma10 remove Găng lông đỏ lydo: Cất vào rương at 01/31/2023 11:31 CH
+BAG:genma10 remove Găng da Xayda lydo: Cất vào rương at 01/31/2023 11:31 CH
+BAG:genma10 remove Găng siêu Xayda lydo: Cất vào rương at 01/31/2023 11:31 CH
+BAG:genma10 remove Găng vải thô lydo: Cất vào rương at 01/31/2023 11:31 CH
+BAG:genma10 remove Thỏi vàng lydo: Cất vào rương at 01/31/2023 11:31 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:31 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:31 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:31 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:31 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:31 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:31 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:32 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 01/31/2023 11:33 CH
+BAG:genma10 remove Áo vải thô lydo: Mặc vào người at 01/31/2023 11:33 CH
+BAG:genma10 remove Quần vải thô lydo: Mặc vào người at 01/31/2023 11:34 CH
+BAG:genma10 remove Giầy vải thô lydo: Mặc vào người at 01/31/2023 11:34 CH
+BAG:genma10 remove Găng vải thô lydo: Mặc vào người at 01/31/2023 11:34 CH
+BAG:genma10 remove Cuồng nộ lydo: Cất vào rương at 01/31/2023 11:34 CH
+BAG:genma10 remove Ngọc Rồng 3 sao lydo: Cất vào rương at 01/31/2023 11:34 CH
+BAG:genma10 remove Nâng cấp kỹ năng 2 đệ tử lydo: Tự Xóa vật phẩm at 01/31/2023 11:35 CH
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 11:47 CH
+BAG:genma10 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:53 CH
+BAG:genma10 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:53 CH
+BAG:genma10 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/31/2023 11:53 CH
+BAG:genma10 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/31/2023 11:59 CH

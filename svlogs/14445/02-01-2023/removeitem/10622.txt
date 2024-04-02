@@ -1,0 +1,514 @@
+BAG:adugame remove Hồn ma Ca đíc lydo: Tự Xóa vật phẩm at 02/01/2023 9:06 SA
+BAG:adugame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:07 SA
+BAG:adugame remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/01/2023 9:12 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:14 SA
+BAG:adugame remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 9:18 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:18 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:19 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:20 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:24 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:28 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:29 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:30 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:31 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:31 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:32 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:33 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:33 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:34 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:35 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:35 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:36 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:36 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:37 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:37 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:38 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:39 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:39 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:40 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:41 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:41 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:42 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:43 SA
+BAG:adugame remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/01/2023 9:43 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:44 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:50 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:50 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:52 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:52 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:52 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:53 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:53 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:54 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:54 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:54 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:55 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 9:55 SA
+BAG:adugame remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/01/2023 10:30 SA
+BAG:adugame remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:30 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:31 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:32 SA
+BAG:adugame remove 1xGăng đồng lydo: Bán cho shop at 02/01/2023 10:32 SA
+BAG:adugame remove Găng bạc lydo: Mặc vào người at 02/01/2023 10:32 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:33 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:34 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:34 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:35 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:35 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:35 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:35 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:36 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:36 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:36 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:37 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:37 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:37 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:38 SA
+BAG:adugame remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 10:38 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:38 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:38 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:39 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:39 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:39 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:40 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:40 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:40 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:41 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:41 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:41 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:42 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:44 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:45 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:45 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:45 SA
+BAG:adugame remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:46 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:48 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:48 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:49 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:49 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:51 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:51 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:52 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:53 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:53 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:54 SA
+BAG:adugame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:54 SA
+BAG:adugame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:54 SA
+BAG:adugame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:54 SA
+BAG:adugame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:54 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:55 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:55 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:55 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:56 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:56 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:56 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:57 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:57 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:58 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:58 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:58 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:59 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:59 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:00 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:00 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:01 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:01 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:02 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:02 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:03 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:03 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:04 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:04 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:04 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:05 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:05 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:06 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:06 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:06 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:07 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:07 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:08 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:08 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:09 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:09 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:10 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:10 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:11 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:11 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:12 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:12 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:12 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:13 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:13 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:14 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:15 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:15 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:15 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:16 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:16 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:17 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:17 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:18 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:18 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:19 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:19 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:20 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:20 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:21 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:21 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:21 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:22 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:22 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:23 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:23 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:24 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:24 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:25 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:26 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:26 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:26 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:27 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:27 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:28 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:29 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:29 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:29 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:30 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:30 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:31 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:32 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:32 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:33 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:33 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:34 SA
+BAG:adugame remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:34 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:35 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:36 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:36 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:37 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:37 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:37 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:38 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:38 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:39 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:39 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:40 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:40 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:41 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:41 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:42 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:42 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:43 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:43 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:44 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:44 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:45 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:45 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:46 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:47 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:47 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:48 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:48 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:49 SA
+BAG:adugame remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 11:49 SA
+BAG:adugame remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 11:49 SA
+BAG:adugame remove Găng bạc lydo: Mặc cho đệ tử at 02/01/2023 11:49 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:51 SA
+BAG:adugame remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/01/2023 11:51 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:52 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:52 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:53 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:54 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:55 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:56 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:56 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:57 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:58 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:59 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:59 SA
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:01 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:02 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:03 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:04 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:05 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:06 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:06 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:07 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:07 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:08 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:10 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:11 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:12 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:13 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:15 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:16 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:17 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:18 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:19 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:21 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:22 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:23 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:24 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:26 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:27 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:28 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:29 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:31 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:32 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:33 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:34 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:35 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:37 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:38 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:40 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:41 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:42 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:44 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:45 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:46 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:47 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:48 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:50 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:51 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:52 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:54 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:55 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:56 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:58 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:59 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:01 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:02 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:03 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:04 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:06 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:07 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:08 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:09 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:11 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:12 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:17 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:18 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:18 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:18 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:18 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:18 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:19 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:20 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:21 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:22 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:23 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:23 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:25 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:27 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:28 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:29 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:31 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:32 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:32 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:33 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:34 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:36 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:37 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:39 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:40 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:41 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:42 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:43 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:44 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:47 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:49 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:50 CH
+BAG:adugame remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 1:51 CH
+BAG:adugame remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 1:52 CH
+BAG:adugame remove Găng vàng lydo: Tự Xóa vật phẩm at 02/01/2023 1:52 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:52 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:54 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:55 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:56 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:57 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:58 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:00 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:02 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:03 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:05 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:06 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:07 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:09 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:10 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:12 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:13 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:14 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:17 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:19 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:21 CH
+BAG:adugame remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 2:22 CH
+BAG:adugame remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 2:27 CH
+BAG:adugame remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 2:27 CH
+BAG:adugame remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 2:27 CH
+BAG:adugame remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 2:27 CH
+BAG:adugame remove Găng da Xayda lydo: Tự Xóa vật phẩm at 02/01/2023 2:27 CH
+BAG:adugame remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/01/2023 2:27 CH
+BAG:adugame remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/01/2023 2:27 CH
+BAG:adugame remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/01/2023 2:27 CH
+BAG:adugame remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/01/2023 2:27 CH
+BAG:adugame remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/01/2023 2:28 CH
+BAG:adugame remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/01/2023 2:28 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:31 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:33 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:36 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:38 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:40 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:43 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:45 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:48 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:50 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:53 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:55 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:57 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:01 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:03 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:05 CH
+BAG:adugame remove Đậu thần cấp 6 lydo: Tự Xóa vật phẩm at 02/01/2023 3:16 CH
+BAG:adugame remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 3:16 CH
+BAG:adugame remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/01/2023 3:16 CH
+BAG:adugame remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 3:16 CH
+BAG:adugame remove 24xĐá Saphia lydo: Bán cho shop at 02/01/2023 3:17 CH
+BAG:adugame remove Sách Trói lv1 lydo: Sách kĩ năng at 02/01/2023 3:17 CH
+BAG:adugame remove Sách Trói lv2 lydo: Sách kĩ năng at 02/01/2023 3:17 CH
+BAG:adugame remove Sách Trói lv3 lydo: Sách kĩ năng at 02/01/2023 3:17 CH
+BAG:adugame remove Sách Trói lv4 lydo: Sách kĩ năng at 02/01/2023 3:17 CH
+BAG:adugame remove Sách Trói lv5 lydo: Sách kĩ năng at 02/01/2023 3:17 CH
+BAG:adugame remove Sách Trói lv6 lydo: Sách kĩ năng at 02/01/2023 3:17 CH
+BAG:adugame remove Sách Trói lv7 lydo: Sách kĩ năng at 02/01/2023 3:17 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:19 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:19 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:19 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:19 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:20 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:20 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:21 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:21 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:22 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:22 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:23 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:23 CH
+BAG:adugame remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/01/2023 3:23 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:23 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:24 CH
+BAG:adugame remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 3:24 CH
+BAG:adugame remove Đậu thần cấp 6 lydo: Tự Xóa vật phẩm at 02/01/2023 3:24 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:26 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:30 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:30 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:31 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:32 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:32 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:32 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:32 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:32 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:32 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:33 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:33 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:33 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:33 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:33 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:34 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:34 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:34 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:34 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:34 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:35 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:35 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:35 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:35 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:35 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:36 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:41 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:42 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:42 CH
+BAG:adugame remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 3:43 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:48 CH
+BAG:adugame remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:48 CH
+BAG:adugame remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 5:48 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:51 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:52 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:53 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:55 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:56 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:57 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:57 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:58 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 5:59 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:00 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:00 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:07 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:08 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:09 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:09 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:10 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:11 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:12 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:12 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:13 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:16 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:17 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:20 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:21 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:21 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:21 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:21 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:22 CH
+BAG:adugame remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 02/01/2023 6:22 CH
+BAG:adugame remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 02/01/2023 6:22 CH
+BAG:adugame remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 02/01/2023 6:23 CH
+BAG:adugame remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 02/01/2023 6:23 CH
+BAG:adugame remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 02/01/2023 6:23 CH
+BAG:adugame remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:23 CH
+BAG:adugame remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:23 CH
+BAG:adugame remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:23 CH
+BAG:adugame remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 02/01/2023 6:23 CH
+BAG:adugame remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 02/01/2023 6:23 CH
+BAG:adugame remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/01/2023 6:23 CH
+BAG:adugame remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/01/2023 6:23 CH
+BAG:adugame remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/01/2023 6:24 CH
+BAG:adugame remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/01/2023 6:24 CH
+BAG:adugame remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/01/2023 6:24 CH
+BAG:adugame remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/01/2023 6:24 CH
+BAG:adugame remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/01/2023 6:24 CH
+BAG:adugame remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 02/01/2023 6:25 CH
+BAG:adugame remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 02/01/2023 6:25 CH
+BAG:adugame remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 02/01/2023 6:25 CH
+BAG:adugame remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 02/01/2023 6:25 CH
+BAG:adugame remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 6:25 CH
+BAG:adugame remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 02/01/2023 6:25 CH
+BAG:adugame remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 02/01/2023 6:25 CH
+BAG:adugame remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 02/01/2023 6:25 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:27 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:28 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:29 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:29 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:31 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:32 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 6:32 CH
+BAG:adugame remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 7:44 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 9:22 CH
+BAG:adugame remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/01/2023 9:43 CH

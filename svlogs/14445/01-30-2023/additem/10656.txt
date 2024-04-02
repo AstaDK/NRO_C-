@@ -1,0 +1,58 @@
+BAG:gaysaiyan add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 10:07 PM
+BAG:gaysaiyan add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 10:08 PM
+BAG:gaysaiyan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/30/2023 10:08 PM
+BAG:gaysaiyan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 10:08 PM
+BAG:gaysaiyan add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 10:08 PM
+BAG:gaysaiyan add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 10:08 PM
+BAG:gaysaiyan add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/30/2023 10:08 PM
+BAG:gaysaiyan add 20xThỏi vàng lydo: Giftcode at 01/30/2023 10:09 PM
+BAG:gaysaiyan add 1xCải trang Hit lydo: Mua từ cửa hàng at 01/30/2023 10:09 PM
+BAG:gaysaiyan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:13 PM
+BAG:gaysaiyan add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 10:14 PM
+BAG:gaysaiyan add 1xRada cấp 1 lydo: Nhặt từ map at 01/30/2023 10:14 PM
+BAG:gaysaiyan add 1xBột mì lydo: Nhặt từ map at 01/30/2023 10:15 PM
+BAG:gaysaiyan add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 10:15 PM
+BAG:gaysaiyan add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 10:15 PM
+BAG:gaysaiyan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 10:15 PM
+BAG:gaysaiyan add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 10:15 PM
+BAG:gaysaiyan add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 10:16 PM
+BAG:gaysaiyan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 10:16 PM
+BAG:gaysaiyan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 10:16 PM
+BAG:gaysaiyan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 10:16 PM
+BAG:gaysaiyan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 10:17 PM
+BAG:gaysaiyan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 10:17 PM
+BAG:gaysaiyan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 10:17 PM
+BAG:gaysaiyan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 10:17 PM
+BAG:gaysaiyan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/30/2023 10:17 PM
+BAG:gaysaiyan add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 01/30/2023 10:18 PM
+BAG:gaysaiyan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/30/2023 10:18 PM
+BAG:gaysaiyan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 10:18 PM
+BAG:gaysaiyan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 10:18 PM
+BAG:gaysaiyan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/30/2023 10:18 PM
+BAG:gaysaiyan add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 01/30/2023 10:18 PM
+BAG:gaysaiyan add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 10:18 PM
+BAG:gaysaiyan add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/30/2023 10:19 PM
+BAG:gaysaiyan add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 10:19 PM
+BAG:gaysaiyan add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/30/2023 10:19 PM
+BAG:gaysaiyan add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/30/2023 10:20 PM
+BAG:gaysaiyan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 10:20 PM
+BAG:gaysaiyan add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/30/2023 10:20 PM
+BAG:gaysaiyan add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/30/2023 10:20 PM
+BAG:gaysaiyan add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/30/2023 10:21 PM
+BAG:gaysaiyan add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/30/2023 10:21 PM
+BAG:gaysaiyan add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/30/2023 10:21 PM
+BAG:gaysaiyan add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 01/30/2023 10:22 PM
+BAG:gaysaiyan add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/30/2023 10:22 PM
+BAG:gaysaiyan add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 01/30/2023 10:29 PM
+BAG:gaysaiyan add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/30/2023 10:31 PM
+BAG:gaysaiyan add 1xMèo mun lydo: Mua từ cửa hàng at 01/30/2023 10:31 PM
+BAG:gaysaiyan add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 01/30/2023 10:32 PM
+BAG:gaysaiyan add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/30/2023 10:32 PM
+BAG:gaysaiyan add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/30/2023 10:33 PM
+BAG:gaysaiyan add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 01/30/2023 10:33 PM
+BAG:gaysaiyan add 1xĐậu xanh lydo: Nhặt từ map at 01/30/2023 10:34 PM
+BAG:gaysaiyan add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/30/2023 10:34 PM
+BAG:gaysaiyan add 1xQuần vải thô lydo: Nhặt từ map at 01/30/2023 10:34 PM
+BAG:gaysaiyan add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/30/2023 10:35 PM
+BAG:gaysaiyan add 1xRada cấp 1 lydo: Nhặt từ map at 01/30/2023 10:35 PM
+BAG:gaysaiyan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 10:35 PM

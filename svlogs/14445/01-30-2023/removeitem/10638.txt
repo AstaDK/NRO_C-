@@ -1,0 +1,31 @@
+BAG:tuandualeo remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 8:41 PM
+BAG:tuandualeo remove Mảnh Khủng long mẹ lydo: Cất vào rương at 01/30/2023 8:48 PM
+BAG:tuandualeo remove Bột mì lydo: Cất vào rương at 01/30/2023 8:48 PM
+BAG:tuandualeo remove Đậu xanh lydo: Cất vào rương at 01/30/2023 8:48 PM
+BAG:tuandualeo remove Mảnh Phi long lydo: Cất vào rương at 01/30/2023 8:48 PM
+BAG:tuandualeo remove Găng sợi len lydo: Cất vào rương at 01/30/2023 8:48 PM
+BAG:tuandualeo remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 8:49 PM
+BAG:tuandualeo remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 9:33 PM
+BAG:tuandualeo remove Tanjiro lydo: Mặc vào người at 01/30/2023 9:36 PM
+BAG:tuandualeo remove Đá Vĩnh Hằng lydo: Tự Xóa vật phẩm at 01/30/2023 9:38 PM
+BAG:tuandualeo remove Đá Hắc Hóa lydo: Tự Xóa vật phẩm at 01/30/2023 9:38 PM
+BAG:tuandualeo remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 9:38 PM
+BAG:tuandualeo remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 9:41 PM
+BAG:tuandualeo remove Thỏi vàng lydo: Cất vào rương at 01/30/2023 10:05 PM
+BAG:tuandualeo remove Cải trang Hổ trắng lydo: Tự Xóa vật phẩm at 01/30/2023 10:07 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:08 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:08 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:09 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:09 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:09 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:09 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:09 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:09 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:09 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:10 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:20 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:20 PM
+BAG:tuandualeo remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 10:20 PM
+BAG:tuandualeo remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/30/2023 10:21 PM
+BAG:tuandualeo remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 01/30/2023 10:21 PM
+BAG:tuandualeo remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 10:23 PM

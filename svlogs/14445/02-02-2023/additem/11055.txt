@@ -1,0 +1,13 @@
+BAG:profile add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 8:30 CH
+BAG:profile add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 8:32 CH
+BAG:profile add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:profile add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 8:51 CH
+BAG:profile add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 8:52 CH
+BAG:profile add 1xCây mai lydo: Nhặt từ map at 02/02/2023 8:52 CH
+BAG:profile add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/02/2023 8:53 CH
+BAG:profile add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 8:53 CH
+BAG:profile add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 8:54 CH
+BAG:profile add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 8:54 CH
+BAG:profile add 1xLì xì lydo: Nhặt từ map at 02/02/2023 8:56 CH
+BAG:profile add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 8:56 CH
+BAG:profile add 20xThỏi vàng lydo: Giftcode at 02/02/2023 8:59 CH

@@ -1,0 +1,11 @@
+BAG:namec add 1xĐá lục bảo lydo: Nhặt từ map at 01/28/2023 11:50 PM
+BAG:namec add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/28/2023 11:51 PM
+BAG:namec add 1xĐá Titan lydo: Nhặt từ map at 01/28/2023 11:51 PM
+BAG:namec add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/28/2023 11:54 PM
+BAG:namec add 1xĐá Ruby lydo: Nhặt từ map at 01/28/2023 11:54 PM
+BAG:namec add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/28/2023 11:54 PM
+BAG:namec add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/28/2023 11:54 PM
+BAG:namec add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/28/2023 11:54 PM
+BAG:namec add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/28/2023 11:55 PM
+BAG:namec add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/28/2023 11:55 PM
+BAG:namec add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/28/2023 11:57 PM

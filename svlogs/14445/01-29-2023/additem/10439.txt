@@ -1,0 +1,27 @@
+BAG:gokuoian add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 11:24 PM
+BAG:gokuoian add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 01/29/2023 11:26 PM
+BAG:gokuoian add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 01/29/2023 11:26 PM
+BAG:gokuoian add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 01/29/2023 11:27 PM
+BAG:gokuoian add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 11:27 PM
+BAG:gokuoian add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 11:27 PM
+BAG:gokuoian add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 11:29 PM
+BAG:gokuoian add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 11:29 PM
+BAG:gokuoian add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:30 PM
+BAG:gokuoian add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 11:30 PM
+BAG:gokuoian add 1xGăng vải dày lydo: Mua từ cửa hàng at 01/29/2023 11:30 PM
+BAG:gokuoian add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 11:32 PM
+BAG:gokuoian add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/29/2023 11:33 PM
+BAG:gokuoian add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 11:33 PM
+BAG:gokuoian add 20xThỏi vàng lydo: Giftcode at 01/29/2023 11:33 PM
+BAG:gokuoian add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 11:34 PM
+BAG:gokuoian add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 11:34 PM
+BAG:gokuoian add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 1xSao pha lê lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 1xSao pha lê lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 1xSao pha lê lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 01/29/2023 11:35 PM
+BAG:gokuoian add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 01/29/2023 11:36 PM
+BAG:gokuoian add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 01/29/2023 11:36 PM

@@ -1,0 +1,20 @@
+BAG:baosdoi add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 10:53 SA
+BAG:baosdoi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 10:53 SA
+BAG:baosdoi add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/03/2023 10:53 SA
+BAG:baosdoi add 1xCây mai lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:baosdoi add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 02/03/2023 10:55 SA
+BAG:baosdoi add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 10:56 SA
+BAG:baosdoi add 1xLì xì lydo: Nhặt từ map at 02/03/2023 10:57 SA
+BAG:baosdoi add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 10:58 SA
+BAG:baosdoi add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:baosdoi add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:baosdoi add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:baosdoi add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:baosdoi add 1xMảnh Phi long lydo: Nhặt từ map at 02/03/2023 11:00 SA
+BAG:baosdoi add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 11:00 SA
+BAG:baosdoi add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 11:01 SA
+BAG:baosdoi add 1xCột nhà lydo: Mua từ cửa hàng at 02/03/2023 11:02 SA
+BAG:baosdoi add 20xThỏi vàng lydo: Giftcode at 02/03/2023 11:04 SA
+BAG:baosdoi add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 11:04 SA
+BAG:baosdoi add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/03/2023 11:04 SA
+BAG:baosdoi add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 11:05 SA

@@ -1,0 +1,2225 @@
+BAG:ilikeboss add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 12:44 SA
+BAG:ilikeboss add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 12:44 SA
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 12:44 SA
+BAG:ilikeboss add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 12:44 SA
+BAG:ilikeboss add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 12:44 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 02/03/2023 12:45 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:51 SA
+BAG:ilikeboss add 24xPháo hoa (old: 23) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:ilikeboss add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:ilikeboss add 1xQuần Thần Linh lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 1:20 SA
+BAG:ilikeboss add 25xPháo hoa (old: 24) lydo: Nhặt từ map at 02/03/2023 1:21 SA
+BAG:ilikeboss add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 1:21 SA
+BAG:ilikeboss add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:26 SA
+BAG:ilikeboss add 175xBình rượu (old: 174) lydo: Nhặt từ map at 02/03/2023 1:26 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 1:32 SA
+BAG:ilikeboss add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhặt từ map at 02/03/2023 1:33 SA
+BAG:ilikeboss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 1:33 SA
+BAG:ilikeboss add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:34 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 1:40 SA
+BAG:ilikeboss add 278xCây mai (old: 277) lydo: Nhặt từ map at 02/03/2023 1:44 SA
+BAG:ilikeboss add 279xCây mai (old: 278) lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:ilikeboss add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 1:45 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 1:49 SA
+BAG:ilikeboss add 26xPháo hoa (old: 25) lydo: Nhặt từ map at 02/03/2023 1:50 SA
+BAG:ilikeboss add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhặt từ map at 02/03/2023 1:50 SA
+BAG:ilikeboss add 280xCây mai (old: 279) lydo: Nhặt từ map at 02/03/2023 1:52 SA
+BAG:ilikeboss add 2025xThỏi vàng (old: 25) lydo: Đổi vàng at 02/03/2023 2:01 SA
+BAG:ilikeboss add 4025xThỏi vàng (old: 2025) lydo: Đổi vàng at 02/03/2023 2:01 SA
+BAG:ilikeboss add 4105xThỏi vàng (old: 4025) lydo: Đổi vàng at 02/03/2023 2:02 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 2:07 SA
+BAG:ilikeboss add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhặt từ map at 02/03/2023 2:10 SA
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 2:11 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 2:12 SA
+BAG:ilikeboss add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 2:13 SA
+BAG:ilikeboss add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 2:13 SA
+BAG:ilikeboss add 176xBình rượu (old: 175) lydo: Nhặt từ map at 02/03/2023 2:13 SA
+BAG:ilikeboss add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 2:13 SA
+BAG:ilikeboss add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ilikeboss add 281xCây mai (old: 280) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ilikeboss add 177xBình rượu (old: 176) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ilikeboss add 282xCây mai (old: 281) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ilikeboss add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ilikeboss add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ilikeboss add 283xCây mai (old: 282) lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ilikeboss add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 284xCây mai (old: 283) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 178xBình rượu (old: 177) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 212xLì xì (old: 211) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 285xCây mai (old: 284) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 213xLì xì (old: 212) lydo: Nhặt từ map at 02/03/2023 2:15 SA
+BAG:ilikeboss add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 214xLì xì (old: 213) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 179xBình rượu (old: 178) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 180xBình rượu (old: 179) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 215xLì xì (old: 214) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 286xCây mai (old: 285) lydo: Nhặt từ map at 02/03/2023 2:16 SA
+BAG:ilikeboss add 181xBình rượu (old: 180) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 182xBình rượu (old: 181) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 183xBình rượu (old: 182) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 184xBình rượu (old: 183) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 185xBình rượu (old: 184) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 216xLì xì (old: 215) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 287xCây mai (old: 286) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 217xLì xì (old: 216) lydo: Nhặt từ map at 02/03/2023 2:17 SA
+BAG:ilikeboss add 186xBình rượu (old: 185) lydo: Nhặt từ map at 02/03/2023 2:18 SA
+BAG:ilikeboss add 288xCây mai (old: 287) lydo: Nhặt từ map at 02/03/2023 2:18 SA
+BAG:ilikeboss add 218xLì xì (old: 217) lydo: Nhặt từ map at 02/03/2023 2:18 SA
+BAG:ilikeboss add 289xCây mai (old: 288) lydo: Nhặt từ map at 02/03/2023 2:18 SA
+BAG:ilikeboss add 219xLì xì (old: 218) lydo: Nhặt từ map at 02/03/2023 2:19 SA
+BAG:ilikeboss add 187xBình rượu (old: 186) lydo: Nhặt từ map at 02/03/2023 2:19 SA
+BAG:ilikeboss add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 2:19 SA
+BAG:ilikeboss add 188xBình rượu (old: 187) lydo: Nhặt từ map at 02/03/2023 2:19 SA
+BAG:ilikeboss add 220xLì xì (old: 219) lydo: Nhặt từ map at 02/03/2023 2:20 SA
+BAG:ilikeboss add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 02/03/2023 2:20 SA
+BAG:ilikeboss add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 2:20 SA
+BAG:ilikeboss add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 2:20 SA
+BAG:ilikeboss add 189xBình rượu (old: 188) lydo: Nhặt từ map at 02/03/2023 2:20 SA
+BAG:ilikeboss add 290xCây mai (old: 289) lydo: Nhặt từ map at 02/03/2023 2:20 SA
+BAG:ilikeboss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 2:20 SA
+BAG:ilikeboss add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 291xCây mai (old: 290) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 221xLì xì (old: 220) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 190xBình rượu (old: 189) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 292xCây mai (old: 291) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 293xCây mai (old: 292) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 191xBình rượu (old: 190) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 192xBình rượu (old: 191) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 222xLì xì (old: 221) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 193xBình rượu (old: 192) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ilikeboss add 294xCây mai (old: 293) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 295xCây mai (old: 294) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 194xBình rượu (old: 193) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 296xCây mai (old: 295) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 195xBình rượu (old: 194) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 297xCây mai (old: 296) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 196xBình rượu (old: 195) lydo: Nhặt từ map at 02/03/2023 2:22 SA
+BAG:ilikeboss add 298xCây mai (old: 297) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 223xLì xì (old: 222) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 299xCây mai (old: 298) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 224xLì xì (old: 223) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 225xLì xì (old: 224) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 226xLì xì (old: 225) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 197xBình rượu (old: 196) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 2:23 SA
+BAG:ilikeboss add 227xLì xì (old: 226) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 198xBình rượu (old: 197) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 1xBột mì lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 199xBình rượu (old: 198) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 2:24 SA
+BAG:ilikeboss add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 300xCây mai (old: 299) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 301xCây mai (old: 300) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 228xLì xì (old: 227) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 200xBình rượu (old: 199) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 302xCây mai (old: 301) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 303xCây mai (old: 302) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 201xBình rượu (old: 200) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 304xCây mai (old: 303) lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ilikeboss add 229xLì xì (old: 228) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 305xCây mai (old: 304) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 306xCây mai (old: 305) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 307xCây mai (old: 306) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 308xCây mai (old: 307) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 230xLì xì (old: 229) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 309xCây mai (old: 308) lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ilikeboss add 2xBột mì (old: 1) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 202xBình rượu (old: 201) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 203xBình rượu (old: 202) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 204xBình rượu (old: 203) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 231xLì xì (old: 230) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 310xCây mai (old: 309) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 232xLì xì (old: 231) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 02/03/2023 2:27 SA
+BAG:ilikeboss add 311xCây mai (old: 310) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 312xCây mai (old: 311) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 233xLì xì (old: 232) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 313xCây mai (old: 312) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 314xCây mai (old: 313) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 234xLì xì (old: 233) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 235xLì xì (old: 234) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 315xCây mai (old: 314) lydo: Nhặt từ map at 02/03/2023 2:28 SA
+BAG:ilikeboss add 316xCây mai (old: 315) lydo: Nhặt từ map at 02/03/2023 2:29 SA
+BAG:ilikeboss add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 02/03/2023 2:29 SA
+BAG:ilikeboss add 236xLì xì (old: 235) lydo: Nhặt từ map at 02/03/2023 2:29 SA
+BAG:ilikeboss add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 2:29 SA
+BAG:ilikeboss add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 2:29 SA
+BAG:ilikeboss add 317xCây mai (old: 316) lydo: Nhặt từ map at 02/03/2023 2:29 SA
+BAG:ilikeboss add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:ilikeboss add 237xLì xì (old: 236) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:ilikeboss add 318xCây mai (old: 317) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:ilikeboss add 319xCây mai (old: 318) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:ilikeboss add 205xBình rượu (old: 204) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:ilikeboss add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:ilikeboss add 320xCây mai (old: 319) lydo: Nhặt từ map at 02/03/2023 2:31 SA
+BAG:ilikeboss add 238xLì xì (old: 237) lydo: Nhặt từ map at 02/03/2023 2:31 SA
+BAG:ilikeboss add 206xBình rượu (old: 205) lydo: Nhặt từ map at 02/03/2023 2:31 SA
+BAG:ilikeboss add 239xLì xì (old: 238) lydo: Nhặt từ map at 02/03/2023 2:31 SA
+BAG:ilikeboss add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 2:31 SA
+BAG:ilikeboss add 240xLì xì (old: 239) lydo: Nhặt từ map at 02/03/2023 2:31 SA
+BAG:ilikeboss add 321xCây mai (old: 320) lydo: Nhặt từ map at 02/03/2023 2:31 SA
+BAG:ilikeboss add 241xLì xì (old: 240) lydo: Nhặt từ map at 02/03/2023 2:32 SA
+BAG:ilikeboss add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 2:32 SA
+BAG:ilikeboss add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/03/2023 2:32 SA
+BAG:ilikeboss add 242xLì xì (old: 241) lydo: Nhặt từ map at 02/03/2023 2:32 SA
+BAG:ilikeboss add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 2:32 SA
+BAG:ilikeboss add 207xBình rượu (old: 206) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 322xCây mai (old: 321) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 243xLì xì (old: 242) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 323xCây mai (old: 322) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 244xLì xì (old: 243) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 324xCây mai (old: 323) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 02/03/2023 2:33 SA
+BAG:ilikeboss add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 208xBình rượu (old: 207) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 245xLì xì (old: 244) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 246xLì xì (old: 245) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 247xLì xì (old: 246) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 248xLì xì (old: 247) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 02/03/2023 2:34 SA
+BAG:ilikeboss add 325xCây mai (old: 324) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 249xLì xì (old: 248) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 250xLì xì (old: 249) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 251xLì xì (old: 250) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 252xLì xì (old: 251) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 253xLì xì (old: 252) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 2:35 SA
+BAG:ilikeboss add 326xCây mai (old: 325) lydo: Nhặt từ map at 02/03/2023 2:36 SA
+BAG:ilikeboss add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/03/2023 2:36 SA
+BAG:ilikeboss add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 2:36 SA
+BAG:ilikeboss add 209xBình rượu (old: 208) lydo: Nhặt từ map at 02/03/2023 2:36 SA
+BAG:ilikeboss add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 2:36 SA
+BAG:ilikeboss add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/03/2023 2:36 SA
+BAG:ilikeboss add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/03/2023 2:36 SA
+BAG:ilikeboss add 327xCây mai (old: 326) lydo: Nhặt từ map at 02/03/2023 2:37 SA
+BAG:ilikeboss add 254xLì xì (old: 253) lydo: Nhặt từ map at 02/03/2023 2:37 SA
+BAG:ilikeboss add 210xBình rượu (old: 209) lydo: Nhặt từ map at 02/03/2023 2:37 SA
+BAG:ilikeboss add 328xCây mai (old: 327) lydo: Nhặt từ map at 02/03/2023 2:37 SA
+BAG:ilikeboss add 329xCây mai (old: 328) lydo: Nhặt từ map at 02/03/2023 2:37 SA
+BAG:ilikeboss add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 2:37 SA
+BAG:ilikeboss add 211xBình rượu (old: 210) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 212xBình rượu (old: 211) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 330xCây mai (old: 329) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 255xLì xì (old: 254) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 213xBình rượu (old: 212) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 256xLì xì (old: 255) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 331xCây mai (old: 330) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:ilikeboss add 214xBình rượu (old: 213) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 257xLì xì (old: 256) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 215xBình rượu (old: 214) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 332xCây mai (old: 331) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 333xCây mai (old: 332) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 334xCây mai (old: 333) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 335xCây mai (old: 334) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 216xBình rượu (old: 215) lydo: Nhặt từ map at 02/03/2023 2:39 SA
+BAG:ilikeboss add 258xLì xì (old: 257) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 217xBình rượu (old: 216) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 336xCây mai (old: 335) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 218xBình rượu (old: 217) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 259xLì xì (old: 258) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 260xLì xì (old: 259) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 261xLì xì (old: 260) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 219xBình rượu (old: 218) lydo: Nhặt từ map at 02/03/2023 2:40 SA
+BAG:ilikeboss add 262xLì xì (old: 261) lydo: Nhặt từ map at 02/03/2023 2:41 SA
+BAG:ilikeboss add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/03/2023 2:41 SA
+BAG:ilikeboss add 3xBột mì (old: 2) lydo: Nhặt từ map at 02/03/2023 2:41 SA
+BAG:ilikeboss add 337xCây mai (old: 336) lydo: Nhặt từ map at 02/03/2023 2:41 SA
+BAG:ilikeboss add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 2:41 SA
+BAG:ilikeboss add 220xBình rượu (old: 219) lydo: Nhặt từ map at 02/03/2023 2:41 SA
+BAG:ilikeboss add 221xBình rượu (old: 220) lydo: Nhặt từ map at 02/03/2023 2:41 SA
+BAG:ilikeboss add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 263xLì xì (old: 262) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 264xLì xì (old: 263) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 222xBình rượu (old: 221) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 338xCây mai (old: 337) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 265xLì xì (old: 264) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 339xCây mai (old: 338) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 223xBình rượu (old: 222) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:ilikeboss add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 340xCây mai (old: 339) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 224xBình rượu (old: 223) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 341xCây mai (old: 340) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 342xCây mai (old: 341) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 266xLì xì (old: 265) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 343xCây mai (old: 342) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 02/03/2023 2:43 SA
+BAG:ilikeboss add 267xLì xì (old: 266) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 225xBình rượu (old: 224) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 268xLì xì (old: 267) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 269xLì xì (old: 268) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 344xCây mai (old: 343) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 270xLì xì (old: 269) lydo: Nhặt từ map at 02/03/2023 2:44 SA
+BAG:ilikeboss add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 226xBình rượu (old: 225) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 271xLì xì (old: 270) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 272xLì xì (old: 271) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 345xCây mai (old: 344) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 346xCây mai (old: 345) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 273xLì xì (old: 272) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 347xCây mai (old: 346) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 348xCây mai (old: 347) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 274xLì xì (old: 273) lydo: Nhặt từ map at 02/03/2023 2:45 SA
+BAG:ilikeboss add 349xCây mai (old: 348) lydo: Nhặt từ map at 02/03/2023 2:46 SA
+BAG:ilikeboss add 275xLì xì (old: 274) lydo: Nhặt từ map at 02/03/2023 2:46 SA
+BAG:ilikeboss add 350xCây mai (old: 349) lydo: Nhặt từ map at 02/03/2023 2:46 SA
+BAG:ilikeboss add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/03/2023 2:46 SA
+BAG:ilikeboss add 227xBình rượu (old: 226) lydo: Nhặt từ map at 02/03/2023 2:46 SA
+BAG:ilikeboss add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/03/2023 2:46 SA
+BAG:ilikeboss add 276xLì xì (old: 275) lydo: Nhặt từ map at 02/03/2023 2:46 SA
+BAG:ilikeboss add 228xBình rượu (old: 227) lydo: Nhặt từ map at 02/03/2023 2:47 SA
+BAG:ilikeboss add 277xLì xì (old: 276) lydo: Nhặt từ map at 02/03/2023 2:47 SA
+BAG:ilikeboss add 351xCây mai (old: 350) lydo: Nhặt từ map at 02/03/2023 2:47 SA
+BAG:ilikeboss add 229xBình rượu (old: 228) lydo: Nhặt từ map at 02/03/2023 2:47 SA
+BAG:ilikeboss add 230xBình rượu (old: 229) lydo: Nhặt từ map at 02/03/2023 2:47 SA
+BAG:ilikeboss add 278xLì xì (old: 277) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 352xCây mai (old: 351) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 231xBình rượu (old: 230) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 232xBình rượu (old: 231) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 353xCây mai (old: 352) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 354xCây mai (old: 353) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/03/2023 2:48 SA
+BAG:ilikeboss add 279xLì xì (old: 278) lydo: Nhặt từ map at 02/03/2023 2:49 SA
+BAG:ilikeboss add 355xCây mai (old: 354) lydo: Nhặt từ map at 02/03/2023 2:49 SA
+BAG:ilikeboss add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 02/03/2023 2:49 SA
+BAG:ilikeboss add 356xCây mai (old: 355) lydo: Nhặt từ map at 02/03/2023 2:49 SA
+BAG:ilikeboss add 233xBình rượu (old: 232) lydo: Nhặt từ map at 02/03/2023 2:49 SA
+BAG:ilikeboss add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 2:49 SA
+BAG:ilikeboss add 280xLì xì (old: 279) lydo: Nhặt từ map at 02/03/2023 2:49 SA
+BAG:ilikeboss add 234xBình rượu (old: 233) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 235xBình rượu (old: 234) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 357xCây mai (old: 356) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 236xBình rượu (old: 235) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 237xBình rượu (old: 236) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 281xLì xì (old: 280) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/03/2023 2:50 SA
+BAG:ilikeboss add 238xBình rượu (old: 237) lydo: Nhặt từ map at 02/03/2023 2:51 SA
+BAG:ilikeboss add 282xLì xì (old: 281) lydo: Nhặt từ map at 02/03/2023 2:51 SA
+BAG:ilikeboss add 239xBình rượu (old: 238) lydo: Nhặt từ map at 02/03/2023 2:51 SA
+BAG:ilikeboss add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/03/2023 2:51 SA
+BAG:ilikeboss add 283xLì xì (old: 282) lydo: Nhặt từ map at 02/03/2023 2:51 SA
+BAG:ilikeboss add 284xLì xì (old: 283) lydo: Nhặt từ map at 02/03/2023 2:51 SA
+BAG:ilikeboss add 285xLì xì (old: 284) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 240xBình rượu (old: 239) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 241xBình rượu (old: 240) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 242xBình rượu (old: 241) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 358xCây mai (old: 357) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 359xCây mai (old: 358) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 360xCây mai (old: 359) lydo: Nhặt từ map at 02/03/2023 2:52 SA
+BAG:ilikeboss add 361xCây mai (old: 360) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 362xCây mai (old: 361) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 286xLì xì (old: 285) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 363xCây mai (old: 362) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 243xBình rượu (old: 242) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 364xCây mai (old: 363) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 287xLì xì (old: 286) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 365xCây mai (old: 364) lydo: Nhặt từ map at 02/03/2023 2:53 SA
+BAG:ilikeboss add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 02/03/2023 2:54 SA
+BAG:ilikeboss add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/03/2023 2:54 SA
+BAG:ilikeboss add 288xLì xì (old: 287) lydo: Nhặt từ map at 02/03/2023 2:54 SA
+BAG:ilikeboss add 244xBình rượu (old: 243) lydo: Nhặt từ map at 02/03/2023 2:54 SA
+BAG:ilikeboss add 289xLì xì (old: 288) lydo: Nhặt từ map at 02/03/2023 2:54 SA
+BAG:ilikeboss add 245xBình rượu (old: 244) lydo: Nhặt từ map at 02/03/2023 2:54 SA
+BAG:ilikeboss add 366xCây mai (old: 365) lydo: Nhặt từ map at 02/03/2023 2:55 SA
+BAG:ilikeboss add 290xLì xì (old: 289) lydo: Nhặt từ map at 02/03/2023 2:55 SA
+BAG:ilikeboss add 291xLì xì (old: 290) lydo: Nhặt từ map at 02/03/2023 2:55 SA
+BAG:ilikeboss add 292xLì xì (old: 291) lydo: Nhặt từ map at 02/03/2023 2:55 SA
+BAG:ilikeboss add 293xLì xì (old: 292) lydo: Nhặt từ map at 02/03/2023 2:55 SA
+BAG:ilikeboss add 246xBình rượu (old: 245) lydo: Nhặt từ map at 02/03/2023 2:55 SA
+BAG:ilikeboss add 247xBình rượu (old: 246) lydo: Nhặt từ map at 02/03/2023 2:55 SA
+BAG:ilikeboss add 367xCây mai (old: 366) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 368xCây mai (old: 367) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 369xCây mai (old: 368) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 294xLì xì (old: 293) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 248xBình rượu (old: 247) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 295xLì xì (old: 294) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/03/2023 2:56 SA
+BAG:ilikeboss add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 296xLì xì (old: 295) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 297xLì xì (old: 296) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 298xLì xì (old: 297) lydo: Nhặt từ map at 02/03/2023 2:57 SA
+BAG:ilikeboss add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 370xCây mai (old: 369) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 249xBình rượu (old: 248) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 299xLì xì (old: 298) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 250xBình rượu (old: 249) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/03/2023 2:58 SA
+BAG:ilikeboss add 371xCây mai (old: 370) lydo: Nhặt từ map at 02/03/2023 2:59 SA
+BAG:ilikeboss add 251xBình rượu (old: 250) lydo: Nhặt từ map at 02/03/2023 2:59 SA
+BAG:ilikeboss add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 02/03/2023 2:59 SA
+BAG:ilikeboss add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 02/03/2023 2:59 SA
+BAG:ilikeboss add 372xCây mai (old: 371) lydo: Nhặt từ map at 02/03/2023 2:59 SA
+BAG:ilikeboss add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:ilikeboss add 373xCây mai (old: 372) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:ilikeboss add 252xBình rượu (old: 251) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:ilikeboss add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:ilikeboss add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:ilikeboss add 374xCây mai (old: 373) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:ilikeboss add 253xBình rượu (old: 252) lydo: Nhặt từ map at 02/03/2023 3:00 SA
+BAG:ilikeboss add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 254xBình rượu (old: 253) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 300xLì xì (old: 299) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 301xLì xì (old: 300) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 375xCây mai (old: 374) lydo: Nhặt từ map at 02/03/2023 3:01 SA
+BAG:ilikeboss add 302xLì xì (old: 301) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 303xLì xì (old: 302) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 376xCây mai (old: 375) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 304xLì xì (old: 303) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 305xLì xì (old: 304) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 306xLì xì (old: 305) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 255xBình rượu (old: 254) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:ilikeboss add 307xLì xì (old: 306) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 377xCây mai (old: 376) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 378xCây mai (old: 377) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 379xCây mai (old: 378) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 380xCây mai (old: 379) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:ilikeboss add 308xLì xì (old: 307) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:ilikeboss add 309xLì xì (old: 308) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:ilikeboss add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:ilikeboss add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:ilikeboss add 256xBình rượu (old: 255) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:ilikeboss add 257xBình rượu (old: 256) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:ilikeboss add 381xCây mai (old: 380) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:ilikeboss add 258xBình rượu (old: 257) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 259xBình rượu (old: 258) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 310xLì xì (old: 309) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 260xBình rượu (old: 259) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 311xLì xì (old: 310) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 312xLì xì (old: 311) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 382xCây mai (old: 381) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 383xCây mai (old: 382) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:ilikeboss add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 261xBình rượu (old: 260) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 384xCây mai (old: 383) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 385xCây mai (old: 384) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 386xCây mai (old: 385) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:ilikeboss add 262xBình rượu (old: 261) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 313xLì xì (old: 312) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 314xLì xì (old: 313) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 263xBình rượu (old: 262) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 264xBình rượu (old: 263) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 387xCây mai (old: 386) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 388xCây mai (old: 387) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 389xCây mai (old: 388) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:ilikeboss add 315xLì xì (old: 314) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 265xBình rượu (old: 264) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 266xBình rượu (old: 265) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 267xBình rượu (old: 266) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 390xCây mai (old: 389) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 316xLì xì (old: 315) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 391xCây mai (old: 390) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 317xLì xì (old: 316) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 318xLì xì (old: 317) lydo: Nhặt từ map at 02/03/2023 3:08 SA
+BAG:ilikeboss add 66xNgọc Rồng 4 sao (old: 65) lydo: Nhặt từ map at 02/03/2023 3:09 SA
+BAG:ilikeboss add 268xBình rượu (old: 267) lydo: Nhặt từ map at 02/03/2023 3:09 SA
+BAG:ilikeboss add 392xCây mai (old: 391) lydo: Nhặt từ map at 02/03/2023 3:09 SA
+BAG:ilikeboss add 67xNgọc Rồng 4 sao (old: 66) lydo: Nhặt từ map at 02/03/2023 3:09 SA
+BAG:ilikeboss add 319xLì xì (old: 318) lydo: Nhặt từ map at 02/03/2023 3:09 SA
+BAG:ilikeboss add 320xLì xì (old: 319) lydo: Nhặt từ map at 02/03/2023 3:09 SA
+BAG:ilikeboss add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 02/03/2023 3:09 SA
+BAG:ilikeboss add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 321xLì xì (old: 320) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 322xLì xì (old: 321) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 393xCây mai (old: 392) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/03/2023 3:10 SA
+BAG:ilikeboss add 269xBình rượu (old: 268) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 270xBình rượu (old: 269) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 271xBình rượu (old: 270) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 394xCây mai (old: 393) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 02/03/2023 3:11 SA
+BAG:ilikeboss add 323xLì xì (old: 322) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 395xCây mai (old: 394) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 324xLì xì (old: 323) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 396xCây mai (old: 395) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 325xLì xì (old: 324) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 272xBình rượu (old: 271) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 397xCây mai (old: 396) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 273xBình rượu (old: 272) lydo: Nhặt từ map at 02/03/2023 3:12 SA
+BAG:ilikeboss add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 274xBình rượu (old: 273) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 398xCây mai (old: 397) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 275xBình rượu (old: 274) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 326xLì xì (old: 325) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 327xLì xì (old: 326) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 276xBình rượu (old: 275) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 399xCây mai (old: 398) lydo: Nhặt từ map at 02/03/2023 3:13 SA
+BAG:ilikeboss add 400xCây mai (old: 399) lydo: Nhặt từ map at 02/03/2023 3:14 SA
+BAG:ilikeboss add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/03/2023 3:14 SA
+BAG:ilikeboss add 401xCây mai (old: 400) lydo: Nhặt từ map at 02/03/2023 3:14 SA
+BAG:ilikeboss add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/03/2023 3:14 SA
+BAG:ilikeboss add 328xLì xì (old: 327) lydo: Nhặt từ map at 02/03/2023 3:14 SA
+BAG:ilikeboss add 329xLì xì (old: 328) lydo: Nhặt từ map at 02/03/2023 3:14 SA
+BAG:ilikeboss add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:ilikeboss add 277xBình rượu (old: 276) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:ilikeboss add 330xLì xì (old: 329) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:ilikeboss add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:ilikeboss add 402xCây mai (old: 401) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:ilikeboss add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:ilikeboss add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 02/03/2023 3:15 SA
+BAG:ilikeboss add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 278xBình rượu (old: 277) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 279xBình rượu (old: 278) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 280xBình rượu (old: 279) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 281xBình rượu (old: 280) lydo: Nhặt từ map at 02/03/2023 3:16 SA
+BAG:ilikeboss add 282xBình rượu (old: 281) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 283xBình rượu (old: 282) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 331xLì xì (old: 330) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 403xCây mai (old: 402) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 332xLì xì (old: 331) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 333xLì xì (old: 332) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 404xCây mai (old: 403) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 405xCây mai (old: 404) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 406xCây mai (old: 405) lydo: Nhặt từ map at 02/03/2023 3:17 SA
+BAG:ilikeboss add 407xCây mai (old: 406) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 4xBột mì (old: 3) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 284xBình rượu (old: 283) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 334xLì xì (old: 333) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 285xBình rượu (old: 284) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 408xCây mai (old: 407) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 286xBình rượu (old: 285) lydo: Nhặt từ map at 02/03/2023 3:18 SA
+BAG:ilikeboss add 409xCây mai (old: 408) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:ilikeboss add 410xCây mai (old: 409) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:ilikeboss add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:ilikeboss add 287xBình rượu (old: 286) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:ilikeboss add 335xLì xì (old: 334) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:ilikeboss add 336xLì xì (old: 335) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:ilikeboss add 337xLì xì (old: 336) lydo: Nhặt từ map at 02/03/2023 3:19 SA
+BAG:ilikeboss add 411xCây mai (old: 410) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 338xLì xì (old: 337) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 412xCây mai (old: 411) lydo: Nhặt từ map at 02/03/2023 3:20 SA
+BAG:ilikeboss add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:ilikeboss add 339xLì xì (old: 338) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:ilikeboss add 413xCây mai (old: 412) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:ilikeboss add 288xBình rượu (old: 287) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:ilikeboss add 414xCây mai (old: 413) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:ilikeboss add 415xCây mai (old: 414) lydo: Nhặt từ map at 02/03/2023 3:21 SA
+BAG:ilikeboss add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 416xCây mai (old: 415) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 417xCây mai (old: 416) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 289xBình rượu (old: 288) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 340xLì xì (old: 339) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 418xCây mai (old: 417) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 290xBình rượu (old: 289) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 291xBình rượu (old: 290) lydo: Nhặt từ map at 02/03/2023 3:22 SA
+BAG:ilikeboss add 5xBột mì (old: 4) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 419xCây mai (old: 418) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 341xLì xì (old: 340) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 342xLì xì (old: 341) lydo: Nhặt từ map at 02/03/2023 3:23 SA
+BAG:ilikeboss add 343xLì xì (old: 342) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 420xCây mai (old: 419) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 292xBình rượu (old: 291) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 421xCây mai (old: 420) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 344xLì xì (old: 343) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 345xLì xì (old: 344) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 422xCây mai (old: 421) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 346xLì xì (old: 345) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 293xBình rượu (old: 292) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 423xCây mai (old: 422) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 02/03/2023 3:24 SA
+BAG:ilikeboss add 424xCây mai (old: 423) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:ilikeboss add 425xCây mai (old: 424) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:ilikeboss add 294xBình rượu (old: 293) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:ilikeboss add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:ilikeboss add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:ilikeboss add 426xCây mai (old: 425) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:ilikeboss add 295xBình rượu (old: 294) lydo: Nhặt từ map at 02/03/2023 3:25 SA
+BAG:ilikeboss add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 347xLì xì (old: 346) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 427xCây mai (old: 426) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 348xLì xì (old: 347) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 428xCây mai (old: 427) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 349xLì xì (old: 348) lydo: Nhặt từ map at 02/03/2023 3:26 SA
+BAG:ilikeboss add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 350xLì xì (old: 349) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 296xBình rượu (old: 295) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 351xLì xì (old: 350) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 352xLì xì (old: 351) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 429xCây mai (old: 428) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 353xLì xì (old: 352) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 430xCây mai (old: 429) lydo: Nhặt từ map at 02/03/2023 3:27 SA
+BAG:ilikeboss add 431xCây mai (old: 430) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 432xCây mai (old: 431) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 433xCây mai (old: 432) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 297xBình rượu (old: 296) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 434xCây mai (old: 433) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 435xCây mai (old: 434) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 70xNgọc Rồng 4 sao (old: 69) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 354xLì xì (old: 353) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 298xBình rượu (old: 297) lydo: Nhặt từ map at 02/03/2023 3:28 SA
+BAG:ilikeboss add 436xCây mai (old: 435) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 437xCây mai (old: 436) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 299xBình rượu (old: 298) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 355xLì xì (old: 354) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 356xLì xì (old: 355) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 300xBình rượu (old: 299) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 301xBình rượu (old: 300) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 438xCây mai (old: 437) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 357xLì xì (old: 356) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 439xCây mai (old: 438) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 02/03/2023 3:29 SA
+BAG:ilikeboss add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:ilikeboss add 440xCây mai (old: 439) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:ilikeboss add 302xBình rượu (old: 301) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:ilikeboss add 441xCây mai (old: 440) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:ilikeboss add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:ilikeboss add 442xCây mai (old: 441) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:ilikeboss add 358xLì xì (old: 357) lydo: Nhặt từ map at 02/03/2023 3:30 SA
+BAG:ilikeboss add 303xBình rượu (old: 302) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:ilikeboss add 6xBột mì (old: 5) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:ilikeboss add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:ilikeboss add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:ilikeboss add 443xCây mai (old: 442) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:ilikeboss add 304xBình rượu (old: 303) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:ilikeboss add 359xLì xì (old: 358) lydo: Nhặt từ map at 02/03/2023 3:31 SA
+BAG:ilikeboss add 360xLì xì (old: 359) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 361xLì xì (old: 360) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 444xCây mai (old: 443) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 362xLì xì (old: 361) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 363xLì xì (old: 362) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 445xCây mai (old: 444) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 305xBình rượu (old: 304) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 446xCây mai (old: 445) lydo: Nhặt từ map at 02/03/2023 3:32 SA
+BAG:ilikeboss add 306xBình rượu (old: 305) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:ilikeboss add 307xBình rượu (old: 306) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:ilikeboss add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:ilikeboss add 447xCây mai (old: 446) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:ilikeboss add 308xBình rượu (old: 307) lydo: Nhặt từ map at 02/03/2023 3:33 SA
+BAG:ilikeboss add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 309xBình rượu (old: 308) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 364xLì xì (old: 363) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 310xBình rượu (old: 309) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 311xBình rượu (old: 310) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 448xCây mai (old: 447) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 365xLì xì (old: 364) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 71xNgọc Rồng 4 sao (old: 70) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 312xBình rượu (old: 311) lydo: Nhặt từ map at 02/03/2023 3:34 SA
+BAG:ilikeboss add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:ilikeboss add 313xBình rượu (old: 312) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:ilikeboss add 366xLì xì (old: 365) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:ilikeboss add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:ilikeboss add 449xCây mai (old: 448) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:ilikeboss add 314xBình rượu (old: 313) lydo: Nhặt từ map at 02/03/2023 3:35 SA
+BAG:ilikeboss add 450xCây mai (old: 449) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 315xBình rượu (old: 314) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 316xBình rượu (old: 315) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 451xCây mai (old: 450) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 452xCây mai (old: 451) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 453xCây mai (old: 452) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 454xCây mai (old: 453) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 455xCây mai (old: 454) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 367xLì xì (old: 366) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 317xBình rượu (old: 316) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 92xĐá thạch anh tím (old: 91) lydo: Nhặt từ map at 02/03/2023 3:36 SA
+BAG:ilikeboss add 368xLì xì (old: 367) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:ilikeboss add 456xCây mai (old: 455) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:ilikeboss add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:ilikeboss add 93xĐá thạch anh tím (old: 92) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:ilikeboss add 72xNgọc Rồng 4 sao (old: 71) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:ilikeboss add 457xCây mai (old: 456) lydo: Nhặt từ map at 02/03/2023 3:37 SA
+BAG:ilikeboss add 318xBình rượu (old: 317) lydo: Nhặt từ map at 02/03/2023 3:38 SA
+BAG:ilikeboss add 369xLì xì (old: 368) lydo: Nhặt từ map at 02/03/2023 3:38 SA
+BAG:ilikeboss add 73xNgọc Rồng 4 sao (old: 72) lydo: Nhặt từ map at 02/03/2023 3:38 SA
+BAG:ilikeboss add 319xBình rượu (old: 318) lydo: Nhặt từ map at 02/03/2023 3:38 SA
+BAG:ilikeboss add 320xBình rượu (old: 319) lydo: Nhặt từ map at 02/03/2023 3:38 SA
+BAG:ilikeboss add 321xBình rượu (old: 320) lydo: Nhặt từ map at 02/03/2023 3:38 SA
+BAG:ilikeboss add 322xBình rượu (old: 321) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:ilikeboss add 323xBình rượu (old: 322) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:ilikeboss add 370xLì xì (old: 369) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:ilikeboss add 458xCây mai (old: 457) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:ilikeboss add 371xLì xì (old: 370) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:ilikeboss add 372xLì xì (old: 371) lydo: Nhặt từ map at 02/03/2023 3:39 SA
+BAG:ilikeboss add 373xLì xì (old: 372) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 459xCây mai (old: 458) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 460xCây mai (old: 459) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 461xCây mai (old: 460) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 324xBình rượu (old: 323) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 462xCây mai (old: 461) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 463xCây mai (old: 462) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 464xCây mai (old: 463) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 374xLì xì (old: 373) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 375xLì xì (old: 374) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 465xCây mai (old: 464) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 02/03/2023 3:40 SA
+BAG:ilikeboss add 325xBình rượu (old: 324) lydo: Nhặt từ map at 02/03/2023 3:41 SA
+BAG:ilikeboss add 376xLì xì (old: 375) lydo: Nhặt từ map at 02/03/2023 3:41 SA
+BAG:ilikeboss add 377xLì xì (old: 376) lydo: Nhặt từ map at 02/03/2023 3:41 SA
+BAG:ilikeboss add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 02/03/2023 3:41 SA
+BAG:ilikeboss add 378xLì xì (old: 377) lydo: Nhặt từ map at 02/03/2023 3:41 SA
+BAG:ilikeboss add 379xLì xì (old: 378) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 380xLì xì (old: 379) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 326xBình rượu (old: 325) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 466xCây mai (old: 465) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 327xBình rượu (old: 326) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 328xBình rượu (old: 327) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 381xLì xì (old: 380) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 467xCây mai (old: 466) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 468xCây mai (old: 467) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 469xCây mai (old: 468) lydo: Nhặt từ map at 02/03/2023 3:42 SA
+BAG:ilikeboss add 329xBình rượu (old: 328) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:ilikeboss add 470xCây mai (old: 469) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:ilikeboss add 471xCây mai (old: 470) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:ilikeboss add 472xCây mai (old: 471) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:ilikeboss add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:ilikeboss add 382xLì xì (old: 381) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:ilikeboss add 383xLì xì (old: 382) lydo: Nhặt từ map at 02/03/2023 3:43 SA
+BAG:ilikeboss add 473xCây mai (old: 472) lydo: Nhặt từ map at 02/03/2023 3:44 SA
+BAG:ilikeboss add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 02/03/2023 3:44 SA
+BAG:ilikeboss add 474xCây mai (old: 473) lydo: Nhặt từ map at 02/03/2023 3:44 SA
+BAG:ilikeboss add 330xBình rượu (old: 329) lydo: Nhặt từ map at 02/03/2023 3:44 SA
+BAG:ilikeboss add 475xCây mai (old: 474) lydo: Nhặt từ map at 02/03/2023 3:44 SA
+BAG:ilikeboss add 331xBình rượu (old: 330) lydo: Nhặt từ map at 02/03/2023 3:44 SA
+BAG:ilikeboss add 332xBình rượu (old: 331) lydo: Nhặt từ map at 02/03/2023 3:44 SA
+BAG:ilikeboss add 333xBình rượu (old: 332) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 384xLì xì (old: 383) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 385xLì xì (old: 384) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 386xLì xì (old: 385) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 3:45 SA
+BAG:ilikeboss add 476xCây mai (old: 475) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:ilikeboss add 477xCây mai (old: 476) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:ilikeboss add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:ilikeboss add 478xCây mai (old: 477) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:ilikeboss add 387xLì xì (old: 386) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:ilikeboss add 334xBình rượu (old: 333) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:ilikeboss add 388xLì xì (old: 387) lydo: Nhặt từ map at 02/03/2023 3:46 SA
+BAG:ilikeboss add 335xBình rượu (old: 334) lydo: Nhặt từ map at 02/03/2023 3:47 SA
+BAG:ilikeboss add 336xBình rượu (old: 335) lydo: Nhặt từ map at 02/03/2023 3:47 SA
+BAG:ilikeboss add 479xCây mai (old: 478) lydo: Nhặt từ map at 02/03/2023 3:47 SA
+BAG:ilikeboss add 389xLì xì (old: 388) lydo: Nhặt từ map at 02/03/2023 3:47 SA
+BAG:ilikeboss add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 02/03/2023 3:47 SA
+BAG:ilikeboss add 94xĐá thạch anh tím (old: 93) lydo: Nhặt từ map at 02/03/2023 3:47 SA
+BAG:ilikeboss add 480xCây mai (old: 479) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:ilikeboss add 337xBình rượu (old: 336) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:ilikeboss add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:ilikeboss add 481xCây mai (old: 480) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:ilikeboss add 482xCây mai (old: 481) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:ilikeboss add 483xCây mai (old: 482) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:ilikeboss add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 02/03/2023 3:48 SA
+BAG:ilikeboss add 338xBình rượu (old: 337) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 484xCây mai (old: 483) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 74xNgọc Rồng 4 sao (old: 73) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 390xLì xì (old: 389) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 339xBình rượu (old: 338) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 485xCây mai (old: 484) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 391xLì xì (old: 390) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 340xBình rượu (old: 339) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 392xLì xì (old: 391) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 486xCây mai (old: 485) lydo: Nhặt từ map at 02/03/2023 3:49 SA
+BAG:ilikeboss add 341xBình rượu (old: 340) lydo: Nhặt từ map at 02/03/2023 3:50 SA
+BAG:ilikeboss add 487xCây mai (old: 486) lydo: Nhặt từ map at 02/03/2023 3:50 SA
+BAG:ilikeboss add 488xCây mai (old: 487) lydo: Nhặt từ map at 02/03/2023 3:50 SA
+BAG:ilikeboss add 342xBình rượu (old: 341) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:ilikeboss add 489xCây mai (old: 488) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:ilikeboss add 393xLì xì (old: 392) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:ilikeboss add 394xLì xì (old: 393) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:ilikeboss add 343xBình rượu (old: 342) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:ilikeboss add 344xBình rượu (old: 343) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:ilikeboss add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 02/03/2023 3:51 SA
+BAG:ilikeboss add 75xNgọc Rồng 4 sao (old: 74) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 490xCây mai (old: 489) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 76xNgọc Rồng 4 sao (old: 75) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 491xCây mai (old: 490) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 77xNgọc Rồng 4 sao (old: 76) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 345xBình rượu (old: 344) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 492xCây mai (old: 491) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 395xLì xì (old: 394) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 493xCây mai (old: 492) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 02/03/2023 3:52 SA
+BAG:ilikeboss add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 494xCây mai (old: 493) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 396xLì xì (old: 395) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 346xBình rượu (old: 345) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 495xCây mai (old: 494) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 347xBình rượu (old: 346) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 397xLì xì (old: 396) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 348xBình rượu (old: 347) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 398xLì xì (old: 397) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 496xCây mai (old: 495) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 02/03/2023 3:53 SA
+BAG:ilikeboss add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 399xLì xì (old: 398) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 78xNgọc Rồng 4 sao (old: 77) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 497xCây mai (old: 496) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 97xĐá thạch anh tím (old: 96) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 498xCây mai (old: 497) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 349xBình rượu (old: 348) lydo: Nhặt từ map at 02/03/2023 3:54 SA
+BAG:ilikeboss add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 350xBình rượu (old: 349) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 499xCây mai (old: 498) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 400xLì xì (old: 399) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 500xCây mai (old: 499) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 401xLì xì (old: 400) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 02/03/2023 3:55 SA
+BAG:ilikeboss add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 02/03/2023 3:56 SA
+BAG:ilikeboss add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 02/03/2023 3:56 SA
+BAG:ilikeboss add 351xBình rượu (old: 350) lydo: Nhặt từ map at 02/03/2023 3:56 SA
+BAG:ilikeboss add 501xCây mai (old: 500) lydo: Nhặt từ map at 02/03/2023 3:56 SA
+BAG:ilikeboss add 352xBình rượu (old: 351) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 98xĐá thạch anh tím (old: 97) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 502xCây mai (old: 501) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 402xLì xì (old: 401) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 353xBình rượu (old: 352) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 503xCây mai (old: 502) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 504xCây mai (old: 503) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 354xBình rượu (old: 353) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 79xNgọc Rồng 4 sao (old: 78) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 505xCây mai (old: 504) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 506xCây mai (old: 505) lydo: Nhặt từ map at 02/03/2023 3:57 SA
+BAG:ilikeboss add 507xCây mai (old: 506) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:ilikeboss add 403xLì xì (old: 402) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:ilikeboss add 355xBình rượu (old: 354) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:ilikeboss add 508xCây mai (old: 507) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:ilikeboss add 404xLì xì (old: 403) lydo: Nhặt từ map at 02/03/2023 3:58 SA
+BAG:ilikeboss add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 405xLì xì (old: 404) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 509xCây mai (old: 508) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 406xLì xì (old: 405) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 510xCây mai (old: 509) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 356xBình rượu (old: 355) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 511xCây mai (old: 510) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 357xBình rượu (old: 356) lydo: Nhặt từ map at 02/03/2023 3:59 SA
+BAG:ilikeboss add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 407xLì xì (old: 406) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 408xLì xì (old: 407) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 512xCây mai (old: 511) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 513xCây mai (old: 512) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 409xLì xì (old: 408) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 358xBình rượu (old: 357) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 410xLì xì (old: 409) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 02/03/2023 4:00 SA
+BAG:ilikeboss add 411xLì xì (old: 410) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 359xBình rượu (old: 358) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 360xBình rượu (old: 359) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 412xLì xì (old: 411) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 413xLì xì (old: 412) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 02/03/2023 4:01 SA
+BAG:ilikeboss add 514xCây mai (old: 513) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 361xBình rượu (old: 360) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 515xCây mai (old: 514) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 414xLì xì (old: 413) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 415xLì xì (old: 414) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 516xCây mai (old: 515) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 362xBình rượu (old: 361) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 416xLì xì (old: 415) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 517xCây mai (old: 516) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 518xCây mai (old: 517) lydo: Nhặt từ map at 02/03/2023 4:02 SA
+BAG:ilikeboss add 417xLì xì (old: 416) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 7xBột mì (old: 6) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 363xBình rượu (old: 362) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 418xLì xì (old: 417) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 519xCây mai (old: 518) lydo: Nhặt từ map at 02/03/2023 4:03 SA
+BAG:ilikeboss add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:ilikeboss add 99xĐá thạch anh tím (old: 98) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:ilikeboss add 520xCây mai (old: 519) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:ilikeboss add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:ilikeboss add 419xLì xì (old: 418) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:ilikeboss add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:ilikeboss add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 02/03/2023 4:04 SA
+BAG:ilikeboss add 364xBình rượu (old: 363) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 521xCây mai (old: 520) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 420xLì xì (old: 419) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 421xLì xì (old: 420) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 522xCây mai (old: 521) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 523xCây mai (old: 522) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 524xCây mai (old: 523) lydo: Nhặt từ map at 02/03/2023 4:05 SA
+BAG:ilikeboss add 422xLì xì (old: 421) lydo: Nhặt từ map at 02/03/2023 4:06 SA
+BAG:ilikeboss add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 02/03/2023 4:06 SA
+BAG:ilikeboss add 423xLì xì (old: 422) lydo: Nhặt từ map at 02/03/2023 4:06 SA
+BAG:ilikeboss add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 02/03/2023 4:06 SA
+BAG:ilikeboss add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 02/03/2023 4:06 SA
+BAG:ilikeboss add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 02/03/2023 4:06 SA
+BAG:ilikeboss add 365xBình rượu (old: 364) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 525xCây mai (old: 524) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 526xCây mai (old: 525) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 527xCây mai (old: 526) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 528xCây mai (old: 527) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 02/03/2023 4:07 SA
+BAG:ilikeboss add 366xBình rượu (old: 365) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:ilikeboss add 424xLì xì (old: 423) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:ilikeboss add 425xLì xì (old: 424) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:ilikeboss add 426xLì xì (old: 425) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:ilikeboss add 427xLì xì (old: 426) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:ilikeboss add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:ilikeboss add 80xNgọc Rồng 4 sao (old: 79) lydo: Nhặt từ map at 02/03/2023 4:08 SA
+BAG:ilikeboss add 367xBình rượu (old: 366) lydo: Nhặt từ map at 02/03/2023 4:09 SA
+BAG:ilikeboss add 428xLì xì (old: 427) lydo: Nhặt từ map at 02/03/2023 4:09 SA
+BAG:ilikeboss add 368xBình rượu (old: 367) lydo: Nhặt từ map at 02/03/2023 4:09 SA
+BAG:ilikeboss add 529xCây mai (old: 528) lydo: Nhặt từ map at 02/03/2023 4:09 SA
+BAG:ilikeboss add 530xCây mai (old: 529) lydo: Nhặt từ map at 02/03/2023 4:09 SA
+BAG:ilikeboss add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 4:09 SA
+BAG:ilikeboss add 429xLì xì (old: 428) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 81xNgọc Rồng 4 sao (old: 80) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 430xLì xì (old: 429) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 531xCây mai (old: 530) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 369xBình rượu (old: 368) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 532xCây mai (old: 531) lydo: Nhặt từ map at 02/03/2023 4:10 SA
+BAG:ilikeboss add 370xBình rượu (old: 369) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 371xBình rượu (old: 370) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 372xBình rượu (old: 371) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 373xBình rượu (old: 372) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 533xCây mai (old: 532) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 374xBình rượu (old: 373) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 431xLì xì (old: 430) lydo: Nhặt từ map at 02/03/2023 4:11 SA
+BAG:ilikeboss add 534xCây mai (old: 533) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 535xCây mai (old: 534) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 536xCây mai (old: 535) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 432xLì xì (old: 431) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 433xLì xì (old: 432) lydo: Nhặt từ map at 02/03/2023 4:12 SA
+BAG:ilikeboss add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 375xBình rượu (old: 374) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 376xBình rượu (old: 375) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 537xCây mai (old: 536) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 538xCây mai (old: 537) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 434xLì xì (old: 433) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 377xBình rượu (old: 376) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 435xLì xì (old: 434) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 378xBình rượu (old: 377) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 436xLì xì (old: 435) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 379xBình rượu (old: 378) lydo: Nhặt từ map at 02/03/2023 4:13 SA
+BAG:ilikeboss add 539xCây mai (old: 538) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 380xBình rượu (old: 379) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 540xCây mai (old: 539) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 437xLì xì (old: 436) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 541xCây mai (old: 540) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 381xBình rượu (old: 380) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 542xCây mai (old: 541) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 382xBình rượu (old: 381) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 383xBình rượu (old: 382) lydo: Nhặt từ map at 02/03/2023 4:14 SA
+BAG:ilikeboss add 384xBình rượu (old: 383) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 438xLì xì (old: 437) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 543xCây mai (old: 542) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 439xLì xì (old: 438) lydo: Nhặt từ map at 02/03/2023 4:15 SA
+BAG:ilikeboss add 440xLì xì (old: 439) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 385xBình rượu (old: 384) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 544xCây mai (old: 543) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 545xCây mai (old: 544) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 386xBình rượu (old: 385) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 441xLì xì (old: 440) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 442xLì xì (old: 441) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 02/03/2023 4:16 SA
+BAG:ilikeboss add 82xNgọc Rồng 4 sao (old: 81) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 443xLì xì (old: 442) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 444xLì xì (old: 443) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 76xĐá Ruby (old: 75) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 546xCây mai (old: 545) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 445xLì xì (old: 444) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 446xLì xì (old: 445) lydo: Nhặt từ map at 02/03/2023 4:17 SA
+BAG:ilikeboss add 447xLì xì (old: 446) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 547xCây mai (old: 546) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 548xCây mai (old: 547) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 549xCây mai (old: 548) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 387xBình rượu (old: 386) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 550xCây mai (old: 549) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 388xBình rượu (old: 387) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 389xBình rượu (old: 388) lydo: Nhặt từ map at 02/03/2023 4:18 SA
+BAG:ilikeboss add 77xĐá Ruby (old: 76) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 448xLì xì (old: 447) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 390xBình rượu (old: 389) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 391xBình rượu (old: 390) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 551xCây mai (old: 550) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 449xLì xì (old: 448) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 552xCây mai (old: 551) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 392xBình rượu (old: 391) lydo: Nhặt từ map at 02/03/2023 4:19 SA
+BAG:ilikeboss add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 553xCây mai (old: 552) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 78xĐá Ruby (old: 77) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 450xLì xì (old: 449) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 451xLì xì (old: 450) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 79xĐá Ruby (old: 78) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 4:20 SA
+BAG:ilikeboss add 80xĐá Ruby (old: 79) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:ilikeboss add 81xĐá Ruby (old: 80) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:ilikeboss add 393xBình rượu (old: 392) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:ilikeboss add 554xCây mai (old: 553) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:ilikeboss add 452xLì xì (old: 451) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:ilikeboss add 394xBình rượu (old: 393) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:ilikeboss add 555xCây mai (old: 554) lydo: Nhặt từ map at 02/03/2023 4:21 SA
+BAG:ilikeboss add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 556xCây mai (old: 555) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 83xNgọc Rồng 4 sao (old: 82) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 557xCây mai (old: 556) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 558xCây mai (old: 557) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 395xBình rượu (old: 394) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 559xCây mai (old: 558) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 02/03/2023 4:22 SA
+BAG:ilikeboss add 84xNgọc Rồng 4 sao (old: 83) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 453xLì xì (old: 452) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 454xLì xì (old: 453) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 82xĐá Ruby (old: 81) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 560xCây mai (old: 559) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 455xLì xì (old: 454) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 561xCây mai (old: 560) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 456xLì xì (old: 455) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 562xCây mai (old: 561) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 02/03/2023 4:23 SA
+BAG:ilikeboss add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 563xCây mai (old: 562) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 564xCây mai (old: 563) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 457xLì xì (old: 456) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 565xCây mai (old: 564) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 4:24 SA
+BAG:ilikeboss add 396xBình rượu (old: 395) lydo: Nhặt từ map at 02/03/2023 4:25 SA
+BAG:ilikeboss add 566xCây mai (old: 565) lydo: Nhặt từ map at 02/03/2023 4:25 SA
+BAG:ilikeboss add 83xĐá Ruby (old: 82) lydo: Nhặt từ map at 02/03/2023 4:25 SA
+BAG:ilikeboss add 397xBình rượu (old: 396) lydo: Nhặt từ map at 02/03/2023 4:25 SA
+BAG:ilikeboss add 398xBình rượu (old: 397) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 567xCây mai (old: 566) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 84xĐá Ruby (old: 83) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 568xCây mai (old: 567) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 569xCây mai (old: 568) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 70xĐá Saphia (old: 69) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 458xLì xì (old: 457) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 570xCây mai (old: 569) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 399xBình rượu (old: 398) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 571xCây mai (old: 570) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 459xLì xì (old: 458) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 460xLì xì (old: 459) lydo: Nhặt từ map at 02/03/2023 4:26 SA
+BAG:ilikeboss add 400xBình rượu (old: 399) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 401xBình rượu (old: 400) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 572xCây mai (old: 571) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 402xBình rượu (old: 401) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 403xBình rượu (old: 402) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 573xCây mai (old: 572) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 574xCây mai (old: 573) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 575xCây mai (old: 574) lydo: Nhặt từ map at 02/03/2023 4:27 SA
+BAG:ilikeboss add 576xCây mai (old: 575) lydo: Nhặt từ map at 02/03/2023 4:28 SA
+BAG:ilikeboss add 577xCây mai (old: 576) lydo: Nhặt từ map at 02/03/2023 4:28 SA
+BAG:ilikeboss add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 02/03/2023 4:28 SA
+BAG:ilikeboss add 85xĐá Ruby (old: 84) lydo: Nhặt từ map at 02/03/2023 4:28 SA
+BAG:ilikeboss add 578xCây mai (old: 577) lydo: Nhặt từ map at 02/03/2023 4:28 SA
+BAG:ilikeboss add 404xBình rượu (old: 403) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 579xCây mai (old: 578) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 580xCây mai (old: 579) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 581xCây mai (old: 580) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 461xLì xì (old: 460) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 405xBình rượu (old: 404) lydo: Nhặt từ map at 02/03/2023 4:29 SA
+BAG:ilikeboss add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 406xBình rượu (old: 405) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 582xCây mai (old: 581) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 407xBình rượu (old: 406) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 583xCây mai (old: 582) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 408xBình rượu (old: 407) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 462xLì xì (old: 461) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 463xLì xì (old: 462) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 464xLì xì (old: 463) lydo: Nhặt từ map at 02/03/2023 4:30 SA
+BAG:ilikeboss add 409xBình rượu (old: 408) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 584xCây mai (old: 583) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 85xNgọc Rồng 4 sao (old: 84) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 585xCây mai (old: 584) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 465xLì xì (old: 464) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 466xLì xì (old: 465) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 586xCây mai (old: 585) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 410xBình rượu (old: 409) lydo: Nhặt từ map at 02/03/2023 4:31 SA
+BAG:ilikeboss add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:ilikeboss add 411xBình rượu (old: 410) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:ilikeboss add 587xCây mai (old: 586) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:ilikeboss add 412xBình rượu (old: 411) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:ilikeboss add 467xLì xì (old: 466) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:ilikeboss add 588xCây mai (old: 587) lydo: Nhặt từ map at 02/03/2023 4:32 SA
+BAG:ilikeboss add 86xĐá Ruby (old: 85) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 589xCây mai (old: 588) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 468xLì xì (old: 467) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 413xBình rượu (old: 412) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 414xBình rượu (old: 413) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 87xĐá Ruby (old: 86) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 590xCây mai (old: 589) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 4:33 SA
+BAG:ilikeboss add 591xCây mai (old: 590) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 592xCây mai (old: 591) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 415xBình rượu (old: 414) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 593xCây mai (old: 592) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 416xBình rượu (old: 415) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 469xLì xì (old: 468) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 86xNgọc Rồng 4 sao (old: 85) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 470xLì xì (old: 469) lydo: Nhặt từ map at 02/03/2023 4:34 SA
+BAG:ilikeboss add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:ilikeboss add 71xĐá Saphia (old: 70) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:ilikeboss add 594xCây mai (old: 593) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:ilikeboss add 595xCây mai (old: 594) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:ilikeboss add 88xĐá Ruby (old: 87) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:ilikeboss add 471xLì xì (old: 470) lydo: Nhặt từ map at 02/03/2023 4:35 SA
+BAG:ilikeboss add 472xLì xì (old: 471) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 89xĐá Ruby (old: 88) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 473xLì xì (old: 472) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 72xĐá Saphia (old: 71) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 417xBình rượu (old: 416) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 596xCây mai (old: 595) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 02/03/2023 4:36 SA
+BAG:ilikeboss add 418xBình rượu (old: 417) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 419xBình rượu (old: 418) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 73xĐá Saphia (old: 72) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 74xĐá Saphia (old: 73) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 597xCây mai (old: 596) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 598xCây mai (old: 597) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 599xCây mai (old: 598) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 600xCây mai (old: 599) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 601xCây mai (old: 600) lydo: Nhặt từ map at 02/03/2023 4:37 SA
+BAG:ilikeboss add 420xBình rượu (old: 419) lydo: Nhặt từ map at 02/03/2023 4:38 SA
+BAG:ilikeboss add 602xCây mai (old: 601) lydo: Nhặt từ map at 02/03/2023 4:38 SA
+BAG:ilikeboss add 603xCây mai (old: 602) lydo: Nhặt từ map at 02/03/2023 4:38 SA
+BAG:ilikeboss add 604xCây mai (old: 603) lydo: Nhặt từ map at 02/03/2023 4:38 SA
+BAG:ilikeboss add 421xBình rượu (old: 420) lydo: Nhặt từ map at 02/03/2023 4:38 SA
+BAG:ilikeboss add 422xBình rượu (old: 421) lydo: Nhặt từ map at 02/03/2023 4:38 SA
+BAG:ilikeboss add 474xLì xì (old: 473) lydo: Nhặt từ map at 02/03/2023 4:39 SA
+BAG:ilikeboss add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 02/03/2023 4:39 SA
+BAG:ilikeboss add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 02/03/2023 4:39 SA
+BAG:ilikeboss add 423xBình rượu (old: 422) lydo: Nhặt từ map at 02/03/2023 4:39 SA
+BAG:ilikeboss add 424xBình rượu (old: 423) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 605xCây mai (old: 604) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 606xCây mai (old: 605) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 607xCây mai (old: 606) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 425xBình rượu (old: 424) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 475xLì xì (old: 474) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 608xCây mai (old: 607) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 75xĐá Saphia (old: 74) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 609xCây mai (old: 608) lydo: Nhặt từ map at 02/03/2023 4:40 SA
+BAG:ilikeboss add 476xLì xì (old: 475) lydo: Nhặt từ map at 02/03/2023 4:41 SA
+BAG:ilikeboss add 426xBình rượu (old: 425) lydo: Nhặt từ map at 02/03/2023 4:41 SA
+BAG:ilikeboss add 610xCây mai (old: 609) lydo: Nhặt từ map at 02/03/2023 4:41 SA
+BAG:ilikeboss add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 02/03/2023 4:41 SA
+BAG:ilikeboss add 477xLì xì (old: 476) lydo: Nhặt từ map at 02/03/2023 4:41 SA
+BAG:ilikeboss add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 02/03/2023 4:41 SA
+BAG:ilikeboss add 478xLì xì (old: 477) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 611xCây mai (old: 610) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 87xNgọc Rồng 4 sao (old: 86) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 612xCây mai (old: 611) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 479xLì xì (old: 478) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 613xCây mai (old: 612) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 480xLì xì (old: 479) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 427xBình rượu (old: 426) lydo: Nhặt từ map at 02/03/2023 4:42 SA
+BAG:ilikeboss add 614xCây mai (old: 613) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:ilikeboss add 615xCây mai (old: 614) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:ilikeboss add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:ilikeboss add 8xBột mì (old: 7) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:ilikeboss add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 02/03/2023 4:43 SA
+BAG:ilikeboss add 481xLì xì (old: 480) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 616xCây mai (old: 615) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 428xBình rượu (old: 427) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 482xLì xì (old: 481) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 617xCây mai (old: 616) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 76xĐá Saphia (old: 75) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 429xBình rượu (old: 428) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/03/2023 4:44 SA
+BAG:ilikeboss add 483xLì xì (old: 482) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:ilikeboss add 430xBình rượu (old: 429) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:ilikeboss add 618xCây mai (old: 617) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:ilikeboss add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:ilikeboss add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:ilikeboss add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/03/2023 4:45 SA
+BAG:ilikeboss add 77xĐá Saphia (old: 76) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 90xĐá Ruby (old: 89) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 431xBình rượu (old: 430) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 78xĐá Saphia (old: 77) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 619xCây mai (old: 618) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 88xNgọc Rồng 4 sao (old: 87) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 432xBình rượu (old: 431) lydo: Nhặt từ map at 02/03/2023 4:46 SA
+BAG:ilikeboss add 9xBột mì (old: 8) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 433xBình rượu (old: 432) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 434xBình rượu (old: 433) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 91xĐá Ruby (old: 90) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 10xBột mì (old: 9) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 92xĐá Ruby (old: 91) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 79xĐá Saphia (old: 78) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 620xCây mai (old: 619) lydo: Nhặt từ map at 02/03/2023 4:47 SA
+BAG:ilikeboss add 484xLì xì (old: 483) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 621xCây mai (old: 620) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 435xBình rượu (old: 434) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 622xCây mai (old: 621) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/03/2023 4:48 SA
+BAG:ilikeboss add 623xCây mai (old: 622) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 80xĐá Saphia (old: 79) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 624xCây mai (old: 623) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 625xCây mai (old: 624) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 436xBình rượu (old: 435) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 76xĐá lục bảo (old: 75) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 437xBình rượu (old: 436) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 485xLì xì (old: 484) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 486xLì xì (old: 485) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 438xBình rượu (old: 437) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 487xLì xì (old: 486) lydo: Nhặt từ map at 02/03/2023 4:49 SA
+BAG:ilikeboss add 81xĐá Saphia (old: 80) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:ilikeboss add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:ilikeboss add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:ilikeboss add 626xCây mai (old: 625) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:ilikeboss add 627xCây mai (old: 626) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:ilikeboss add 488xLì xì (old: 487) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:ilikeboss add 77xĐá lục bảo (old: 76) lydo: Nhặt từ map at 02/03/2023 4:50 SA
+BAG:ilikeboss add 489xLì xì (old: 488) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 78xĐá lục bảo (old: 77) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 79xĐá lục bảo (old: 78) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 439xBình rượu (old: 438) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 93xĐá Ruby (old: 92) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 80xĐá lục bảo (old: 79) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 490xLì xì (old: 489) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 440xBình rượu (old: 439) lydo: Nhặt từ map at 02/03/2023 4:51 SA
+BAG:ilikeboss add 491xLì xì (old: 490) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 628xCây mai (old: 627) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 72xĐá Titan (old: 71) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 629xCây mai (old: 628) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 492xLì xì (old: 491) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 441xBình rượu (old: 440) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 493xLì xì (old: 492) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 02/03/2023 4:52 SA
+BAG:ilikeboss add 494xLì xì (old: 493) lydo: Nhặt từ map at 02/03/2023 4:53 SA
+BAG:ilikeboss add 495xLì xì (old: 494) lydo: Nhặt từ map at 02/03/2023 4:53 SA
+BAG:ilikeboss add 630xCây mai (old: 629) lydo: Nhặt từ map at 02/03/2023 4:53 SA
+BAG:ilikeboss add 631xCây mai (old: 630) lydo: Nhặt từ map at 02/03/2023 4:53 SA
+BAG:ilikeboss add 496xLì xì (old: 495) lydo: Nhặt từ map at 02/03/2023 4:53 SA
+BAG:ilikeboss add 632xCây mai (old: 631) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 73xĐá Titan (old: 72) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 81xĐá lục bảo (old: 80) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 497xLì xì (old: 496) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 633xCây mai (old: 632) lydo: Nhặt từ map at 02/03/2023 4:54 SA
+BAG:ilikeboss add 442xBình rượu (old: 441) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 443xBình rượu (old: 442) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 634xCây mai (old: 633) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 498xLì xì (old: 497) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 89xNgọc Rồng 4 sao (old: 88) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 82xĐá Saphia (old: 81) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 499xLì xì (old: 498) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 500xLì xì (old: 499) lydo: Nhặt từ map at 02/03/2023 4:55 SA
+BAG:ilikeboss add 444xBình rượu (old: 443) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 635xCây mai (old: 634) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 501xLì xì (old: 500) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 445xBình rượu (old: 444) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 446xBình rượu (old: 445) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 636xCây mai (old: 635) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 447xBình rượu (old: 446) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 502xLì xì (old: 501) lydo: Nhặt từ map at 02/03/2023 4:56 SA
+BAG:ilikeboss add 637xCây mai (old: 636) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 90xNgọc Rồng 4 sao (old: 89) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 638xCây mai (old: 637) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 503xLì xì (old: 502) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 94xĐá Ruby (old: 93) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 83xĐá Saphia (old: 82) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 639xCây mai (old: 638) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 504xLì xì (old: 503) lydo: Nhặt từ map at 02/03/2023 4:57 SA
+BAG:ilikeboss add 448xBình rượu (old: 447) lydo: Nhặt từ map at 02/03/2023 4:58 SA
+BAG:ilikeboss add 74xĐá Titan (old: 73) lydo: Nhặt từ map at 02/03/2023 4:58 SA
+BAG:ilikeboss add 449xBình rượu (old: 448) lydo: Nhặt từ map at 02/03/2023 4:59 SA
+BAG:ilikeboss add 505xLì xì (old: 504) lydo: Nhặt từ map at 02/03/2023 4:59 SA
+BAG:ilikeboss add 506xLì xì (old: 505) lydo: Nhặt từ map at 02/03/2023 4:59 SA
+BAG:ilikeboss add 507xLì xì (old: 506) lydo: Nhặt từ map at 02/03/2023 4:59 SA
+BAG:ilikeboss add 95xĐá Ruby (old: 94) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 640xCây mai (old: 639) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 508xLì xì (old: 507) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 75xĐá Titan (old: 74) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 509xLì xì (old: 508) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 96xĐá Ruby (old: 95) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 641xCây mai (old: 640) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 510xLì xì (old: 509) lydo: Nhặt từ map at 02/03/2023 5:00 SA
+BAG:ilikeboss add 642xCây mai (old: 641) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 511xLì xì (old: 510) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 512xLì xì (old: 511) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 450xBình rượu (old: 449) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 97xĐá Ruby (old: 96) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 91xNgọc Rồng 4 sao (old: 90) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 76xĐá Titan (old: 75) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 513xLì xì (old: 512) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 451xBình rượu (old: 450) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 643xCây mai (old: 642) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 514xLì xì (old: 513) lydo: Nhặt từ map at 02/03/2023 5:01 SA
+BAG:ilikeboss add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:ilikeboss add 82xĐá lục bảo (old: 81) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:ilikeboss add 452xBình rượu (old: 451) lydo: Nhặt từ map at 02/03/2023 5:02 SA
+BAG:ilikeboss add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:ilikeboss add 453xBình rượu (old: 452) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:ilikeboss add 515xLì xì (old: 514) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:ilikeboss add 454xBình rượu (old: 453) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:ilikeboss add 516xLì xì (old: 515) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:ilikeboss add 517xLì xì (old: 516) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:ilikeboss add 455xBình rượu (old: 454) lydo: Nhặt từ map at 02/03/2023 5:03 SA
+BAG:ilikeboss add 518xLì xì (old: 517) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 519xLì xì (old: 518) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 456xBình rượu (old: 455) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 644xCây mai (old: 643) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 520xLì xì (old: 519) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 83xĐá lục bảo (old: 82) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 457xBình rượu (old: 456) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 02/03/2023 5:04 SA
+BAG:ilikeboss add 458xBình rượu (old: 457) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:ilikeboss add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:ilikeboss add 645xCây mai (old: 644) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:ilikeboss add 98xĐá Ruby (old: 97) lydo: Nhặt từ map at 02/03/2023 5:05 SA
+BAG:ilikeboss add 521xLì xì (old: 520) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 646xCây mai (old: 645) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 84xĐá Saphia (old: 83) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 99xĐá Ruby (old: 98) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 522xLì xì (old: 521) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 523xLì xì (old: 522) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 647xCây mai (old: 646) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 459xBình rượu (old: 458) lydo: Nhặt từ map at 02/03/2023 5:06 SA
+BAG:ilikeboss add 77xĐá Titan (old: 76) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:ilikeboss add 524xLì xì (old: 523) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:ilikeboss add 460xBình rượu (old: 459) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:ilikeboss add 525xLì xì (old: 524) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:ilikeboss add 648xCây mai (old: 647) lydo: Nhặt từ map at 02/03/2023 5:07 SA
+BAG:ilikeboss add 526xLì xì (old: 525) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 649xCây mai (old: 648) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 527xLì xì (old: 526) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 650xCây mai (old: 649) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 528xLì xì (old: 527) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 529xLì xì (old: 528) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 530xLì xì (old: 529) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 461xBình rượu (old: 460) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 462xBình rượu (old: 461) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 531xLì xì (old: 530) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 463xBình rượu (old: 462) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 92xNgọc Rồng 4 sao (old: 91) lydo: Nhặt từ map at 02/03/2023 5:08 SA
+BAG:ilikeboss add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 02/03/2023 5:09 SA
+BAG:ilikeboss add 532xLì xì (old: 531) lydo: Nhặt từ map at 02/03/2023 5:09 SA
+BAG:ilikeboss add 651xCây mai (old: 650) lydo: Nhặt từ map at 02/03/2023 5:09 SA
+BAG:ilikeboss add 464xBình rượu (old: 463) lydo: Nhặt từ map at 02/03/2023 5:09 SA
+BAG:ilikeboss add 533xLì xì (old: 532) lydo: Nhặt từ map at 02/03/2023 5:10 SA
+BAG:ilikeboss add 84xĐá lục bảo (old: 83) lydo: Nhặt từ map at 02/03/2023 5:10 SA
+BAG:ilikeboss add 652xCây mai (old: 651) lydo: Nhặt từ map at 02/03/2023 5:10 SA
+BAG:ilikeboss add 465xBình rượu (old: 464) lydo: Nhặt từ map at 02/03/2023 5:10 SA
+BAG:ilikeboss add 78xĐá Titan (old: 77) lydo: Nhặt từ map at 02/03/2023 5:10 SA
+BAG:ilikeboss add 534xLì xì (old: 533) lydo: Nhặt từ map at 02/03/2023 5:10 SA
+BAG:ilikeboss add 466xBình rượu (old: 465) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 535xLì xì (old: 534) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 467xBình rượu (old: 466) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 536xLì xì (old: 535) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 537xLì xì (old: 536) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 538xLì xì (old: 537) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 653xCây mai (old: 652) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 79xĐá Titan (old: 78) lydo: Nhặt từ map at 02/03/2023 5:11 SA
+BAG:ilikeboss add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 539xLì xì (old: 538) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 654xCây mai (old: 653) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 655xCây mai (old: 654) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 540xLì xì (old: 539) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 468xBình rượu (old: 467) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 469xBình rượu (old: 468) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 470xBình rượu (old: 469) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 471xBình rượu (old: 470) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 541xLì xì (old: 540) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 472xBình rượu (old: 471) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 473xBình rượu (old: 472) lydo: Nhặt từ map at 02/03/2023 5:12 SA
+BAG:ilikeboss add 85xĐá lục bảo (old: 84) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 542xLì xì (old: 541) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 80xĐá Titan (old: 79) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 656xCây mai (old: 655) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 657xCây mai (old: 656) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 474xBình rượu (old: 473) lydo: Nhặt từ map at 02/03/2023 5:13 SA
+BAG:ilikeboss add 543xLì xì (old: 542) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:ilikeboss add 544xLì xì (old: 543) lydo: Nhặt từ map at 02/03/2023 5:14 SA
+BAG:ilikeboss add 10xĐậu thần cấp 8 lydo: Thu hoạch đậu at 02/03/2023 6:04 SA
+BAG:ilikeboss add 658xCây mai (old: 657) lydo: Nhặt từ map at 02/03/2023 6:04 SA
+BAG:ilikeboss add 545xLì xì (old: 544) lydo: Nhặt từ map at 02/03/2023 6:04 SA
+BAG:ilikeboss add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:ilikeboss add 475xBình rượu (old: 474) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:ilikeboss add 85xĐá Saphia (old: 84) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:ilikeboss add 476xBình rượu (old: 475) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:ilikeboss add 477xBình rượu (old: 476) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:ilikeboss add 86xĐá Saphia (old: 85) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:ilikeboss add 659xCây mai (old: 658) lydo: Nhặt từ map at 02/03/2023 6:05 SA
+BAG:ilikeboss add 81xĐá Titan (old: 80) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 82xĐá Titan (old: 81) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 478xBình rượu (old: 477) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 479xBình rượu (old: 478) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 480xBình rượu (old: 479) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 481xBình rượu (old: 480) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 660xCây mai (old: 659) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 482xBình rượu (old: 481) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 483xBình rượu (old: 482) lydo: Nhặt từ map at 02/03/2023 6:06 SA
+BAG:ilikeboss add 484xBình rượu (old: 483) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 86xĐá lục bảo (old: 85) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 87xĐá Saphia (old: 86) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 661xCây mai (old: 660) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 87xĐá lục bảo (old: 86) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 02/03/2023 6:07 SA
+BAG:ilikeboss add 485xBình rượu (old: 484) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:ilikeboss add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:ilikeboss add 662xCây mai (old: 661) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:ilikeboss add 663xCây mai (old: 662) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:ilikeboss add 546xLì xì (old: 545) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:ilikeboss add 547xLì xì (old: 546) lydo: Nhặt từ map at 02/03/2023 6:08 SA
+BAG:ilikeboss add 486xBình rượu (old: 485) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:ilikeboss add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:ilikeboss add 487xBình rượu (old: 486) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:ilikeboss add 83xĐá Titan (old: 82) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:ilikeboss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:ilikeboss add 548xLì xì (old: 547) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:ilikeboss add 488xBình rượu (old: 487) lydo: Nhặt từ map at 02/03/2023 6:09 SA
+BAG:ilikeboss add 664xCây mai (old: 663) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:ilikeboss add 93xNgọc Rồng 4 sao (old: 92) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:ilikeboss add 489xBình rượu (old: 488) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:ilikeboss add 490xBình rượu (old: 489) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:ilikeboss add 549xLì xì (old: 548) lydo: Nhặt từ map at 02/03/2023 6:10 SA
+BAG:ilikeboss add 665xCây mai (old: 664) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:ilikeboss add 550xLì xì (old: 549) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:ilikeboss add 88xĐá lục bảo (old: 87) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:ilikeboss add 551xLì xì (old: 550) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:ilikeboss add 552xLì xì (old: 551) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:ilikeboss add 88xĐá Saphia (old: 87) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:ilikeboss add 553xLì xì (old: 552) lydo: Nhặt từ map at 02/03/2023 6:11 SA
+BAG:ilikeboss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 6:12 SA
+BAG:ilikeboss add 554xLì xì (old: 553) lydo: Nhặt từ map at 02/03/2023 6:12 SA
+BAG:ilikeboss add 491xBình rượu (old: 490) lydo: Nhặt từ map at 02/03/2023 6:12 SA
+BAG:ilikeboss add 492xBình rượu (old: 491) lydo: Nhặt từ map at 02/03/2023 6:12 SA
+BAG:ilikeboss add 89xĐá lục bảo (old: 88) lydo: Nhặt từ map at 02/03/2023 6:12 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 7:26 SA
+BAG:ilikeboss add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:ilikeboss add 27xPháo hoa (old: 26) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 7:31 SA
+BAG:ilikeboss add 1xNhẫn thời không sai lệch lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ilikeboss add 28xPháo hoa (old: 27) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ilikeboss add 1xGiày Thần Linh lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ilikeboss add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ilikeboss add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ilikeboss add 1xHồn linh thú lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:ilikeboss add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ilikeboss add 493xBình rượu (old: 492) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ilikeboss add 10xĐậu thần cấp 8 lydo: Thu hoạch đậu at 02/03/2023 7:34 SA
+BAG:ilikeboss add 494xBình rượu (old: 493) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:ilikeboss add 666xCây mai (old: 665) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 7:42 SA
+BAG:ilikeboss add 17xNgọc Rồng 2 sao (old: 16) lydo: Nhặt từ map at 02/03/2023 7:43 SA
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 8:14 SA
+BAG:ilikeboss add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 8:14 SA
+BAG:ilikeboss add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 8:14 SA
+BAG:ilikeboss add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 8:14 SA
+BAG:ilikeboss add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 8:15 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 02/03/2023 8:15 SA
+BAG:ilikeboss add 495xBình rượu (old: 494) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:ilikeboss add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:ilikeboss add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:ilikeboss add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:ilikeboss add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:ilikeboss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:ilikeboss add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:ilikeboss add 1xBột mì lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:ilikeboss add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:ilikeboss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:ilikeboss add 2xBột mì (old: 1) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:ilikeboss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:ilikeboss add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ilikeboss add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:ilikeboss add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:ilikeboss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 8:46 SA
+BAG:ilikeboss add 18xNgọc Rồng 2 sao (old: 17) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:ilikeboss add 1xQuần Thần namếc lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:ilikeboss add 19xNgọc Rồng 2 sao (old: 18) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:ilikeboss add 555xLì xì (old: 554) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:ilikeboss add 556xLì xì (old: 555) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 9:13 SA
+BAG:ilikeboss add 29xPháo hoa (old: 28) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:ilikeboss add 20xNgọc Rồng 2 sao (old: 19) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:ilikeboss add 496xBình rượu (old: 495) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 9:20 SA
+BAG:ilikeboss add 21xNgọc Rồng 2 sao (old: 20) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:ilikeboss add 30xPháo hoa (old: 29) lydo: Nhặt từ map at 02/03/2023 9:27 SA
+BAG:ilikeboss add 22xNgọc Rồng 2 sao (old: 21) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:ilikeboss add 1xÁo Thần Linh lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:ilikeboss add 497xBình rượu (old: 496) lydo: Nhặt từ map at 02/03/2023 9:32 SA
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 9:34 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 9:34 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 9:39 SA
+BAG:ilikeboss add 31xPháo hoa (old: 30) lydo: Nhặt từ map at 02/03/2023 9:40 SA
+BAG:ilikeboss add 23xNgọc Rồng 2 sao (old: 22) lydo: Nhặt từ map at 02/03/2023 9:40 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 9:43 SA
+BAG:ilikeboss add 94xNgọc Rồng 4 sao (old: 93) lydo: Nhặt từ map at 02/03/2023 9:44 SA
+BAG:ilikeboss add 498xBình rượu (old: 497) lydo: Nhặt từ map at 02/03/2023 9:45 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 9:47 SA
+BAG:ilikeboss add 24xNgọc Rồng 2 sao (old: 23) lydo: Nhặt từ map at 02/03/2023 9:48 SA
+BAG:ilikeboss add 557xLì xì (old: 556) lydo: Nhặt từ map at 02/03/2023 9:48 SA
+BAG:ilikeboss add 499xBình rượu (old: 498) lydo: Nhặt từ map at 02/03/2023 9:48 SA
+BAG:ilikeboss add 558xLì xì (old: 557) lydo: Nhặt từ map at 02/03/2023 9:48 SA
+BAG:ilikeboss add 667xCây mai (old: 666) lydo: Nhặt từ map at 02/03/2023 9:48 SA
+BAG:ilikeboss add 559xLì xì (old: 558) lydo: Nhặt từ map at 02/03/2023 9:49 SA
+BAG:ilikeboss add 500xBình rượu (old: 499) lydo: Nhặt từ map at 02/03/2023 10:07 SA
+BAG:ilikeboss add 560xLì xì (old: 559) lydo: Nhặt từ map at 02/03/2023 10:07 SA
+BAG:ilikeboss add 561xLì xì (old: 560) lydo: Nhặt từ map at 02/03/2023 10:07 SA
+BAG:ilikeboss add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 10:07 SA
+BAG:ilikeboss add 668xCây mai (old: 667) lydo: Nhặt từ map at 02/03/2023 10:07 SA
+BAG:ilikeboss add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 10:07 SA
+BAG:ilikeboss add 669xCây mai (old: 668) lydo: Nhặt từ map at 02/03/2023 10:08 SA
+BAG:ilikeboss add 501xBình rượu (old: 500) lydo: Nhặt từ map at 02/03/2023 10:08 SA
+BAG:ilikeboss add 562xLì xì (old: 561) lydo: Nhặt từ map at 02/03/2023 10:08 SA
+BAG:ilikeboss add 502xBình rượu (old: 501) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 503xBình rượu (old: 502) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 670xCây mai (old: 669) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 563xLì xì (old: 562) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 504xBình rượu (old: 503) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 671xCây mai (old: 670) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 672xCây mai (old: 671) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 673xCây mai (old: 672) lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:ilikeboss add 674xCây mai (old: 673) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:ilikeboss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:ilikeboss add 505xBình rượu (old: 504) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:ilikeboss add 564xLì xì (old: 563) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:ilikeboss add 506xBình rượu (old: 505) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:ilikeboss add 565xLì xì (old: 564) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:ilikeboss add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 10:11 SA
+BAG:ilikeboss add 675xCây mai (old: 674) lydo: Nhặt từ map at 02/03/2023 10:11 SA
+BAG:ilikeboss add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 10:11 SA
+BAG:ilikeboss add 676xCây mai (old: 675) lydo: Nhặt từ map at 02/03/2023 10:11 SA
+BAG:ilikeboss add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 10:12 SA
+BAG:ilikeboss add 677xCây mai (old: 676) lydo: Nhặt từ map at 02/03/2023 10:12 SA
+BAG:ilikeboss add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 10:12 SA
+BAG:ilikeboss add 507xBình rượu (old: 506) lydo: Nhặt từ map at 02/03/2023 10:12 SA
+BAG:ilikeboss add 508xBình rượu (old: 507) lydo: Nhặt từ map at 02/03/2023 10:12 SA
+BAG:ilikeboss add 678xCây mai (old: 677) lydo: Nhặt từ map at 02/03/2023 10:12 SA
+BAG:ilikeboss add 679xCây mai (old: 678) lydo: Nhặt từ map at 02/03/2023 10:12 SA
+BAG:ilikeboss add 509xBình rượu (old: 508) lydo: Nhặt từ map at 02/03/2023 10:13 SA
+BAG:ilikeboss add 566xLì xì (old: 565) lydo: Nhặt từ map at 02/03/2023 10:13 SA
+BAG:ilikeboss add 510xBình rượu (old: 509) lydo: Nhặt từ map at 02/03/2023 10:13 SA
+BAG:ilikeboss add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 10:13 SA
+BAG:ilikeboss add 680xCây mai (old: 679) lydo: Nhặt từ map at 02/03/2023 10:13 SA
+BAG:ilikeboss add 567xLì xì (old: 566) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:ilikeboss add 681xCây mai (old: 680) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:ilikeboss add 568xLì xì (old: 567) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:ilikeboss add 569xLì xì (old: 568) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:ilikeboss add 95xNgọc Rồng 4 sao (old: 94) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:ilikeboss add 682xCây mai (old: 681) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:ilikeboss add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:ilikeboss add 570xLì xì (old: 569) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 96xNgọc Rồng 4 sao (old: 95) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 571xLì xì (old: 570) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 683xCây mai (old: 682) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 572xLì xì (old: 571) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 684xCây mai (old: 683) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 685xCây mai (old: 684) lydo: Nhặt từ map at 02/03/2023 10:15 SA
+BAG:ilikeboss add 511xBình rượu (old: 510) lydo: Nhặt từ map at 02/03/2023 10:16 SA
+BAG:ilikeboss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 10:16 SA
+BAG:ilikeboss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 10:16 SA
+BAG:ilikeboss add 573xLì xì (old: 572) lydo: Nhặt từ map at 02/03/2023 10:16 SA
+BAG:ilikeboss add 686xCây mai (old: 685) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:ilikeboss add 687xCây mai (old: 686) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:ilikeboss add 512xBình rượu (old: 511) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:ilikeboss add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:ilikeboss add 513xBình rượu (old: 512) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:ilikeboss add 688xCây mai (old: 687) lydo: Nhặt từ map at 02/03/2023 10:18 SA
+BAG:ilikeboss add 689xCây mai (old: 688) lydo: Nhặt từ map at 02/03/2023 10:18 SA
+BAG:ilikeboss add 690xCây mai (old: 689) lydo: Nhặt từ map at 02/03/2023 10:18 SA
+BAG:ilikeboss add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 10:20 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:22 SA
+BAG:ilikeboss add 32xPháo hoa (old: 31) lydo: Nhặt từ map at 02/03/2023 10:23 SA
+BAG:ilikeboss add 33xPháo hoa (old: 32) lydo: Nhặt từ map at 02/03/2023 10:29 SA
+BAG:ilikeboss add 34xPháo hoa (old: 33) lydo: Nhặt từ map at 02/03/2023 10:29 SA
+BAG:ilikeboss add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 10:31 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:36 SA
+BAG:ilikeboss add 34xNgọc Rồng 3 sao (old: 33) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:ilikeboss add 35xPháo hoa (old: 34) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:40 SA
+BAG:ilikeboss add 36xPháo hoa (old: 35) lydo: Nhặt từ map at 02/03/2023 10:40 SA
+BAG:ilikeboss add 574xLì xì (old: 573) lydo: Nhặt từ map at 02/03/2023 10:40 SA
+BAG:ilikeboss add 37xPháo hoa (old: 36) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:ilikeboss add 691xCây mai (old: 690) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:ilikeboss add 38xPháo hoa (old: 37) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:43 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 10:44 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:45 SA
+BAG:ilikeboss add 39xPháo hoa (old: 38) lydo: Nhặt từ map at 02/03/2023 10:45 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:49 SA
+BAG:ilikeboss add 35xNgọc Rồng 3 sao (old: 34) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ilikeboss add 36xNgọc Rồng 3 sao (old: 35) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ilikeboss add 37xNgọc Rồng 3 sao (old: 36) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ilikeboss add 40xPháo hoa (old: 39) lydo: Nhặt từ map at 02/03/2023 10:49 SA
+BAG:ilikeboss add 575xLì xì (old: 574) lydo: Nhặt từ map at 02/03/2023 10:50 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:50 SA
+BAG:ilikeboss add 25xNgọc Rồng 2 sao (old: 24) lydo: Nhặt từ map at 02/03/2023 10:51 SA
+BAG:ilikeboss add 41xPháo hoa (old: 40) lydo: Nhặt từ map at 02/03/2023 10:53 SA
+BAG:ilikeboss add 26xNgọc Rồng 2 sao (old: 25) lydo: Nhặt từ map at 02/03/2023 10:53 SA
+BAG:ilikeboss add 692xCây mai (old: 691) lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:ilikeboss add 693xCây mai (old: 692) lydo: Nhặt từ map at 02/03/2023 10:54 SA
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 10:55 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 10:56 SA
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 11:00 SA
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 11:02 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:02 SA
+BAG:ilikeboss add 1xQuần jean Calic lydo: Nhặt từ map at 02/03/2023 11:03 SA
+BAG:ilikeboss add 42xPháo hoa (old: 41) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:ilikeboss add 38xNgọc Rồng 3 sao (old: 37) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:ilikeboss add 39xNgọc Rồng 3 sao (old: 38) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:ilikeboss add 1xQuần lưỡng long lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:ilikeboss add 576xLì xì (old: 575) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:ilikeboss add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:ilikeboss add 514xBình rượu (old: 513) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:ilikeboss add 577xLì xì (old: 576) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:ilikeboss add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:11 SA
+BAG:ilikeboss add 43xPháo hoa (old: 42) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:13 SA
+BAG:ilikeboss add 27xNgọc Rồng 2 sao (old: 26) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:ilikeboss add 44xPháo hoa (old: 43) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:ilikeboss add 1xGăng Thần Linh lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:ilikeboss add 28xNgọc Rồng 2 sao (old: 27) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:ilikeboss add 515xBình rượu (old: 514) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:ilikeboss add 45xPháo hoa (old: 44) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:ilikeboss add 29xNgọc Rồng 2 sao (old: 28) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:25 SA
+BAG:ilikeboss add 46xPháo hoa (old: 45) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:ilikeboss add 30xNgọc Rồng 2 sao (old: 29) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:ilikeboss add 31xNgọc Rồng 2 sao (old: 30) lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:ilikeboss add 47xPháo hoa (old: 46) lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:ilikeboss add 1xGiày Thần Linh lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:ilikeboss add 48xPháo hoa (old: 47) lydo: Nhặt từ map at 02/03/2023 11:33 SA
+BAG:ilikeboss add 32xNgọc Rồng 2 sao (old: 31) lydo: Nhặt từ map at 02/03/2023 11:33 SA
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:36 SA
+BAG:ilikeboss add 49xPháo hoa (old: 48) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:ilikeboss add 33xNgọc Rồng 2 sao (old: 32) lydo: Nhặt từ map at 02/03/2023 11:37 SA
+BAG:ilikeboss add 516xBình rượu (old: 515) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 97xNgọc Rồng 4 sao (old: 96) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 578xLì xì (old: 577) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 517xBình rượu (old: 516) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 694xCây mai (old: 693) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 518xBình rượu (old: 517) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 519xBình rượu (old: 518) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 695xCây mai (old: 694) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 579xLì xì (old: 578) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 696xCây mai (old: 695) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:ilikeboss add 697xCây mai (old: 696) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 520xBình rượu (old: 519) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 521xBình rượu (old: 520) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 522xBình rượu (old: 521) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 698xCây mai (old: 697) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 580xLì xì (old: 579) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 581xLì xì (old: 580) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 98xNgọc Rồng 4 sao (old: 97) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 582xLì xì (old: 581) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 699xCây mai (old: 698) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 700xCây mai (old: 699) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 701xCây mai (old: 700) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 523xBình rượu (old: 522) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 583xLì xì (old: 582) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 702xCây mai (old: 701) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 11:43 SA
+BAG:ilikeboss add 524xBình rượu (old: 523) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 99xNgọc Rồng 4 sao (old: 98) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 584xLì xì (old: 583) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 703xCây mai (old: 702) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 704xCây mai (old: 703) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:ilikeboss add 705xCây mai (old: 704) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 706xCây mai (old: 705) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 525xBình rượu (old: 524) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 585xLì xì (old: 584) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 586xLì xì (old: 585) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 707xCây mai (old: 706) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 587xLì xì (old: 586) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 588xLì xì (old: 587) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 526xBình rượu (old: 525) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 589xLì xì (old: 588) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 708xCây mai (old: 707) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 709xCây mai (old: 708) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 590xLì xì (old: 589) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 527xBình rượu (old: 526) lydo: Nhặt từ map at 02/03/2023 11:45 SA
+BAG:ilikeboss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 591xLì xì (old: 590) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 710xCây mai (old: 709) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 592xLì xì (old: 591) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 528xBình rượu (old: 527) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 529xBình rượu (old: 528) lydo: Nhặt từ map at 02/03/2023 11:46 SA
+BAG:ilikeboss add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 593xLì xì (old: 592) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 530xBình rượu (old: 529) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 711xCây mai (old: 710) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 594xLì xì (old: 593) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 531xBình rượu (old: 530) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 712xCây mai (old: 711) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 532xBình rượu (old: 531) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 713xCây mai (old: 712) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 533xBình rượu (old: 532) lydo: Nhặt từ map at 02/03/2023 11:47 SA
+BAG:ilikeboss add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 534xBình rượu (old: 533) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 595xLì xì (old: 594) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 596xLì xì (old: 595) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 535xBình rượu (old: 534) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 536xBình rượu (old: 535) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 714xCây mai (old: 713) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 537xBình rượu (old: 536) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 597xLì xì (old: 596) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 538xBình rượu (old: 537) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 539xBình rượu (old: 538) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:ilikeboss add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 715xCây mai (old: 714) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 716xCây mai (old: 715) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 598xLì xì (old: 597) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 717xCây mai (old: 716) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 540xBình rượu (old: 539) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 541xBình rượu (old: 540) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 599xLì xì (old: 598) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 718xCây mai (old: 717) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 542xBình rượu (old: 541) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:ilikeboss add 719xCây mai (old: 718) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 720xCây mai (old: 719) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 721xCây mai (old: 720) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 722xCây mai (old: 721) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 543xBình rượu (old: 542) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 723xCây mai (old: 722) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:ilikeboss add 600xLì xì (old: 599) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 544xBình rượu (old: 543) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 724xCây mai (old: 723) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 545xBình rượu (old: 544) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 725xCây mai (old: 724) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 546xBình rượu (old: 545) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:ilikeboss add 601xLì xì (old: 600) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 726xCây mai (old: 725) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 602xLì xì (old: 601) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 603xLì xì (old: 602) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 604xLì xì (old: 603) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 547xBình rượu (old: 546) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:ilikeboss add 605xLì xì (old: 604) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 606xLì xì (old: 605) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 607xLì xì (old: 606) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 548xBình rượu (old: 547) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 727xCây mai (old: 726) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 728xCây mai (old: 727) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 608xLì xì (old: 607) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 549xBình rượu (old: 548) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 729xCây mai (old: 728) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 730xCây mai (old: 729) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 550xBình rượu (old: 549) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 551xBình rượu (old: 550) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 552xBình rượu (old: 551) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 609xLì xì (old: 608) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:ilikeboss add 610xLì xì (old: 609) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 611xLì xì (old: 610) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 612xLì xì (old: 611) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 731xCây mai (old: 730) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 613xLì xì (old: 612) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 614xLì xì (old: 613) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 732xCây mai (old: 731) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 733xCây mai (old: 732) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 615xLì xì (old: 614) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 734xCây mai (old: 733) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 553xBình rượu (old: 552) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 735xCây mai (old: 734) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:ilikeboss add 736xCây mai (old: 735) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 737xCây mai (old: 736) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 554xBình rượu (old: 553) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 738xCây mai (old: 737) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 616xLì xì (old: 615) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 555xBình rượu (old: 554) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 556xBình rượu (old: 555) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 557xBình rượu (old: 556) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 558xBình rượu (old: 557) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 559xBình rượu (old: 558) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 617xLì xì (old: 616) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 560xBình rượu (old: 559) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 739xCây mai (old: 738) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:ilikeboss add 561xBình rượu (old: 560) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 618xLì xì (old: 617) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 619xLì xì (old: 618) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 620xLì xì (old: 619) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 740xCây mai (old: 739) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 621xLì xì (old: 620) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 562xBình rượu (old: 561) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 741xCây mai (old: 740) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 563xBình rượu (old: 562) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 564xBình rượu (old: 563) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 742xCây mai (old: 741) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 565xBình rượu (old: 564) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 566xBình rượu (old: 565) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 743xCây mai (old: 742) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 622xLì xì (old: 621) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:ilikeboss add 567xBình rượu (old: 566) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:ilikeboss add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:ilikeboss add 623xLì xì (old: 622) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:ilikeboss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:ilikeboss add 568xBình rượu (old: 567) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:ilikeboss add 624xLì xì (old: 623) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:ilikeboss add 625xLì xì (old: 624) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:ilikeboss add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:ilikeboss add 744xCây mai (old: 743) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:ilikeboss add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:ilikeboss add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 12:00 CH
+BAG:ilikeboss add 569xBình rượu (old: 568) lydo: Nhặt từ map at 02/03/2023 12:00 CH
+BAG:ilikeboss add 626xLì xì (old: 625) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:ilikeboss add 745xCây mai (old: 744) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:ilikeboss add 746xCây mai (old: 745) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:21 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: Lấy từ rương qua người at 02/03/2023 12:23 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 32xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:30 CH
+BAG:ilikeboss add 1xVàng lydo: SuKien at 02/03/2023 12:32 CH
+BAG:ilikeboss add 1xGiáp Xên bọ hung lydo: SuKien at 02/03/2023 12:32 CH
+BAG:ilikeboss add 198xThỏi vàng (old: 99) lydo: Lấy từ rương qua người at 02/03/2023 12:34 CH
+BAG:ilikeboss add 297xThỏi vàng (old: 198) lydo: Lấy từ rương qua người at 02/03/2023 12:34 CH
+BAG:ilikeboss add 396xThỏi vàng (old: 297) lydo: Lấy từ rương qua người at 02/03/2023 12:34 CH
+BAG:ilikeboss add 495xThỏi vàng (old: 396) lydo: Lấy từ rương qua người at 02/03/2023 12:34 CH
+BAG:ilikeboss add 594xThỏi vàng (old: 495) lydo: Lấy từ rương qua người at 02/03/2023 12:34 CH
+BAG:ilikeboss add 693xThỏi vàng (old: 594) lydo: Lấy từ rương qua người at 02/03/2023 12:34 CH
+BAG:ilikeboss add 792xThỏi vàng (old: 693) lydo: Lấy từ rương qua người at 02/03/2023 12:34 CH
+BAG:ilikeboss add 891xThỏi vàng (old: 792) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 990xThỏi vàng (old: 891) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 1089xThỏi vàng (old: 990) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 1188xThỏi vàng (old: 1089) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 1287xThỏi vàng (old: 1188) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 1386xThỏi vàng (old: 1287) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 1485xThỏi vàng (old: 1386) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 5590xThỏi vàng (old: 1485) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 5689xThỏi vàng (old: 5590) lydo: Lấy từ rương qua người at 02/03/2023 12:35 CH
+BAG:ilikeboss add 1xVàng lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 2xVàng (old: 1) lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 3xVàng (old: 2) lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 4xVàng (old: 3) lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 32xCuồng nộ (old: 31) lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 5xVàng (old: 4) lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 6xVàng (old: 5) lydo: SuKien at 02/03/2023 12:36 CH
+BAG:ilikeboss add 7xVàng (old: 6) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 33xCuồng nộ (old: 32) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 1xBổ khí lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 1xPhượng Hoàng Lửa lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 34xCuồng nộ (old: 33) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 8xVàng (old: 7) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 9xVàng (old: 8) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 10xVàng (old: 9) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 35xCuồng nộ (old: 34) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 11xVàng (old: 10) lydo: SuKien at 02/03/2023 12:37 CH
+BAG:ilikeboss add 12xVàng (old: 11) lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 1xBổ huyết lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 13xVàng (old: 12) lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 1xCải Trang Thần Zeno Namec lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 1xẨn danh lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 14xVàng (old: 13) lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 2xGiáp Xên bọ hung (old: 1) lydo: SuKien at 02/03/2023 12:38 CH
+BAG:ilikeboss add 15xVàng (old: 14) lydo: SuKien at 02/03/2023 12:39 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:42 CH
+BAG:ilikeboss add 99xThỏi vàng lydo: (GD) Nhận từ kakarot at 02/03/2023 12:42 CH
+BAG:ilikeboss add 5603xThỏi vàng (old: 5504) lydo: Lấy từ rương qua người at 02/03/2023 12:43 CH
+BAG:ilikeboss add 5702xThỏi vàng (old: 5603) lydo: Lấy từ rương qua người at 02/03/2023 12:43 CH
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 12:47 CH
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 12:48 CH
+BAG:ilikeboss add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:48 CH
+BAG:ilikeboss add 464xLì xì (old: 463) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 12:54 CH
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 12:55 CH
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 1:06 CH
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 1:07 CH
+BAG:ilikeboss add 584xCây mai (old: 583) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:ilikeboss add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 1:33 CH
+BAG:ilikeboss add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 02/03/2023 1:34 CH
+BAG:ilikeboss add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:ilikeboss add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:ilikeboss add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:ilikeboss add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:ilikeboss add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:ilikeboss add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:ilikeboss add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:ilikeboss add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:ilikeboss add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:ilikeboss add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:ilikeboss add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:ilikeboss add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:ilikeboss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:ilikeboss add 28xThỏi vàng lydo: (GD) Nhận từ infrared at 02/03/2023 1:55 CH
+BAG:ilikeboss add 585xCây mai (old: 584) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:ilikeboss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:ilikeboss add 586xCây mai (old: 585) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:ilikeboss add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:ilikeboss add 465xLì xì (old: 464) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:ilikeboss add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:ilikeboss add 587xCây mai (old: 586) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:ilikeboss add 588xCây mai (old: 587) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:ilikeboss add 589xCây mai (old: 588) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 466xLì xì (old: 465) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 590xCây mai (old: 589) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 407xBình rượu (old: 406) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 408xBình rượu (old: 407) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 409xBình rượu (old: 408) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 410xBình rượu (old: 409) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 591xCây mai (old: 590) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 467xLì xì (old: 466) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 411xBình rượu (old: 410) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 468xLì xì (old: 467) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:ilikeboss add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 592xCây mai (old: 591) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 412xBình rượu (old: 411) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 593xCây mai (old: 592) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 469xLì xì (old: 468) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 594xCây mai (old: 593) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 595xCây mai (old: 594) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 596xCây mai (old: 595) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:ilikeboss add 470xLì xì (old: 469) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 597xCây mai (old: 596) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 471xLì xì (old: 470) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 413xBình rượu (old: 412) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 414xBình rượu (old: 413) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 598xCây mai (old: 597) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 599xCây mai (old: 598) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 600xCây mai (old: 599) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 472xLì xì (old: 471) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 473xLì xì (old: 472) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 415xBình rượu (old: 414) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:ilikeboss add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 474xLì xì (old: 473) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 601xCây mai (old: 600) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:ilikeboss add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 416xBình rượu (old: 415) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 602xCây mai (old: 601) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 417xBình rượu (old: 416) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 603xCây mai (old: 602) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 418xBình rượu (old: 417) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 475xLì xì (old: 474) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 604xCây mai (old: 603) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 419xBình rượu (old: 418) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 420xBình rượu (old: 419) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 605xCây mai (old: 604) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 476xLì xì (old: 475) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 606xCây mai (old: 605) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:ilikeboss add 607xCây mai (old: 606) lydo: Nhặt từ map at 02/03/2023 2:05 CH

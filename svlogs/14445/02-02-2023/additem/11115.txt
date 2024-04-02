@@ -1,0 +1,210 @@
+BAG:xaydavip add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:17 CH
+BAG:xaydavip add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 10:18 CH
+BAG:xaydavip add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 10:18 CH
+BAG:xaydavip add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 10:19 CH
+BAG:xaydavip add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:xaydavip add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:xaydavip add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:xaydavip add 1xCây mai lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:xaydavip add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:xaydavip add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 10:22 CH
+BAG:xaydavip add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 10:22 CH
+BAG:xaydavip add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 10:23 CH
+BAG:xaydavip add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 10:24 CH
+BAG:xaydavip add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 10:26 CH
+BAG:xaydavip add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 10:27 CH
+BAG:xaydavip add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 10:27 CH
+BAG:xaydavip add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 10:27 CH
+BAG:xaydavip add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 10:27 CH
+BAG:xaydavip add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 10:28 CH
+BAG:xaydavip add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 10:29 CH
+BAG:xaydavip add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 10:29 CH
+BAG:xaydavip add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 10:29 CH
+BAG:xaydavip add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 10:30 CH
+BAG:xaydavip add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 10:30 CH
+BAG:xaydavip add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 10:30 CH
+BAG:xaydavip add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 10:30 CH
+BAG:xaydavip add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/02/2023 10:31 CH
+BAG:xaydavip add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 10:31 CH
+BAG:xaydavip add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/02/2023 10:31 CH
+BAG:xaydavip add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 10:31 CH
+BAG:xaydavip add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 10:31 CH
+BAG:xaydavip add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 10:32 CH
+BAG:xaydavip add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 10:33 CH
+BAG:xaydavip add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/02/2023 10:33 CH
+BAG:xaydavip add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 10:33 CH
+BAG:xaydavip add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 10:33 CH
+BAG:xaydavip add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 10:34 CH
+BAG:xaydavip add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/02/2023 10:34 CH
+BAG:xaydavip add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 10:34 CH
+BAG:xaydavip add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 10:35 CH
+BAG:xaydavip add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/02/2023 10:36 CH
+BAG:xaydavip add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 10:36 CH
+BAG:xaydavip add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 10:36 CH
+BAG:xaydavip add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 10:36 CH
+BAG:xaydavip add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 10:36 CH
+BAG:xaydavip add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 10:36 CH
+BAG:xaydavip add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 10:37 CH
+BAG:xaydavip add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 10:37 CH
+BAG:xaydavip add 20xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 10:37 CH
+BAG:xaydavip add 30xĐậu thần cấp 1 (old: 20) lydo: Lấy từ rương qua người at 02/02/2023 10:37 CH
+BAG:xaydavip add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 10:37 CH
+BAG:xaydavip add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:xaydavip add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:xaydavip add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:xaydavip add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:xaydavip add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 10:38 CH
+BAG:xaydavip add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:xaydavip add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:xaydavip add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:xaydavip add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:xaydavip add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:xaydavip add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:xaydavip add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:xaydavip add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:xaydavip add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:xaydavip add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:xaydavip add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:xaydavip add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:xaydavip add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:xaydavip add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:xaydavip add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/02/2023 10:42 CH
+BAG:xaydavip add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:xaydavip add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:xaydavip add 1xÁo vải thô lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:xaydavip add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:xaydavip add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:xaydavip add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:xaydavip add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 10:44 CH
+BAG:xaydavip add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 10:46 CH
+BAG:xaydavip add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 02/02/2023 10:47 CH
+BAG:xaydavip add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 02/02/2023 10:48 CH
+BAG:xaydavip add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 02/02/2023 10:48 CH
+BAG:xaydavip add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 02/02/2023 10:48 CH
+BAG:xaydavip add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 02/02/2023 10:48 CH
+BAG:xaydavip add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 02/02/2023 10:48 CH
+BAG:xaydavip add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 02/02/2023 10:48 CH
+BAG:xaydavip add 37xĐậu thần cấp 1 (old: 7) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 67xĐậu thần cấp 1 (old: 37) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 97xĐậu thần cấp 1 (old: 67) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 28xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 99xĐậu thần cấp 1 (old: 97) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 58xĐậu thần cấp 1 (old: 28) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 88xĐậu thần cấp 1 (old: 58) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 19xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 99xĐậu thần cấp 1 (old: 88) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 49xĐậu thần cấp 1 (old: 19) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 79xĐậu thần cấp 1 (old: 49) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 10xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 99xĐậu thần cấp 1 (old: 79) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 40xĐậu thần cấp 1 (old: 10) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 70xĐậu thần cấp 1 (old: 40) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 1xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 99xĐậu thần cấp 1 (old: 70) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 31xĐậu thần cấp 1 (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 61xĐậu thần cấp 1 (old: 31) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 91xĐậu thần cấp 1 (old: 61) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 22xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 99xĐậu thần cấp 1 (old: 91) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 52xĐậu thần cấp 1 (old: 22) lydo: Mua từ cửa hàng at 02/02/2023 10:49 CH
+BAG:xaydavip add 82xĐậu thần cấp 1 (old: 52) lydo: Mua từ cửa hàng at 02/02/2023 10:50 CH
+BAG:xaydavip add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:xaydavip add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:xaydavip add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/02/2023 10:50 CH
+BAG:xaydavip add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:xaydavip add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:xaydavip add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/02/2023 10:51 CH
+BAG:xaydavip add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 10:51 CH
+BAG:xaydavip add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/02/2023 10:51 CH
+BAG:xaydavip add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:xaydavip add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:xaydavip add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:xaydavip add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:xaydavip add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 10:52 CH
+BAG:xaydavip add 1xGăng vải thô lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:xaydavip add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:xaydavip add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:xaydavip add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:xaydavip add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:xaydavip add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:xaydavip add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 10:53 CH
+BAG:xaydavip add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/02/2023 10:55 CH
+BAG:xaydavip add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:xaydavip add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:xaydavip add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:xaydavip add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:xaydavip add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:xaydavip add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:xaydavip add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:xaydavip add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:xaydavip add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:xaydavip add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:xaydavip add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:xaydavip add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:xaydavip add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:xaydavip add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:xaydavip add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:xaydavip add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:xaydavip add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:xaydavip add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:xaydavip add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:xaydavip add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:xaydavip add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:xaydavip add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:xaydavip add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:xaydavip add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:xaydavip add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:xaydavip add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:xaydavip add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:xaydavip add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:xaydavip add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:xaydavip add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:xaydavip add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:xaydavip add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:xaydavip add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:xaydavip add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:xaydavip add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/02/2023 11:42 CH
+BAG:xaydavip add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:xaydavip add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:xaydavip add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:xaydavip add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:xaydavip add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/02/2023 11:50 CH
+BAG:xaydavip add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/02/2023 11:51 CH
+BAG:xaydavip add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 02/02/2023 11:52 CH
+BAG:xaydavip add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:xaydavip add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/02/2023 11:55 CH
+BAG:xaydavip add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:xaydavip add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:xaydavip add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:xaydavip add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:xaydavip add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/02/2023 11:58 CH

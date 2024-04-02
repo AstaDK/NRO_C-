@@ -1,0 +1,42 @@
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:57 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:58 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:00 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:01 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:01 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:02 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:02 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:04 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:05 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:06 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:07 CH
+BAG:akuku remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 11:09 CH
+BAG:akuku remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 11:09 CH
+BAG:akuku remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 11:13 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:16 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:17 CH
+BAG:akuku remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:18 CH
+BAG:akuku remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:18 CH
+BAG:akuku remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:18 CH
+BAG:akuku remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:18 CH
+BAG:akuku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:19 CH
+BAG:akuku remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 11:20 CH
+BAG:akuku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:akuku remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:23 CH
+BAG:akuku remove 20xĐậu thần cấp 2 lydo: Bán cho shop at 02/02/2023 11:24 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:24 CH
+BAG:akuku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:28 CH
+BAG:akuku remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:30 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:35 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:39 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:44 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:46 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:48 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:55 CH
+BAG:akuku remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:56 CH
+BAG:akuku remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:56 CH
+BAG:akuku remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:56 CH
+BAG:akuku remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:56 CH
+BAG:akuku remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:56 CH

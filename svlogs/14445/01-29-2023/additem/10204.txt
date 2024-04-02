@@ -1,0 +1,21 @@
+BAG:saydaf add 1xBột mì lydo: Nhặt từ map at 01/29/2023 6:15 PM
+BAG:saydaf add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 6:16 PM
+BAG:saydaf add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 6:16 PM
+BAG:saydaf add 1xMảnh Quỷ bay lydo: Nhặt từ map at 01/29/2023 6:18 PM
+BAG:saydaf add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 6:18 PM
+BAG:saydaf add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 6:19 PM
+BAG:saydaf add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 6:19 PM
+BAG:saydaf add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 6:20 PM
+BAG:saydaf add 20xThỏi vàng lydo: Giftcode at 01/29/2023 6:20 PM
+BAG:saydaf add 1xCải trang VIP lydo: Mua từ cửa hàng at 01/29/2023 6:21 PM
+BAG:saydaf add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/29/2023 6:21 PM
+BAG:saydaf add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 6:22 PM
+BAG:saydaf add 1xDiều rồng lydo: Mua từ cửa hàng at 01/29/2023 6:23 PM
+BAG:saydaf add 1xGhế bay lydo: Mua từ cửa hàng at 01/29/2023 6:25 PM

@@ -1,0 +1,29 @@
+BAG:motlasot add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 9:38 AM
+BAG:motlasot add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 9:38 AM
+BAG:motlasot add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 9:43 AM
+BAG:motlasot add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 9:44 AM
+BAG:motlasot add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 9:44 AM
+BAG:motlasot add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 9:46 AM
+BAG:motlasot add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 9:46 AM
+BAG:motlasot add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 9:47 AM
+BAG:motlasot add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 9:47 AM
+BAG:motlasot add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 9:47 AM
+BAG:motlasot add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 9:47 AM
+BAG:motlasot add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/30/2023 9:48 AM
+BAG:motlasot add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 9:48 AM
+BAG:motlasot add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 9:48 AM
+BAG:motlasot add 1xGà quay nguyên con lydo: Nhặt từ map at 01/30/2023 9:48 AM
+BAG:motlasot add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 9:49 AM
+BAG:motlasot add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 9:49 AM
+BAG:motlasot add 20xThỏi vàng lydo: Giftcode at 01/30/2023 9:51 AM
+BAG:motlasot add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 01/30/2023 9:52 AM
+BAG:motlasot add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 01/30/2023 9:52 AM
+BAG:motlasot add 1xCải trang VIP lydo: Mua từ cửa hàng at 01/30/2023 9:53 AM
+BAG:motlasot add 1xAvatar lydo: Mua từ cửa hàng at 01/30/2023 9:55 AM
+BAG:motlasot add 1xCột nhà lydo: Mua từ cửa hàng at 01/30/2023 9:55 AM
+BAG:motlasot add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 9:55 AM
+BAG:motlasot add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 01/30/2023 9:57 AM
+BAG:motlasot add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 01/30/2023 9:57 AM
+BAG:motlasot add 1xSao pha lê lydo: Lấy từ lucky box at 01/30/2023 9:57 AM
+BAG:motlasot add 1xSao pha lê lydo: Lấy từ lucky box at 01/30/2023 9:57 AM
+BAG:motlasot add 1xMảnh Khủng long lydo: Nhặt từ map at 01/30/2023 9:58 AM

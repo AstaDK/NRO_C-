@@ -1,0 +1,11 @@
+BAG:tminzz add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 10:35 PM
+BAG:tminzz add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 11:49 PM
+BAG:tminzz add 13xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 01/29/2023 11:52 PM
+BAG:tminzz add 17xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 01/29/2023 11:52 PM
+BAG:tminzz add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 11:53 PM
+BAG:tminzz add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:54 PM
+BAG:tminzz add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 11:56 PM
+BAG:tminzz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 11:58 PM
+BAG:tminzz add 1xGăng len Pico lydo: Mua từ cửa hàng at 01/29/2023 11:59 PM
+BAG:tminzz add 1xÁo thun Pico lydo: Mua từ cửa hàng at 01/29/2023 11:59 PM
+BAG:tminzz add 1xQuần thun Pico lydo: Mua từ cửa hàng at 01/29/2023 11:59 PM

@@ -1,0 +1,16 @@
+BAG:sieuday add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 2:19 AM
+BAG:sieuday add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/29/2023 2:31 AM
+BAG:sieuday add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 2:33 AM
+BAG:sieuday add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 01/29/2023 2:33 AM
+BAG:sieuday add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 2:34 AM
+BAG:sieuday add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 2:34 AM
+BAG:sieuday add 1xCột nhà lydo: Mua từ cửa hàng at 01/29/2023 2:35 AM
+BAG:sieuday add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 2:35 AM
+BAG:sieuday add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 2:36 AM
+BAG:sieuday add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 2:38 AM
+BAG:sieuday add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 2:38 AM
+BAG:sieuday add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 2:38 AM
+BAG:sieuday add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 2:38 AM
+BAG:sieuday add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 2:38 AM
+BAG:sieuday add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 3:06 AM
+BAG:sieuday add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 3:07 AM

@@ -1,0 +1,6 @@
+BAG:tansat remove Cải trang lydo: Tự Xóa vật phẩm at 02/01/2023 8:42 SA
+BAG:tansat remove Cánh thiên thần 2 lydo: Cất vào rương at 02/01/2023 8:43 SA
+BAG:tansat remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 8:43 SA
+BAG:tansat remove Găng vải thô lydo: Cất vào rương at 02/01/2023 8:43 SA
+BAG:tansat remove Giầy vải thô lydo: Cất vào rương at 02/01/2023 8:43 SA
+BAG:tansat remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 9:12 SA

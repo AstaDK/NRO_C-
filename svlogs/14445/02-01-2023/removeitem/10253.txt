@@ -1,0 +1,93 @@
+BAG:picoloks remove Găng sắt Tron lydo: Tự Xóa vật phẩm at 02/01/2023 10:37 SA
+BAG:picoloks remove Găng bạc Zealot lydo: Tự Xóa vật phẩm at 02/01/2023 10:37 SA
+BAG:picoloks remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 10:37 SA
+BAG:picoloks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:44 SA
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 11:44 SA
+BAG:picoloks remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 11:44 SA
+BAG:picoloks remove Đá lục bảo lydo: Cất vào rương at 02/01/2023 11:44 SA
+BAG:picoloks remove Đá Ruby lydo: Cất vào rương at 02/01/2023 11:44 SA
+BAG:picoloks remove Đá Titan lydo: Cất vào rương at 02/01/2023 11:44 SA
+BAG:picoloks remove Đá Saphia lydo: Cất vào rương at 02/01/2023 11:44 SA
+BAG:picoloks remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:57 SA
+BAG:picoloks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:58 SA
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:58 SA
+BAG:picoloks remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 11:59 SA
+BAG:picoloks remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 11:59 SA
+BAG:picoloks remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 11:59 SA
+BAG:picoloks remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 11:59 SA
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 12:55 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 1:01 CH
+BAG:picoloks remove Bông tai Porata lydo: Cất vào rương at 02/01/2023 1:35 CH
+BAG:picoloks remove Mảnh vỡ bông tai lydo: Cất vào rương at 02/01/2023 1:35 CH
+BAG:picoloks remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 1:35 CH
+BAG:picoloks remove Bó Hoa Hồng lydo: Cất vào rương at 02/01/2023 1:35 CH
+BAG:picoloks remove Viên Capsule đặc biệt lydo: Cất vào rương at 02/01/2023 1:35 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 2:35 CH
+BAG:picoloks remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 2:35 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 3:11 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 3:11 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 3:11 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 3:11 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 3:37 CH
+BAG:picoloks remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 3:37 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 3:37 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 3:37 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 3:38 CH
+BAG:picoloks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 3:38 CH
+BAG:picoloks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 3:38 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 3:38 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 4:47 CH
+BAG:picoloks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 4:47 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 4:47 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:28 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 5:28 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 5:28 CH
+BAG:picoloks remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 5:28 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 7:10 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 7:11 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 7:11 CH
+BAG:picoloks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 7:11 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 7:11 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 7:11 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 7:11 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 7:11 CH
+BAG:picoloks remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 7:11 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 7:11 CH
+BAG:picoloks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 7:39 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 9:35 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 9:35 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 9:35 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 9:35 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 10:38 CH
+BAG:picoloks remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 10:38 CH
+BAG:picoloks remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH
+BAG:picoloks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 11:34 CH

@@ -1,0 +1,646 @@
+BAG:doremon add 87xNgọc Rồng 4 sao (old: 86) lydo: Nhặt từ map at 02/01/2023 12:01 SA
+BAG:doremon add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/01/2023 12:01 SA
+BAG:doremon add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/01/2023 12:02 SA
+BAG:doremon add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/01/2023 12:04 SA
+BAG:doremon add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/01/2023 12:04 SA
+BAG:doremon add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/01/2023 12:05 SA
+BAG:doremon add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/01/2023 12:06 SA
+BAG:doremon add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/01/2023 12:06 SA
+BAG:doremon add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/01/2023 12:07 SA
+BAG:doremon add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 02/01/2023 12:12 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 12:15 SA
+BAG:doremon add 88xNgọc Rồng 4 sao (old: 87) lydo: Nhặt từ map at 02/01/2023 12:15 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:16 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:16 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:16 SA
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 12:17 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 12:17 SA
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 12:17 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 12:18 SA
+BAG:doremon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 12:19 SA
+BAG:doremon add 5xNgọc Rồng 1 sao lydo: (GD) Nhận từ kakaroto at 02/01/2023 12:24 SA
+BAG:doremon add 5xNgọc Rồng 2 sao lydo: (GD) Nhận từ kakaroto at 02/01/2023 12:24 SA
+BAG:doremon add 5xNgọc Rồng 3 sao lydo: (GD) Nhận từ kakaroto at 02/01/2023 12:24 SA
+BAG:doremon add 20xBột mì (old: 19) lydo: Nhặt từ map at 02/01/2023 12:26 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:26 SA
+BAG:doremon add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 02/01/2023 12:26 SA
+BAG:doremon add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/01/2023 12:27 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 12:28 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:28 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 12:29 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:30 SA
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 12:31 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 12:31 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 12:32 SA
+BAG:doremon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 12:33 SA
+BAG:doremon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 12:34 SA
+BAG:doremon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 12:34 SA
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 12:34 SA
+BAG:doremon add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 12:34 SA
+BAG:doremon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 12:35 SA
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 12:36 SA
+BAG:doremon add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 02/01/2023 12:36 SA
+BAG:doremon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 12:36 SA
+BAG:doremon add 21xBột mì (old: 20) lydo: Nhặt từ map at 02/01/2023 12:36 SA
+BAG:doremon add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 12:37 SA
+BAG:doremon add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/01/2023 12:37 SA
+BAG:doremon add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 12:39 SA
+BAG:doremon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 12:40 SA
+BAG:doremon add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/01/2023 12:40 SA
+BAG:doremon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 12:41 SA
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 12:41 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:41 SA
+BAG:doremon add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 12:42 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 12:42 SA
+BAG:doremon add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:doremon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:doremon add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:doremon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:doremon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:doremon add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 12:44 SA
+BAG:doremon add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/01/2023 12:44 SA
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 12:44 SA
+BAG:doremon add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/01/2023 12:44 SA
+BAG:doremon add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 02/01/2023 12:45 SA
+BAG:doremon add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/01/2023 12:45 SA
+BAG:doremon add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 12:45 SA
+BAG:doremon add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/01/2023 12:46 SA
+BAG:doremon add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 02/01/2023 12:46 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:46 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:47 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 12:47 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 12:48 SA
+BAG:doremon add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/01/2023 12:48 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:48 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 12:48 SA
+BAG:doremon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 12:49 SA
+BAG:doremon add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/01/2023 12:49 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 12:49 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 12:49 SA
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 12:50 SA
+BAG:doremon add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 02/01/2023 12:50 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:50 SA
+BAG:doremon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 12:50 SA
+BAG:doremon add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 02/01/2023 12:51 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 12:51 SA
+BAG:doremon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 12:51 SA
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 12:52 SA
+BAG:doremon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 12:53 SA
+BAG:doremon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 12:53 SA
+BAG:doremon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 12:53 SA
+BAG:doremon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 12:53 SA
+BAG:doremon add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 12:53 SA
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:doremon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:doremon add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:doremon add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:doremon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:doremon add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:doremon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 12:55 SA
+BAG:doremon add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 12:55 SA
+BAG:doremon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/01/2023 12:55 SA
+BAG:doremon add 22xBột mì (old: 21) lydo: Nhặt từ map at 02/01/2023 12:55 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:56 SA
+BAG:doremon add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 02/01/2023 12:57 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:57 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:doremon add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:doremon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:doremon add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 02/01/2023 12:59 SA
+BAG:doremon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 12:59 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 12:59 SA
+BAG:doremon add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 02/01/2023 1:00 SA
+BAG:doremon add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 02/01/2023 1:00 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 1:01 SA
+BAG:doremon add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 02/01/2023 1:01 SA
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 1:01 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 1:01 SA
+BAG:doremon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 1:01 SA
+BAG:doremon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 1:01 SA
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 1:01 SA
+BAG:doremon add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 1:02 SA
+BAG:doremon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 1:02 SA
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 1:02 SA
+BAG:doremon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 1:02 SA
+BAG:doremon add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 02/01/2023 1:02 SA
+BAG:doremon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 1:02 SA
+BAG:doremon add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 02/01/2023 1:03 SA
+BAG:doremon add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 1:05 SA
+BAG:doremon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 1:05 SA
+BAG:doremon add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 1:05 SA
+BAG:doremon add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 1:05 SA
+BAG:doremon add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 02/01/2023 1:07 SA
+BAG:doremon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 1:08 SA
+BAG:doremon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 1:08 SA
+BAG:doremon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 1:08 SA
+BAG:doremon add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 02/01/2023 1:09 SA
+BAG:doremon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 1:10 SA
+BAG:doremon add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 1:11 SA
+BAG:doremon add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 1:11 SA
+BAG:doremon add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 1:12 SA
+BAG:doremon add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 1:13 SA
+BAG:doremon add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 1:14 SA
+BAG:doremon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 1:14 SA
+BAG:doremon add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 1:14 SA
+BAG:doremon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/01/2023 1:14 SA
+BAG:doremon add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 1:15 SA
+BAG:doremon add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 1:16 SA
+BAG:doremon add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/01/2023 1:16 SA
+BAG:doremon add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/01/2023 1:16 SA
+BAG:doremon add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 02/01/2023 1:16 SA
+BAG:doremon add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/01/2023 1:17 SA
+BAG:doremon add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/01/2023 1:17 SA
+BAG:doremon add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/01/2023 1:17 SA
+BAG:doremon add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/01/2023 1:17 SA
+BAG:doremon add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/01/2023 1:19 SA
+BAG:doremon add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 1:20 SA
+BAG:doremon add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/01/2023 1:20 SA
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 1:20 SA
+BAG:doremon add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 02/01/2023 1:20 SA
+BAG:doremon add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 02/01/2023 1:20 SA
+BAG:doremon add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/01/2023 1:20 SA
+BAG:doremon add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 1:20 SA
+BAG:doremon add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 1:20 SA
+BAG:doremon add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/01/2023 1:21 SA
+BAG:doremon add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 1:21 SA
+BAG:doremon add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 02/01/2023 1:21 SA
+BAG:doremon add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/01/2023 1:22 SA
+BAG:doremon add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 1:22 SA
+BAG:doremon add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/01/2023 1:23 SA
+BAG:doremon add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/01/2023 1:23 SA
+BAG:doremon add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/01/2023 1:23 SA
+BAG:doremon add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/01/2023 1:25 SA
+BAG:doremon add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/01/2023 1:26 SA
+BAG:doremon add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/01/2023 1:26 SA
+BAG:doremon add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/01/2023 1:27 SA
+BAG:doremon add 23xBột mì (old: 22) lydo: Nhặt từ map at 02/01/2023 1:27 SA
+BAG:doremon add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/01/2023 1:27 SA
+BAG:doremon add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/01/2023 1:27 SA
+BAG:doremon add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/01/2023 1:28 SA
+BAG:doremon add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/01/2023 1:28 SA
+BAG:doremon add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/01/2023 1:28 SA
+BAG:doremon add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/01/2023 1:28 SA
+BAG:doremon add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/01/2023 1:29 SA
+BAG:doremon add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/01/2023 1:29 SA
+BAG:doremon add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/01/2023 1:29 SA
+BAG:doremon add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/01/2023 1:29 SA
+BAG:doremon add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/01/2023 1:30 SA
+BAG:doremon add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/01/2023 1:30 SA
+BAG:doremon add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/01/2023 1:30 SA
+BAG:doremon add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 02/01/2023 1:31 SA
+BAG:doremon add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/01/2023 1:31 SA
+BAG:doremon add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/01/2023 1:32 SA
+BAG:doremon add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/01/2023 1:32 SA
+BAG:doremon add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/01/2023 1:32 SA
+BAG:doremon add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 02/01/2023 1:32 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 1:32 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 1:32 SA
+BAG:doremon add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/01/2023 1:33 SA
+BAG:doremon add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/01/2023 1:33 SA
+BAG:doremon add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/01/2023 1:34 SA
+BAG:doremon add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/01/2023 1:35 SA
+BAG:doremon add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/01/2023 1:36 SA
+BAG:doremon add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/01/2023 1:36 SA
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 1:36 SA
+BAG:doremon add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/01/2023 1:37 SA
+BAG:doremon add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/01/2023 1:37 SA
+BAG:doremon add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/01/2023 1:37 SA
+BAG:doremon add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/01/2023 1:38 SA
+BAG:doremon add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/01/2023 1:38 SA
+BAG:doremon add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/01/2023 1:38 SA
+BAG:doremon add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/01/2023 1:38 SA
+BAG:doremon add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/01/2023 1:39 SA
+BAG:doremon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 1:42 SA
+BAG:doremon add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/01/2023 1:43 SA
+BAG:doremon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 1:43 SA
+BAG:doremon add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 02/01/2023 1:44 SA
+BAG:doremon add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/01/2023 1:44 SA
+BAG:doremon add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/01/2023 1:45 SA
+BAG:doremon add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/01/2023 1:45 SA
+BAG:doremon add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 02/01/2023 1:45 SA
+BAG:doremon add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/01/2023 1:45 SA
+BAG:doremon add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 02/01/2023 1:46 SA
+BAG:doremon add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 02/01/2023 1:46 SA
+BAG:doremon add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/01/2023 1:46 SA
+BAG:doremon add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/01/2023 1:46 SA
+BAG:doremon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 1:47 SA
+BAG:doremon add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/01/2023 1:47 SA
+BAG:doremon add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/01/2023 1:47 SA
+BAG:doremon add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/01/2023 1:48 SA
+BAG:doremon add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/01/2023 1:48 SA
+BAG:doremon add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/01/2023 1:48 SA
+BAG:doremon add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/01/2023 1:48 SA
+BAG:doremon add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 02/01/2023 1:48 SA
+BAG:doremon add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/01/2023 1:48 SA
+BAG:doremon add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 02/01/2023 1:49 SA
+BAG:doremon add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/01/2023 1:49 SA
+BAG:doremon add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/01/2023 1:50 SA
+BAG:doremon add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/01/2023 1:50 SA
+BAG:doremon add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/01/2023 1:50 SA
+BAG:doremon add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 02/01/2023 1:50 SA
+BAG:doremon add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/01/2023 1:51 SA
+BAG:doremon add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 02/01/2023 1:51 SA
+BAG:doremon add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 02/01/2023 1:52 SA
+BAG:doremon add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 02/01/2023 1:52 SA
+BAG:doremon add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 02/01/2023 1:52 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 1:53 SA
+BAG:doremon add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 02/01/2023 1:53 SA
+BAG:doremon add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 1:54 SA
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 1:54 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 1:54 SA
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 1:54 SA
+BAG:doremon add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/01/2023 1:57 SA
+BAG:doremon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 1:57 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 1:58 SA
+BAG:doremon add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/01/2023 1:58 SA
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 1:58 SA
+BAG:doremon add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 02/01/2023 1:59 SA
+BAG:doremon add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 02/01/2023 1:59 SA
+BAG:doremon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 1:59 SA
+BAG:doremon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 1:59 SA
+BAG:doremon add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 1:59 SA
+BAG:doremon add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 02/01/2023 2:00 SA
+BAG:doremon add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 2:00 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 2:01 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 2:01 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 2:01 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 2:02 SA
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 2:02 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 2:02 SA
+BAG:doremon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 2:02 SA
+BAG:doremon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 2:02 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 2:02 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 2:02 SA
+BAG:doremon add 1xGăng vải thô lydo: Lấy từ rương qua người at 02/01/2023 2:04 SA
+BAG:doremon add 3xĐá Hắc Hóa lydo: Lấy từ rương qua người at 02/01/2023 2:04 SA
+BAG:doremon add 1xĐá Vĩnh Hằng lydo: Lấy từ rương qua người at 02/01/2023 2:04 SA
+BAG:doremon add 1xBánh trung thu thập cẩm lydo: Làm bánh at 02/01/2023 2:07 SA
+BAG:doremon add 29xNgọc Rồng 4 sao (old: 28) lydo: CSTT at 02/01/2023 2:07 SA
+BAG:doremon add 1xBánh trung thu thập cẩm lydo: Làm bánh at 02/01/2023 2:07 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 2:10 SA
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 2:12 SA
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 2:12 SA
+BAG:doremon add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 02/01/2023 2:12 SA
+BAG:doremon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 2:12 SA
+BAG:doremon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 2:13 SA
+BAG:doremon add 4xBột mì (old: 3) lydo: Nhặt từ map at 02/01/2023 2:14 SA
+BAG:doremon add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 2:16 SA
+BAG:doremon add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 2:17 SA
+BAG:doremon add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 02/01/2023 2:20 SA
+BAG:doremon add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 2:22 SA
+BAG:doremon add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 2:22 SA
+BAG:doremon add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 02/01/2023 2:23 SA
+BAG:doremon add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 02/01/2023 2:24 SA
+BAG:doremon add 5xBột mì (old: 4) lydo: Nhặt từ map at 02/01/2023 2:25 SA
+BAG:doremon add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 2:25 SA
+BAG:doremon add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 2:28 SA
+BAG:doremon add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 02/01/2023 2:28 SA
+BAG:doremon add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 2:29 SA
+BAG:doremon add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/01/2023 2:30 SA
+BAG:doremon add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/01/2023 2:30 SA
+BAG:doremon add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/01/2023 2:30 SA
+BAG:doremon add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/01/2023 2:31 SA
+BAG:doremon add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 02/01/2023 2:31 SA
+BAG:doremon add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/01/2023 2:31 SA
+BAG:doremon add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 02/01/2023 2:31 SA
+BAG:doremon add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/01/2023 2:32 SA
+BAG:doremon add 99xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 02/01/2023 2:32 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 2:33 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 2:33 SA
+BAG:doremon add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/01/2023 2:33 SA
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 2:33 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 2:34 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 2:34 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 2:35 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 2:35 SA
+BAG:doremon add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/01/2023 2:35 SA
+BAG:doremon add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/01/2023 2:35 SA
+BAG:doremon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 2:36 SA
+BAG:doremon add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/01/2023 2:36 SA
+BAG:doremon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 2:37 SA
+BAG:doremon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 2:37 SA
+BAG:doremon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 2:38 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 2:38 SA
+BAG:doremon add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/01/2023 2:40 SA
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 2:40 SA
+BAG:doremon add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 2:40 SA
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 2:41 SA
+BAG:doremon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 2:42 SA
+BAG:doremon add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/01/2023 2:42 SA
+BAG:doremon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 2:43 SA
+BAG:doremon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 2:43 SA
+BAG:doremon add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/01/2023 2:45 SA
+BAG:doremon add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/01/2023 2:45 SA
+BAG:doremon add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 2:45 SA
+BAG:doremon add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 2:45 SA
+BAG:doremon add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 2:46 SA
+BAG:doremon add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 2:46 SA
+BAG:doremon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 2:46 SA
+BAG:doremon add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/01/2023 2:47 SA
+BAG:doremon add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 2:48 SA
+BAG:doremon add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/01/2023 2:48 SA
+BAG:doremon add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 2:50 SA
+BAG:doremon add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 2:50 SA
+BAG:doremon add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/01/2023 2:50 SA
+BAG:doremon add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/01/2023 2:51 SA
+BAG:doremon add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/01/2023 2:51 SA
+BAG:doremon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 2:51 SA
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 2:51 SA
+BAG:doremon add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/01/2023 2:51 SA
+BAG:doremon add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 2:51 SA
+BAG:doremon add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/01/2023 2:51 SA
+BAG:doremon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 2:51 SA
+BAG:doremon add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/01/2023 2:52 SA
+BAG:doremon add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 2:52 SA
+BAG:doremon add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/01/2023 2:53 SA
+BAG:doremon add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/01/2023 2:54 SA
+BAG:doremon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 2:54 SA
+BAG:doremon add 10xĐậu thần cấp 7 lydo: Thu hoạch đậu at 02/01/2023 2:54 SA
+BAG:doremon add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/01/2023 2:54 SA
+BAG:doremon add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/01/2023 2:54 SA
+BAG:doremon add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/01/2023 2:54 SA
+BAG:doremon add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 2:55 SA
+BAG:doremon add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/01/2023 2:55 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 2:55 SA
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 2:55 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 2:55 SA
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 2:56 SA
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 2:57 SA
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 2:57 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 2:57 SA
+BAG:doremon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 2:58 SA
+BAG:doremon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 2:58 SA
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 2:58 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 2:59 SA
+BAG:doremon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 2:59 SA
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 2:59 SA
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 2:59 SA
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 2:59 SA
+BAG:doremon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 3:00 SA
+BAG:doremon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 3:00 SA
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 3:02 SA
+BAG:doremon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/01/2023 3:02 SA
+BAG:doremon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 3:03 SA
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 3:03 SA
+BAG:doremon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 3:04 SA
+BAG:doremon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 3:04 SA
+BAG:doremon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 3:04 SA
+BAG:doremon add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 02/01/2023 3:04 SA
+BAG:doremon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 3:05 SA
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 3:05 SA
+BAG:doremon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 3:05 SA
+BAG:doremon add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/01/2023 3:06 SA
+BAG:doremon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 3:06 SA
+BAG:doremon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 3:06 SA
+BAG:doremon add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 3:06 SA
+BAG:doremon add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 3:06 SA
+BAG:doremon add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 3:07 SA
+BAG:doremon add 1xGà quay nguyên con lydo: Nhặt từ map at 02/01/2023 3:07 SA
+BAG:doremon add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 3:08 SA
+BAG:doremon add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 3:08 SA
+BAG:doremon add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 3:09 SA
+BAG:doremon add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/01/2023 3:10 SA
+BAG:doremon add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/01/2023 3:10 SA
+BAG:doremon add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 3:10 SA
+BAG:doremon add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/01/2023 3:11 SA
+BAG:doremon add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 3:12 SA
+BAG:doremon add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/01/2023 3:12 SA
+BAG:doremon add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 3:12 SA
+BAG:doremon add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/01/2023 3:13 SA
+BAG:doremon add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/01/2023 3:13 SA
+BAG:doremon add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/01/2023 3:13 SA
+BAG:doremon add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 3:14 SA
+BAG:doremon add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 3:15 SA
+BAG:doremon add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 3:15 SA
+BAG:doremon add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/01/2023 3:15 SA
+BAG:doremon add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/01/2023 3:15 SA
+BAG:doremon add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/01/2023 3:16 SA
+BAG:doremon add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 02/01/2023 3:16 SA
+BAG:doremon add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/01/2023 3:17 SA
+BAG:doremon add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/01/2023 3:17 SA
+BAG:doremon add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/01/2023 3:17 SA
+BAG:doremon add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 02/01/2023 3:18 SA
+BAG:doremon add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 02/01/2023 3:18 SA
+BAG:doremon add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 02/01/2023 3:18 SA
+BAG:doremon add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 02/01/2023 3:18 SA
+BAG:doremon add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 02/01/2023 3:18 SA
+BAG:doremon add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 02/01/2023 3:18 SA
+BAG:doremon add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 02/01/2023 3:18 SA
+BAG:doremon add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 02/01/2023 3:19 SA
+BAG:doremon add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 02/01/2023 3:20 SA
+BAG:doremon add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 02/01/2023 3:21 SA
+BAG:doremon add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 02/01/2023 3:21 SA
+BAG:doremon add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 02/01/2023 3:21 SA
+BAG:doremon add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 02/01/2023 3:21 SA
+BAG:doremon add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 02/01/2023 3:21 SA
+BAG:doremon add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 02/01/2023 3:21 SA
+BAG:doremon add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 02/01/2023 3:21 SA
+BAG:doremon add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 3:21 SA
+BAG:doremon add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 3:21 SA
+BAG:doremon add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 3:21 SA
+BAG:doremon add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 3:21 SA
+BAG:doremon add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 02/01/2023 3:22 SA
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 3:22 SA
+BAG:doremon add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 3:23 SA
+BAG:doremon add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 3:23 SA
+BAG:doremon add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 3:23 SA
+BAG:doremon add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 3:23 SA
+BAG:doremon add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/01/2023 3:23 SA
+BAG:doremon add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/01/2023 3:23 SA
+BAG:doremon add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/01/2023 3:23 SA
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 9:12 SA
+BAG:doremon add 7xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/01/2023 9:24 SA
+BAG:doremon add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 02/01/2023 9:31 SA
+BAG:doremon add 1xGăng Kaio lydo: Mua từ cửa hàng at 02/01/2023 9:31 SA
+BAG:doremon add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 02/01/2023 9:31 SA
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 9:37 SA
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 9:49 SA
+BAG:doremon add 31xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 02/01/2023 10:57 SA
+BAG:doremon add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 02/01/2023 11:02 SA
+BAG:doremon add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/01/2023 1:26 CH
+BAG:doremon add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 02/01/2023 1:27 CH
+BAG:doremon add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 02/01/2023 1:27 CH
+BAG:doremon add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 02/01/2023 1:28 CH
+BAG:doremon add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 02/01/2023 1:28 CH
+BAG:doremon add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 02/01/2023 1:29 CH
+BAG:doremon add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 02/01/2023 1:29 CH
+BAG:doremon add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 02/01/2023 1:30 CH
+BAG:doremon add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 02/01/2023 1:30 CH
+BAG:doremon add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 02/01/2023 1:30 CH
+BAG:doremon add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 02/01/2023 1:30 CH
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 1:55 CH
+BAG:doremon add 10xĐậu thần cấp 10 (old: 1) lydo: Thu hoạch đậu at 02/01/2023 1:56 CH
+BAG:doremon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/01/2023 1:57 CH
+BAG:doremon add 1xGiầy vải thô lydo: Lấy từ rương qua người at 02/01/2023 1:57 CH
+BAG:doremon add 1xGiầy vải thô lydo: Lấy từ rương qua người at 02/01/2023 1:57 CH
+BAG:doremon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/01/2023 1:57 CH
+BAG:doremon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/01/2023 1:58 CH
+BAG:doremon add 1xGăng lưỡng long lydo: (GD) Nhận từ infrared at 02/01/2023 2:03 CH
+BAG:doremon add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 2:16 CH
+BAG:doremon add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 2:16 CH
+BAG:doremon add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 2:17 CH
+BAG:doremon add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/01/2023 2:17 CH
+BAG:doremon add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 02/01/2023 2:17 CH
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 02/01/2023 2:17 CH
+BAG:doremon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/01/2023 2:17 CH
+BAG:doremon add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 02/01/2023 2:21 CH
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 2:35 CH
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 2:44 CH
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 2:55 CH
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 2:56 CH
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 2:59 CH
+BAG:doremon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 3:18 CH
+BAG:doremon add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 02/01/2023 3:27 CH
+BAG:doremon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 3:28 CH
+BAG:doremon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 3:47 CH
+BAG:doremon add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 3:54 CH
+BAG:doremon add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 3:57 CH
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 4:04 CH
+BAG:doremon add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 4:13 CH
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 4:15 CH
+BAG:doremon add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 4:19 CH
+BAG:doremon add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 4:29 CH
+BAG:doremon add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 4:29 CH
+BAG:doremon add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 4:29 CH
+BAG:doremon add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/01/2023 4:29 CH
+BAG:doremon add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 02/01/2023 4:31 CH
+BAG:doremon add 2xĐá bảo vệ lydo: Nhặt từ map at 02/01/2023 4:40 CH
+BAG:doremon add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 02/01/2023 4:42 CH
+BAG:doremon add 10xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 02/01/2023 4:55 CH
+BAG:doremon add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 5:01 CH
+BAG:doremon add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 5:07 CH
+BAG:doremon add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 5:10 CH
+BAG:doremon add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 5:11 CH
+BAG:doremon add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 5:11 CH
+BAG:doremon add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/01/2023 5:11 CH
+BAG:doremon add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/01/2023 5:11 CH
+BAG:doremon add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/01/2023 5:11 CH
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 5:14 CH
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 5:15 CH
+BAG:doremon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 5:16 CH
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 5:21 CH
+BAG:doremon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 5:23 CH
+BAG:doremon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 5:28 CH
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 5:45 CH
+BAG:doremon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 5:53 CH
+BAG:doremon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 5:58 CH
+BAG:doremon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 6:00 CH
+BAG:doremon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:doremon add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 6:03 CH
+BAG:doremon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 6:05 CH
+BAG:doremon add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/01/2023 6:10 CH
+BAG:doremon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 6:11 CH
+BAG:doremon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 6:16 CH
+BAG:doremon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 6:20 CH
+BAG:doremon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 6:21 CH
+BAG:doremon add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 6:22 CH
+BAG:doremon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 6:26 CH
+BAG:doremon add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 6:27 CH
+BAG:doremon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 6:28 CH
+BAG:doremon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 6:29 CH
+BAG:doremon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 6:37 CH
+BAG:doremon add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 6:39 CH
+BAG:doremon add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/01/2023 6:40 CH
+BAG:doremon add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/01/2023 6:41 CH
+BAG:doremon add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 6:41 CH
+BAG:doremon add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/01/2023 6:52 CH
+BAG:doremon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 6:54 CH
+BAG:doremon add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 7:04 CH
+BAG:doremon add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 7:05 CH
+BAG:doremon add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 7:10 CH
+BAG:doremon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 7:14 CH
+BAG:doremon add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/01/2023 7:14 CH
+BAG:doremon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 7:16 CH
+BAG:doremon add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 7:20 CH
+BAG:doremon add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/01/2023 7:20 CH
+BAG:doremon add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 7:21 CH
+BAG:doremon add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 7:26 CH
+BAG:doremon add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 7:26 CH
+BAG:doremon add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 7:28 CH
+BAG:doremon add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 7:30 CH
+BAG:doremon add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/01/2023 7:31 CH
+BAG:doremon add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/01/2023 7:32 CH
+BAG:doremon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 7:33 CH
+BAG:doremon add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 7:34 CH
+BAG:doremon add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 7:37 CH
+BAG:doremon add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 7:39 CH
+BAG:doremon add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/01/2023 7:41 CH
+BAG:doremon add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/01/2023 7:42 CH
+BAG:doremon add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 7:44 CH
+BAG:doremon add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/01/2023 7:44 CH
+BAG:doremon add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 7:44 CH
+BAG:doremon add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/01/2023 7:45 CH
+BAG:doremon add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/01/2023 7:46 CH
+BAG:doremon add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/01/2023 7:47 CH
+BAG:doremon add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/01/2023 10:52 CH
+BAG:doremon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/01/2023 10:54 CH
+BAG:doremon add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 10:57 CH
+BAG:doremon add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 10:57 CH
+BAG:doremon add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 02/01/2023 10:57 CH
+BAG:doremon add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 02/01/2023 10:57 CH
+BAG:doremon add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/01/2023 10:57 CH
+BAG:doremon add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 02/01/2023 10:57 CH
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 11:00 CH
+BAG:doremon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 11:01 CH
+BAG:doremon add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 11:01 CH
+BAG:doremon add 12xThỏi vàng lydo: (GD) Nhận từ ilikeboss at 02/01/2023 11:11 CH
+BAG:doremon add 7xThỏi vàng lydo: (GD) Nhận từ ilikeboss at 02/01/2023 11:11 CH
+BAG:doremon add 46xThỏi vàng lydo: (GD) Nhận từ infrared at 02/01/2023 11:24 CH
+BAG:doremon add 13xNgọc Rồng 3 sao lydo: (GD) Nhận từ infrared at 02/01/2023 11:24 CH
+BAG:doremon add 99xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/01/2023 11:29 CH
+BAG:doremon add 99xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/01/2023 11:29 CH
+BAG:doremon add 99xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/01/2023 11:29 CH
+BAG:doremon add 99xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/01/2023 11:29 CH
+BAG:doremon add 99xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/01/2023 11:29 CH
+BAG:doremon add 5xThỏi vàng lydo: (GD) Nhận từ octiu957 at 02/01/2023 11:29 CH
+BAG:doremon add 208xThỏi vàng (old: 99) lydo: Lấy từ rương qua người at 02/01/2023 11:30 CH
+BAG:doremon add 307xThỏi vàng (old: 208) lydo: Lấy từ rương qua người at 02/01/2023 11:30 CH
+BAG:doremon add 406xThỏi vàng (old: 307) lydo: Lấy từ rương qua người at 02/01/2023 11:30 CH
+BAG:doremon add 505xThỏi vàng (old: 406) lydo: Lấy từ rương qua người at 02/01/2023 11:30 CH
+BAG:doremon add 604xThỏi vàng (old: 505) lydo: Lấy từ rương qua người at 02/01/2023 11:30 CH
+BAG:doremon add 674xThỏi vàng (old: 604) lydo: Lấy từ rương qua người at 02/01/2023 11:30 CH
+BAG:doremon add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/01/2023 11:35 CH
+BAG:doremon add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 11:36 CH
+BAG:doremon add 1xBình rượu lydo: Nhặt từ map at 02/01/2023 11:48 CH
+BAG:doremon add 1xBình rượu lydo: Nhặt từ map at 02/01/2023 11:49 CH
+BAG:doremon add 1xLì xì lydo: Nhặt từ map at 02/01/2023 11:49 CH
+BAG:doremon add 1xLì xì lydo: Nhặt từ map at 02/01/2023 11:50 CH
+BAG:doremon add 1xCây mai lydo: Nhặt từ map at 02/01/2023 11:51 CH
+BAG:doremon add 1xLì xì lydo: Nhặt từ map at 02/01/2023 11:51 CH
+BAG:doremon add 1xBình rượu lydo: Nhặt từ map at 02/01/2023 11:53 CH
+BAG:doremon add 1xLì xì lydo: Lấy từ rương qua người at 02/01/2023 11:54 CH
+BAG:doremon add 1xLì xì lydo: Lấy từ rương qua người at 02/01/2023 11:54 CH
+BAG:doremon add 1xCây mai lydo: Nhặt từ map at 02/01/2023 11:55 CH
+BAG:doremon add 1xBình rượu lydo: Nhặt từ map at 02/01/2023 11:56 CH
+BAG:doremon add 1xBình rượu lydo: Nhặt từ map at 02/01/2023 11:56 CH
+BAG:doremon add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 11:56 CH

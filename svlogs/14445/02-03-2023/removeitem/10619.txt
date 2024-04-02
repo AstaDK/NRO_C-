@@ -1,0 +1,166 @@
+BAG:kakaroto remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:kakaroto remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:kakaroto remove Ngọc Rồng 2 sao lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:kakaroto remove Cuồng nộ lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:kakaroto remove Cải Trang Thần Zeno Namec lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:kakaroto remove Đậu thần cấp 9 lydo: Cất vào rương at 02/03/2023 12:31 SA
+BAG:kakaroto remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 8:36 SA
+BAG:kakaroto remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/03/2023 9:37 SA
+BAG:kakaroto remove Cải trang Black Goku SSJ White lydo: Cất vào rương at 02/03/2023 9:37 SA
+BAG:kakaroto remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 9:38 SA
+BAG:kakaroto remove Găng vải thô lydo: Cất vào rương at 02/03/2023 9:39 SA
+BAG:kakaroto remove Áo vải thô lydo: Cất vào rương at 02/03/2023 9:39 SA
+BAG:kakaroto remove Giầy vải thô lydo: Cất vào rương at 02/03/2023 9:39 SA
+BAG:kakaroto remove Rada cấp 1 lydo: Cất vào rương at 02/03/2023 9:39 SA
+BAG:kakaroto remove Quần lưỡng long lydo: Cất vào rương at 02/03/2023 9:39 SA
+BAG:kakaroto remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 9:39 SA
+BAG:kakaroto remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 9:39 SA
+BAG:kakaroto remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:40 SA
+BAG:kakaroto remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:40 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 9:40 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 9:51 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 10:01 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 10:12 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 10:22 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 10:32 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 10:43 SA
+BAG:kakaroto remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:47 SA
+BAG:kakaroto remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:51 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 10:53 SA
+BAG:kakaroto remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 11:03 SA
+BAG:kakaroto remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:14 SA
+BAG:kakaroto remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 11:14 SA
+BAG:kakaroto remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:14 SA
+BAG:kakaroto remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 11:14 SA
+BAG:kakaroto remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 11:14 SA
+BAG:kakaroto remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:14 SA
+BAG:kakaroto remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/03/2023 11:14 SA
+BAG:kakaroto remove 1xBông tai Porata lydo: NC Porata at 02/03/2023 11:15 SA
+BAG:kakaroto remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:15 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove Cải Trang Thần Zeno Namec lydo: Tự Xóa vật phẩm at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xCây mai lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xLì xì lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xBình rượu lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 11:16 SA
+BAG:kakaroto remove Cải Trang Thần Zeno Namec lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:kakaroto remove Rada cấp 1 lydo: Cất vào rương at 02/03/2023 11:58 SA
+BAG:kakaroto remove Cải Trang Thần Zeno Namec lydo: Cất vào rương at 02/03/2023 11:58 SA
+BAG:kakaroto remove Vàng lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:kakaroto remove Phượng Hoàng Lửa lydo: Cất vào rương at 02/03/2023 11:58 SA
+BAG:kakaroto remove Bổ khí lydo: Cất vào rương at 02/03/2023 11:58 SA
+BAG:kakaroto remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:59 SA
+BAG:kakaroto remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:59 SA
+BAG:kakaroto remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 12:00 CH
+BAG:kakaroto remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:00 CH
+BAG:kakaroto remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:00 CH
+BAG:kakaroto remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 12:00 CH
+BAG:kakaroto remove Cải Trang Thần Zeno Namec lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:kakaroto remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:26 CH
+BAG:kakaroto remove 7xCuồng nộ lydo: Giao dịch với rongnsnd at 02/03/2023 12:27 CH
+BAG:kakaroto remove 1xBổ huyết lydo: Dùng buff at 02/03/2023 12:34 CH
+BAG:kakaroto remove 1xBổ huyết lydo: Dùng buff at 02/03/2023 12:48 CH
+BAG:kakaroto remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:26 CH

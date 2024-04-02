@@ -1,0 +1,977 @@
+BAG:mygoku add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 02/03/2023 2:28 SA
+BAG:mygoku add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 02/03/2023 2:29 SA
+BAG:mygoku add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 02/03/2023 2:29 SA
+BAG:mygoku add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 02/03/2023 2:29 SA
+BAG:mygoku add 528xBình rượu (old: 527) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:mygoku add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:mygoku add 529xBình rượu (old: 528) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:mygoku add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:mygoku add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 02/03/2023 2:30 SA
+BAG:mygoku add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:32 SA
+BAG:mygoku add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:32 SA
+BAG:mygoku add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:32 SA
+BAG:mygoku add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:33 SA
+BAG:mygoku add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:33 SA
+BAG:mygoku add 540xLì xì (old: 539) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:mygoku add 645xCây mai (old: 644) lydo: Nhặt từ map at 02/03/2023 2:38 SA
+BAG:mygoku add 646xCây mai (old: 645) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:mygoku add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 02/03/2023 2:42 SA
+BAG:mygoku add 647xCây mai (old: 646) lydo: Nhặt từ map at 02/03/2023 10:30 SA
+BAG:mygoku add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 10:30 SA
+BAG:mygoku add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 02/03/2023 10:31 SA
+BAG:mygoku add 541xLì xì (old: 540) lydo: Nhặt từ map at 02/03/2023 10:31 SA
+BAG:mygoku add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 10:31 SA
+BAG:mygoku add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 10:31 SA
+BAG:mygoku add 648xCây mai (old: 647) lydo: Nhặt từ map at 02/03/2023 10:32 SA
+BAG:mygoku add 649xCây mai (old: 648) lydo: Nhặt từ map at 02/03/2023 10:32 SA
+BAG:mygoku add 650xCây mai (old: 649) lydo: Nhặt từ map at 02/03/2023 10:33 SA
+BAG:mygoku add 542xLì xì (old: 541) lydo: Nhặt từ map at 02/03/2023 10:34 SA
+BAG:mygoku add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 10:34 SA
+BAG:mygoku add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 10:35 SA
+BAG:mygoku add 651xCây mai (old: 650) lydo: Nhặt từ map at 02/03/2023 10:35 SA
+BAG:mygoku add 652xCây mai (old: 651) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:mygoku add 653xCây mai (old: 652) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:mygoku add 530xBình rượu (old: 529) lydo: Nhặt từ map at 02/03/2023 10:36 SA
+BAG:mygoku add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 543xLì xì (old: 542) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 654xCây mai (old: 653) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 544xLì xì (old: 543) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 655xCây mai (old: 654) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 545xLì xì (old: 544) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 546xLì xì (old: 545) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 547xLì xì (old: 546) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 656xCây mai (old: 655) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/03/2023 11:48 SA
+BAG:mygoku add 657xCây mai (old: 656) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 658xCây mai (old: 657) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 548xLì xì (old: 547) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 531xBình rượu (old: 530) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 532xBình rượu (old: 531) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 659xCây mai (old: 658) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 02/03/2023 11:49 SA
+BAG:mygoku add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:mygoku add 549xLì xì (old: 548) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:mygoku add 550xLì xì (old: 549) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:mygoku add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:mygoku add 92xNgọc Rồng 6 sao (old: 91) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:mygoku add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:mygoku add 533xBình rượu (old: 532) lydo: Nhặt từ map at 02/03/2023 11:50 SA
+BAG:mygoku add 551xLì xì (old: 550) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:mygoku add 660xCây mai (old: 659) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:mygoku add 661xCây mai (old: 660) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:mygoku add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:mygoku add 662xCây mai (old: 661) lydo: Nhặt từ map at 02/03/2023 11:51 SA
+BAG:mygoku add 552xLì xì (old: 551) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:mygoku add 553xLì xì (old: 552) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:mygoku add 554xLì xì (old: 553) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:mygoku add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 02/03/2023 11:52 SA
+BAG:mygoku add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 663xCây mai (old: 662) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 555xLì xì (old: 554) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 556xLì xì (old: 555) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 664xCây mai (old: 663) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 93xNgọc Rồng 6 sao (old: 92) lydo: Nhặt từ map at 02/03/2023 11:53 SA
+BAG:mygoku add 534xBình rượu (old: 533) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 557xLì xì (old: 556) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 558xLì xì (old: 557) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 559xLì xì (old: 558) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 665xCây mai (old: 664) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 560xLì xì (old: 559) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 561xLì xì (old: 560) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 562xLì xì (old: 561) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 666xCây mai (old: 665) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 667xCây mai (old: 666) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 668xCây mai (old: 667) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 02/03/2023 11:54 SA
+BAG:mygoku add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 535xBình rượu (old: 534) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 669xCây mai (old: 668) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 670xCây mai (old: 669) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 671xCây mai (old: 670) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 536xBình rượu (old: 535) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 672xCây mai (old: 671) lydo: Nhặt từ map at 02/03/2023 11:55 SA
+BAG:mygoku add 537xBình rượu (old: 536) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:mygoku add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:mygoku add 538xBình rượu (old: 537) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:mygoku add 673xCây mai (old: 672) lydo: Nhặt từ map at 02/03/2023 11:56 SA
+BAG:mygoku add 674xCây mai (old: 673) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:mygoku add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:mygoku add 563xLì xì (old: 562) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:mygoku add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:mygoku add 38xBột mì (old: 37) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:mygoku add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 11:57 SA
+BAG:mygoku add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:mygoku add 539xBình rượu (old: 538) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:mygoku add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:mygoku add 540xBình rượu (old: 539) lydo: Nhặt từ map at 02/03/2023 11:58 SA
+BAG:mygoku add 564xLì xì (old: 563) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:mygoku add 675xCây mai (old: 674) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:mygoku add 676xCây mai (old: 675) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:mygoku add 677xCây mai (old: 676) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:mygoku add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 11:59 SA
+BAG:mygoku add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 12:00 CH
+BAG:mygoku add 565xLì xì (old: 564) lydo: Nhặt từ map at 02/03/2023 12:00 CH
+BAG:mygoku add 678xCây mai (old: 677) lydo: Nhặt từ map at 02/03/2023 12:00 CH
+BAG:mygoku add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 12:00 CH
+BAG:mygoku add 541xBình rượu (old: 540) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 542xBình rượu (old: 541) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 679xCây mai (old: 678) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 680xCây mai (old: 679) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 681xCây mai (old: 680) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 682xCây mai (old: 681) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 683xCây mai (old: 682) lydo: Nhặt từ map at 02/03/2023 12:01 CH
+BAG:mygoku add 566xLì xì (old: 565) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:mygoku add 543xBình rượu (old: 542) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:mygoku add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:mygoku add 684xCây mai (old: 683) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:mygoku add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:mygoku add 567xLì xì (old: 566) lydo: Nhặt từ map at 02/03/2023 12:02 CH
+BAG:mygoku add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:mygoku add 544xBình rượu (old: 543) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:mygoku add 545xBình rượu (old: 544) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:mygoku add 568xLì xì (old: 567) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:mygoku add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 12:03 CH
+BAG:mygoku add 569xLì xì (old: 568) lydo: Nhặt từ map at 02/03/2023 12:04 CH
+BAG:mygoku add 685xCây mai (old: 684) lydo: Nhặt từ map at 02/03/2023 12:04 CH
+BAG:mygoku add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 02/03/2023 12:04 CH
+BAG:mygoku add 686xCây mai (old: 685) lydo: Nhặt từ map at 02/03/2023 12:04 CH
+BAG:mygoku add 546xBình rượu (old: 545) lydo: Nhặt từ map at 02/03/2023 12:05 CH
+BAG:mygoku add 687xCây mai (old: 686) lydo: Nhặt từ map at 02/03/2023 12:05 CH
+BAG:mygoku add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 02/03/2023 12:05 CH
+BAG:mygoku add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 12:05 CH
+BAG:mygoku add 688xCây mai (old: 687) lydo: Nhặt từ map at 02/03/2023 12:05 CH
+BAG:mygoku add 570xLì xì (old: 569) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 571xLì xì (old: 570) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 547xBình rượu (old: 546) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 572xLì xì (old: 571) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 548xBình rượu (old: 547) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 549xBình rượu (old: 548) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 689xCây mai (old: 688) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 550xBình rượu (old: 549) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 551xBình rượu (old: 550) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 690xCây mai (old: 689) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 552xBình rượu (old: 551) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 691xCây mai (old: 690) lydo: Nhặt từ map at 02/03/2023 12:06 CH
+BAG:mygoku add 692xCây mai (old: 691) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 553xBình rượu (old: 552) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 554xBình rượu (old: 553) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 573xLì xì (old: 572) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 574xLì xì (old: 573) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 575xLì xì (old: 574) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 555xBình rượu (old: 554) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 556xBình rượu (old: 555) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 557xBình rượu (old: 556) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 558xBình rượu (old: 557) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 559xBình rượu (old: 558) lydo: Nhặt từ map at 02/03/2023 12:07 CH
+BAG:mygoku add 693xCây mai (old: 692) lydo: Nhặt từ map at 02/03/2023 12:08 CH
+BAG:mygoku add 94xNgọc Rồng 6 sao (old: 93) lydo: Nhặt từ map at 02/03/2023 12:08 CH
+BAG:mygoku add 694xCây mai (old: 693) lydo: Nhặt từ map at 02/03/2023 12:08 CH
+BAG:mygoku add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:mygoku add 695xCây mai (old: 694) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:mygoku add 696xCây mai (old: 695) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:mygoku add 560xBình rượu (old: 559) lydo: Nhặt từ map at 02/03/2023 12:09 CH
+BAG:mygoku add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:mygoku add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:mygoku add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 02/03/2023 12:10 CH
+BAG:mygoku add 697xCây mai (old: 696) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:mygoku add 698xCây mai (old: 697) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:mygoku add 699xCây mai (old: 698) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:mygoku add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 02/03/2023 12:11 CH
+BAG:mygoku add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 561xBình rượu (old: 560) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 700xCây mai (old: 699) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 701xCây mai (old: 700) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 576xLì xì (old: 575) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 562xBình rượu (old: 561) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 563xBình rượu (old: 562) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 577xLì xì (old: 576) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 702xCây mai (old: 701) lydo: Nhặt từ map at 02/03/2023 12:12 CH
+BAG:mygoku add 564xBình rượu (old: 563) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 703xCây mai (old: 702) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 704xCây mai (old: 703) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 578xLì xì (old: 577) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 579xLì xì (old: 578) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 95xNgọc Rồng 6 sao (old: 94) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 580xLì xì (old: 579) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 705xCây mai (old: 704) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 96xNgọc Rồng 6 sao (old: 95) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 706xCây mai (old: 705) lydo: Nhặt từ map at 02/03/2023 12:13 CH
+BAG:mygoku add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:mygoku add 581xLì xì (old: 580) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:mygoku add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:mygoku add 707xCây mai (old: 706) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:mygoku add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:mygoku add 582xLì xì (old: 581) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:mygoku add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 12:14 CH
+BAG:mygoku add 583xLì xì (old: 582) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 565xBình rượu (old: 564) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 708xCây mai (old: 707) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 566xBình rượu (old: 565) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 584xLì xì (old: 583) lydo: Nhặt từ map at 02/03/2023 12:15 CH
+BAG:mygoku add 567xBình rượu (old: 566) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:mygoku add 709xCây mai (old: 708) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:mygoku add 585xLì xì (old: 584) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:mygoku add 586xLì xì (old: 585) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:mygoku add 710xCây mai (old: 709) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:mygoku add 711xCây mai (old: 710) lydo: Nhặt từ map at 02/03/2023 12:16 CH
+BAG:mygoku add 587xLì xì (old: 586) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:mygoku add 588xLì xì (old: 587) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:mygoku add 589xLì xì (old: 588) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:mygoku add 568xBình rượu (old: 567) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:mygoku add 590xLì xì (old: 589) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:mygoku add 712xCây mai (old: 711) lydo: Nhặt từ map at 02/03/2023 12:17 CH
+BAG:mygoku add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 591xLì xì (old: 590) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 592xLì xì (old: 591) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 593xLì xì (old: 592) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 594xLì xì (old: 593) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 569xBình rượu (old: 568) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 713xCây mai (old: 712) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 714xCây mai (old: 713) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 570xBình rượu (old: 569) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 715xCây mai (old: 714) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 02/03/2023 12:18 CH
+BAG:mygoku add 97xNgọc Rồng 6 sao (old: 96) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 716xCây mai (old: 715) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 571xBình rượu (old: 570) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 717xCây mai (old: 716) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 718xCây mai (old: 717) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 719xCây mai (old: 718) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 720xCây mai (old: 719) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 721xCây mai (old: 720) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 595xLì xì (old: 594) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 12:19 CH
+BAG:mygoku add 572xBình rượu (old: 571) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:mygoku add 596xLì xì (old: 595) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:mygoku add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:mygoku add 597xLì xì (old: 596) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:mygoku add 722xCây mai (old: 721) lydo: Nhặt từ map at 02/03/2023 12:20 CH
+BAG:mygoku add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 723xCây mai (old: 722) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 573xBình rượu (old: 572) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 574xBình rượu (old: 573) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 598xLì xì (old: 597) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 02/03/2023 12:21 CH
+BAG:mygoku add 599xLì xì (old: 598) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 575xBình rượu (old: 574) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 600xLì xì (old: 599) lydo: Nhặt từ map at 02/03/2023 12:22 CH
+BAG:mygoku add 724xCây mai (old: 723) lydo: Nhặt từ map at 02/03/2023 12:23 CH
+BAG:mygoku add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/03/2023 12:23 CH
+BAG:mygoku add 576xBình rượu (old: 575) lydo: Nhặt từ map at 02/03/2023 12:23 CH
+BAG:mygoku add 725xCây mai (old: 724) lydo: Nhặt từ map at 02/03/2023 12:23 CH
+BAG:mygoku add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 12:23 CH
+BAG:mygoku add 601xLì xì (old: 600) lydo: Nhặt từ map at 02/03/2023 12:24 CH
+BAG:mygoku add 602xLì xì (old: 601) lydo: Nhặt từ map at 02/03/2023 12:24 CH
+BAG:mygoku add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 02/03/2023 12:24 CH
+BAG:mygoku add 577xBình rượu (old: 576) lydo: Nhặt từ map at 02/03/2023 12:24 CH
+BAG:mygoku add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 12:25 CH
+BAG:mygoku add 726xCây mai (old: 725) lydo: Nhặt từ map at 02/03/2023 12:25 CH
+BAG:mygoku add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/03/2023 12:25 CH
+BAG:mygoku add 727xCây mai (old: 726) lydo: Nhặt từ map at 02/03/2023 12:25 CH
+BAG:mygoku add 603xLì xì (old: 602) lydo: Nhặt từ map at 02/03/2023 12:26 CH
+BAG:mygoku add 604xLì xì (old: 603) lydo: Nhặt từ map at 02/03/2023 12:26 CH
+BAG:mygoku add 578xBình rượu (old: 577) lydo: Nhặt từ map at 02/03/2023 12:26 CH
+BAG:mygoku add 579xBình rượu (old: 578) lydo: Nhặt từ map at 02/03/2023 12:26 CH
+BAG:mygoku add 728xCây mai (old: 727) lydo: Nhặt từ map at 02/03/2023 12:26 CH
+BAG:mygoku add 729xCây mai (old: 728) lydo: Nhặt từ map at 02/03/2023 12:27 CH
+BAG:mygoku add 580xBình rượu (old: 579) lydo: Nhặt từ map at 02/03/2023 12:27 CH
+BAG:mygoku add 605xLì xì (old: 604) lydo: Nhặt từ map at 02/03/2023 12:27 CH
+BAG:mygoku add 606xLì xì (old: 605) lydo: Nhặt từ map at 02/03/2023 12:28 CH
+BAG:mygoku add 730xCây mai (old: 729) lydo: Nhặt từ map at 02/03/2023 12:28 CH
+BAG:mygoku add 581xBình rượu (old: 580) lydo: Nhặt từ map at 02/03/2023 12:28 CH
+BAG:mygoku add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 02/03/2023 12:28 CH
+BAG:mygoku add 607xLì xì (old: 606) lydo: Nhặt từ map at 02/03/2023 12:28 CH
+BAG:mygoku add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 02/03/2023 12:29 CH
+BAG:mygoku add 608xLì xì (old: 607) lydo: Nhặt từ map at 02/03/2023 12:29 CH
+BAG:mygoku add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/03/2023 12:29 CH
+BAG:mygoku add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/03/2023 12:29 CH
+BAG:mygoku add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 731xCây mai (old: 730) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 732xCây mai (old: 731) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 609xLì xì (old: 608) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 610xLì xì (old: 609) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 733xCây mai (old: 732) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 734xCây mai (old: 733) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 735xCây mai (old: 734) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 611xLì xì (old: 610) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 736xCây mai (old: 735) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 612xLì xì (old: 611) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 737xCây mai (old: 736) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 582xBình rượu (old: 581) lydo: Nhặt từ map at 02/03/2023 12:30 CH
+BAG:mygoku add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 738xCây mai (old: 737) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 583xBình rượu (old: 582) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 739xCây mai (old: 738) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 584xBình rượu (old: 583) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 585xBình rượu (old: 584) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 740xCây mai (old: 739) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 741xCây mai (old: 740) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 586xBình rượu (old: 585) lydo: Nhặt từ map at 02/03/2023 12:31 CH
+BAG:mygoku add 742xCây mai (old: 741) lydo: Nhặt từ map at 02/03/2023 12:32 CH
+BAG:mygoku add 743xCây mai (old: 742) lydo: Nhặt từ map at 02/03/2023 12:32 CH
+BAG:mygoku add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 02/03/2023 12:32 CH
+BAG:mygoku add 613xLì xì (old: 612) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 744xCây mai (old: 743) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 614xLì xì (old: 613) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 745xCây mai (old: 744) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 746xCây mai (old: 745) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 587xBình rượu (old: 586) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 588xBình rượu (old: 587) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 747xCây mai (old: 746) lydo: Nhặt từ map at 02/03/2023 12:33 CH
+BAG:mygoku add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 02/03/2023 12:34 CH
+BAG:mygoku add 748xCây mai (old: 747) lydo: Nhặt từ map at 02/03/2023 12:34 CH
+BAG:mygoku add 615xLì xì (old: 614) lydo: Nhặt từ map at 02/03/2023 12:34 CH
+BAG:mygoku add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/03/2023 12:34 CH
+BAG:mygoku add 749xCây mai (old: 748) lydo: Nhặt từ map at 02/03/2023 12:34 CH
+BAG:mygoku add 616xLì xì (old: 615) lydo: Nhặt từ map at 02/03/2023 12:34 CH
+BAG:mygoku add 589xBình rượu (old: 588) lydo: Nhặt từ map at 02/03/2023 12:35 CH
+BAG:mygoku add 617xLì xì (old: 616) lydo: Nhặt từ map at 02/03/2023 12:35 CH
+BAG:mygoku add 618xLì xì (old: 617) lydo: Nhặt từ map at 02/03/2023 12:35 CH
+BAG:mygoku add 590xBình rượu (old: 589) lydo: Nhặt từ map at 02/03/2023 12:35 CH
+BAG:mygoku add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 619xLì xì (old: 618) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 591xBình rượu (old: 590) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 750xCây mai (old: 749) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 751xCây mai (old: 750) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 620xLì xì (old: 619) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 621xLì xì (old: 620) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 622xLì xì (old: 621) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 623xLì xì (old: 622) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 592xBình rượu (old: 591) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 624xLì xì (old: 623) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 593xBình rượu (old: 592) lydo: Nhặt từ map at 02/03/2023 12:36 CH
+BAG:mygoku add 752xCây mai (old: 751) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 753xCây mai (old: 752) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 98xNgọc Rồng 6 sao (old: 97) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 594xBình rượu (old: 593) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 595xBình rượu (old: 594) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/03/2023 12:37 CH
+BAG:mygoku add 754xCây mai (old: 753) lydo: Nhặt từ map at 02/03/2023 12:38 CH
+BAG:mygoku add 755xCây mai (old: 754) lydo: Nhặt từ map at 02/03/2023 12:38 CH
+BAG:mygoku add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 02/03/2023 12:38 CH
+BAG:mygoku add 596xBình rượu (old: 595) lydo: Nhặt từ map at 02/03/2023 12:38 CH
+BAG:mygoku add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/03/2023 12:38 CH
+BAG:mygoku add 66xNgọc Rồng 4 sao (old: 65) lydo: Nhặt từ map at 02/03/2023 12:39 CH
+BAG:mygoku add 756xCây mai (old: 755) lydo: Nhặt từ map at 02/03/2023 12:40 CH
+BAG:mygoku add 597xBình rượu (old: 596) lydo: Nhặt từ map at 02/03/2023 12:40 CH
+BAG:mygoku add 67xNgọc Rồng 4 sao (old: 66) lydo: Nhặt từ map at 02/03/2023 12:40 CH
+BAG:mygoku add 625xLì xì (old: 624) lydo: Nhặt từ map at 02/03/2023 12:40 CH
+BAG:mygoku add 757xCây mai (old: 756) lydo: Nhặt từ map at 02/03/2023 12:41 CH
+BAG:mygoku add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/03/2023 12:41 CH
+BAG:mygoku add 758xCây mai (old: 757) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 759xCây mai (old: 758) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 626xLì xì (old: 625) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 760xCây mai (old: 759) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 627xLì xì (old: 626) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 598xBình rượu (old: 597) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 761xCây mai (old: 760) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 762xCây mai (old: 761) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 599xBình rượu (old: 598) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 600xBình rượu (old: 599) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 763xCây mai (old: 762) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 628xLì xì (old: 627) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 764xCây mai (old: 763) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 601xBình rượu (old: 600) lydo: Nhặt từ map at 02/03/2023 12:42 CH
+BAG:mygoku add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 765xCây mai (old: 764) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 629xLì xì (old: 628) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 766xCây mai (old: 765) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 99xNgọc Rồng 6 sao (old: 98) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 602xBình rượu (old: 601) lydo: Nhặt từ map at 02/03/2023 12:43 CH
+BAG:mygoku add 603xBình rượu (old: 602) lydo: Nhặt từ map at 02/03/2023 12:44 CH
+BAG:mygoku add 630xLì xì (old: 629) lydo: Nhặt từ map at 02/03/2023 12:44 CH
+BAG:mygoku add 631xLì xì (old: 630) lydo: Nhặt từ map at 02/03/2023 12:44 CH
+BAG:mygoku add 604xBình rượu (old: 603) lydo: Nhặt từ map at 02/03/2023 12:44 CH
+BAG:mygoku add 632xLì xì (old: 631) lydo: Nhặt từ map at 02/03/2023 12:44 CH
+BAG:mygoku add 605xBình rượu (old: 604) lydo: Nhặt từ map at 02/03/2023 12:44 CH
+BAG:mygoku add 633xLì xì (old: 632) lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:mygoku add 767xCây mai (old: 766) lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:mygoku add 634xLì xì (old: 633) lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:mygoku add 768xCây mai (old: 767) lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:mygoku add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:mygoku add 635xLì xì (old: 634) lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:mygoku add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:mygoku add 70xNgọc Rồng 4 sao (old: 69) lydo: Nhặt từ map at 02/03/2023 12:46 CH
+BAG:mygoku add 769xCây mai (old: 768) lydo: Nhặt từ map at 02/03/2023 12:46 CH
+BAG:mygoku add 770xCây mai (old: 769) lydo: Nhặt từ map at 02/03/2023 12:46 CH
+BAG:mygoku add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/03/2023 12:46 CH
+BAG:mygoku add 771xCây mai (old: 770) lydo: Nhặt từ map at 02/03/2023 12:47 CH
+BAG:mygoku add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/03/2023 12:47 CH
+BAG:mygoku add 636xLì xì (old: 635) lydo: Nhặt từ map at 02/03/2023 12:47 CH
+BAG:mygoku add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/03/2023 12:47 CH
+BAG:mygoku add 606xBình rượu (old: 605) lydo: Nhặt từ map at 02/03/2023 12:48 CH
+BAG:mygoku add 607xBình rượu (old: 606) lydo: Nhặt từ map at 02/03/2023 12:48 CH
+BAG:mygoku add 608xBình rượu (old: 607) lydo: Nhặt từ map at 02/03/2023 12:48 CH
+BAG:mygoku add 772xCây mai (old: 771) lydo: Nhặt từ map at 02/03/2023 12:48 CH
+BAG:mygoku add 609xBình rượu (old: 608) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:mygoku add 773xCây mai (old: 772) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:mygoku add 610xBình rượu (old: 609) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:mygoku add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:mygoku add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:mygoku add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:mygoku add 71xNgọc Rồng 4 sao (old: 70) lydo: Nhặt từ map at 02/03/2023 12:49 CH
+BAG:mygoku add 637xLì xì (old: 636) lydo: Nhặt từ map at 02/03/2023 12:50 CH
+BAG:mygoku add 774xCây mai (old: 773) lydo: Nhặt từ map at 02/03/2023 12:50 CH
+BAG:mygoku add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/03/2023 12:50 CH
+BAG:mygoku add 775xCây mai (old: 774) lydo: Nhặt từ map at 02/03/2023 12:50 CH
+BAG:mygoku add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/03/2023 12:50 CH
+BAG:mygoku add 776xCây mai (old: 775) lydo: Nhặt từ map at 02/03/2023 12:51 CH
+BAG:mygoku add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/03/2023 12:51 CH
+BAG:mygoku add 638xLì xì (old: 637) lydo: Nhặt từ map at 02/03/2023 12:51 CH
+BAG:mygoku add 777xCây mai (old: 776) lydo: Nhặt từ map at 02/03/2023 12:51 CH
+BAG:mygoku add 778xCây mai (old: 777) lydo: Nhặt từ map at 02/03/2023 12:51 CH
+BAG:mygoku add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/03/2023 12:52 CH
+BAG:mygoku add 72xNgọc Rồng 4 sao (old: 71) lydo: Nhặt từ map at 02/03/2023 12:52 CH
+BAG:mygoku add 779xCây mai (old: 778) lydo: Nhặt từ map at 02/03/2023 12:52 CH
+BAG:mygoku add 780xCây mai (old: 779) lydo: Nhặt từ map at 02/03/2023 12:52 CH
+BAG:mygoku add 639xLì xì (old: 638) lydo: Nhặt từ map at 02/03/2023 12:52 CH
+BAG:mygoku add 611xBình rượu (old: 610) lydo: Nhặt từ map at 02/03/2023 12:52 CH
+BAG:mygoku add 640xLì xì (old: 639) lydo: Nhặt từ map at 02/03/2023 12:53 CH
+BAG:mygoku add 781xCây mai (old: 780) lydo: Nhặt từ map at 02/03/2023 12:53 CH
+BAG:mygoku add 782xCây mai (old: 781) lydo: Nhặt từ map at 02/03/2023 12:53 CH
+BAG:mygoku add 783xCây mai (old: 782) lydo: Nhặt từ map at 02/03/2023 12:53 CH
+BAG:mygoku add 784xCây mai (old: 783) lydo: Nhặt từ map at 02/03/2023 12:53 CH
+BAG:mygoku add 641xLì xì (old: 640) lydo: Nhặt từ map at 02/03/2023 12:53 CH
+BAG:mygoku add 612xBình rượu (old: 611) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 785xCây mai (old: 784) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 642xLì xì (old: 641) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 613xBình rượu (old: 612) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 643xLì xì (old: 642) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 644xLì xì (old: 643) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 786xCây mai (old: 785) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 614xBình rượu (old: 613) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 73xNgọc Rồng 4 sao (old: 72) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 645xLì xì (old: 644) lydo: Nhặt từ map at 02/03/2023 12:54 CH
+BAG:mygoku add 646xLì xì (old: 645) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 787xCây mai (old: 786) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 615xBình rượu (old: 614) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 788xCây mai (old: 787) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 789xCây mai (old: 788) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 790xCây mai (old: 789) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 74xNgọc Rồng 4 sao (old: 73) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 791xCây mai (old: 790) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 792xCây mai (old: 791) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 616xBình rượu (old: 615) lydo: Nhặt từ map at 02/03/2023 12:55 CH
+BAG:mygoku add 793xCây mai (old: 792) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 794xCây mai (old: 793) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 795xCây mai (old: 794) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 647xLì xì (old: 646) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 617xBình rượu (old: 616) lydo: Nhặt từ map at 02/03/2023 12:56 CH
+BAG:mygoku add 796xCây mai (old: 795) lydo: Nhặt từ map at 02/03/2023 12:57 CH
+BAG:mygoku add 797xCây mai (old: 796) lydo: Nhặt từ map at 02/03/2023 12:57 CH
+BAG:mygoku add 798xCây mai (old: 797) lydo: Nhặt từ map at 02/03/2023 12:57 CH
+BAG:mygoku add 648xLì xì (old: 647) lydo: Nhặt từ map at 02/03/2023 12:57 CH
+BAG:mygoku add 618xBình rượu (old: 617) lydo: Nhặt từ map at 02/03/2023 12:58 CH
+BAG:mygoku add 619xBình rượu (old: 618) lydo: Nhặt từ map at 02/03/2023 12:58 CH
+BAG:mygoku add 649xLì xì (old: 648) lydo: Nhặt từ map at 02/03/2023 12:58 CH
+BAG:mygoku add 799xCây mai (old: 798) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 620xBình rượu (old: 619) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 800xCây mai (old: 799) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 801xCây mai (old: 800) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 650xLì xì (old: 649) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 621xBình rượu (old: 620) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 39xBột mì (old: 38) lydo: Nhặt từ map at 02/03/2023 1:08 CH
+BAG:mygoku add 622xBình rượu (old: 621) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 802xCây mai (old: 801) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 803xCây mai (old: 802) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 804xCây mai (old: 803) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 623xBình rượu (old: 622) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 651xLì xì (old: 650) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 624xBình rượu (old: 623) lydo: Nhặt từ map at 02/03/2023 1:09 CH
+BAG:mygoku add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 625xBình rượu (old: 624) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 626xBình rượu (old: 625) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 627xBình rượu (old: 626) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 628xBình rượu (old: 627) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 629xBình rượu (old: 628) lydo: Nhặt từ map at 02/03/2023 1:10 CH
+BAG:mygoku add 652xLì xì (old: 651) lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:mygoku add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:mygoku add 630xBình rượu (old: 629) lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:mygoku add 653xLì xì (old: 652) lydo: Nhặt từ map at 02/03/2023 1:11 CH
+BAG:mygoku add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/03/2023 1:12 CH
+BAG:mygoku add 631xBình rượu (old: 630) lydo: Nhặt từ map at 02/03/2023 1:12 CH
+BAG:mygoku add 632xBình rượu (old: 631) lydo: Nhặt từ map at 02/03/2023 1:12 CH
+BAG:mygoku add 654xLì xì (old: 653) lydo: Nhặt từ map at 02/03/2023 1:12 CH
+BAG:mygoku add 655xLì xì (old: 654) lydo: Nhặt từ map at 02/03/2023 1:13 CH
+BAG:mygoku add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/03/2023 1:13 CH
+BAG:mygoku add 633xBình rượu (old: 632) lydo: Nhặt từ map at 02/03/2023 1:13 CH
+BAG:mygoku add 805xCây mai (old: 804) lydo: Nhặt từ map at 02/03/2023 1:17 CH
+BAG:mygoku add 634xBình rượu (old: 633) lydo: Nhặt từ map at 02/03/2023 1:17 CH
+BAG:mygoku add 806xCây mai (old: 805) lydo: Nhặt từ map at 02/03/2023 1:17 CH
+BAG:mygoku add 635xBình rượu (old: 634) lydo: Nhặt từ map at 02/03/2023 1:17 CH
+BAG:mygoku add 636xBình rượu (old: 635) lydo: Nhặt từ map at 02/03/2023 1:17 CH
+BAG:mygoku add 637xBình rượu (old: 636) lydo: Nhặt từ map at 02/03/2023 1:17 CH
+BAG:mygoku add 40xBột mì (old: 39) lydo: Nhặt từ map at 02/03/2023 1:17 CH
+BAG:mygoku add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 656xLì xì (old: 655) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 807xCây mai (old: 806) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 75xNgọc Rồng 4 sao (old: 74) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 657xLì xì (old: 656) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 658xLì xì (old: 657) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 638xBình rượu (old: 637) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 808xCây mai (old: 807) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 809xCây mai (old: 808) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 810xCây mai (old: 809) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 659xLì xì (old: 658) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 660xLì xì (old: 659) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 639xBình rượu (old: 638) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 640xBình rượu (old: 639) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 811xCây mai (old: 810) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:mygoku add 812xCây mai (old: 811) lydo: Nhặt từ map at 02/03/2023 1:19 CH
+BAG:mygoku add 661xLì xì (old: 660) lydo: Nhặt từ map at 02/03/2023 1:19 CH
+BAG:mygoku add 76xNgọc Rồng 4 sao (old: 75) lydo: Nhặt từ map at 02/03/2023 1:19 CH
+BAG:mygoku add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 02/03/2023 1:19 CH
+BAG:mygoku add 641xBình rượu (old: 640) lydo: Nhặt từ map at 02/03/2023 1:19 CH
+BAG:mygoku add 642xBình rượu (old: 641) lydo: Nhặt từ map at 02/03/2023 1:19 CH
+BAG:mygoku add 813xCây mai (old: 812) lydo: Nhặt từ map at 02/03/2023 1:19 CH
+BAG:mygoku add 643xBình rượu (old: 642) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:mygoku add 662xLì xì (old: 661) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:mygoku add 663xLì xì (old: 662) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:mygoku add 644xBình rượu (old: 643) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:mygoku add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:mygoku add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:mygoku add 814xCây mai (old: 813) lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:mygoku add 815xCây mai (old: 814) lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:mygoku add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:mygoku add 77xNgọc Rồng 4 sao (old: 76) lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:mygoku add 816xCây mai (old: 815) lydo: Nhặt từ map at 02/03/2023 1:21 CH
+BAG:mygoku add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 817xCây mai (old: 816) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 818xCây mai (old: 817) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 819xCây mai (old: 818) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:mygoku add 78xNgọc Rồng 4 sao (old: 77) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 820xCây mai (old: 819) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 821xCây mai (old: 820) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 822xCây mai (old: 821) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 823xCây mai (old: 822) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 645xBình rượu (old: 644) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 646xBình rượu (old: 645) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 664xLì xì (old: 663) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 824xCây mai (old: 823) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 647xBình rượu (old: 646) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:mygoku add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 79xNgọc Rồng 4 sao (old: 78) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 825xCây mai (old: 824) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 826xCây mai (old: 825) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 827xCây mai (old: 826) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 665xLì xì (old: 664) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 828xCây mai (old: 827) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 829xCây mai (old: 828) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 666xLì xì (old: 665) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:mygoku add 667xLì xì (old: 666) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:mygoku add 648xBình rượu (old: 647) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:mygoku add 649xBình rượu (old: 648) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:mygoku add 650xBình rượu (old: 649) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:mygoku add 651xBình rượu (old: 650) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:mygoku add 830xCây mai (old: 829) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:mygoku add 668xLì xì (old: 667) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:mygoku add 831xCây mai (old: 830) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:mygoku add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:mygoku add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:mygoku add 652xBình rượu (old: 651) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:mygoku add 832xCây mai (old: 831) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:mygoku add 653xBình rượu (old: 652) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:mygoku add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:mygoku add 654xBình rượu (old: 653) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 655xBình rượu (old: 654) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 669xLì xì (old: 668) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 670xLì xì (old: 669) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 656xBình rượu (old: 655) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 833xCây mai (old: 832) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 657xBình rượu (old: 656) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:mygoku add 671xLì xì (old: 670) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:mygoku add 672xLì xì (old: 671) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:mygoku add 658xBình rượu (old: 657) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:mygoku add 834xCây mai (old: 833) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:mygoku add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:mygoku add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/03/2023 1:29 CH
+BAG:mygoku add 835xCây mai (old: 834) lydo: Nhặt từ map at 02/03/2023 1:29 CH
+BAG:mygoku add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/03/2023 1:29 CH
+BAG:mygoku add 836xCây mai (old: 835) lydo: Nhặt từ map at 02/03/2023 1:29 CH
+BAG:mygoku add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/03/2023 1:29 CH
+BAG:mygoku add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/03/2023 1:29 CH
+BAG:mygoku add 673xLì xì (old: 672) lydo: Nhặt từ map at 02/03/2023 1:30 CH
+BAG:mygoku add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 02/03/2023 1:30 CH
+BAG:mygoku add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/03/2023 1:30 CH
+BAG:mygoku add 837xCây mai (old: 836) lydo: Nhặt từ map at 02/03/2023 1:30 CH
+BAG:mygoku add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/03/2023 1:30 CH
+BAG:mygoku add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 02/03/2023 1:30 CH
+BAG:mygoku add 838xCây mai (old: 837) lydo: Nhặt từ map at 02/03/2023 1:31 CH
+BAG:mygoku add 659xBình rượu (old: 658) lydo: Nhặt từ map at 02/03/2023 1:31 CH
+BAG:mygoku add 660xBình rượu (old: 659) lydo: Nhặt từ map at 02/03/2023 1:31 CH
+BAG:mygoku add 839xCây mai (old: 838) lydo: Nhặt từ map at 02/03/2023 1:32 CH
+BAG:mygoku add 80xNgọc Rồng 4 sao (old: 79) lydo: Nhặt từ map at 02/03/2023 1:32 CH
+BAG:mygoku add 840xCây mai (old: 839) lydo: Nhặt từ map at 02/03/2023 1:32 CH
+BAG:mygoku add 674xLì xì (old: 673) lydo: Nhặt từ map at 02/03/2023 1:32 CH
+BAG:mygoku add 841xCây mai (old: 840) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 661xBình rượu (old: 660) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 662xBình rượu (old: 661) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 675xLì xì (old: 674) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 842xCây mai (old: 841) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 843xCây mai (old: 842) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 676xLì xì (old: 675) lydo: Nhặt từ map at 02/03/2023 1:33 CH
+BAG:mygoku add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:mygoku add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:mygoku add 844xCây mai (old: 843) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:mygoku add 663xBình rượu (old: 662) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:mygoku add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:mygoku add 677xLì xì (old: 676) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:mygoku add 845xCây mai (old: 844) lydo: Nhặt từ map at 02/03/2023 1:34 CH
+BAG:mygoku add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 846xCây mai (old: 845) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 81xNgọc Rồng 4 sao (old: 80) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 664xBình rượu (old: 663) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 665xBình rượu (old: 664) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 678xLì xì (old: 677) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 82xNgọc Rồng 4 sao (old: 81) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 666xBình rượu (old: 665) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 847xCây mai (old: 846) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 848xCây mai (old: 847) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/03/2023 1:35 CH
+BAG:mygoku add 667xBình rượu (old: 666) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 679xLì xì (old: 678) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 849xCây mai (old: 848) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 680xLì xì (old: 679) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 681xLì xì (old: 680) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 682xLì xì (old: 681) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 850xCây mai (old: 849) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 668xBình rượu (old: 667) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 683xLì xì (old: 682) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 684xLì xì (old: 683) lydo: Nhặt từ map at 02/03/2023 1:36 CH
+BAG:mygoku add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:mygoku add 669xBình rượu (old: 668) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:mygoku add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:mygoku add 83xNgọc Rồng 4 sao (old: 82) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:mygoku add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:mygoku add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 02/03/2023 1:37 CH
+BAG:mygoku add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:mygoku add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:mygoku add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:mygoku add 851xCây mai (old: 850) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:mygoku add 670xBình rượu (old: 669) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:mygoku add 852xCây mai (old: 851) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:mygoku add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:mygoku add 685xLì xì (old: 684) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:mygoku add 853xCây mai (old: 852) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:mygoku add 686xLì xì (old: 685) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:mygoku add 671xBình rượu (old: 670) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:mygoku add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:mygoku add 672xBình rượu (old: 671) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:mygoku add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/03/2023 1:39 CH
+BAG:mygoku add 687xLì xì (old: 686) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 688xLì xì (old: 687) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 854xCây mai (old: 853) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 855xCây mai (old: 854) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 673xBình rượu (old: 672) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 856xCây mai (old: 855) lydo: Nhặt từ map at 02/03/2023 1:40 CH
+BAG:mygoku add 857xCây mai (old: 856) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:mygoku add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:mygoku add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:mygoku add 689xLì xì (old: 688) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:mygoku add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:mygoku add 858xCây mai (old: 857) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:mygoku add 859xCây mai (old: 858) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:mygoku add 860xCây mai (old: 859) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:mygoku add 861xCây mai (old: 860) lydo: Nhặt từ map at 02/03/2023 1:42 CH
+BAG:mygoku add 674xBình rượu (old: 673) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:mygoku add 862xCây mai (old: 861) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:mygoku add 690xLì xì (old: 689) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:mygoku add 691xLì xì (old: 690) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:mygoku add 863xCây mai (old: 862) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:mygoku add 864xCây mai (old: 863) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:mygoku add 865xCây mai (old: 864) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 692xLì xì (old: 691) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 693xLì xì (old: 692) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:mygoku add 694xLì xì (old: 693) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:mygoku add 695xLì xì (old: 694) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:mygoku add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:mygoku add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 84xNgọc Rồng 4 sao (old: 83) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 675xBình rượu (old: 674) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 676xBình rượu (old: 675) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 866xCây mai (old: 865) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 696xLì xì (old: 695) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 677xBình rượu (old: 676) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:mygoku add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 697xLì xì (old: 696) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 867xCây mai (old: 866) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 678xBình rượu (old: 677) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 85xNgọc Rồng 4 sao (old: 84) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 698xLì xì (old: 697) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 699xLì xì (old: 698) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 868xCây mai (old: 867) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:mygoku add 869xCây mai (old: 868) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 679xBình rượu (old: 678) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 680xBình rượu (old: 679) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 41xBột mì (old: 40) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 681xBình rượu (old: 680) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 870xCây mai (old: 869) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 871xCây mai (old: 870) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 872xCây mai (old: 871) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 682xBình rượu (old: 681) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 683xBình rượu (old: 682) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:mygoku add 873xCây mai (old: 872) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:mygoku add 700xLì xì (old: 699) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:mygoku add 684xBình rượu (old: 683) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:mygoku add 874xCây mai (old: 873) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:mygoku add 701xLì xì (old: 700) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:mygoku add 702xLì xì (old: 701) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:mygoku add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:mygoku add 685xBình rượu (old: 684) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:mygoku add 703xLì xì (old: 702) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:mygoku add 704xLì xì (old: 703) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:mygoku add 686xBình rượu (old: 685) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:mygoku add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:mygoku add 875xCây mai (old: 874) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:mygoku add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 02/03/2023 1:50 CH
+BAG:mygoku add 876xCây mai (old: 875) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:mygoku add 705xLì xì (old: 704) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:mygoku add 877xCây mai (old: 876) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:mygoku add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:mygoku add 706xLì xì (old: 705) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:mygoku add 878xCây mai (old: 877) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:mygoku add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 02/03/2023 1:51 CH
+BAG:mygoku add 707xLì xì (old: 706) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 879xCây mai (old: 878) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 708xLì xì (old: 707) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 687xBình rượu (old: 686) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 880xCây mai (old: 879) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 688xBình rượu (old: 687) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 881xCây mai (old: 880) lydo: Nhặt từ map at 02/03/2023 1:52 CH
+BAG:mygoku add 709xLì xì (old: 708) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:mygoku add 710xLì xì (old: 709) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:mygoku add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:mygoku add 711xLì xì (old: 710) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:mygoku add 882xCây mai (old: 881) lydo: Nhặt từ map at 02/03/2023 1:53 CH
+BAG:mygoku add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:mygoku add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:mygoku add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:mygoku add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:mygoku add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:mygoku add 689xBình rượu (old: 688) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:mygoku add 712xLì xì (old: 711) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:mygoku add 883xCây mai (old: 882) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:mygoku add 713xLì xì (old: 712) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:mygoku add 714xLì xì (old: 713) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:mygoku add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:mygoku add 690xBình rượu (old: 689) lydo: Nhặt từ map at 02/03/2023 1:55 CH
+BAG:mygoku add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 884xCây mai (old: 883) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 715xLì xì (old: 714) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 716xLì xì (old: 715) lydo: Nhặt từ map at 02/03/2023 1:56 CH
+BAG:mygoku add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:mygoku add 717xLì xì (old: 716) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:mygoku add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:mygoku add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:mygoku add 885xCây mai (old: 884) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:mygoku add 886xCây mai (old: 885) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:mygoku add 691xBình rượu (old: 690) lydo: Nhặt từ map at 02/03/2023 1:57 CH
+BAG:mygoku add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:mygoku add 887xCây mai (old: 886) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:mygoku add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 02/03/2023 1:58 CH
+BAG:mygoku add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 692xBình rượu (old: 691) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 718xLì xì (old: 717) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 719xLì xì (old: 718) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 693xBình rượu (old: 692) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 694xBình rượu (old: 693) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 888xCây mai (old: 887) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 889xCây mai (old: 888) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 86xNgọc Rồng 4 sao (old: 85) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 695xBình rượu (old: 694) lydo: Nhặt từ map at 02/03/2023 1:59 CH
+BAG:mygoku add 890xCây mai (old: 889) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 891xCây mai (old: 890) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 720xLì xì (old: 719) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 87xNgọc Rồng 4 sao (old: 86) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 696xBình rượu (old: 695) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 697xBình rượu (old: 696) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 698xBình rượu (old: 697) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 721xLì xì (old: 720) lydo: Nhặt từ map at 02/03/2023 2:00 CH
+BAG:mygoku add 892xCây mai (old: 891) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:mygoku add 699xBình rượu (old: 698) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:mygoku add 700xBình rượu (old: 699) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:mygoku add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:mygoku add 893xCây mai (old: 892) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:mygoku add 894xCây mai (old: 893) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:mygoku add 722xLì xì (old: 721) lydo: Nhặt từ map at 02/03/2023 2:01 CH
+BAG:mygoku add 701xBình rượu (old: 700) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:mygoku add 702xBình rượu (old: 701) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:mygoku add 895xCây mai (old: 894) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:mygoku add 896xCây mai (old: 895) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:mygoku add 723xLì xì (old: 722) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:mygoku add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 02/03/2023 2:02 CH
+BAG:mygoku add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:mygoku add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:mygoku add 703xBình rượu (old: 702) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:mygoku add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:mygoku add 704xBình rượu (old: 703) lydo: Nhặt từ map at 02/03/2023 2:03 CH
+BAG:mygoku add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:mygoku add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:mygoku add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:mygoku add 897xCây mai (old: 896) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:mygoku add 898xCây mai (old: 897) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:mygoku add 899xCây mai (old: 898) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:mygoku add 705xBình rượu (old: 704) lydo: Nhặt từ map at 02/03/2023 2:04 CH
+BAG:mygoku add 724xLì xì (old: 723) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 706xBình rượu (old: 705) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 725xLì xì (old: 724) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 900xCây mai (old: 899) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 88xNgọc Rồng 4 sao (old: 87) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 02/03/2023 2:05 CH
+BAG:mygoku add 901xCây mai (old: 900) lydo: Nhặt từ map at 02/03/2023 2:05 CH

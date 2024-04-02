@@ -1,0 +1,18 @@
+BAG:nmdzvl remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/19/2023 9:46 SA
+BAG:nmdzvl remove Nguyễn Trường Thạch lydo: Tự Xóa vật phẩm at 01/19/2023 9:46 SA
+BAG:nmdzvl remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/19/2023 9:46 SA
+BAG:nmdzvl remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/19/2023 9:46 SA
+BAG:nmdzvl remove  Nhẫn Thời Không 1 lydo: Mặc vào người at 01/19/2023 9:47 SA
+BAG:nmdzvl remove Đá Titan lydo: Tự Xóa vật phẩm at 01/19/2023 3:06 CH
+BAG:nmdzvl remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/19/2023 3:06 CH
+BAG:nmdzvl remove Phượng Hoàng Lửa lydo: Tự Xóa vật phẩm at 01/19/2023 3:07 CH
+BAG:nmdzvl remove Ghế bay lydo: Tự Xóa vật phẩm at 01/19/2023 3:12 CH
+BAG:nmdzvl remove Ghế bay lydo: Tự Xóa vật phẩm at 01/19/2023 3:32 CH
+BAG:nmdzvl remove  Nhẫn Thời Không 1 lydo: Mặc vào người at 01/19/2023 7:29 CH
+BAG:nmdzvl remove Thẩu Huy Thạch lydo: Tự Xóa vật phẩm at 01/19/2023 7:30 CH
+BAG:nmdzvl remove Giầy Thần Namếc lydo: Tự Xóa vật phẩm at 01/19/2023 7:30 CH
+BAG:nmdzvl remove  Nhẫn Thời Không 1 lydo: Mặc vào người at 01/19/2023 7:30 CH
+BAG:nmdzvl remove Đá bảo vệ lydo: Tự Xóa vật phẩm at 01/19/2023 8:29 CH
+BAG:nmdzvl remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/19/2023 8:29 CH
+BAG:nmdzvl remove Găng Thần Linh lydo: Tự Xóa vật phẩm at 01/19/2023 8:29 CH
+BAG:nmdzvl remove  Nhẫn Thời Không 1 lydo: Mặc vào người at 01/19/2023 8:30 CH

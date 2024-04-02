@@ -1,0 +1,127 @@
+BAG:tuoilozks remove Quần vải đen lydo: Tự Xóa vật phẩm at 02/01/2023 7:37 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 7:40 CH
+BAG:tuoilozks remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 02/01/2023 7:45 CH
+BAG:tuoilozks remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 02/01/2023 7:45 CH
+BAG:tuoilozks remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 02/01/2023 7:45 CH
+BAG:tuoilozks remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 7:46 CH
+BAG:tuoilozks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 9:17 CH
+BAG:tuoilozks remove Cải trang Chill lydo: Mặc vào người at 02/01/2023 9:18 CH
+BAG:tuoilozks remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:20 CH
+BAG:tuoilozks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 9:23 CH
+BAG:tuoilozks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 9:23 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 9:24 CH
+BAG:tuoilozks remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 9:25 CH
+BAG:tuoilozks remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/01/2023 9:25 CH
+BAG:tuoilozks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 9:25 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 9:25 CH
+BAG:tuoilozks remove Găng thun dày lydo: Mặc vào người at 02/01/2023 9:27 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 9:27 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 9:28 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 9:28 CH
+BAG:tuoilozks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 9:46 CH
+BAG:tuoilozks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 9:47 CH
+BAG:tuoilozks remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 9:47 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 9:49 CH
+BAG:tuoilozks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 9:51 CH
+BAG:tuoilozks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 9:55 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 9:57 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 9:58 CH
+BAG:tuoilozks remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 9:59 CH
+BAG:tuoilozks remove Áo vải 3 lỗ lydo: Cất vào rương at 02/01/2023 9:59 CH
+BAG:tuoilozks remove Quần vải đen lydo: Cất vào rương at 02/01/2023 9:59 CH
+BAG:tuoilozks remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 10:00 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:04 CH
+BAG:tuoilozks remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 10:04 CH
+BAG:tuoilozks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:04 CH
+BAG:tuoilozks remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/01/2023 10:04 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 10:06 CH
+BAG:tuoilozks remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/01/2023 10:08 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 10:08 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:11 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:11 CH
+BAG:tuoilozks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 10:15 CH
+BAG:tuoilozks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:15 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:15 CH
+BAG:tuoilozks remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/01/2023 10:21 CH
+BAG:tuoilozks remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/01/2023 10:21 CH
+BAG:tuoilozks remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 10:21 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:21 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:21 CH
+BAG:tuoilozks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:21 CH
+BAG:tuoilozks remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 10:25 CH
+BAG:tuoilozks remove Avatar lydo: Tự Xóa vật phẩm at 02/01/2023 10:27 CH
+BAG:tuoilozks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 10:27 CH
+BAG:tuoilozks remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/01/2023 10:27 CH
+BAG:tuoilozks remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 02/01/2023 10:27 CH
+BAG:tuoilozks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:28 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:28 CH
+BAG:tuoilozks remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/01/2023 10:32 CH
+BAG:tuoilozks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:32 CH
+BAG:tuoilozks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 10:36 CH
+BAG:tuoilozks remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 10:36 CH
+BAG:tuoilozks remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/01/2023 10:36 CH
+BAG:tuoilozks remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 02/01/2023 10:36 CH
+BAG:tuoilozks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 10:36 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 10:38 CH
+BAG:tuoilozks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 10:39 CH
+BAG:tuoilozks remove Găng thun dày lydo: Tự Xóa vật phẩm at 02/01/2023 10:40 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:43 CH
+BAG:tuoilozks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 10:43 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:44 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:44 CH
+BAG:tuoilozks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 10:47 CH
+BAG:tuoilozks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 10:47 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:47 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:47 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:48 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 10:48 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:02 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:03 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:03 CH
+BAG:tuoilozks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 11:07 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:07 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove Quần vải đen lydo: Tự Xóa vật phẩm at 02/01/2023 11:10 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:17 CH
+BAG:tuoilozks remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 11:17 CH
+BAG:tuoilozks remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 11:17 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:30 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:30 CH
+BAG:tuoilozks remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/01/2023 11:31 CH
+BAG:tuoilozks remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/01/2023 11:31 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:31 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:31 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:34 CH
+BAG:tuoilozks remove Găng vải đen lydo: Cất vào rương at 02/01/2023 11:34 CH
+BAG:tuoilozks remove Giầy nhựa lydo: Cất vào rương at 02/01/2023 11:34 CH
+BAG:tuoilozks remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 11:34 CH
+BAG:tuoilozks remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 11:34 CH
+BAG:tuoilozks remove Quần vải đen lydo: Cất vào rương at 02/01/2023 11:34 CH
+BAG:tuoilozks remove Áo vải 3 lỗ lydo: Cất vào rương at 02/01/2023 11:34 CH
+BAG:tuoilozks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/01/2023 11:36 CH
+BAG:tuoilozks remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:36 CH
+BAG:tuoilozks remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:36 CH
+BAG:tuoilozks remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 11:36 CH
+BAG:tuoilozks remove Quần vải đen lydo: Tự Xóa vật phẩm at 02/01/2023 11:51 CH
+BAG:tuoilozks remove 1xCây mai lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xLì xì lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xBình rượu lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xLì xì lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xCây mai lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xLì xì lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xBình rượu lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xLì xì lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xCây mai lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xCây mai lydo: Bán cho shop at 02/01/2023 11:52 CH
+BAG:tuoilozks remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/01/2023 11:54 CH
+BAG:tuoilozks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 11:55 CH
+BAG:tuoilozks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 11:55 CH
+BAG:tuoilozks remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:56 CH
+BAG:tuoilozks remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:56 CH
+BAG:tuoilozks remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 11:56 CH

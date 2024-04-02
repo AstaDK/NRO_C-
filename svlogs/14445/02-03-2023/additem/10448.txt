@@ -1,0 +1,260 @@
+BAG:gucci add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:gucci add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:gucci add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:gucci add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:gucci add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 12:29 SA
+BAG:gucci add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 12:30 SA
+BAG:gucci add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:30 SA
+BAG:gucci add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 12:30 SA
+BAG:gucci add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 12:30 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:30 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:gucci add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:gucci add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:gucci add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:gucci add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:gucci add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 12:32 SA
+BAG:gucci add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 60xMảnh Lợn lòi (old: 59) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 12:33 SA
+BAG:gucci add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 61xMảnh Lợn lòi (old: 60) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 12:34 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gucci add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 62xMảnh Lợn lòi (old: 61) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:gucci add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gucci add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 12:38 SA
+BAG:gucci add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 12:38 SA
+BAG:gucci add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 02/03/2023 12:38 SA
+BAG:gucci add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 12:38 SA
+BAG:gucci add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 12:38 SA
+BAG:gucci add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 12:38 SA
+BAG:gucci add 10xĐậu thần cấp 5 (old: 1) lydo: Thu hoạch đậu at 02/03/2023 12:42 SA
+BAG:gucci add 30xĐậu thần cấp 5 (old: 10) lydo: Lấy từ rương qua người at 02/03/2023 12:42 SA
+BAG:gucci add 97xĐá thạch anh tím (old: 96) lydo: Nhặt từ map at 02/03/2023 12:43 SA
+BAG:gucci add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 12:43 SA
+BAG:gucci add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 12:43 SA
+BAG:gucci add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 12:44 SA
+BAG:gucci add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 12:45 SA
+BAG:gucci add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 12:46 SA
+BAG:gucci add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 12:46 SA
+BAG:gucci add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 12:46 SA
+BAG:gucci add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 12:46 SA
+BAG:gucci add 98xĐá thạch anh tím (old: 97) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 1xÁo sợi len lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 12:47 SA
+BAG:gucci add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:gucci add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:gucci add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:gucci add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:gucci add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:gucci add 1xRada cấp 1 lydo: Nhặt từ map at 02/03/2023 12:48 SA
+BAG:gucci add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 12:49 SA
+BAG:gucci add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 12:50 SA
+BAG:gucci add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 12:50 SA
+BAG:gucci add 99xĐá thạch anh tím (old: 98) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 1xRada cấp 1 lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 12:51 SA
+BAG:gucci add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 12:52 SA
+BAG:gucci add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/03/2023 12:53 SA
+BAG:gucci add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 12:53 SA
+BAG:gucci add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 12:53 SA
+BAG:gucci add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/03/2023 12:53 SA
+BAG:gucci add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 12:53 SA
+BAG:gucci add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/03/2023 12:53 SA
+BAG:gucci add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 12:53 SA
+BAG:gucci add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 1xÁo sợi len lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 02/03/2023 12:54 SA
+BAG:gucci add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 12:55 SA
+BAG:gucci add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/03/2023 12:56 SA
+BAG:gucci add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/03/2023 12:56 SA
+BAG:gucci add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 12:56 SA
+BAG:gucci add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 12:56 SA
+BAG:gucci add 1xÁo sợi len lydo: Nhặt từ map at 02/03/2023 12:56 SA
+BAG:gucci add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/03/2023 12:56 SA
+BAG:gucci add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:gucci add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:gucci add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:gucci add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:gucci add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:gucci add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 12:57 SA
+BAG:gucci add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/03/2023 12:58 SA
+BAG:gucci add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:gucci add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:gucci add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:gucci add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:gucci add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:gucci add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 02/03/2023 12:59 SA
+BAG:gucci add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 53xLì xì (old: 52) lydo: Nhặt từ map at 02/03/2023 1:00 SA
+BAG:gucci add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 1:01 SA
+BAG:gucci add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/03/2023 1:01 SA
+BAG:gucci add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/03/2023 1:01 SA
+BAG:gucci add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/03/2023 1:01 SA
+BAG:gucci add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/03/2023 1:01 SA
+BAG:gucci add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/03/2023 1:01 SA
+BAG:gucci add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/03/2023 1:01 SA
+BAG:gucci add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 1:02 SA
+BAG:gucci add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/03/2023 1:02 SA
+BAG:gucci add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 1:02 SA
+BAG:gucci add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/03/2023 1:02 SA
+BAG:gucci add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 1:02 SA
+BAG:gucci add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/03/2023 1:02 SA
+BAG:gucci add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 1:03 SA
+BAG:gucci add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/03/2023 1:03 SA
+BAG:gucci add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/03/2023 1:03 SA
+BAG:gucci add 54xLì xì (old: 53) lydo: Nhặt từ map at 02/03/2023 1:03 SA
+BAG:gucci add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/03/2023 1:03 SA
+BAG:gucci add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 1:03 SA
+BAG:gucci add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/03/2023 1:04 SA
+BAG:gucci add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/03/2023 1:04 SA
+BAG:gucci add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/03/2023 11:24 SA
+BAG:gucci add 55xLì xì (old: 54) lydo: Nhặt từ map at 02/03/2023 11:24 SA
+BAG:gucci add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:gucci add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 02/03/2023 11:25 SA
+BAG:gucci add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:gucci add 56xLì xì (old: 55) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:gucci add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:gucci add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 57xLì xì (old: 56) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:gucci add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:gucci add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:gucci add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:gucci add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/03/2023 11:28 SA

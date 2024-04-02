@@ -1,0 +1,232 @@
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 12:05 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 12:18 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 12:32 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 12:48 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 1:00 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 1:15 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 1:21 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:22 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 1:22 AM
+BAG:hungtay94 remove Áo vải thô lydo: Cất vào rương at 01/30/2023 1:23 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Cất vào rương at 01/30/2023 1:23 AM
+BAG:hungtay94 remove Găng vải thô lydo: Cất vào rương at 01/30/2023 1:24 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Cất vào rương at 01/30/2023 1:24 AM
+BAG:hungtay94 remove Áo vải thô lydo: Cất vào rương at 01/30/2023 1:24 AM
+BAG:hungtay94 remove Quần vải thô lydo: Cất vào rương at 01/30/2023 1:24 AM
+BAG:hungtay94 remove Quần vải thô lydo: Cất vào rương at 01/30/2023 1:25 AM
+BAG:hungtay94 remove Găng vải thô lydo: Cất vào rương at 01/30/2023 1:25 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Cất vào rương at 01/30/2023 1:25 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Cất vào rương at 01/30/2023 1:25 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:27 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:28 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 1:28 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:29 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 1:30 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 1:35 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:35 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 1:36 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:37 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:40 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:40 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:41 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:41 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:41 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:43 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 1:44 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 1:45 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:50 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:50 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:50 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:50 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:50 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:50 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:51 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 1:51 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:52 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:52 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:52 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:52 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:52 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:54 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:54 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:55 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:55 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:55 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 1:55 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 1:55 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 1:55 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:56 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 1:56 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:56 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:56 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 1:56 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:56 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:57 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 1:57 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 1:57 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:57 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 1:57 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:57 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 1:58 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 2:00 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 2:00 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:01 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 2:01 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 2:01 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:01 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 2:16 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 2:16 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 2:16 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 2:16 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 2:17 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:17 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 2:17 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 2:17 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 2:17 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:17 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Cất vào rương at 01/30/2023 2:20 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Cất vào rương at 01/30/2023 2:20 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Cất vào rương at 01/30/2023 2:21 AM
+BAG:hungtay94 remove Găng vải thô lydo: Cất vào rương at 01/30/2023 2:21 AM
+BAG:hungtay94 remove Áo vải thô lydo: Cất vào rương at 01/30/2023 2:21 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Mặc vào người at 01/30/2023 2:23 AM
+BAG:hungtay94 remove Áo vải thô lydo: Mặc vào người at 01/30/2023 2:25 AM
+BAG:hungtay94 remove Găng vải thô lydo: Mặc vào người at 01/30/2023 2:25 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 2:25 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 2:25 AM
+BAG:hungtay94 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 2:25 AM
+BAG:hungtay94 remove Hồn ma Ca đíc lydo: Tự Xóa vật phẩm at 01/30/2023 2:25 AM
+BAG:hungtay94 remove Ghế bay lydo: Tự Xóa vật phẩm at 01/30/2023 2:25 AM
+BAG:hungtay94 remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/30/2023 2:26 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:26 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 2:26 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 2:26 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 2:26 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 2:27 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 2:27 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 2:27 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 2:27 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 2:27 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 2:33 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:34 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 2:34 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 2:34 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 2:34 AM
+BAG:hungtay94 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 2:41 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 2:42 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 2:42 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:42 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 2:42 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 2:42 AM
+BAG:hungtay94 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 2:54 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 2:54 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 2:54 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 2:54 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 2:54 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 2:54 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 2:55 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 3:23 AM
+BAG:hungtay94 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 3:47 AM
+BAG:hungtay94 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 3:47 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 3:48 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 3:49 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 3:49 AM
+BAG:hungtay94 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 3:49 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 3:50 AM
+BAG:hungtay94 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 01/30/2023 3:50 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 3:50 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 3:50 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 3:50 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 3:50 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 3:50 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 3:50 AM
+BAG:hungtay94 remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 3:59 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 3:59 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 3:59 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 3:59 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:00 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Đậu thần cấp 5 lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 4:01 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/30/2023 4:02 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 4:06 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 4:07 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 4:07 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:07 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 4:08 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 4:08 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 4:08 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:08 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 4:08 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:08 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:09 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 4:09 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 4:09 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:09 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:09 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:10 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:10 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 4:11 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:26 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:26 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 4:26 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 4:26 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 4:26 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 4:27 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 4:27 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 4:40 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 4:40 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 4:40 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 4:40 AM
+BAG:hungtay94 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 4:41 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 4:42 AM
+BAG:hungtay94 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/30/2023 4:43 AM
+BAG:hungtay94 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 5:23 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 5:23 AM
+BAG:hungtay94 remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 5:23 AM
+BAG:hungtay94 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Bột mì lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 5:24 AM
+BAG:hungtay94 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 5:28 AM
+BAG:hungtay94 remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/30/2023 5:28 AM

@@ -1,0 +1,6 @@
+BAG:duylo add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 01/30/2023 7:25 AM
+BAG:duylo add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 01/30/2023 7:26 AM
+BAG:duylo add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 7:26 AM
+BAG:duylo add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 7:27 AM
+BAG:duylo add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/30/2023 7:27 AM
+BAG:duylo add 20xThỏi vàng lydo: Giftcode at 01/30/2023 7:30 AM

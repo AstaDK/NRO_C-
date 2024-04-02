@@ -1,0 +1,16 @@
+BAG:onekill add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 8:03 PM
+BAG:onekill add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:06 PM
+BAG:onekill add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 8:11 PM
+BAG:onekill add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 8:13 PM
+BAG:onekill add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 8:13 PM
+BAG:onekill add 1xBột mì lydo: Nhặt từ map at 01/29/2023 8:13 PM
+BAG:onekill add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 8:14 PM
+BAG:onekill add 1xVán bay VIP lydo: Mua từ cửa hàng at 01/29/2023 8:15 PM
+BAG:onekill add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 01/29/2023 8:16 PM
+BAG:onekill add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 01/29/2023 8:16 PM
+BAG:onekill add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:18 PM
+BAG:onekill add 35xĐậu thần cấp 1 (old: 5) lydo: Mua từ cửa hàng at 01/29/2023 8:18 PM
+BAG:onekill add 1xMèo mun lydo: Mua từ cửa hàng at 01/29/2023 8:21 PM
+BAG:onekill add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 8:21 PM
+BAG:onekill add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 8:22 PM
+BAG:onekill add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 8:22 PM

@@ -1,0 +1,262 @@
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:35 SA
+BAG:trumkkr remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 SA
+BAG:trumkkr remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 SA
+BAG:trumkkr remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 SA
+BAG:trumkkr remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:52 SA
+BAG:trumkkr remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 SA
+BAG:trumkkr remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 SA
+BAG:trumkkr remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 SA
+BAG:trumkkr remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:53 SA
+BAG:trumkkr remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 7:53 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:55 SA
+BAG:trumkkr remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:56 SA
+BAG:trumkkr remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:56 SA
+BAG:trumkkr remove 1xCây mai lydo: Bán cho shop at 02/02/2023 7:57 SA
+BAG:trumkkr remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 8:26 SA
+BAG:trumkkr remove Đá Ruby lydo: Cất vào rương at 02/02/2023 8:27 SA
+BAG:trumkkr remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 8:27 SA
+BAG:trumkkr remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:27 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:27 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:28 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:29 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:29 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:29 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:29 SA
+BAG:trumkkr remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 8:29 SA
+BAG:trumkkr remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 SA
+BAG:trumkkr remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 SA
+BAG:trumkkr remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 SA
+BAG:trumkkr remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 SA
+BAG:trumkkr remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 SA
+BAG:trumkkr remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 SA
+BAG:trumkkr remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 SA
+BAG:trumkkr remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 SA
+BAG:trumkkr remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 SA
+BAG:trumkkr remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:27 SA
+BAG:trumkkr remove Ngọc Rồng 7 sao lydo: Tự Xóa vật phẩm at 02/02/2023 9:27 SA
+BAG:trumkkr remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:27 SA
+BAG:trumkkr remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:27 SA
+BAG:trumkkr remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:27 SA
+BAG:trumkkr remove Găng vải thô lydo: Mặc cho đệ tử at 02/02/2023 9:27 SA
+BAG:trumkkr remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:27 SA
+BAG:trumkkr remove Giầy cao su thô lydo: Mặc vào người at 02/02/2023 9:27 SA
+BAG:trumkkr remove Quần vải thô lydo: Mặc vào người at 02/02/2023 9:27 SA
+BAG:trumkkr remove Áo giáp đồng lydo: Mặc vào người at 02/02/2023 9:27 SA
+BAG:trumkkr remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 9:28 SA
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 9:28 SA
+BAG:trumkkr remove Tanjiro lydo: Mặc vào người at 02/02/2023 9:30 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:33 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:38 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:40 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:45 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:48 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:50 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:19 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:35 SA
+BAG:trumkkr remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:trumkkr remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:trumkkr remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:trumkkr remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:33 CH
+BAG:trumkkr remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:46 CH
+BAG:trumkkr remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:46 CH
+BAG:trumkkr remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:46 CH
+BAG:trumkkr remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 12:46 CH
+BAG:trumkkr remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/02/2023 12:46 CH
+BAG:trumkkr remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 12:47 CH
+BAG:trumkkr remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 12:47 CH
+BAG:trumkkr remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 12:47 CH
+BAG:trumkkr remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 12:47 CH
+BAG:trumkkr remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 12:47 CH
+BAG:trumkkr remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 12:47 CH
+BAG:trumkkr remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 12:47 CH
+BAG:trumkkr remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 12:48 CH
+BAG:trumkkr remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 12:48 CH
+BAG:trumkkr remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 12:48 CH
+BAG:trumkkr remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 12:48 CH
+BAG:trumkkr remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 12:48 CH
+BAG:trumkkr remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 12:48 CH
+BAG:trumkkr remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 12:48 CH
+BAG:trumkkr remove Áo vải thô lydo: Mặc vào người at 02/02/2023 12:52 CH
+BAG:trumkkr remove Quần vải thô lydo: Mặc vào người at 02/02/2023 12:52 CH
+BAG:trumkkr remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 12:52 CH
+BAG:trumkkr remove Găng vải thô lydo: Mặc vào người at 02/02/2023 12:52 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:54 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:02 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:02 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:02 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:03 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:03 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:03 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:03 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 1:03 CH
+BAG:trumkkr remove Áo giáp đồng lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:trumkkr remove Sách Trói lv1 lydo: Sách kĩ năng at 02/02/2023 1:05 CH
+BAG:trumkkr remove Sách Trói lv2 lydo: Sách kĩ năng at 02/02/2023 1:05 CH
+BAG:trumkkr remove Sách Trói lv3 lydo: Sách kĩ năng at 02/02/2023 1:05 CH
+BAG:trumkkr remove Sách Trói lv4 lydo: Sách kĩ năng at 02/02/2023 1:05 CH
+BAG:trumkkr remove Sách Trói lv5 lydo: Sách kĩ năng at 02/02/2023 1:05 CH
+BAG:trumkkr remove Sách Trói lv6 lydo: Sách kĩ năng at 02/02/2023 1:05 CH
+BAG:trumkkr remove Sách Trói lv7 lydo: Sách kĩ năng at 02/02/2023 1:05 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:15 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:16 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:16 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:16 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:16 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:17 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:17 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:17 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:17 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:17 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:18 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:18 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:18 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:18 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:18 CH
+BAG:trumkkr remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 4:19 CH
+BAG:trumkkr remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 4:19 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:21 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:21 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:21 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:21 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:22 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:22 CH
+BAG:trumkkr remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 4:22 CH
+BAG:trumkkr remove Giầy cao su thô lydo: Mặc cho đệ tử at 02/02/2023 4:22 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:25 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:27 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:27 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:28 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:28 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 4:30 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 4:30 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:32 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:32 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:32 CH
+BAG:trumkkr remove Áo giáp đồng lydo: Mặc cho đệ tử at 02/02/2023 4:33 CH
+BAG:trumkkr remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 4:33 CH
+BAG:trumkkr remove Giầy cao su thô lydo: Mặc cho đệ tử at 02/02/2023 4:33 CH
+BAG:trumkkr remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 4:33 CH
+BAG:trumkkr remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 4:33 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:35 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:35 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:37 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:37 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:39 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:44 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:45 CH
+BAG:trumkkr remove 15xNgọc Rồng 3 sao lydo: Giao dịch với gaidiem at 02/02/2023 4:56 CH
+BAG:trumkkr remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 5:03 CH
+BAG:trumkkr remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 5:04 CH
+BAG:trumkkr remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 5:04 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 5:04 CH
+BAG:trumkkr remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:07 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 5:14 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 5:24 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 5:39 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 6:05 CH
+BAG:trumkkr remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 6:06 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 6:07 CH
+BAG:trumkkr remove Tanjiro lydo: Mặc cho đệ tử at 02/02/2023 6:14 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 6:16 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:41 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:41 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:41 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 10:35 CH
+BAG:trumkkr remove Găng vải thô lydo: Mặc cho đệ tử at 02/02/2023 10:40 CH
+BAG:trumkkr remove Áo giáp đồng lydo: Mặc vào người at 02/02/2023 10:40 CH
+BAG:trumkkr remove Quần vải thô lydo: Mặc vào người at 02/02/2023 10:40 CH
+BAG:trumkkr remove Giầy cao su thô lydo: Mặc vào người at 02/02/2023 10:40 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 10:40 CH
+BAG:trumkkr remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:40 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:45 CH
+BAG:trumkkr remove Tanjiro lydo: Mặc vào người at 02/02/2023 10:45 CH
+BAG:trumkkr remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:48 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:00 CH
+BAG:trumkkr remove Đá Ruby lydo: Cất vào rương at 02/02/2023 11:19 CH
+BAG:trumkkr remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 11:19 CH
+BAG:trumkkr remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/02/2023 11:19 CH
+BAG:trumkkr remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 11:19 CH
+BAG:trumkkr remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:20 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:21 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:21 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:21 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:21 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:21 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:21 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:27 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:27 CH
+BAG:trumkkr remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:27 CH
+BAG:trumkkr remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:27 CH
+BAG:trumkkr remove Găng vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:27 CH
+BAG:trumkkr remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:27 CH
+BAG:trumkkr remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:27 CH
+BAG:trumkkr remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 11:27 CH
+BAG:trumkkr remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:28 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:28 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:28 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:28 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:28 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:28 CH
+BAG:trumkkr remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:30 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:51 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:55 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:55 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:55 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:55 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:55 CH
+BAG:trumkkr remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:55 CH

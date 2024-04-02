@@ -1,0 +1,7 @@
+BAG:buscu add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 2:01 AM
+BAG:buscu add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 2:01 AM
+BAG:buscu add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 2:02 AM
+BAG:buscu add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 2:02 AM
+BAG:buscu add 27xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 2:02 AM
+BAG:buscu add 1xPhi Long VIP lydo: Mua từ cửa hàng at 01/30/2023 2:03 AM
+BAG:buscu add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 01/30/2023 2:04 AM

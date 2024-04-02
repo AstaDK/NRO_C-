@@ -1,0 +1,249 @@
+BAG:gokutino07 remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 10:40 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:45 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:45 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:46 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:47 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:48 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:50 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:50 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:51 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:53 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:53 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:55 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 10:57 SA
+BAG:gokutino07 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/01/2023 10:59 SA
+BAG:gokutino07 remove Đậu xanh lydo: Cất vào rương at 02/01/2023 10:59 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:03 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:04 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:08 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:10 SA
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:10 SA
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:10 SA
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 11:11 SA
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 11:11 SA
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:11 SA
+BAG:gokutino07 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 11:11 SA
+BAG:gokutino07 remove Giáp tập luyện cấp 2 lydo: Mặc vào người at 02/01/2023 11:11 SA
+BAG:gokutino07 remove 1xNgọc Rồng 5 sao lydo: Bán cho shop at 02/01/2023 11:12 SA
+BAG:gokutino07 remove 1xNgọc Rồng 6 sao lydo: Bán cho shop at 02/01/2023 11:12 SA
+BAG:gokutino07 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 11:12 SA
+BAG:gokutino07 remove Giáp tập luyện cấp 2 lydo: Tự Xóa vật phẩm at 02/01/2023 11:12 SA
+BAG:gokutino07 remove Găng sợi len lydo: Mặc vào người at 02/01/2023 11:13 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:15 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:16 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:18 SA
+BAG:gokutino07 remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 11:18 SA
+BAG:gokutino07 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 11:19 SA
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 11:19 SA
+BAG:gokutino07 remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 11:19 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:19 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:21 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:23 SA
+BAG:gokutino07 remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 11:23 SA
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 11:23 SA
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 11:23 SA
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:23 SA
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 11:23 SA
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 11:23 SA
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:24 SA
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:24 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:24 SA
+BAG:gokutino07 remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 11:29 SA
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 11:29 SA
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 11:29 SA
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 11:29 SA
+BAG:gokutino07 remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/01/2023 11:31 SA
+BAG:gokutino07 remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 11:31 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:31 SA
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 11:32 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:34 SA
+BAG:gokutino07 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 11:35 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:36 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:37 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:38 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:38 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:39 SA
+BAG:gokutino07 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 11:45 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:47 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:48 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:49 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:51 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:52 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:53 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:55 SA
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 11:56 SA
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 11:56 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:56 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:58 SA
+BAG:gokutino07 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/01/2023 11:58 SA
+BAG:gokutino07 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 11:58 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 11:59 SA
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:00 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 12:02 CH
+BAG:gokutino07 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 12:02 CH
+BAG:gokutino07 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:04 CH
+BAG:gokutino07 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:04 CH
+BAG:gokutino07 remove 75xThỏi vàng lydo: Giao dịch với kakaroto at 02/01/2023 12:06 CH
+BAG:gokutino07 remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/01/2023 12:07 CH
+BAG:gokutino07 remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/01/2023 12:07 CH
+BAG:gokutino07 remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/01/2023 12:07 CH
+BAG:gokutino07 remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/01/2023 12:07 CH
+BAG:gokutino07 remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/01/2023 12:07 CH
+BAG:gokutino07 remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/01/2023 12:07 CH
+BAG:gokutino07 remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/01/2023 12:07 CH
+BAG:gokutino07 remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 02/01/2023 12:08 CH
+BAG:gokutino07 remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 02/01/2023 12:08 CH
+BAG:gokutino07 remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 02/01/2023 12:08 CH
+BAG:gokutino07 remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 02/01/2023 12:08 CH
+BAG:gokutino07 remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 02/01/2023 12:08 CH
+BAG:gokutino07 remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 02/01/2023 12:08 CH
+BAG:gokutino07 remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 02/01/2023 12:08 CH
+BAG:gokutino07 remove Ngọc Rồng 1 sao lydo: Cất vào rương at 02/01/2023 12:17 CH
+BAG:gokutino07 remove Ngọc Rồng 2 sao lydo: Cất vào rương at 02/01/2023 12:17 CH
+BAG:gokutino07 remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/01/2023 12:17 CH
+BAG:gokutino07 remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 12:17 CH
+BAG:gokutino07 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/01/2023 12:18 CH
+BAG:gokutino07 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/01/2023 12:18 CH
+BAG:gokutino07 remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 02/01/2023 12:18 CH
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 12:18 CH
+BAG:gokutino07 remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 12:18 CH
+BAG:gokutino07 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 12:18 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:19 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:21 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:22 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:23 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:24 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:27 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:30 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:32 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:35 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:37 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:40 CH
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 12:42 CH
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 12:42 CH
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 12:42 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 12:42 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:44 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:45 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:46 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:47 CH
+BAG:gokutino07 remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/01/2023 12:47 CH
+BAG:gokutino07 remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/01/2023 12:47 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:49 CH
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 12:49 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 12:49 CH
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 12:49 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:50 CH
+BAG:gokutino07 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/01/2023 12:50 CH
+BAG:gokutino07 remove Đậu xanh lydo: Cất vào rương at 02/01/2023 12:50 CH
+BAG:gokutino07 remove Bột mì lydo: Cất vào rương at 02/01/2023 12:50 CH
+BAG:gokutino07 remove Trứng vịt muối lydo: Cất vào rương at 02/01/2023 12:51 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:54 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:56 CH
+BAG:gokutino07 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 12:56 CH
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 12:57 CH
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 12:57 CH
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 12:57 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 12:57 CH
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 12:57 CH
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 12:57 CH
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 12:57 CH
+BAG:gokutino07 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 12:59 CH
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 12:59 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 12:59 CH
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 1:00 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:03 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:06 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:08 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:11 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:14 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:16 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:19 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:21 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:24 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 1:26 CH
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 1:26 CH
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 1:26 CH
+BAG:gokutino07 remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 1:26 CH
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 1:26 CH
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 1:26 CH
+BAG:gokutino07 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 1:26 CH
+BAG:gokutino07 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 1:29 CH
+BAG:gokutino07 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 1:29 CH
+BAG:gokutino07 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 1:29 CH
+BAG:gokutino07 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/01/2023 1:31 CH
+BAG:gokutino07 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/01/2023 1:31 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:40 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:41 CH
+BAG:gokutino07 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 1:42 CH
+BAG:gokutino07 remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 02/01/2023 1:42 CH
+BAG:gokutino07 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 1:42 CH
+BAG:gokutino07 remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 02/01/2023 1:42 CH
+BAG:gokutino07 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 1:42 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 1:42 CH
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 1:42 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:43 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:44 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:46 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:48 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:49 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:50 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:52 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:53 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:54 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:56 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:57 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 1:58 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:00 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:01 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:02 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:04 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:05 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:06 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:08 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:09 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:11 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:12 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:13 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:15 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:16 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:17 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:19 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:20 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:21 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:23 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 2:24 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:18 CH
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 5:18 CH
+BAG:gokutino07 remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:18 CH
+BAG:gokutino07 remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/01/2023 5:18 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:19 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:21 CH
+BAG:gokutino07 remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 02/01/2023 5:21 CH
+BAG:gokutino07 remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 02/01/2023 5:21 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:22 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:25 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:27 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:28 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:29 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:31 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:33 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:34 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:gokutino07 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 5:37 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:37 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:gokutino07 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 5:37 CH
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:38 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:39 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:41 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:43 CH
+BAG:gokutino07 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:44 CH
+BAG:gokutino07 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:44 CH
+BAG:gokutino07 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 5:44 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:45 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 5:48 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 7:23 CH
+BAG:gokutino07 remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/01/2023 7:23 CH

@@ -1,0 +1,7 @@
+BAG:trieusogai add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 6:44 PM
+BAG:trieusogai add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 6:46 PM
+BAG:trieusogai add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/30/2023 6:50 PM
+BAG:trieusogai add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 01/30/2023 6:51 PM
+BAG:trieusogai add 1xQuần vải đen lydo: Nhặt từ map at 01/30/2023 6:53 PM
+BAG:trieusogai add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/30/2023 7:01 PM
+BAG:trieusogai add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 01/30/2023 7:01 PM

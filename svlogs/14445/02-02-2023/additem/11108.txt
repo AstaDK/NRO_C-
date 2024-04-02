@@ -1,0 +1,45 @@
+BAG:kamejokoo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 10:05 CH
+BAG:kamejokoo add 7xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 10:08 CH
+BAG:kamejokoo add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:12 CH
+BAG:kamejokoo add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 10:12 CH
+BAG:kamejokoo add 1xCây mai lydo: Nhặt từ map at 02/02/2023 10:13 CH
+BAG:kamejokoo add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 10:13 CH
+BAG:kamejokoo add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 10:14 CH
+BAG:kamejokoo add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 10:15 CH
+BAG:kamejokoo add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 02/02/2023 10:15 CH
+BAG:kamejokoo add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 10:16 CH
+BAG:kamejokoo add 1xAvatar lydo: Lấy từ body vào hành trang at 02/02/2023 10:17 CH
+BAG:kamejokoo add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 10:17 CH
+BAG:kamejokoo add 1xAvatar lydo: Lấy từ body vào hành trang at 02/02/2023 10:18 CH
+BAG:kamejokoo add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/02/2023 10:18 CH
+BAG:kamejokoo add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 10:20 CH
+BAG:kamejokoo add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 10:20 CH
+BAG:kamejokoo add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 10:21 CH
+BAG:kamejokoo add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 10:22 CH
+BAG:kamejokoo add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 10:23 CH
+BAG:kamejokoo add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 10:23 CH
+BAG:kamejokoo add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 10:23 CH
+BAG:kamejokoo add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 10:24 CH
+BAG:kamejokoo add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 02/02/2023 10:24 CH
+BAG:kamejokoo add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 10:25 CH
+BAG:kamejokoo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 10:25 CH
+BAG:kamejokoo add 10xĐậu thần cấp 3 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 10:26 CH
+BAG:kamejokoo add 2xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 10:26 CH
+BAG:kamejokoo add 28xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 10:26 CH
+BAG:kamejokoo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 10:26 CH
+BAG:kamejokoo add 20xThỏi vàng lydo: Giftcode at 02/02/2023 10:31 CH
+BAG:kamejokoo add 1xMèo mun lydo: Mua từ cửa hàng at 02/02/2023 10:32 CH
+BAG:kamejokoo add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 10:32 CH
+BAG:kamejokoo add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 10:33 CH
+BAG:kamejokoo add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 10:39 CH
+BAG:kamejokoo add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:kamejokoo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 10:40 CH
+BAG:kamejokoo add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 10:41 CH
+BAG:kamejokoo add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 02/02/2023 10:42 CH
+BAG:kamejokoo add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 10:43 CH
+BAG:kamejokoo add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:kamejokoo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 10:44 CH
+BAG:kamejokoo add 1xGăng thun dày lydo: Mua từ cửa hàng at 02/02/2023 10:45 CH
+BAG:kamejokoo add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:kamejokoo add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 10:47 CH
+BAG:kamejokoo add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 10:48 CH

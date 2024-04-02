@@ -1,0 +1,215 @@
+BAG:sanglo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 4:38 CH
+BAG:sanglo add 5xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 4:40 CH
+BAG:sanglo add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/02/2023 4:42 CH
+BAG:sanglo add 1xCây mai lydo: Nhặt từ map at 02/02/2023 4:42 CH
+BAG:sanglo add 1xLì xì lydo: Nhặt từ map at 02/02/2023 4:43 CH
+BAG:sanglo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 4:43 CH
+BAG:sanglo add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 4:43 CH
+BAG:sanglo add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 4:43 CH
+BAG:sanglo add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 02/02/2023 4:44 CH
+BAG:sanglo add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 4:45 CH
+BAG:sanglo add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/02/2023 4:45 CH
+BAG:sanglo add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 4:45 CH
+BAG:sanglo add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 4:46 CH
+BAG:sanglo add 5xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 4:46 CH
+BAG:sanglo add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 4:47 CH
+BAG:sanglo add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 4:47 CH
+BAG:sanglo add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 4:47 CH
+BAG:sanglo add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 4:48 CH
+BAG:sanglo add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 4:48 CH
+BAG:sanglo add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 4:48 CH
+BAG:sanglo add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 4:49 CH
+BAG:sanglo add 1xGăng vải dày lydo: Mua từ cửa hàng at 02/02/2023 4:49 CH
+BAG:sanglo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 4:50 CH
+BAG:sanglo add 1xGiày cao su đế dày lydo: Mua từ cửa hàng at 02/02/2023 4:50 CH
+BAG:sanglo add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 02/02/2023 4:51 CH
+BAG:sanglo add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 02/02/2023 4:51 CH
+BAG:sanglo add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 02/02/2023 4:51 CH
+BAG:sanglo add 1xCải trang Hit lydo: Mua từ cửa hàng at 02/02/2023 4:54 CH
+BAG:sanglo add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 4:54 CH
+BAG:sanglo add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 4:54 CH
+BAG:sanglo add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 02/02/2023 4:54 CH
+BAG:sanglo add 20xThỏi vàng lydo: Giftcode at 02/02/2023 4:56 CH
+BAG:sanglo add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/02/2023 5:12 CH
+BAG:sanglo add 1xTự động luyện tập lydo: Mua từ bill at 02/02/2023 5:12 CH
+BAG:sanglo add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 02/02/2023 5:12 CH
+BAG:sanglo add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 1xSao pha lê lydo: Lấy từ lucky box at 02/02/2023 6:30 CH
+BAG:sanglo add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:31 CH
+BAG:sanglo add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/02/2023 6:32 CH
+BAG:sanglo add 7xĐậu thần cấp 9 lydo: Thu hoạch đậu at 02/02/2023 6:33 CH
+BAG:sanglo add 21xĐậu thần cấp 9 (old: 7) lydo: Lấy từ rương qua người at 02/02/2023 6:33 CH
+BAG:sanglo add 5xĐậu thần cấp 2 (old: 3) lydo: Lấy từ rương qua người at 02/02/2023 6:34 CH
+BAG:sanglo add 1xGiày cao su đế dày lydo: Mua từ cửa hàng at 02/02/2023 6:34 CH
+BAG:sanglo add 1xGiầy nhựa lydo: Mua từ cửa hàng at 02/02/2023 6:34 CH
+BAG:sanglo add 1xCải trang Hit lydo: Lấy từ body đệ vào hành trang at 02/02/2023 6:35 CH
+BAG:sanglo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 02/02/2023 6:35 CH
+BAG:sanglo add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 02/02/2023 6:47 CH
+BAG:sanglo add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 02/02/2023 6:47 CH
+BAG:sanglo add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 02/02/2023 6:47 CH
+BAG:sanglo add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 02/02/2023 6:47 CH
+BAG:sanglo add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 02/02/2023 6:47 CH
+BAG:sanglo add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 02/02/2023 6:48 CH
+BAG:sanglo add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 02/02/2023 6:48 CH
+BAG:sanglo add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 02/02/2023 6:55 CH
+BAG:sanglo add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 6:56 CH
+BAG:sanglo add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 6:56 CH
+BAG:sanglo add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 6:56 CH
+BAG:sanglo add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 6:56 CH
+BAG:sanglo add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 6:56 CH
+BAG:sanglo add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 6:56 CH
+BAG:sanglo add 1xGăng vải dày lydo: Lấy từ body vào hành trang at 02/02/2023 6:56 CH
+BAG:sanglo add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:sanglo add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:sanglo add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:sanglo add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:03 CH
+BAG:sanglo add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 7:04 CH
+BAG:sanglo add 1xGăng thun dày lydo: Mua từ cửa hàng at 02/02/2023 7:05 CH
+BAG:sanglo add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 7:06 CH
+BAG:sanglo add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 7:06 CH
+BAG:sanglo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 7:07 CH
+BAG:sanglo add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:sanglo add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:sanglo add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:sanglo add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:sanglo add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:sanglo add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:sanglo add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:sanglo add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 7:12 CH
+BAG:sanglo add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 7:12 CH
+BAG:sanglo add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 7:14 CH
+BAG:sanglo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 7:15 CH
+BAG:sanglo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 7:15 CH
+BAG:sanglo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 7:15 CH
+BAG:sanglo add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 7:16 CH
+BAG:sanglo add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 7:16 CH
+BAG:sanglo add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 7:16 CH
+BAG:sanglo add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 7:16 CH
+BAG:sanglo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 8:19 CH
+BAG:sanglo add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 8:19 CH
+BAG:sanglo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 8:19 CH
+BAG:sanglo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 8:20 CH
+BAG:sanglo add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 8:20 CH
+BAG:sanglo add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 8:20 CH
+BAG:sanglo add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 8:20 CH
+BAG:sanglo add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 8:21 CH
+BAG:sanglo add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 8:22 CH
+BAG:sanglo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 8:22 CH
+BAG:sanglo add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 8:23 CH
+BAG:sanglo add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 8:23 CH
+BAG:sanglo add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 8:23 CH
+BAG:sanglo add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 8:23 CH
+BAG:sanglo add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 8:25 CH
+BAG:sanglo add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 8:25 CH
+BAG:sanglo add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 8:25 CH
+BAG:sanglo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/02/2023 8:27 CH
+BAG:sanglo add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 8:27 CH
+BAG:sanglo add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 8:27 CH
+BAG:sanglo add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 8:28 CH
+BAG:sanglo add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 8:28 CH
+BAG:sanglo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 8:28 CH
+BAG:sanglo add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 8:28 CH
+BAG:sanglo add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 8:29 CH
+BAG:sanglo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 8:29 CH
+BAG:sanglo add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 8:29 CH
+BAG:sanglo add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 8:30 CH
+BAG:sanglo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/02/2023 8:31 CH
+BAG:sanglo add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 8:31 CH
+BAG:sanglo add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 8:31 CH
+BAG:sanglo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 8:31 CH
+BAG:sanglo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/02/2023 8:31 CH
+BAG:sanglo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/02/2023 8:32 CH
+BAG:sanglo add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 8:32 CH
+BAG:sanglo add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/02/2023 8:32 CH
+BAG:sanglo add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 8:32 CH
+BAG:sanglo add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 8:33 CH
+BAG:sanglo add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 8:33 CH
+BAG:sanglo add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 8:34 CH
+BAG:sanglo add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/02/2023 8:35 CH
+BAG:sanglo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/02/2023 8:35 CH
+BAG:sanglo add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 8:35 CH
+BAG:sanglo add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 8:35 CH
+BAG:sanglo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/02/2023 8:35 CH
+BAG:sanglo add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:sanglo add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:sanglo add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 8:36 CH
+BAG:sanglo add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 8:37 CH
+BAG:sanglo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/02/2023 8:37 CH
+BAG:sanglo add 1xGăng vải Kame lydo: Mua từ cửa hàng at 02/02/2023 8:38 CH
+BAG:sanglo add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:sanglo add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 8:38 CH
+BAG:sanglo add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 8:39 CH
+BAG:sanglo add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 8:39 CH
+BAG:sanglo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/02/2023 8:39 CH
+BAG:sanglo add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 8:39 CH
+BAG:sanglo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 8:39 CH
+BAG:sanglo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:sanglo add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:sanglo add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:sanglo add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:sanglo add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 8:40 CH
+BAG:sanglo add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 8:41 CH
+BAG:sanglo add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/02/2023 8:41 CH
+BAG:sanglo add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 8:41 CH
+BAG:sanglo add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 8:41 CH
+BAG:sanglo add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 8:41 CH
+BAG:sanglo add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/02/2023 8:41 CH
+BAG:sanglo add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/02/2023 8:41 CH
+BAG:sanglo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 8:42 CH
+BAG:sanglo add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/02/2023 8:42 CH
+BAG:sanglo add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 8:42 CH
+BAG:sanglo add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 8:42 CH
+BAG:sanglo add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 8:42 CH
+BAG:sanglo add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 8:43 CH
+BAG:sanglo add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 8:43 CH
+BAG:sanglo add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/02/2023 8:43 CH
+BAG:sanglo add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 8:43 CH
+BAG:sanglo add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/02/2023 8:43 CH
+BAG:sanglo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:sanglo add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:sanglo add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:sanglo add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:sanglo add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:sanglo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:sanglo add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/02/2023 8:44 CH
+BAG:sanglo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/02/2023 8:45 CH
+BAG:sanglo add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/02/2023 8:46 CH

@@ -1,0 +1,57 @@
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:44 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:45 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:58 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:59 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:08 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:10 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:11 CH
+BAG:xd10m remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 10:11 CH
+BAG:xd10m remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:11 CH
+BAG:xd10m remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 10:15 CH
+BAG:xd10m remove Cải trang Mabư Noel lydo: Mặc vào người at 02/02/2023 10:26 CH
+BAG:xd10m remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 02/02/2023 10:26 CH
+BAG:xd10m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:26 CH
+BAG:xd10m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:26 CH
+BAG:xd10m remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:26 CH
+BAG:xd10m remove Cải trang Mabư Noel lydo: Mặc vào người at 02/02/2023 10:27 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:27 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:28 CH
+BAG:xd10m remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 10:32 CH
+BAG:xd10m remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 02/02/2023 10:32 CH
+BAG:xd10m remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:33 CH
+BAG:xd10m remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:33 CH
+BAG:xd10m remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:33 CH
+BAG:xd10m remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:33 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:33 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:33 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:34 CH
+BAG:xd10m remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 10:35 CH
+BAG:xd10m remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:35 CH
+BAG:xd10m remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:35 CH
+BAG:xd10m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:36 CH
+BAG:xd10m remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 10:41 CH
+BAG:xd10m remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:46 CH
+BAG:xd10m remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:47 CH
+BAG:xd10m remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:48 CH
+BAG:xd10m remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 10:49 CH
+BAG:xd10m remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 10:49 CH
+BAG:xd10m remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:49 CH
+BAG:xd10m remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:xd10m remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:51 CH
+BAG:xd10m remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:51 CH
+BAG:xd10m remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 10:52 CH
+BAG:xd10m remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:53 CH
+BAG:xd10m remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:53 CH
+BAG:xd10m remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:53 CH

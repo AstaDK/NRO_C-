@@ -1,0 +1,15 @@
+BAG:princess add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 11:25 PM
+BAG:princess add 1xÁo vải thô lydo: Nhặt từ map at 01/29/2023 11:29 PM
+BAG:princess add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 01/29/2023 11:30 PM
+BAG:princess add 21xĐậu thần cấp 2 (old: 7) lydo: Lấy từ rương qua người at 01/29/2023 11:31 PM
+BAG:princess add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/29/2023 11:31 PM
+BAG:princess add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/29/2023 11:31 PM
+BAG:princess add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 11:32 PM
+BAG:princess add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 11:36 PM
+BAG:princess add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 11:45 PM
+BAG:princess add 23xĐậu thần cấp 2 (old: 16) lydo: Lấy từ rương qua người at 01/29/2023 11:48 PM
+BAG:princess add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 11:49 PM
+BAG:princess add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 11:56 PM
+BAG:princess add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 11:57 PM
+BAG:princess add 20xThỏi vàng lydo: Giftcode at 01/29/2023 11:58 PM
+BAG:princess add 40xThỏi vàng (old: 20) lydo: Đổi vàng at 01/29/2023 11:59 PM

@@ -1,0 +1,41 @@
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:29 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:41 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:42 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:44 CH
+BAG:lamnguoidi remove Avatar đeo khẩu trang lydo: Mặc vào người at 02/02/2023 10:46 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:46 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:47 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:48 CH
+BAG:lamnguoidi remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 02/02/2023 10:53 CH
+BAG:lamnguoidi remove 1xQuần vải đen lydo: Bán cho shop at 02/02/2023 10:53 CH
+BAG:lamnguoidi remove Giày cao su đế dày lydo: Mặc vào người at 02/02/2023 10:53 CH
+BAG:lamnguoidi remove 1xGăng vải dày lydo: Bán cho shop at 02/02/2023 10:53 CH
+BAG:lamnguoidi remove Găng vải dày lydo: Mặc vào người at 02/02/2023 10:53 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:05 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:06 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:08 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:09 CH
+BAG:lamnguoidi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:12 CH
+BAG:lamnguoidi remove 6xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 11:13 CH
+BAG:lamnguoidi remove 11xĐá lục bảo lydo: Bán cho shop at 02/02/2023 11:13 CH
+BAG:lamnguoidi remove 10xĐá Ruby lydo: Bán cho shop at 02/02/2023 11:13 CH
+BAG:lamnguoidi remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 11:13 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:18 CH
+BAG:lamnguoidi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:20 CH
+BAG:lamnguoidi remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove Hồn ma Ca đíc lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:lamnguoidi remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:25 CH
+BAG:lamnguoidi remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:25 CH
+BAG:lamnguoidi remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:25 CH
+BAG:lamnguoidi remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:25 CH

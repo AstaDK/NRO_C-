@@ -1,0 +1,84 @@
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:03 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:16 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:30 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:43 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:57 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 1:10 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 1:24 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 1:37 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 1:51 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 2:04 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 2:18 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 2:31 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 2:45 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 2:58 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 3:12 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 3:25 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 3:39 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 3:52 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 4:06 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 4:19 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 4:33 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 4:46 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 5:00 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 5:15 SA
+BAG:kakasi remove 1xGăng vải Pico lydo: Bán cho shop at 02/03/2023 5:18 SA
+BAG:kakasi remove 1xGăng da Pico lydo: Bán cho shop at 02/03/2023 5:18 SA
+BAG:kakasi remove 83xĐá lục bảo lydo: Bán cho shop at 02/03/2023 5:19 SA
+BAG:kakasi remove 85xĐá Titan lydo: Bán cho shop at 02/03/2023 5:19 SA
+BAG:kakasi remove 86xĐá Ruby lydo: Bán cho shop at 02/03/2023 5:19 SA
+BAG:kakasi remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/03/2023 5:20 SA
+BAG:kakasi remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 5:21 SA
+BAG:kakasi remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 5:21 SA
+BAG:kakasi remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 5:21 SA
+BAG:kakasi remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 5:21 SA
+BAG:kakasi remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 5:21 SA
+BAG:kakasi remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 5:21 SA
+BAG:kakasi remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:22 SA
+BAG:kakasi remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:22 SA
+BAG:kakasi remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:22 SA
+BAG:kakasi remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:22 SA
+BAG:kakasi remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:23 SA
+BAG:kakasi remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:23 SA
+BAG:kakasi remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:23 SA
+BAG:kakasi remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:23 SA
+BAG:kakasi remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:24 SA
+BAG:kakasi remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 5:24 SA
+BAG:kakasi remove Găng thun cứng lydo: Tự Xóa vật phẩm at 02/03/2023 5:24 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 5:26 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 5:38 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 5:57 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 6:10 SA
+BAG:kakasi remove Găng đồng Tron lydo: Tự Xóa vật phẩm at 02/03/2023 6:23 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 6:24 SA
+BAG:kakasi remove Tanjiro lydo: Mặc vào người at 02/03/2023 6:25 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 6:37 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 6:51 SA
+BAG:kakasi remove Cải Trang Thần Zeno Xayda lydo: Mặc cho đệ tử at 02/03/2023 6:53 SA
+BAG:kakasi remove Găng bạc Zealot lydo: Tự Xóa vật phẩm at 02/03/2023 6:53 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 7:04 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 7:18 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 7:31 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 7:45 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 7:58 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:12 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:25 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:39 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:52 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 9:06 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 9:19 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 9:33 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 9:47 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 10:00 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 10:14 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 10:28 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 10:42 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 10:57 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 11:11 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 11:25 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 11:40 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 11:54 SA
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:09 CH
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:23 CH
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:38 CH
+BAG:kakasi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:53 CH

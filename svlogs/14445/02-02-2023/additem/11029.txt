@@ -1,0 +1,45 @@
+BAG:vonglinh add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:vonglinh add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:vonglinh add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:vonglinh add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:27 CH
+BAG:vonglinh add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:27 CH
+BAG:vonglinh add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 7:31 CH
+BAG:vonglinh add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 7:32 CH
+BAG:vonglinh add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 7:32 CH
+BAG:vonglinh add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 7:35 CH
+BAG:vonglinh add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 7:36 CH
+BAG:vonglinh add 10xĐậu thần cấp 2 (old: 6) lydo: Thu hoạch đậu at 02/02/2023 7:37 CH
+BAG:vonglinh add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 7:38 CH
+BAG:vonglinh add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 7:38 CH
+BAG:vonglinh add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 7:41 CH
+BAG:vonglinh add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 7:41 CH
+BAG:vonglinh add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 7:41 CH
+BAG:vonglinh add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 7:42 CH
+BAG:vonglinh add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 7:42 CH
+BAG:vonglinh add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 7:42 CH
+BAG:vonglinh add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 7:43 CH
+BAG:vonglinh add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 7:53 CH
+BAG:vonglinh add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 7:53 CH
+BAG:vonglinh add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 7:53 CH
+BAG:vonglinh add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 7:54 CH
+BAG:vonglinh add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 7:54 CH
+BAG:vonglinh add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 7:55 CH
+BAG:vonglinh add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 7:55 CH
+BAG:vonglinh add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 7:55 CH
+BAG:vonglinh add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 7:55 CH
+BAG:vonglinh add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 7:55 CH
+BAG:vonglinh add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 7:56 CH
+BAG:vonglinh add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:vonglinh add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:vonglinh add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:vonglinh add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:vonglinh add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:vonglinh add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 7:57 CH
+BAG:vonglinh add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 7:58 CH
+BAG:vonglinh add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 7:58 CH
+BAG:vonglinh add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 7:58 CH
+BAG:vonglinh add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 7:58 CH
+BAG:vonglinh add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 7:58 CH
+BAG:vonglinh add 1xNho tím lydo: Mua từ cửa hàng at 02/02/2023 7:59 CH
+BAG:vonglinh add 7xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 02/02/2023 7:59 CH
+BAG:vonglinh add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 8:04 CH

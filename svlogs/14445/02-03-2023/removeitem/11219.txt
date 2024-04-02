@@ -1,0 +1,17 @@
+BAG:1hit1m remove Avatar lydo: Mặc vào người at 02/03/2023 7:50 SA
+BAG:1hit1m remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 7:53 SA
+BAG:1hit1m remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 02/03/2023 7:54 SA
+BAG:1hit1m remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/03/2023 7:54 SA
+BAG:1hit1m remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 02/03/2023 7:54 SA
+BAG:1hit1m remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 7:55 SA
+BAG:1hit1m remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 7:55 SA
+BAG:1hit1m remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 8:01 SA
+BAG:1hit1m remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 8:02 SA
+BAG:1hit1m remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 8:03 SA
+BAG:1hit1m remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 8:04 SA
+BAG:1hit1m remove 5xCây mai lydo: Cay Thong at 02/03/2023 8:08 SA
+BAG:1hit1m remove 5xLì xì lydo: Cay Thong at 02/03/2023 8:08 SA
+BAG:1hit1m remove 5xBình rượu lydo: Cay Thong at 02/03/2023 8:08 SA
+BAG:1hit1m remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 8:08 SA
+BAG:1hit1m remove 1xBó Hoa Hồng lydo: Bán cho shop at 02/03/2023 8:09 SA
+BAG:1hit1m remove 1xVàng lydo: Bán cho shop at 02/03/2023 8:09 SA

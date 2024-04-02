@@ -1,0 +1,229 @@
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:07 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:17 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:40 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:50 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:00 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:10 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:20 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:31 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:41 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:51 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:01 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:11 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:21 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:31 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:41 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:51 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:01 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:11 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:21 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:32 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:42 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:52 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:02 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:12 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:22 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:32 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 5:49 SA
+BAG:kakalot remove Găng siêu Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 5:52 SA
+BAG:kakalot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 5:54 SA
+BAG:kakalot remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 5:55 SA
+BAG:kakalot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 5:56 SA
+BAG:kakalot remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 5:56 SA
+BAG:kakalot remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/02/2023 5:57 SA
+BAG:kakalot remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/02/2023 5:57 SA
+BAG:kakalot remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/02/2023 5:58 SA
+BAG:kakalot remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/02/2023 5:58 SA
+BAG:kakalot remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:00 SA
+BAG:kakalot remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:00 SA
+BAG:kakalot remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:00 SA
+BAG:kakalot remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:00 SA
+BAG:kakalot remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:00 SA
+BAG:kakalot remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:00 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:06 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:16 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:26 SA
+BAG:kakalot remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 SA
+BAG:kakalot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 SA
+BAG:kakalot remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 SA
+BAG:kakalot remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:34 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:36 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:47 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:57 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 7:09 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 7:19 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 7:29 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 7:36 SA
+BAG:kakalot remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:38 SA
+BAG:kakalot remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:39 SA
+BAG:kakalot remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:39 SA
+BAG:kakalot remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:39 SA
+BAG:kakalot remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 SA
+BAG:kakalot remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 SA
+BAG:kakalot remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 SA
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/02/2023 7:43 SA
+BAG:kakalot remove Quần vải thô lydo: Mặc vào người at 02/02/2023 7:43 SA
+BAG:kakalot remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 7:43 SA
+BAG:kakalot remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:45 SA
+BAG:kakalot remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 7:55 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 7:56 SA
+BAG:kakalot remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:08 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:21 SA
+BAG:kakalot remove 16xĐậu thần cấp 6 lydo: Bán cho shop at 02/02/2023 8:25 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 8:27 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:29 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:33 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:39 SA
+BAG:kakalot remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:39 SA
+BAG:kakalot remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:41 SA
+BAG:kakalot remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 SA
+BAG:kakalot remove Pháo hoa lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 SA
+BAG:kakalot remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 SA
+BAG:kakalot remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 SA
+BAG:kakalot remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 8:54 SA
+BAG:kakalot remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 8:54 SA
+BAG:kakalot remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 8:54 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:55 SA
+BAG:kakalot remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 8:56 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 8:56 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 9:06 SA
+BAG:kakalot remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 10:12 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 10:21 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 10:31 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 10:41 SA
+BAG:kakalot remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 10:56 SA
+BAG:kakalot remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 10:56 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:02 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:12 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:22 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:32 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:43 SA
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 11:53 SA
+BAG:kakalot remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 12:08 CH
+BAG:kakalot remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 02/02/2023 12:08 CH
+BAG:kakalot remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 02/02/2023 12:08 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:11 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:21 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:31 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:41 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 12:51 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:01 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:11 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:37 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:47 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 1:57 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:23 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:33 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:43 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 2:53 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:03 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:13 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:24 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:34 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:45 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 3:55 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:05 CH
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 4:14 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:15 CH
+BAG:kakalot remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:19 CH
+BAG:kakalot remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:19 CH
+BAG:kakalot remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:19 CH
+BAG:kakalot remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:19 CH
+BAG:kakalot remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:19 CH
+BAG:kakalot remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:19 CH
+BAG:kakalot remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:26 CH
+BAG:kakalot remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:26 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:36 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:46 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 4:56 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 5:06 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 5:19 CH
+BAG:kakalot remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 5:34 CH
+BAG:kakalot remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 5:34 CH
+BAG:kakalot remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 5:34 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 5:37 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 5:48 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 5:58 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:08 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:19 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:29 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 6:39 CH
+BAG:kakalot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:48 CH
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/02/2023 6:53 CH
+BAG:kakalot remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 6:53 CH
+BAG:kakalot remove Quần vải thô lydo: Mặc vào người at 02/02/2023 6:53 CH
+BAG:kakalot remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:54 CH
+BAG:kakalot remove Găng vàng lydo: Cất vào rương at 02/02/2023 7:04 CH
+BAG:kakalot remove Cải trang Chill lydo: Cất vào rương at 02/02/2023 7:04 CH
+BAG:kakalot remove Cải trang Mabư Noel lydo: Cất vào rương at 02/02/2023 7:04 CH
+BAG:kakalot remove Đá Ruby lydo: Cất vào rương at 02/02/2023 7:05 CH
+BAG:kakalot remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 7:05 CH
+BAG:kakalot remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 7:05 CH
+BAG:kakalot remove Vệ tinh trí tuệ lydo: Cất vào rương at 02/02/2023 7:06 CH
+BAG:kakalot remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 7:06 CH
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 7:06 CH
+BAG:kakalot remove Quần giáp vàng lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:kakalot remove Áo lông Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:kakalot remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 7:07 CH
+BAG:kakalot remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 7:09 CH
+BAG:kakalot remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 7:09 CH
+BAG:kakalot remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 7:10 CH
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/02/2023 7:10 CH
+BAG:kakalot remove Bom hi sinh lv1 lydo: Sách kĩ năng at 02/02/2023 7:11 CH
+BAG:kakalot remove Bom hi sinh lv2 lydo: Sách kĩ năng at 02/02/2023 7:11 CH
+BAG:kakalot remove Bom hi sinh lv3 lydo: Sách kĩ năng at 02/02/2023 7:11 CH
+BAG:kakalot remove Bom hi sinh lv4 lydo: Sách kĩ năng at 02/02/2023 7:11 CH
+BAG:kakalot remove Bom hi sinh lv5 lydo: Sách kĩ năng at 02/02/2023 7:11 CH
+BAG:kakalot remove Bom hi sinh lv6 lydo: Sách kĩ năng at 02/02/2023 7:11 CH
+BAG:kakalot remove Bom hi sinh lv7 lydo: Sách kĩ năng at 02/02/2023 7:11 CH
+BAG:kakalot remove Sách Huýt Sáo lv1 lydo: Sách kĩ năng at 02/02/2023 7:12 CH
+BAG:kakalot remove Sách Huýt Sáo lv2 lydo: Sách kĩ năng at 02/02/2023 7:12 CH
+BAG:kakalot remove Sách Huýt Sáo lv3 lydo: Sách kĩ năng at 02/02/2023 7:12 CH
+BAG:kakalot remove Sách Huýt Sáo lv4 lydo: Sách kĩ năng at 02/02/2023 7:12 CH
+BAG:kakalot remove Sách Huýt Sáo lv5 lydo: Sách kĩ năng at 02/02/2023 7:12 CH
+BAG:kakalot remove Sách Huýt Sáo lv6 lydo: Sách kĩ năng at 02/02/2023 7:12 CH
+BAG:kakalot remove Sách Huýt Sáo lv7 lydo: Sách kĩ năng at 02/02/2023 7:12 CH
+BAG:kakalot remove Hồn ma Pôcôlô lydo: Tự Xóa vật phẩm at 02/02/2023 7:21 CH
+BAG:kakalot remove Diều rồng lydo: Tự Xóa vật phẩm at 02/02/2023 7:21 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 7:23 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 7:33 CH
+BAG:kakalot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 CH
+BAG:kakalot remove Găng jean Calic lydo: Cất vào rương at 02/02/2023 7:44 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 7:52 CH
+BAG:kakalot remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/02/2023 8:04 CH
+BAG:kakalot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:kakalot remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:23 CH
+BAG:kakalot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:28 CH
+BAG:kakalot remove Đậu thần cấp 6 lydo: Tự Xóa vật phẩm at 02/02/2023 8:28 CH
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:30 CH
+BAG:kakalot remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:kakalot remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 CH
+BAG:kakalot remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:33 CH
+BAG:kakalot remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 8:36 CH
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/02/2023 8:36 CH
+BAG:kakalot remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 8:37 CH
+BAG:kakalot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:45 CH
+BAG:kakalot remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:47 CH
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:47 CH
+BAG:kakalot remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 8:57 CH
+BAG:kakalot remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 9:13 CH
+BAG:kakalot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 9:17 CH
+BAG:kakalot remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:17 CH
+BAG:kakalot remove 1xCủ cà rốt lydo: Dùng buff at 02/02/2023 9:21 CH
+BAG:kakalot remove 1xCủ cà rốt lydo: Dùng buff at 02/02/2023 9:21 CH
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 9:22 CH
+BAG:kakalot remove Củ cà rốt lydo: Tự Xóa vật phẩm at 02/02/2023 9:32 CH
+BAG:kakalot remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:32 CH
+BAG:kakalot remove Găng vải thô lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Găng vải thô lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Quần vải thô lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Áo vải thô lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Cánh thiên thần 2 lydo: Cất vào rương at 02/02/2023 9:33 CH
+BAG:kakalot remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 02/02/2023 9:37 CH
+BAG:kakalot remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 9:37 CH
+BAG:kakalot remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 9:37 CH
+BAG:kakalot remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 9:37 CH
+BAG:kakalot remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 9:37 CH

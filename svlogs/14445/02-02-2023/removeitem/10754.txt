@@ -1,0 +1,79 @@
+BAG:pit01 remove Vệ tinh trí tuệ lydo: Cất vào rương at 02/02/2023 9:48 SA
+BAG:pit01 remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 9:58 SA
+BAG:pit01 remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 02/02/2023 9:58 SA
+BAG:pit01 remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:58 SA
+BAG:pit01 remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 9:58 SA
+BAG:pit01 remove Đậu thần cấp 6 lydo: Tự Xóa vật phẩm at 02/02/2023 9:58 SA
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 5:54 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 5:54 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 5:54 CH
+BAG:pit01 remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:00 CH
+BAG:pit01 remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:00 CH
+BAG:pit01 remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:00 CH
+BAG:pit01 remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:00 CH
+BAG:pit01 remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:00 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:00 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:00 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:00 CH
+BAG:pit01 remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:pit01 remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:02 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:02 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:02 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:02 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:pit01 remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:03 CH
+BAG:pit01 remove 1xGăng da Pico lydo: Bán cho shop at 02/02/2023 6:04 CH
+BAG:pit01 remove 1xGăng da Pico lydo: Bán cho shop at 02/02/2023 6:04 CH
+BAG:pit01 remove 1xGăng da Pico lydo: Bán cho shop at 02/02/2023 6:04 CH
+BAG:pit01 remove 1xÁo sợi len lydo: Bán cho shop at 02/02/2023 6:04 CH
+BAG:pit01 remove 1xÁo sắt Tron lydo: Bán cho shop at 02/02/2023 6:04 CH
+BAG:pit01 remove 1xÁo sắt Tron lydo: Bán cho shop at 02/02/2023 6:04 CH
+BAG:pit01 remove Áo sắt Tron lydo: Mặc vào người at 02/02/2023 6:04 CH
+BAG:pit01 remove 1xÁo sắt Tron lydo: Bán cho shop at 02/02/2023 6:04 CH
+BAG:pit01 remove 1xÁo sắt Tron lydo: Bán cho shop at 02/02/2023 6:05 CH
+BAG:pit01 remove Quần sắt Tron lydo: Mặc vào người at 02/02/2023 6:05 CH
+BAG:pit01 remove Găng da Pico lydo: Mặc vào người at 02/02/2023 6:05 CH
+BAG:pit01 remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 6:05 CH
+BAG:pit01 remove Giầy sợi len lydo: Cất vào rương at 02/02/2023 6:05 CH
+BAG:pit01 remove 1xÁo sắt Tron lydo: Bán cho shop at 02/02/2023 6:05 CH
+BAG:pit01 remove 1xÁo sắt Tron lydo: Bán cho shop at 02/02/2023 6:05 CH
+BAG:pit01 remove 1xÁo sắt Tron lydo: Bán cho shop at 02/02/2023 6:06 CH
+BAG:pit01 remove Găng da Pico lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:pit01 remove Găng da Pico lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:pit01 remove Găng da Pico lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:pit01 remove 1xÁo choàng thun lydo: Bán cho shop at 02/02/2023 6:06 CH
+BAG:pit01 remove Áo choàng len lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:pit01 remove Áo thun Pico lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:pit01 remove Áo thun Pico lydo: Tự Xóa vật phẩm at 02/02/2023 6:07 CH
+BAG:pit01 remove Găng sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 6:07 CH
+BAG:pit01 remove Găng sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 6:07 CH
+BAG:pit01 remove Găng sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 6:07 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:07 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:07 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:07 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:08 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:08 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:08 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:09 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:09 CH
+BAG:pit01 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:09 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:13 CH
+BAG:pit01 remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:pit01 remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:pit01 remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:pit01 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 6:14 CH
+BAG:pit01 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 6:14 CH
+BAG:pit01 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 6:14 CH
+BAG:pit01 remove 57xNgọc Rồng 5 sao lydo: Giao dịch với pitaz at 02/02/2023 6:16 CH
+BAG:pit01 remove 63xNgọc Rồng 6 sao lydo: Giao dịch với pitaz at 02/02/2023 6:16 CH
+BAG:pit01 remove 28xNgọc Rồng 7 sao lydo: Giao dịch với pitaz at 02/02/2023 6:16 CH
+BAG:pit01 remove 6xNgọc Rồng 4 sao lydo: Giao dịch với pitaz at 02/02/2023 6:16 CH
+BAG:pit01 remove 2xNgọc Rồng 3 sao lydo: Giao dịch với pitaz at 02/02/2023 6:16 CH

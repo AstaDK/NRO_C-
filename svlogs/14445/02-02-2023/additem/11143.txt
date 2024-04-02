@@ -1,0 +1,64 @@
+BAG:maguire add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 11:04 CH
+BAG:maguire add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:maguire add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:maguire add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:maguire add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:maguire add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:maguire add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:maguire add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:maguire add 1xQuần vải thô lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:maguire add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:maguire add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:maguire add 1xVán bay VIP lydo: Mua từ cửa hàng at 02/02/2023 11:12 CH
+BAG:maguire add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 11:13 CH
+BAG:maguire add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:maguire add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:maguire add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:maguire add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:maguire add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:maguire add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:maguire add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:maguire add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 11:15 CH
+BAG:maguire add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:maguire add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:maguire add 1xÁo vải thô lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:maguire add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:maguire add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 11:19 CH
+BAG:maguire add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/02/2023 11:20 CH
+BAG:maguire add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:maguire add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:maguire add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:maguire add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:maguire add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:maguire add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:maguire add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:maguire add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:maguire add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:maguire add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:maguire add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:maguire add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 11:28 CH
+BAG:maguire add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 11:29 CH
+BAG:maguire add 20xThỏi vàng lydo: Giftcode at 02/02/2023 11:30 CH
+BAG:maguire add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:maguire add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:maguire add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/02/2023 11:32 CH
+BAG:maguire add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:maguire add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:maguire add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:maguire add 1xBột mì lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:maguire add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:maguire add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:maguire add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:maguire add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:maguire add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:maguire add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:maguire add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 11:35 CH

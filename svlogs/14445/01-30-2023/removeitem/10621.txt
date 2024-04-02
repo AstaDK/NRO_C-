@@ -1,0 +1,33 @@
+BAG:baonhiday remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 7:23 PM
+BAG:baonhiday remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 7:31 PM
+BAG:baonhiday remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/30/2023 8:00 PM
+BAG:baonhiday remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/30/2023 8:03 PM
+BAG:baonhiday remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 8:04 PM
+BAG:baonhiday remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 8:09 PM
+BAG:baonhiday remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/30/2023 8:09 PM
+BAG:baonhiday remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 8:09 PM
+BAG:baonhiday remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/30/2023 8:09 PM
+BAG:baonhiday remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 01/30/2023 8:10 PM
+BAG:baonhiday remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/30/2023 8:13 PM
+BAG:baonhiday remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/30/2023 8:15 PM
+BAG:baonhiday remove 1xSách đấm Galick lv1 lydo: Bán cho shop at 01/30/2023 8:26 PM
+BAG:baonhiday remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 01/30/2023 8:26 PM
+BAG:baonhiday remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 01/30/2023 8:26 PM
+BAG:baonhiday remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 01/30/2023 8:26 PM
+BAG:baonhiday remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 01/30/2023 8:27 PM
+BAG:baonhiday remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 01/30/2023 8:27 PM
+BAG:baonhiday remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 01/30/2023 8:27 PM
+BAG:baonhiday remove Sách Antomic lv1 lydo: Sách kĩ năng at 01/30/2023 8:27 PM
+BAG:baonhiday remove Sách Antomic lv2 lydo: Sách kĩ năng at 01/30/2023 8:27 PM
+BAG:baonhiday remove Sách Antomic lv3 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Sách Antomic lv4 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Sách Antomic lv5 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Sách Antomic lv6 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Sách Antomic lv7 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 01/30/2023 8:28 PM
+BAG:baonhiday remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 01/30/2023 8:28 PM

@@ -1,0 +1,81 @@
+BAG:namduck remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:44 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:08 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:16 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:38 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:38 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:39 CH
+BAG:namduck remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 10:41 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:41 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:42 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:44 CH
+BAG:namduck remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:namduck remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:namduck remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:namduck remove Avatar lydo: Mặc vào người at 02/02/2023 10:57 CH
+BAG:namduck remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 10:57 CH
+BAG:namduck remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 10:57 CH
+BAG:namduck remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 10:57 CH
+BAG:namduck remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 10:57 CH
+BAG:namduck remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 10:57 CH
+BAG:namduck remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 10:57 CH
+BAG:namduck remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 10:57 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:58 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:11 CH
+BAG:namduck remove 15xThỏi vàng lydo: Giao dịch với nta002 at 02/02/2023 11:13 CH
+BAG:namduck remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:18 CH
+BAG:namduck remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:20 CH
+BAG:namduck remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:20 CH
+BAG:namduck remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:20 CH
+BAG:namduck remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:20 CH
+BAG:namduck remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 CH
+BAG:namduck remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 CH
+BAG:namduck remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:28 CH
+BAG:namduck remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:28 CH
+BAG:namduck remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 11:28 CH
+BAG:namduck remove 3xBình rượu lydo: Bán cho shop at 02/02/2023 11:30 CH
+BAG:namduck remove 7xCây mai lydo: Bán cho shop at 02/02/2023 11:30 CH
+BAG:namduck remove 3xĐá Titan lydo: Bán cho shop at 02/02/2023 11:30 CH
+BAG:namduck remove 8xLì xì lydo: Bán cho shop at 02/02/2023 11:30 CH
+BAG:namduck remove 5xĐá Ruby lydo: Bán cho shop at 02/02/2023 11:30 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:31 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:31 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:34 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:39 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:39 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:39 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:40 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:40 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:40 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:41 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:41 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:41 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:42 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:42 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:42 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:43 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:43 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:43 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:44 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:44 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:44 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:46 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:46 CH
+BAG:namduck remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:46 CH
+BAG:namduck remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:47 CH
+BAG:namduck remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:48 CH
+BAG:namduck remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:48 CH
+BAG:namduck remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:48 CH
+BAG:namduck remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:49 CH
+BAG:namduck remove Găng vải thô lydo: Mặc vào người at 02/02/2023 11:49 CH
+BAG:namduck remove Áo khoác Xayda lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Quần da Xayda lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Giày lông đỏ lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Rada cấp 8 lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Áo vải thô lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Quần vải thô lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Avatar lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Cải trang Mabư Noel lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Áo thun thô lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Giầy đồng lydo: Cất vào rương at 02/02/2023 11:51 CH
+BAG:namduck remove Quần giáp đồng lydo: Cất vào rương at 02/02/2023 11:51 CH

@@ -1,0 +1,36 @@
+BAG:venom add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 10:32 PM
+BAG:venom add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 10:38 PM
+BAG:venom add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 10:39 PM
+BAG:venom add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 10:41 PM
+BAG:venom add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/29/2023 10:49 PM
+BAG:venom add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 10:49 PM
+BAG:venom add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 10:50 PM
+BAG:venom add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 10:50 PM
+BAG:venom add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 10:51 PM
+BAG:venom add 1xQuần vải thô lydo: Nhặt từ map at 01/29/2023 10:51 PM
+BAG:venom add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 10:51 PM
+BAG:venom add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/29/2023 10:52 PM
+BAG:venom add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/29/2023 10:52 PM
+BAG:venom add 18xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 01/29/2023 10:52 PM
+BAG:venom add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 10:53 PM
+BAG:venom add 1xÁo vải thô lydo: Nhặt từ map at 01/29/2023 10:53 PM
+BAG:venom add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 01/29/2023 10:54 PM
+BAG:venom add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 10:54 PM
+BAG:venom add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 01/29/2023 10:55 PM
+BAG:venom add 1xBột mì lydo: Nhặt từ map at 01/29/2023 10:55 PM
+BAG:venom add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/29/2023 10:57 PM
+BAG:venom add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 10:57 PM
+BAG:venom add 1xGăng sắt lydo: Mua từ cửa hàng at 01/29/2023 10:58 PM
+BAG:venom add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 11:00 PM
+BAG:venom add 20xThỏi vàng lydo: Giftcode at 01/29/2023 11:01 PM
+BAG:venom add 1xMèo mun lydo: Mua từ cửa hàng at 01/29/2023 11:01 PM
+BAG:venom add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 11:08 PM
+BAG:venom add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 11:10 PM
+BAG:venom add 1xÁo giáp đồng lydo: Mua từ cửa hàng at 01/29/2023 11:11 PM
+BAG:venom add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 11:12 PM
+BAG:venom add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 11:13 PM
+BAG:venom add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 01/29/2023 11:13 PM
+BAG:venom add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 11:13 PM
+BAG:venom add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 11:13 PM
+BAG:venom add 1xĐậu xanh lydo: Nhặt từ map at 01/29/2023 11:13 PM
+BAG:venom add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/29/2023 11:14 PM

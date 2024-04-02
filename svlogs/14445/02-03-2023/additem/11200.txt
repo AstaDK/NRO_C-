@@ -1,0 +1,25 @@
+BAG:nameclaze add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 5:45 SA
+BAG:nameclaze add 1xLì xì lydo: Nhặt từ map at 02/03/2023 5:47 SA
+BAG:nameclaze add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 5:47 SA
+BAG:nameclaze add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 5:49 SA
+BAG:nameclaze add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 5:49 SA
+BAG:nameclaze add 4xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 5:50 SA
+BAG:nameclaze add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 5:51 SA
+BAG:nameclaze add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/03/2023 5:52 SA
+BAG:nameclaze add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 02/03/2023 5:52 SA
+BAG:nameclaze add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 5:53 SA
+BAG:nameclaze add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/03/2023 5:53 SA
+BAG:nameclaze add 1xHồn ma Pôcôlô lydo: Mua từ cửa hàng at 02/03/2023 5:54 SA
+BAG:nameclaze add 20xThỏi vàng lydo: Giftcode at 02/03/2023 5:54 SA
+BAG:nameclaze add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 5:55 SA
+BAG:nameclaze add 1xGhế bay lydo: Mua từ cửa hàng at 02/03/2023 5:57 SA
+BAG:nameclaze add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 5:58 SA
+BAG:nameclaze add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/03/2023 5:59 SA
+BAG:nameclaze add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/03/2023 5:59 SA
+BAG:nameclaze add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/03/2023 6:00 SA
+BAG:nameclaze add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 02/03/2023 6:00 SA
+BAG:nameclaze add 1xCây mai lydo: Nhặt từ map at 02/03/2023 6:01 SA
+BAG:nameclaze add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/03/2023 6:01 SA
+BAG:nameclaze add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 6:02 SA
+BAG:nameclaze add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 6:02 SA
+BAG:nameclaze add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 6:03 SA

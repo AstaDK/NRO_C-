@@ -1,0 +1,87 @@
+BAG:pocolo remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 5:30 SA
+BAG:pocolo remove 99xĐá lục bảo lydo: Bán cho shop at 02/01/2023 5:48 SA
+BAG:pocolo remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 5:49 SA
+BAG:pocolo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 9:48 SA
+BAG:pocolo remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 9:48 SA
+BAG:pocolo remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 9:50 SA
+BAG:pocolo remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/01/2023 9:50 SA
+BAG:pocolo remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 9:50 SA
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:50 SA
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:50 SA
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:50 SA
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:52 SA
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:52 SA
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:52 SA
+BAG:pocolo remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 9:53 SA
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 1:26 CH
+BAG:pocolo remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 5:51 CH
+BAG:pocolo remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 5:55 CH
+BAG:pocolo remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 5:55 CH
+BAG:pocolo remove Đá Saphia lydo: Cất vào rương at 02/01/2023 5:55 CH
+BAG:pocolo remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 5:56 CH
+BAG:pocolo remove Đá Titan lydo: Cất vào rương at 02/01/2023 5:56 CH
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:56 CH
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:56 CH
+BAG:pocolo remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:56 CH
+BAG:pocolo remove Quần sợi len lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:pocolo remove Găng sợi len lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:pocolo remove Giầy sợi len lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:pocolo remove Áo sợi len lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:pocolo remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:pocolo remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:pocolo remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 6:13 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:29 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:40 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:40 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:40 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:41 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:41 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:41 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 6:48 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 7:05 CH
+BAG:pocolo remove Áo sợi len lydo: Mặc vào người at 02/01/2023 7:18 CH
+BAG:pocolo remove Quần sợi len lydo: Mặc vào người at 02/01/2023 7:18 CH
+BAG:pocolo remove Găng sợi len lydo: Mặc vào người at 02/01/2023 7:18 CH
+BAG:pocolo remove Giầy sợi len lydo: Mặc vào người at 02/01/2023 7:18 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 7:23 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 7:24 CH
+BAG:pocolo remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 9:22 CH
+BAG:pocolo remove Giầy sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:23 CH
+BAG:pocolo remove Áo sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:23 CH
+BAG:pocolo remove Quần sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:23 CH
+BAG:pocolo remove Găng sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:23 CH
+BAG:pocolo remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 9:23 CH
+BAG:pocolo remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 02/01/2023 9:23 CH
+BAG:pocolo remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 9:27 CH
+BAG:pocolo remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/01/2023 9:29 CH
+BAG:pocolo remove Giầy sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:29 CH
+BAG:pocolo remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 9:29 CH
+BAG:pocolo remove Áo sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:29 CH
+BAG:pocolo remove Găng sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:29 CH
+BAG:pocolo remove Quần sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:29 CH
+BAG:pocolo remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 9:34 CH
+BAG:pocolo remove Giầy sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:34 CH
+BAG:pocolo remove Găng sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:34 CH
+BAG:pocolo remove Quần sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:34 CH
+BAG:pocolo remove Áo sợi len lydo: Mặc cho đệ tử at 02/01/2023 9:34 CH
+BAG:pocolo remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 9:39 CH
+BAG:pocolo remove Áo sợi len lydo: Mặc vào người at 02/01/2023 9:39 CH
+BAG:pocolo remove Quần sợi len lydo: Mặc vào người at 02/01/2023 9:39 CH
+BAG:pocolo remove Găng sợi len lydo: Mặc vào người at 02/01/2023 9:40 CH
+BAG:pocolo remove Giầy sợi len lydo: Mặc vào người at 02/01/2023 9:40 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:42 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:42 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:42 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:42 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:42 CH
+BAG:pocolo remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 9:42 CH
+BAG:pocolo remove Giầy sợi len lydo: Mặc vào người at 02/01/2023 9:51 CH
+BAG:pocolo remove Găng sợi len lydo: Mặc vào người at 02/01/2023 9:51 CH
+BAG:pocolo remove Áo sợi len lydo: Mặc vào người at 02/01/2023 9:51 CH
+BAG:pocolo remove Quần sợi len lydo: Mặc vào người at 02/01/2023 9:51 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:02 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:04 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:17 CH
+BAG:pocolo remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/01/2023 10:34 CH

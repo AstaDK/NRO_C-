@@ -1,0 +1,5 @@
+BAG:bom200tr add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 6:39 PM
+BAG:bom200tr add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 6:43 PM
+BAG:bom200tr add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 6:56 PM
+BAG:bom200tr add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 6:56 PM
+BAG:bom200tr add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 6:57 PM

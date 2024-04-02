@@ -1,0 +1,21 @@
+BAG:phongdz add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 12:13 SA
+BAG:phongdz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 12:14 SA
+BAG:phongdz add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 02/01/2023 12:15 SA
+BAG:phongdz add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:15 SA
+BAG:phongdz add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 12:15 SA
+BAG:phongdz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 12:17 SA
+BAG:phongdz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 12:18 SA
+BAG:phongdz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 12:20 SA
+BAG:phongdz add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:21 SA
+BAG:phongdz add 1xMảnh Phi long lydo: Nhặt từ map at 02/01/2023 12:21 SA
+BAG:phongdz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/01/2023 12:22 SA
+BAG:phongdz add 1xGăng len Pico lydo: Mua từ cửa hàng at 02/01/2023 12:22 SA
+BAG:phongdz add 5xĐậu thần cấp 4 lydo: Thu hoạch đậu at 02/01/2023 12:23 SA
+BAG:phongdz add 22xĐậu thần cấp 4 (old: 5) lydo: Lấy từ rương qua người at 02/01/2023 12:24 SA
+BAG:phongdz add 20xThỏi vàng lydo: Giftcode at 02/01/2023 12:25 SA
+BAG:phongdz add 1xMèo mun lydo: Mua từ cửa hàng at 02/01/2023 12:26 SA
+BAG:phongdz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 12:27 SA
+BAG:phongdz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 12:27 SA
+BAG:phongdz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 12:27 SA
+BAG:phongdz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 12:28 SA
+BAG:phongdz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 12:28 SA

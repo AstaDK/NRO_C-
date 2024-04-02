@@ -1,0 +1,126 @@
+BAG:kakarot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 11:22 AM
+BAG:kakarot remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 2:07 PM
+BAG:kakarot remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 2:07 PM
+BAG:kakarot remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 2:07 PM
+BAG:kakarot remove Cánh thiên thần 2 lydo: Cất vào rương at 01/29/2023 2:10 PM
+BAG:kakarot remove Cánh thiên thần 2 lydo: Cất vào rương at 01/29/2023 2:11 PM
+BAG:kakarot remove Cánh thiên thần 2 lydo: Cất vào rương at 01/29/2023 2:11 PM
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với quangdz at 01/29/2023 2:14 PM
+BAG:kakarot remove 22xThỏi vàng lydo: Giao dịch với quangdz at 01/29/2023 2:17 PM
+BAG:kakarot remove 19xThỏi vàng lydo: Giao dịch với quangdz at 01/29/2023 2:18 PM
+BAG:kakarot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 2:21 PM
+BAG:kakarot remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 2:21 PM
+BAG:kakarot remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 2:23 PM
+BAG:kakarot remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 2:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 3:00 PM
+BAG:kakarot remove 100xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 3:00 PM
+BAG:kakarot remove Mèo mun lydo: Tự Xóa vật phẩm at 01/29/2023 3:01 PM
+BAG:kakarot remove Đá Hắc Hóa lydo: Tự Xóa vật phẩm at 01/29/2023 3:01 PM
+BAG:kakarot remove Cải trang Hổ xanh lydo: Mặc vào người at 01/29/2023 3:01 PM
+BAG:kakarot remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 3:11 PM
+BAG:kakarot remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 3:11 PM
+BAG:kakarot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 3:12 PM
+BAG:kakarot remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 3:12 PM
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 3:13 PM
+BAG:kakarot remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 3:18 PM
+BAG:kakarot remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 3:18 PM
+BAG:kakarot remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 3:18 PM
+BAG:kakarot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 3:29 PM
+BAG:kakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 3:31 PM
+BAG:kakarot remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 3:31 PM
+BAG:kakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 3:31 PM
+BAG:kakarot remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 3:32 PM
+BAG:kakarot remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/29/2023 3:32 PM
+BAG:kakarot remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/29/2023 3:32 PM
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 3:32 PM
+BAG:kakarot remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 01/29/2023 3:32 PM
+BAG:kakarot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 4:02 PM
+BAG:kakarot remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 4:02 PM
+BAG:kakarot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 4:02 PM
+BAG:kakarot remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 4:06 PM
+BAG:kakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 4:06 PM
+BAG:kakarot remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 4:06 PM
+BAG:kakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 4:06 PM
+BAG:kakarot remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 4:06 PM
+BAG:kakarot remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 4:28 PM
+BAG:kakarot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 4:28 PM
+BAG:kakarot remove Quần vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 4:28 PM
+BAG:kakarot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 5:11 PM
+BAG:kakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 5:11 PM
+BAG:kakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 5:11 PM
+BAG:kakarot remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 5:11 PM
+BAG:kakarot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 5:23 PM
+BAG:kakarot remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/29/2023 5:28 PM
+BAG:kakarot remove Cải trang Hổ xanh lydo: Mặc vào người at 01/29/2023 5:28 PM
+BAG:kakarot remove Cải trang Hổ xanh lydo: Mặc vào người at 01/29/2023 5:31 PM
+BAG:kakarot remove Găng vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 6:26 PM
+BAG:kakarot remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 6:27 PM
+BAG:kakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 6:27 PM
+BAG:kakarot remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 6:27 PM
+BAG:kakarot remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 6:27 PM
+BAG:kakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 6:27 PM
+BAG:kakarot remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 6:27 PM
+BAG:kakarot remove Găng vải thô lydo: Cất vào rương at 01/29/2023 6:30 PM
+BAG:kakarot remove Giầy vải thô lydo: Cất vào rương at 01/29/2023 6:30 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 6:59 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:00 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:00 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:00 PM
+BAG:kakarot remove 99xThỏi vàng lydo: Giao dịch với picclo at 01/29/2023 7:05 PM
+BAG:kakarot remove 61xThỏi vàng lydo: Giao dịch với picclo at 01/29/2023 7:06 PM
+BAG:kakarot remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 01/29/2023 7:06 PM
+BAG:kakarot remove 2xĐá Hắc Hóa lydo: Cường Hóa at 01/29/2023 7:06 PM
+BAG:kakarot remove Găng lông đỏ lydo: Cất vào rương at 01/29/2023 7:07 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:07 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:07 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:07 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:07 PM
+BAG:kakarot remove Găng vải thô lydo: Mặc vào người at 01/29/2023 7:07 PM
+BAG:kakarot remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 01/29/2023 7:08 PM
+BAG:kakarot remove 2xĐá Hắc Hóa lydo: Cường Hóa at 01/29/2023 7:08 PM
+BAG:kakarot remove Găng lông đỏ lydo: Cất vào rương at 01/29/2023 7:08 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:09 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:09 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:09 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:09 PM
+BAG:kakarot remove Găng lông đỏ lydo: Cất vào rương at 01/29/2023 7:10 PM
+BAG:kakarot remove Đá Vĩnh Hằng lydo: Cất vào rương at 01/29/2023 7:10 PM
+BAG:kakarot remove Đá Hắc Hóa lydo: Cất vào rương at 01/29/2023 7:10 PM
+BAG:kakarot remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 01/29/2023 7:20 PM
+BAG:kakarot remove 2xĐá Hắc Hóa lydo: Cường Hóa at 01/29/2023 7:20 PM
+BAG:kakarot remove Rada cấp 9 lydo: Cất vào rương at 01/29/2023 7:21 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 40xThỏi vàng lydo: Mua đồ bằng tv at 01/29/2023 7:23 PM
+BAG:kakarot remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 01/29/2023 7:23 PM
+BAG:kakarot remove 2xĐá Hắc Hóa lydo: Cường Hóa at 01/29/2023 7:23 PM
+BAG:kakarot remove Rada cấp 9 lydo: Cất vào rương at 01/29/2023 7:25 PM
+BAG:kakarot remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 7:26 PM
+BAG:kakarot remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 7:27 PM
+BAG:kakarot remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 7:41 PM
+BAG:kakarot remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 7:41 PM
+BAG:kakarot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 7:41 PM
+BAG:kakarot remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/29/2023 7:41 PM
+BAG:kakarot remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 7:42 PM
+BAG:kakarot remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 7:42 PM
+BAG:kakarot remove Áo vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 7:43 PM
+BAG:kakarot remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 7:48 PM
+BAG:kakarot remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 01/29/2023 7:49 PM
+BAG:kakarot remove 2xĐá Hắc Hóa lydo: Cường Hóa at 01/29/2023 7:49 PM
+BAG:kakarot remove Rada cấp 9 lydo: Cất vào rương at 01/29/2023 7:50 PM
+BAG:kakarot remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 8:02 PM
+BAG:kakarot remove Đá Vĩnh Hằng lydo: Tự Xóa vật phẩm at 01/29/2023 8:02 PM
+BAG:kakarot remove Đá Hắc Hóa lydo: Tự Xóa vật phẩm at 01/29/2023 8:02 PM
+BAG:kakarot remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 01/29/2023 8:02 PM
+BAG:kakarot remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/29/2023 8:03 PM
+BAG:kakarot remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/29/2023 8:03 PM
+BAG:kakarot remove Giầy vải thô lydo: Tự Xóa vật phẩm at 01/29/2023 8:07 PM

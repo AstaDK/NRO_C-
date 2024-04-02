@@ -1,0 +1,3 @@
+BAG:thuocla99 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 10:18 SA
+BAG:thuocla99 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/03/2023 10:18 SA
+BAG:thuocla99 add 1xLì xì lydo: Nhặt từ map at 02/03/2023 10:19 SA

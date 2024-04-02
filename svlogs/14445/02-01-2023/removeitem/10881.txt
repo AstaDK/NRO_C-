@@ -1,0 +1,236 @@
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:43 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:43 CH
+BAG:imrben remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 2:46 CH
+BAG:imrben remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 2:46 CH
+BAG:imrben remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 2:46 CH
+BAG:imrben remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 2:46 CH
+BAG:imrben remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/01/2023 2:47 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:48 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:49 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:49 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:49 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:49 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:49 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:49 CH
+BAG:imrben remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 2:50 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:50 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:51 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 2:58 CH
+BAG:imrben remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 2:59 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:00 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:04 CH
+BAG:imrben remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/01/2023 3:10 CH
+BAG:imrben remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/01/2023 3:10 CH
+BAG:imrben remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/01/2023 3:10 CH
+BAG:imrben remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/01/2023 3:10 CH
+BAG:imrben remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 3:11 CH
+BAG:imrben remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 3:12 CH
+BAG:imrben remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 3:12 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:14 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:16 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:18 CH
+BAG:imrben remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/01/2023 3:19 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:19 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:23 CH
+BAG:imrben remove Găng bạc lydo: Mặc vào người at 02/01/2023 3:26 CH
+BAG:imrben remove 1xQuần vải thô lydo: Bán cho shop at 02/01/2023 3:26 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:36 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:38 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:40 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:42 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:44 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:46 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:48 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:50 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:52 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:55 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:57 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 3:58 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:05 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:07 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:10 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:13 CH
+BAG:imrben remove 20xThỏi vàng lydo: Giao dịch với alpha at 02/01/2023 4:15 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:15 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:15 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:15 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:16 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:19 CH
+BAG:imrben remove 1xMảnh Quỷ đất lydo: Bán cho shop at 02/01/2023 4:22 CH
+BAG:imrben remove 22xĐá thạch anh tím lydo: Bán cho shop at 02/01/2023 4:22 CH
+BAG:imrben remove 17xĐá lục bảo lydo: Bán cho shop at 02/01/2023 4:22 CH
+BAG:imrben remove 14xĐá Titan lydo: Bán cho shop at 02/01/2023 4:22 CH
+BAG:imrben remove 17xĐá Saphia lydo: Bán cho shop at 02/01/2023 4:22 CH
+BAG:imrben remove 2xMảnh Lợn lòi lydo: Bán cho shop at 02/01/2023 4:22 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:23 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:23 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:23 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:24 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:24 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:24 CH
+BAG:imrben remove Vệ tinh trí tuệ lydo: Cất vào rương at 02/01/2023 4:26 CH
+BAG:imrben remove Sao pha lê lydo: Cất vào rương at 02/01/2023 4:26 CH
+BAG:imrben remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Sao pha lê lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Sao pha lê lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Cải trang Black Goku SSJ White lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Đá Ruby lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Đậu xanh lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/01/2023 4:27 CH
+BAG:imrben remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 4:30 CH
+BAG:imrben remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 4:30 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:35 CH
+BAG:imrben remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/01/2023 4:36 CH
+BAG:imrben remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/01/2023 4:36 CH
+BAG:imrben remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 4:36 CH
+BAG:imrben remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 4:36 CH
+BAG:imrben remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 4:36 CH
+BAG:imrben remove 1xCánh thiên thần 2 lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 1xGăng bạc lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 9xĐá Ruby lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 5xĐá thạch anh tím lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 1xĐá Saphia lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 1xMảnh Lợn lòi mẹ lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 3xMảnh Lợn lòi lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 2xĐá lục bảo lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 1xĐá Titan lydo: Bán cho shop at 02/01/2023 4:47 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:52 CH
+BAG:imrben remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/01/2023 4:53 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 4:55 CH
+BAG:imrben remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 4:57 CH
+BAG:imrben remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 4:57 CH
+BAG:imrben remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 4:57 CH
+BAG:imrben remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 4:57 CH
+BAG:imrben remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 4:57 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:58 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:59 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:59 CH
+BAG:imrben remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 4:59 CH
+BAG:imrben remove Quần giáp vàng lydo: Tự Xóa vật phẩm at 02/01/2023 5:00 CH
+BAG:imrben remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 02/01/2023 5:00 CH
+BAG:imrben remove Bông tai Porata lydo: Tự Xóa vật phẩm at 02/01/2023 5:00 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:04 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:07 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:10 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:12 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:15 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:18 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:21 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:24 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:27 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:29 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:32 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:33 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:33 CH
+BAG:imrben remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 5:33 CH
+BAG:imrben remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:33 CH
+BAG:imrben remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:33 CH
+BAG:imrben remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 5:33 CH
+BAG:imrben remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 5:33 CH
+BAG:imrben remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 5:33 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:34 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:34 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:34 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:34 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:35 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:36 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:36 CH
+BAG:imrben remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 5:36 CH
+BAG:imrben remove Quần lông Xayda lydo: Mặc cho đệ tử at 02/01/2023 5:37 CH
+BAG:imrben remove 1xMảnh Quỷ bay lydo: Bán cho shop at 02/01/2023 5:39 CH
+BAG:imrben remove 1xĐá Titan lydo: Bán cho shop at 02/01/2023 5:39 CH
+BAG:imrben remove 2xĐá Ruby lydo: Bán cho shop at 02/01/2023 5:39 CH
+BAG:imrben remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:40 CH
+BAG:imrben remove Găng bạc lydo: Mặc cho đệ tử at 02/01/2023 5:40 CH
+BAG:imrben remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 02/01/2023 5:40 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:40 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:42 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:43 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:44 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:44 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:44 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:45 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:48 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:48 CH
+BAG:imrben remove Rada cấp 7 lydo: Mặc cho đệ tử at 02/01/2023 5:49 CH
+BAG:imrben remove Giày lông Xayda lydo: Mặc cho đệ tử at 02/01/2023 5:49 CH
+BAG:imrben remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 CH
+BAG:imrben remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 5:49 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 5:51 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:53 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:53 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 5:53 CH
+BAG:imrben remove 2xĐá lục bảo lydo: Bán cho shop at 02/01/2023 5:53 CH
+BAG:imrben remove 1xĐá Titan lydo: Bán cho shop at 02/01/2023 5:53 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:56 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:56 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:56 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:56 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:56 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:57 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:57 CH
+BAG:imrben remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 5:57 CH
+BAG:imrben remove Giày lông Xayda lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:imrben remove Quần lông Xayda lydo: Mặc cho đệ tử at 02/01/2023 5:57 CH
+BAG:imrben remove Sao pha lê lydo: Cất vào rương at 02/01/2023 5:58 CH
+BAG:imrben remove Sao pha lê lydo: Cất vào rương at 02/01/2023 5:58 CH
+BAG:imrben remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 5:58 CH
+BAG:imrben remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 5:58 CH
+BAG:imrben remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 5:58 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:00 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:00 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:00 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:02 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:03 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:04 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:05 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:06 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:07 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:11 CH
+BAG:imrben remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 6:11 CH
+BAG:imrben remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 6:26 CH
+BAG:imrben remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 6:26 CH
+BAG:imrben remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 6:26 CH
+BAG:imrben remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/01/2023 6:26 CH
+BAG:imrben remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/01/2023 6:26 CH
+BAG:imrben remove Găng bạc lydo: Tự Xóa vật phẩm at 02/01/2023 6:29 CH
+BAG:imrben remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 6:29 CH
+BAG:imrben remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 6:30 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:36 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:40 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:50 CH
+BAG:imrben remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:56 CH

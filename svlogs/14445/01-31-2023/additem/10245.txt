@@ -1,0 +1,283 @@
+BAG:tungvipnro add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 01/31/2023 11:45 AM
+BAG:tungvipnro add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 01/31/2023 11:45 AM
+BAG:tungvipnro add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 01/31/2023 11:45 AM
+BAG:tungvipnro add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 01/31/2023 11:49 AM
+BAG:tungvipnro add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 01/31/2023 11:50 AM
+BAG:tungvipnro add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 01/31/2023 11:50 AM
+BAG:tungvipnro add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 01/31/2023 11:52 AM
+BAG:tungvipnro add 1xGà quay nguyên con lydo: Nhặt từ map at 01/31/2023 11:52 AM
+BAG:tungvipnro add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 11:53 AM
+BAG:tungvipnro add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 01/31/2023 11:53 AM
+BAG:tungvipnro add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 01/31/2023 11:54 AM
+BAG:tungvipnro add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 01/31/2023 11:55 AM
+BAG:tungvipnro add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 01/31/2023 11:55 AM
+BAG:tungvipnro add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 11:55 AM
+BAG:tungvipnro add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 01/31/2023 11:56 AM
+BAG:tungvipnro add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 01/31/2023 11:56 AM
+BAG:tungvipnro add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 01/31/2023 11:57 AM
+BAG:tungvipnro add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 11:57 AM
+BAG:tungvipnro add 1xTrứng vịt muối lydo: Nhặt từ map at 01/31/2023 11:57 AM
+BAG:tungvipnro add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 01/31/2023 11:58 AM
+BAG:tungvipnro add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 11:58 AM
+BAG:tungvipnro add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 01/31/2023 11:59 AM
+BAG:tungvipnro add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 01/31/2023 11:59 AM
+BAG:tungvipnro add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 01/31/2023 11:59 AM
+BAG:tungvipnro add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 01/31/2023 11:59 AM
+BAG:tungvipnro add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 01/31/2023 12:00 PM
+BAG:tungvipnro add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 01/31/2023 12:01 PM
+BAG:tungvipnro add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 01/31/2023 12:01 PM
+BAG:tungvipnro add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 01/31/2023 12:02 PM
+BAG:tungvipnro add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 01/31/2023 12:02 PM
+BAG:tungvipnro add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 01/31/2023 12:03 PM
+BAG:tungvipnro add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 01/31/2023 12:04 PM
+BAG:tungvipnro add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 01/31/2023 12:05 PM
+BAG:tungvipnro add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 01/31/2023 12:06 PM
+BAG:tungvipnro add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 01/31/2023 12:06 PM
+BAG:tungvipnro add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 01/31/2023 12:06 PM
+BAG:tungvipnro add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 01/31/2023 12:07 PM
+BAG:tungvipnro add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 01/31/2023 12:08 PM
+BAG:tungvipnro add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 01/31/2023 12:09 PM
+BAG:tungvipnro add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 01/31/2023 12:09 PM
+BAG:tungvipnro add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 01/31/2023 12:10 PM
+BAG:tungvipnro add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 01/31/2023 12:10 PM
+BAG:tungvipnro add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 01/31/2023 12:11 PM
+BAG:tungvipnro add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 01/31/2023 12:12 PM
+BAG:tungvipnro add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 01/31/2023 12:12 PM
+BAG:tungvipnro add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 12:12 PM
+BAG:tungvipnro add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 01/31/2023 12:12 PM
+BAG:tungvipnro add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 01/31/2023 12:13 PM
+BAG:tungvipnro add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 01/31/2023 12:14 PM
+BAG:tungvipnro add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 01/31/2023 12:15 PM
+BAG:tungvipnro add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 01/31/2023 12:16 PM
+BAG:tungvipnro add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 01/31/2023 12:16 PM
+BAG:tungvipnro add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 01/31/2023 12:16 PM
+BAG:tungvipnro add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 01/31/2023 12:17 PM
+BAG:tungvipnro add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 01/31/2023 12:17 PM
+BAG:tungvipnro add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 01/31/2023 12:17 PM
+BAG:tungvipnro add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 01/31/2023 12:18 PM
+BAG:tungvipnro add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 01/31/2023 12:18 PM
+BAG:tungvipnro add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 01/31/2023 12:19 PM
+BAG:tungvipnro add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 01/31/2023 12:19 PM
+BAG:tungvipnro add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 01/31/2023 12:19 PM
+BAG:tungvipnro add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 01/31/2023 12:21 PM
+BAG:tungvipnro add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 01/31/2023 12:21 PM
+BAG:tungvipnro add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 01/31/2023 12:21 PM
+BAG:tungvipnro add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 01/31/2023 12:21 PM
+BAG:tungvipnro add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 01/31/2023 12:22 PM
+BAG:tungvipnro add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 01/31/2023 12:23 PM
+BAG:tungvipnro add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 01/31/2023 12:23 PM
+BAG:tungvipnro add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 01/31/2023 12:24 PM
+BAG:tungvipnro add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 01/31/2023 12:24 PM
+BAG:tungvipnro add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 01/31/2023 12:25 PM
+BAG:tungvipnro add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 01/31/2023 12:26 PM
+BAG:tungvipnro add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 01/31/2023 12:26 PM
+BAG:tungvipnro add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 01/31/2023 12:26 PM
+BAG:tungvipnro add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 01/31/2023 12:27 PM
+BAG:tungvipnro add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 01/31/2023 12:27 PM
+BAG:tungvipnro add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 01/31/2023 12:27 PM
+BAG:tungvipnro add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 01/31/2023 12:27 PM
+BAG:tungvipnro add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 01/31/2023 12:27 PM
+BAG:tungvipnro add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 01/31/2023 12:28 PM
+BAG:tungvipnro add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 01/31/2023 12:28 PM
+BAG:tungvipnro add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 01/31/2023 12:29 PM
+BAG:tungvipnro add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 01/31/2023 12:29 PM
+BAG:tungvipnro add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 01/31/2023 12:29 PM
+BAG:tungvipnro add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 12:29 PM
+BAG:tungvipnro add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 01/31/2023 12:30 PM
+BAG:tungvipnro add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 01/31/2023 12:30 PM
+BAG:tungvipnro add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 01/31/2023 12:31 PM
+BAG:tungvipnro add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 01/31/2023 12:31 PM
+BAG:tungvipnro add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 01/31/2023 12:31 PM
+BAG:tungvipnro add 1xBột mì lydo: Nhặt từ map at 01/31/2023 12:32 PM
+BAG:tungvipnro add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 01/31/2023 12:32 PM
+BAG:tungvipnro add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 01/31/2023 12:33 PM
+BAG:tungvipnro add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 01/31/2023 12:33 PM
+BAG:tungvipnro add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 01/31/2023 12:33 PM
+BAG:tungvipnro add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 01/31/2023 12:33 PM
+BAG:tungvipnro add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:tungvipnro add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:tungvipnro add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:tungvipnro add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 01/31/2023 12:35 PM
+BAG:tungvipnro add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 01/31/2023 12:36 PM
+BAG:tungvipnro add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 01/31/2023 12:36 PM
+BAG:tungvipnro add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:tungvipnro add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 01/31/2023 12:37 PM
+BAG:tungvipnro add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 01/31/2023 12:38 PM
+BAG:tungvipnro add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 01/31/2023 12:38 PM
+BAG:tungvipnro add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 01/31/2023 12:38 PM
+BAG:tungvipnro add 2xBột mì (old: 1) lydo: Nhặt từ map at 01/31/2023 12:38 PM
+BAG:tungvipnro add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 01/31/2023 12:39 PM
+BAG:tungvipnro add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 01/31/2023 12:39 PM
+BAG:tungvipnro add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 01/31/2023 12:40 PM
+BAG:tungvipnro add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 01/31/2023 12:41 PM
+BAG:tungvipnro add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 01/31/2023 12:41 PM
+BAG:tungvipnro add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 01/31/2023 12:43 PM
+BAG:tungvipnro add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 01/31/2023 12:43 PM
+BAG:tungvipnro add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 01/31/2023 12:43 PM
+BAG:tungvipnro add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 01/31/2023 12:44 PM
+BAG:tungvipnro add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 01/31/2023 12:44 PM
+BAG:tungvipnro add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 01/31/2023 12:44 PM
+BAG:tungvipnro add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 01/31/2023 12:44 PM
+BAG:tungvipnro add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 01/31/2023 12:45 PM
+BAG:tungvipnro add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 01/31/2023 12:45 PM
+BAG:tungvipnro add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 01/31/2023 12:45 PM
+BAG:tungvipnro add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 01/31/2023 12:46 PM
+BAG:tungvipnro add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 01/31/2023 12:46 PM
+BAG:tungvipnro add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 01/31/2023 12:47 PM
+BAG:tungvipnro add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 01/31/2023 12:48 PM
+BAG:tungvipnro add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 01/31/2023 12:48 PM
+BAG:tungvipnro add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 01/31/2023 12:48 PM
+BAG:tungvipnro add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 01/31/2023 12:48 PM
+BAG:tungvipnro add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 01/31/2023 12:49 PM
+BAG:tungvipnro add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 01/31/2023 12:49 PM
+BAG:tungvipnro add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 01/31/2023 12:49 PM
+BAG:tungvipnro add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 01/31/2023 12:49 PM
+BAG:tungvipnro add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 01/31/2023 12:49 PM
+BAG:tungvipnro add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 01/31/2023 12:50 PM
+BAG:tungvipnro add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 01/31/2023 12:50 PM
+BAG:tungvipnro add 3xBột mì (old: 2) lydo: Nhặt từ map at 01/31/2023 12:51 PM
+BAG:tungvipnro add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 01/31/2023 12:51 PM
+BAG:tungvipnro add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 01/31/2023 12:51 PM
+BAG:tungvipnro add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 01/31/2023 12:51 PM
+BAG:tungvipnro add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 01/31/2023 12:51 PM
+BAG:tungvipnro add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 01/31/2023 12:52 PM
+BAG:tungvipnro add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 01/31/2023 12:52 PM
+BAG:tungvipnro add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 01/31/2023 12:52 PM
+BAG:tungvipnro add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 01/31/2023 12:52 PM
+BAG:tungvipnro add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 01/31/2023 12:53 PM
+BAG:tungvipnro add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 01/31/2023 12:53 PM
+BAG:tungvipnro add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 01/31/2023 12:53 PM
+BAG:tungvipnro add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 01/31/2023 12:54 PM
+BAG:tungvipnro add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 01/31/2023 12:55 PM
+BAG:tungvipnro add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 01/31/2023 12:55 PM
+BAG:tungvipnro add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 01/31/2023 12:55 PM
+BAG:tungvipnro add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 01/31/2023 12:56 PM
+BAG:tungvipnro add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 01/31/2023 12:57 PM
+BAG:tungvipnro add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 01/31/2023 12:58 PM
+BAG:tungvipnro add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 01/31/2023 1:00 PM
+BAG:tungvipnro add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 01/31/2023 1:00 PM
+BAG:tungvipnro add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 01/31/2023 1:01 PM
+BAG:tungvipnro add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 01/31/2023 1:02 PM
+BAG:tungvipnro add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 01/31/2023 1:02 PM
+BAG:tungvipnro add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 01/31/2023 1:02 PM
+BAG:tungvipnro add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 01/31/2023 1:02 PM
+BAG:tungvipnro add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 01/31/2023 1:03 PM
+BAG:tungvipnro add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 01/31/2023 1:03 PM
+BAG:tungvipnro add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 01/31/2023 1:04 PM
+BAG:tungvipnro add 70xĐá Saphia (old: 69) lydo: Nhặt từ map at 01/31/2023 1:04 PM
+BAG:tungvipnro add 71xĐá Saphia (old: 70) lydo: Nhặt từ map at 01/31/2023 1:04 PM
+BAG:tungvipnro add 72xĐá Saphia (old: 71) lydo: Nhặt từ map at 01/31/2023 1:05 PM
+BAG:tungvipnro add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 01/31/2023 1:14 PM
+BAG:tungvipnro add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 01/31/2023 1:14 PM
+BAG:tungvipnro add 73xĐá Saphia (old: 72) lydo: Nhặt từ map at 01/31/2023 1:15 PM
+BAG:tungvipnro add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 01/31/2023 1:15 PM
+BAG:tungvipnro add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 01/31/2023 1:16 PM
+BAG:tungvipnro add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 01/31/2023 1:16 PM
+BAG:tungvipnro add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 01/31/2023 1:16 PM
+BAG:tungvipnro add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 01/31/2023 1:17 PM
+BAG:tungvipnro add 74xĐá Saphia (old: 73) lydo: Nhặt từ map at 01/31/2023 1:17 PM
+BAG:tungvipnro add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 01/31/2023 1:17 PM
+BAG:tungvipnro add 75xĐá Saphia (old: 74) lydo: Nhặt từ map at 01/31/2023 1:17 PM
+BAG:tungvipnro add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 01/31/2023 1:18 PM
+BAG:tungvipnro add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 01/31/2023 1:18 PM
+BAG:tungvipnro add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 01/31/2023 1:18 PM
+BAG:tungvipnro add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 01/31/2023 1:19 PM
+BAG:tungvipnro add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 01/31/2023 1:19 PM
+BAG:tungvipnro add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 01/31/2023 1:20 PM
+BAG:tungvipnro add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 01/31/2023 1:20 PM
+BAG:tungvipnro add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 01/31/2023 1:20 PM
+BAG:tungvipnro add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 01/31/2023 1:21 PM
+BAG:tungvipnro add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 01/31/2023 1:22 PM
+BAG:tungvipnro add 9xThỏi vàng lydo: Lấy từ rương qua người at 01/31/2023 1:26 PM
+BAG:tungvipnro add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 1:30 PM
+BAG:tungvipnro add 1xAvatar lydo: Mua từ cửa hàng at 01/31/2023 1:31 PM
+BAG:tungvipnro add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 1:32 PM
+BAG:tungvipnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 1:33 PM
+BAG:tungvipnro add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 1:33 PM
+BAG:tungvipnro add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 4:07 PM
+BAG:tungvipnro add 1xBột mì lydo: Nhặt từ map at 01/31/2023 4:08 PM
+BAG:tungvipnro add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 4:09 PM
+BAG:tungvipnro add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 4:11 PM
+BAG:tungvipnro add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 4:13 PM
+BAG:tungvipnro add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 4:13 PM
+BAG:tungvipnro add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 4:15 PM
+BAG:tungvipnro add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 4:16 PM
+BAG:tungvipnro add 1xMèo mun lydo: Mua từ cửa hàng at 01/31/2023 4:16 PM
+BAG:tungvipnro add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/31/2023 4:17 PM
+BAG:tungvipnro add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 01/31/2023 4:17 PM
+BAG:tungvipnro add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/31/2023 4:18 PM
+BAG:tungvipnro add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 4:18 PM
+BAG:tungvipnro add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 4:18 PM
+BAG:tungvipnro add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/31/2023 4:18 PM
+BAG:tungvipnro add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/31/2023 4:18 PM
+BAG:tungvipnro add 1xCải trang Mabư Noel lydo: Lấy từ body đệ vào hành trang at 01/31/2023 4:18 PM
+BAG:tungvipnro add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 4:19 PM
+BAG:tungvipnro add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 4:19 PM
+BAG:tungvipnro add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 4:19 PM
+BAG:tungvipnro add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/31/2023 4:19 PM
+BAG:tungvipnro add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/31/2023 4:19 PM
+BAG:tungvipnro add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/31/2023 4:19 PM
+BAG:tungvipnro add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/31/2023 4:19 PM
+BAG:tungvipnro add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 01/31/2023 4:20 PM
+BAG:tungvipnro add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 01/31/2023 4:21 PM
+BAG:tungvipnro add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 4:25 PM
+BAG:tungvipnro add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 01/31/2023 4:26 PM
+BAG:tungvipnro add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 4:28 PM
+BAG:tungvipnro add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/31/2023 4:28 PM
+BAG:tungvipnro add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/31/2023 4:30 PM
+BAG:tungvipnro add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/31/2023 4:32 PM
+BAG:tungvipnro add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/31/2023 4:35 PM
+BAG:tungvipnro add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/31/2023 4:37 PM
+BAG:tungvipnro add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 4:39 PM
+BAG:tungvipnro add 1xĐậu xanh lydo: Nhặt từ map at 01/31/2023 4:40 PM
+BAG:tungvipnro add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 6:33 PM
+BAG:tungvipnro add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 6:33 PM
+BAG:tungvipnro add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 6:33 PM
+BAG:tungvipnro add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/31/2023 6:33 PM
+BAG:tungvipnro add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/31/2023 6:33 PM
+BAG:tungvipnro add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/31/2023 6:33 PM
+BAG:tungvipnro add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/31/2023 6:33 PM
+BAG:tungvipnro add 20xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ rương qua người at 01/31/2023 6:35 PM
+BAG:tungvipnro add 15xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 01/31/2023 6:35 PM
+BAG:tungvipnro add 4xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 01/31/2023 6:35 PM
+BAG:tungvipnro add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhập ngọc at 01/31/2023 6:42 PM
+BAG:tungvipnro add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhập ngọc at 01/31/2023 6:42 PM
+BAG:tungvipnro add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhập ngọc at 01/31/2023 6:43 PM
+BAG:tungvipnro add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 01/31/2023 6:43 PM

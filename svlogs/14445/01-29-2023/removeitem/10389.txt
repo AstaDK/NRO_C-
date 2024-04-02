@@ -1,0 +1,194 @@
+BAG:chjll remove Rada cấp 1 lydo: Mặc vào người at 01/29/2023 9:19 PM
+BAG:chjll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:19 PM
+BAG:chjll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:20 PM
+BAG:chjll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:29 PM
+BAG:chjll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:30 PM
+BAG:chjll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 9:31 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:34 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:34 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:35 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:35 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:35 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:35 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:36 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:36 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:36 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:37 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:37 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:37 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:38 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:39 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:40 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:40 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:41 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:41 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:42 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:42 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:43 PM
+BAG:chjll remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:43 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 9:44 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 9:44 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 9:45 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 9:47 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 9:49 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 9:52 PM
+BAG:chjll remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 9:53 PM
+BAG:chjll remove Cánh thiên thần 2 lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Mèo mun lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Đá thạch anh tím lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Mảnh Quỷ đất mẹ lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Đá lục bảo lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Đá Ruby lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Bột mì lydo: Cất vào rương at 01/29/2023 9:55 PM
+BAG:chjll remove Găng vải dày lydo: Mặc vào người at 01/29/2023 9:56 PM
+BAG:chjll remove 1xBó Hoa Hồng lydo: Bán cho shop at 01/29/2023 9:57 PM
+BAG:chjll remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/29/2023 9:57 PM
+BAG:chjll remove Áo vải 3 lỗ lydo: Mặc vào người at 01/29/2023 9:59 PM
+BAG:chjll remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 11:03 PM
+BAG:chjll remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 11:03 PM
+BAG:chjll remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 11:03 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:04 PM
+BAG:chjll remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 11:05 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:06 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:08 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:08 PM
+BAG:chjll remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 01/29/2023 11:08 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:chjll remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 11:10 PM
+BAG:chjll remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 11:10 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:10 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:12 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:13 PM
+BAG:chjll remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:13 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:14 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:14 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:14 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:14 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:15 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:15 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:15 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:16 PM
+BAG:chjll remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:16 PM
+BAG:chjll remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:16 PM
+BAG:chjll remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:16 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:16 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:16 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:17 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:17 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:17 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:17 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:17 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:18 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:18 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:18 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:18 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:19 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:19 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:20 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:20 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:20 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:20 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:23 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:24 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:24 PM
+BAG:chjll remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 01/29/2023 11:25 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:25 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:27 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:chjll remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:29 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:29 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:30 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:31 PM
+BAG:chjll remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:31 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:31 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:31 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:31 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:32 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:32 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:32 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:33 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:33 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:33 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:34 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:34 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:34 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:35 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:35 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:35 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:35 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:36 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:36 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:36 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:36 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:36 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:36 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:37 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:37 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:37 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:38 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:38 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:38 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:38 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:39 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:39 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:39 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:39 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:40 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:40 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:41 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:41 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:41 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:41 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:42 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:42 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:42 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:42 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:42 PM
+BAG:chjll remove Găng vải đen lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:chjll remove Áo vải 3 lỗ lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:chjll remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:chjll remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/29/2023 11:42 PM
+BAG:chjll remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:43 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:43 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:44 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:44 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:44 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:44 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:45 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:45 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:45 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:45 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:46 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:46 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:46 PM
+BAG:chjll remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 11:46 PM
+BAG:chjll remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 11:47 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:47 PM
+BAG:chjll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 11:47 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:47 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:48 PM
+BAG:chjll remove Quần vải đen lydo: Tự Xóa vật phẩm at 01/29/2023 11:48 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:48 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:50 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:50 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:51 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:52 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:52 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:53 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:55 PM
+BAG:chjll remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 01/29/2023 11:55 PM
+BAG:chjll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 11:56 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:57 PM
+BAG:chjll remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:59 PM

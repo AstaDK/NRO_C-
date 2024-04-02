@@ -1,0 +1,41 @@
+BAG:zenodro remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 SA
+BAG:zenodro remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 SA
+BAG:zenodro remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 SA
+BAG:zenodro remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 SA
+BAG:zenodro remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 SA
+BAG:zenodro remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:31 SA
+BAG:zenodro remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 10:31 SA
+BAG:zenodro remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 10:31 SA
+BAG:zenodro remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 10:31 SA
+BAG:zenodro remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 10:32 SA
+BAG:zenodro remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 10:32 SA
+BAG:zenodro remove 10xBột mì lydo: Nấu bánh at 02/02/2023 10:32 SA
+BAG:zenodro remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 10:32 SA
+BAG:zenodro remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/02/2023 10:32 SA
+BAG:zenodro remove 1xDiều rồng lydo: Bán cho shop at 02/02/2023 10:33 SA
+BAG:zenodro remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 SA
+BAG:zenodro remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 SA
+BAG:zenodro remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 SA
+BAG:zenodro remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:00 SA
+BAG:zenodro remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:01 SA
+BAG:zenodro remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:01 SA
+BAG:zenodro remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:01 SA
+BAG:zenodro remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:01 SA
+BAG:zenodro remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:zenodro remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:zenodro remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:zenodro remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:zenodro remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:zenodro remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:zenodro remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 SA
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:50 CH
+BAG:zenodro remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 2:50 CH
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:54 CH
+BAG:zenodro remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:zenodro remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 7:40 CH
+BAG:zenodro remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:08 CH
+BAG:zenodro remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:08 CH
+BAG:zenodro remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:08 CH
+BAG:zenodro remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 8:08 CH
+BAG:zenodro remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:08 CH
+BAG:zenodro remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:08 CH

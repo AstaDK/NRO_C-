@@ -1,0 +1,103 @@
+BAG:nr0xxvip add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 02/01/2023 9:18 CH
+BAG:nr0xxvip add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/01/2023 9:18 CH
+BAG:nr0xxvip add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 02/01/2023 9:18 CH
+BAG:nr0xxvip add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 02/01/2023 9:18 CH
+BAG:nr0xxvip add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 02/01/2023 9:19 CH
+BAG:nr0xxvip add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/01/2023 9:19 CH
+BAG:nr0xxvip add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 02/01/2023 9:19 CH
+BAG:nr0xxvip add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 02/01/2023 9:19 CH
+BAG:nr0xxvip add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 02/01/2023 9:19 CH
+BAG:nr0xxvip add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/01/2023 9:19 CH
+BAG:nr0xxvip add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 02/01/2023 9:20 CH
+BAG:nr0xxvip add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/01/2023 9:20 CH
+BAG:nr0xxvip add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 02/01/2023 9:20 CH
+BAG:nr0xxvip add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/01/2023 9:20 CH
+BAG:nr0xxvip add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 02/01/2023 9:20 CH
+BAG:nr0xxvip add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 02/01/2023 9:20 CH
+BAG:nr0xxvip add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 02/01/2023 9:21 CH
+BAG:nr0xxvip add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 02/01/2023 9:21 CH
+BAG:nr0xxvip add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 02/01/2023 9:22 CH
+BAG:nr0xxvip add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 02/01/2023 9:22 CH
+BAG:nr0xxvip add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 02/01/2023 9:22 CH
+BAG:nr0xxvip add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 02/01/2023 9:22 CH
+BAG:nr0xxvip add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 02/01/2023 9:22 CH
+BAG:nr0xxvip add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 02/01/2023 9:23 CH
+BAG:nr0xxvip add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 02/01/2023 9:23 CH
+BAG:nr0xxvip add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/01/2023 9:24 CH
+BAG:nr0xxvip add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 02/01/2023 9:24 CH
+BAG:nr0xxvip add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 02/01/2023 9:24 CH
+BAG:nr0xxvip add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 02/01/2023 9:24 CH
+BAG:nr0xxvip add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 02/01/2023 9:24 CH
+BAG:nr0xxvip add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 02/01/2023 9:25 CH
+BAG:nr0xxvip add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 02/01/2023 9:25 CH
+BAG:nr0xxvip add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 02/01/2023 9:25 CH
+BAG:nr0xxvip add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 02/01/2023 9:25 CH
+BAG:nr0xxvip add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 02/01/2023 9:25 CH
+BAG:nr0xxvip add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 02/01/2023 9:25 CH
+BAG:nr0xxvip add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 02/01/2023 9:25 CH
+BAG:nr0xxvip add 4xBột mì (old: 3) lydo: Nhặt từ map at 02/01/2023 9:26 CH
+BAG:nr0xxvip add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 02/01/2023 9:26 CH
+BAG:nr0xxvip add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 02/01/2023 9:26 CH
+BAG:nr0xxvip add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 02/01/2023 9:26 CH
+BAG:nr0xxvip add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 02/01/2023 9:26 CH
+BAG:nr0xxvip add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 02/01/2023 9:27 CH
+BAG:nr0xxvip add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 02/01/2023 9:27 CH
+BAG:nr0xxvip add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 02/01/2023 9:27 CH
+BAG:nr0xxvip add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/01/2023 9:27 CH
+BAG:nr0xxvip add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 02/01/2023 9:27 CH
+BAG:nr0xxvip add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 02/01/2023 9:28 CH
+BAG:nr0xxvip add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 02/01/2023 9:28 CH
+BAG:nr0xxvip add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 02/01/2023 9:28 CH
+BAG:nr0xxvip add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 02/01/2023 9:28 CH
+BAG:nr0xxvip add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/01/2023 9:28 CH
+BAG:nr0xxvip add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 02/01/2023 9:28 CH
+BAG:nr0xxvip add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 02/01/2023 9:29 CH
+BAG:nr0xxvip add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 02/01/2023 9:29 CH
+BAG:nr0xxvip add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:nr0xxvip add 1xQuần vải thô lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:nr0xxvip add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:nr0xxvip add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:nr0xxvip add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:nr0xxvip add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:nr0xxvip add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 02/01/2023 9:31 CH
+BAG:nr0xxvip add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 02/01/2023 9:31 CH
+BAG:nr0xxvip add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 02/01/2023 9:31 CH
+BAG:nr0xxvip add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/01/2023 9:31 CH
+BAG:nr0xxvip add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 02/01/2023 9:32 CH
+BAG:nr0xxvip add 1xGiầy vải thô lydo: Nhặt từ map at 02/01/2023 9:32 CH
+BAG:nr0xxvip add 1xRada cấp 1 lydo: Nhặt từ map at 02/01/2023 9:32 CH
+BAG:nr0xxvip add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/01/2023 9:32 CH
+BAG:nr0xxvip add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 02/01/2023 9:33 CH
+BAG:nr0xxvip add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/01/2023 9:33 CH
+BAG:nr0xxvip add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/01/2023 9:33 CH
+BAG:nr0xxvip add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 02/01/2023 9:33 CH
+BAG:nr0xxvip add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/01/2023 9:34 CH
+BAG:nr0xxvip add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 02/01/2023 9:34 CH
+BAG:nr0xxvip add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 02/01/2023 9:34 CH
+BAG:nr0xxvip add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/01/2023 9:34 CH
+BAG:nr0xxvip add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 02/01/2023 9:35 CH
+BAG:nr0xxvip add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 02/01/2023 9:35 CH
+BAG:nr0xxvip add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 02/01/2023 9:35 CH
+BAG:nr0xxvip add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 02/01/2023 9:35 CH
+BAG:nr0xxvip add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 02/01/2023 9:35 CH
+BAG:nr0xxvip add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 5xBột mì (old: 4) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 02/01/2023 9:37 CH
+BAG:nr0xxvip add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 02/01/2023 9:38 CH
+BAG:nr0xxvip add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 02/01/2023 9:38 CH
+BAG:nr0xxvip add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 02/01/2023 9:39 CH
+BAG:nr0xxvip add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 02/01/2023 9:39 CH
+BAG:nr0xxvip add 6xBột mì (old: 5) lydo: Nhặt từ map at 02/01/2023 9:39 CH
+BAG:nr0xxvip add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 02/01/2023 9:39 CH
+BAG:nr0xxvip add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 02/01/2023 9:39 CH
+BAG:nr0xxvip add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 02/01/2023 9:39 CH
+BAG:nr0xxvip add 1xGăng vải thô lydo: Nhặt từ map at 02/01/2023 9:41 CH
+BAG:nr0xxvip add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 02/01/2023 9:41 CH
+BAG:nr0xxvip add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 02/01/2023 9:41 CH
+BAG:nr0xxvip add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 02/01/2023 9:41 CH

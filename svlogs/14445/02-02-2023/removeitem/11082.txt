@@ -1,0 +1,65 @@
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:00 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:02 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:03 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:04 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:04 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:05 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:05 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:06 CH
+BAG:manhdaumoi remove 1xSách đấm Demon lv1 lydo: Bán cho shop at 02/02/2023 9:08 CH
+BAG:manhdaumoi remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 02/02/2023 9:08 CH
+BAG:manhdaumoi remove Avatar đeo khẩu trang lydo: Mặc vào người at 02/02/2023 9:08 CH
+BAG:manhdaumoi remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 02/02/2023 9:08 CH
+BAG:manhdaumoi remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 02/02/2023 9:08 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:08 CH
+BAG:manhdaumoi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 9:11 CH
+BAG:manhdaumoi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 9:11 CH
+BAG:manhdaumoi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:11 CH
+BAG:manhdaumoi remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 9:11 CH
+BAG:manhdaumoi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:11 CH
+BAG:manhdaumoi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:12 CH
+BAG:manhdaumoi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:12 CH
+BAG:manhdaumoi remove Đặt tên đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 9:12 CH
+BAG:manhdaumoi remove Đặt tên đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 9:12 CH
+BAG:manhdaumoi remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 02/02/2023 9:12 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:13 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:13 CH
+BAG:manhdaumoi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:15 CH
+BAG:manhdaumoi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:15 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:15 CH
+BAG:manhdaumoi remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 02/02/2023 9:15 CH
+BAG:manhdaumoi remove Phi Long VIP lydo: Tự Xóa vật phẩm at 02/02/2023 9:15 CH
+BAG:manhdaumoi remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 9:15 CH
+BAG:manhdaumoi remove Mèo mun lydo: Tự Xóa vật phẩm at 02/02/2023 9:15 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:16 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:17 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:19 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:21 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:22 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:24 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 9:26 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:34 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:36 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:38 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:40 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:42 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:43 CH
+BAG:manhdaumoi remove Nâng cấp kỹ năng 1 đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 9:45 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:56 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:58 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:59 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:09 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:10 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:12 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:15 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:18 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:20 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:23 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:26 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:28 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:manhdaumoi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:manhdaumoi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:manhdaumoi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:manhdaumoi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:manhdaumoi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:42 CH

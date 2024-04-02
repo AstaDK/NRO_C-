@@ -1,0 +1,7 @@
+BAG:dcmcvc add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:08 PM
+BAG:dcmcvc add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 7:10 PM
+BAG:dcmcvc add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 7:12 PM
+BAG:dcmcvc add 20xThỏi vàng lydo: Giftcode at 01/29/2023 7:13 PM
+BAG:dcmcvc add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 7:14 PM
+BAG:dcmcvc add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 7:15 PM
+BAG:dcmcvc add 1xMèo mun lydo: Mua từ cửa hàng at 01/29/2023 7:15 PM

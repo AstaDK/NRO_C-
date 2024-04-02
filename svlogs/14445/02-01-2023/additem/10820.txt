@@ -1,0 +1,10 @@
+BAG:goxfey add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 02/01/2023 11:02 SA
+BAG:goxfey add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/01/2023 11:03 SA
+BAG:goxfey add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 11:03 SA
+BAG:goxfey add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 11:03 SA
+BAG:goxfey add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 11:03 SA
+BAG:goxfey add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 11:05 SA
+BAG:goxfey add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 11:18 SA
+BAG:goxfey add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 11:20 SA
+BAG:goxfey add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 11:27 SA
+BAG:goxfey add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/01/2023 11:30 SA

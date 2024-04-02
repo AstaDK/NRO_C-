@@ -1,0 +1,19 @@
+BAG:zipbar add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 5:50 PM
+BAG:zipbar add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 5:53 PM
+BAG:zipbar add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 5:53 PM
+BAG:zipbar add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 5:53 PM
+BAG:zipbar add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 5:53 PM
+BAG:zipbar add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 5:55 PM
+BAG:zipbar add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 5:55 PM
+BAG:zipbar add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/29/2023 5:55 PM
+BAG:zipbar add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/29/2023 5:55 PM
+BAG:zipbar add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 01/29/2023 5:56 PM
+BAG:zipbar add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 5:56 PM
+BAG:zipbar add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:zipbar add 1xBột mì lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:zipbar add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:zipbar add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:zipbar add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:zipbar add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 5:57 PM
+BAG:zipbar add 1xQuần sợi len lydo: Nhặt từ map at 01/29/2023 6:01 PM
+BAG:zipbar add 1xGhế bay lydo: Mua từ cửa hàng at 01/29/2023 6:03 PM

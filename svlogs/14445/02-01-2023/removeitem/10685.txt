@@ -1,0 +1,411 @@
+BAG:kakarots9x99 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/01/2023 12:00 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 12:00 SA
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 12:00 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/01/2023 12:02 SA
+BAG:kakarots9x99 remove 1xMảnh Quỷ đất lydo: Bán cho shop at 02/01/2023 12:03 SA
+BAG:kakarots9x99 remove 8xĐá Saphia lydo: Bán cho shop at 02/01/2023 12:03 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:03 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:03 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:03 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 12:05 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc vào người at 02/01/2023 12:06 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc vào người at 02/01/2023 12:06 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc vào người at 02/01/2023 12:07 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc vào người at 02/01/2023 12:08 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:09 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:09 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:09 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:12 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:12 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:12 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:12 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 12:12 SA
+BAG:kakarots9x99 remove Cải trang Mabư Noel lydo: Mặc vào người at 02/01/2023 12:12 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Cất vào rương at 02/01/2023 12:13 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Cất vào rương at 02/01/2023 12:13 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Cất vào rương at 02/01/2023 12:13 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Cất vào rương at 02/01/2023 12:13 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Cất vào rương at 02/01/2023 12:13 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:19 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:23 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:24 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove Cải trang Hit lydo: Mặc vào người at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Cất vào rương at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Cất vào rương at 02/01/2023 12:28 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:29 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Cất vào rương at 02/01/2023 12:30 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Cất vào rương at 02/01/2023 12:30 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:32 SA
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:35 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:36 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 12:38 SA
+BAG:kakarots9x99 remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 02/01/2023 12:41 SA
+BAG:kakarots9x99 remove Găng đồng lydo: Tự Xóa vật phẩm at 02/01/2023 12:42 SA
+BAG:kakarots9x99 remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/01/2023 12:43 SA
+BAG:kakarots9x99 remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/01/2023 12:43 SA
+BAG:kakarots9x99 remove Găng bạc lydo: Tự Xóa vật phẩm at 02/01/2023 12:48 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:44 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 6:46 SA
+BAG:kakarots9x99 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 6:46 SA
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 6:46 SA
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 6:46 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:48 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:49 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:50 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/01/2023 6:51 SA
+BAG:kakarots9x99 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 7:09 SA
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 7:09 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 7:09 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 7:37 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 7:39 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 7:39 SA
+BAG:kakarots9x99 remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 02/01/2023 7:40 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Cất vào rương at 02/01/2023 7:40 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 7:40 SA
+BAG:kakarots9x99 remove Găng vàng lydo: Tự Xóa vật phẩm at 02/01/2023 7:41 SA
+BAG:kakarots9x99 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 7:41 SA
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 7:41 SA
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 7:41 SA
+BAG:kakarots9x99 remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove Đá Ruby lydo: Cất vào rương at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/01/2023 7:42 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:44 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:46 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:47 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:49 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/01/2023 7:50 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/01/2023 7:51 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:52 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:54 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:56 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:57 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 7:59 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:02 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 8:04 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 02/01/2023 8:04 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 8:04 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 8:05 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 8:05 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:07 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 8:07 SA
+BAG:kakarots9x99 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 8:07 SA
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/01/2023 8:07 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 8:07 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:09 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:10 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:12 SA
+BAG:kakarots9x99 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/01/2023 8:12 SA
+BAG:kakarots9x99 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/01/2023 8:12 SA
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/01/2023 8:12 SA
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 8:12 SA
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 8:12 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:13 SA
+BAG:kakarots9x99 remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 02/01/2023 8:15 SA
+BAG:kakarots9x99 remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 02/01/2023 8:15 SA
+BAG:kakarots9x99 remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 02/01/2023 8:15 SA
+BAG:kakarots9x99 remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 02/01/2023 8:15 SA
+BAG:kakarots9x99 remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 02/01/2023 8:15 SA
+BAG:kakarots9x99 remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 02/01/2023 8:15 SA
+BAG:kakarots9x99 remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 02/01/2023 8:15 SA
+BAG:kakarots9x99 remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 02/01/2023 8:16 SA
+BAG:kakarots9x99 remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 02/01/2023 8:16 SA
+BAG:kakarots9x99 remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 02/01/2023 8:16 SA
+BAG:kakarots9x99 remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 02/01/2023 8:16 SA
+BAG:kakarots9x99 remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 02/01/2023 8:16 SA
+BAG:kakarots9x99 remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 02/01/2023 8:16 SA
+BAG:kakarots9x99 remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 02/01/2023 8:16 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc vào người at 02/01/2023 8:17 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc vào người at 02/01/2023 8:17 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc vào người at 02/01/2023 8:17 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc vào người at 02/01/2023 8:17 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 8:17 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 8:18 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 8:18 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 8:18 SA
+BAG:kakarots9x99 remove Cải trang Mabư Noel lydo: Tự Xóa vật phẩm at 02/01/2023 8:22 SA
+BAG:kakarots9x99 remove Cải trang Hit lydo: Tự Xóa vật phẩm at 02/01/2023 8:22 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:23 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:23 SA
+BAG:kakarots9x99 remove Sách Trói lv1 lydo: Sách kĩ năng at 02/01/2023 8:24 SA
+BAG:kakarots9x99 remove Sách Trói lv2 lydo: Sách kĩ năng at 02/01/2023 8:24 SA
+BAG:kakarots9x99 remove Sách Trói lv3 lydo: Sách kĩ năng at 02/01/2023 8:24 SA
+BAG:kakarots9x99 remove Sách Trói lv4 lydo: Sách kĩ năng at 02/01/2023 8:24 SA
+BAG:kakarots9x99 remove Sách Trói lv5 lydo: Sách kĩ năng at 02/01/2023 8:24 SA
+BAG:kakarots9x99 remove Sách Trói lv6 lydo: Sách kĩ năng at 02/01/2023 8:24 SA
+BAG:kakarots9x99 remove Sách Trói lv7 lydo: Sách kĩ năng at 02/01/2023 8:24 SA
+BAG:kakarots9x99 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/01/2023 8:28 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:31 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:33 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 8:42 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:45 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:45 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:47 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:48 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:49 SA
+BAG:kakarots9x99 remove Bột mì lydo: Tự Xóa vật phẩm at 02/01/2023 8:51 SA
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 8:51 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:52 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:54 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:56 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:57 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:57 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:57 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:58 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 8:58 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:01 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:01 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:01 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:02 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:04 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:05 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:05 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:05 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:05 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:06 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:06 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:06 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:07 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:07 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:09 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:10 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:10 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:11 SA
+BAG:kakarots9x99 remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/01/2023 9:12 SA
+BAG:kakarots9x99 remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/01/2023 9:12 SA
+BAG:kakarots9x99 remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/01/2023 9:12 SA
+BAG:kakarots9x99 remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/01/2023 9:12 SA
+BAG:kakarots9x99 remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/01/2023 9:12 SA
+BAG:kakarots9x99 remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/01/2023 9:12 SA
+BAG:kakarots9x99 remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/01/2023 9:12 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:13 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 9:16 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 9:16 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:16 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:18 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:19 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/01/2023 9:19 SA
+BAG:kakarots9x99 remove 1xBột mì lydo: Bán cho shop at 02/01/2023 9:19 SA
+BAG:kakarots9x99 remove 1xTrứng vịt muối lydo: Bán cho shop at 02/01/2023 9:20 SA
+BAG:kakarots9x99 remove 1xGiày Kaio lydo: Bán cho shop at 02/01/2023 9:20 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 9:20 SA
+BAG:kakarots9x99 remove 36xĐậu thần cấp 5 lydo: Bán cho shop at 02/01/2023 9:20 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:22 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:22 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 9:22 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:24 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:24 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:25 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:25 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:26 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:26 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:26 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:26 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 9:26 SA
+BAG:kakarots9x99 remove Áo giáp bạc lydo: Tự Xóa vật phẩm at 02/01/2023 9:27 SA
+BAG:kakarots9x99 remove Quần giáp vàng lydo: Tự Xóa vật phẩm at 02/01/2023 9:27 SA
+BAG:kakarots9x99 remove Giày vàng lydo: Tự Xóa vật phẩm at 02/01/2023 9:27 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 9:28 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 9:28 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 9:33 SA
+BAG:kakarots9x99 remove Găng bạc lydo: Tự Xóa vật phẩm at 02/01/2023 9:41 SA
+BAG:kakarots9x99 remove Găng bạc lydo: Tự Xóa vật phẩm at 02/01/2023 9:42 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 9:54 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:07 SA
+BAG:kakarots9x99 remove Găng vàng lydo: Tự Xóa vật phẩm at 02/01/2023 10:11 SA
+BAG:kakarots9x99 remove Găng lông Xayda lydo: Tự Xóa vật phẩm at 02/01/2023 10:11 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:12 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:13 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:26 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:37 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:46 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:02 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:19 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:20 SA
+BAG:kakarots9x99 remove Găng da Xayda lydo: Tự Xóa vật phẩm at 02/01/2023 11:20 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 11:20 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:21 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:26 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 11:27 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:31 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:35 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:36 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 11:38 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc vào người at 02/01/2023 11:41 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc vào người at 02/01/2023 11:41 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc vào người at 02/01/2023 11:41 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 11:47 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 11:47 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 11:47 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:50 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 11:53 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:56 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Găng lông đỏ lydo: Mặc cho đệ tử at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Đá Ruby lydo: Cất vào rương at 02/01/2023 12:08 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 12:15 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 12:15 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:15 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/01/2023 12:15 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:15 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 12:15 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:18 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:18 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:18 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:18 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:18 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 12:18 CH
+BAG:kakarots9x99 remove Găng bạc lydo: Mặc cho đệ tử at 02/01/2023 12:19 CH
+BAG:kakarots9x99 remove Găng bạc lydo: Tự Xóa vật phẩm at 02/01/2023 12:23 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 12:24 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 12:28 CH
+BAG:kakarots9x99 remove Găng vàng lydo: Tự Xóa vật phẩm at 02/01/2023 12:34 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 12:49 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 1:01 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 1:07 CH
+BAG:kakarots9x99 remove 11xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 1:13 CH
+BAG:kakarots9x99 remove 11xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 1:13 CH
+BAG:kakarots9x99 remove 13xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 1:13 CH
+BAG:kakarots9x99 remove 13xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 1:13 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 1:14 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 1:14 CH
+BAG:kakarots9x99 remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 1:15 CH
+BAG:kakarots9x99 remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 1:15 CH
+BAG:kakarots9x99 remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 1:15 CH
+BAG:kakarots9x99 remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 1:15 CH
+BAG:kakarots9x99 remove Găng da Xayda lydo: Tự Xóa vật phẩm at 02/01/2023 1:15 CH
+BAG:kakarots9x99 remove Găng lông Xayda lydo: Tự Xóa vật phẩm at 02/01/2023 1:15 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 1:21 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 1:29 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 1:45 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 1:52 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 1:52 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 1:52 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 1:52 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 1:52 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 1:52 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 1:53 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 1:54 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 1:55 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 2:17 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 3:31 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 3:49 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 3:50 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 3:51 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 4:15 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc vào người at 02/01/2023 4:27 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc vào người at 02/01/2023 4:27 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc vào người at 02/01/2023 4:27 CH
+BAG:kakarots9x99 remove Ngọc Rồng 7 sao lydo: Cất vào rương at 02/01/2023 4:28 CH
+BAG:kakarots9x99 remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/01/2023 4:28 CH
+BAG:kakarots9x99 remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 4:28 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:40 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:40 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 4:41 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/01/2023 4:41 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/01/2023 4:41 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/01/2023 4:41 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 4:42 CH
+BAG:kakarots9x99 remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:43 CH
+BAG:kakarots9x99 remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 4:43 CH
+BAG:kakarots9x99 remove Găng bạc lydo: Mặc cho đệ tử at 02/01/2023 4:43 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 4:43 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/01/2023 4:43 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:44 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:44 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:44 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:44 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:44 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 4:44 CH
+BAG:kakarots9x99 remove Găng bạc lydo: Tự Xóa vật phẩm at 02/01/2023 5:02 CH
+BAG:kakarots9x99 remove Găng vàng lydo: Tự Xóa vật phẩm at 02/01/2023 5:03 CH
+BAG:kakarots9x99 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/01/2023 5:05 CH
+BAG:kakarots9x99 remove Găng lông Xayda lydo: Tự Xóa vật phẩm at 02/01/2023 5:13 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 5:25 CH
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/01/2023 5:35 CH
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 5:36 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 5:37 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 5:41 CH
+BAG:kakarots9x99 remove Găng da Xayda lydo: Tự Xóa vật phẩm at 02/01/2023 5:49 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 5:50 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 6:01 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 6:11 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 6:11 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 6:20 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:29 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:29 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:29 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:29 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:29 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 6:29 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 6:33 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 6:45 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 6:57 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 7:09 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 7:21 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 7:32 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 7:44 CH
+BAG:kakarots9x99 remove Găng lông đỏ lydo: Mặc cho đệ tử at 02/01/2023 9:17 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 9:17 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 9:18 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 9:18 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 9:40 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 9:52 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:05 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/01/2023 10:06 CH
+BAG:kakarots9x99 remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:08 CH
+BAG:kakarots9x99 remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:08 CH
+BAG:kakarots9x99 remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:08 CH
+BAG:kakarots9x99 remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:08 CH
+BAG:kakarots9x99 remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/01/2023 10:08 CH
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/01/2023 10:09 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Cất vào rương at 02/01/2023 10:09 CH
+BAG:kakarots9x99 remove Găng lông đỏ lydo: Cất vào rương at 02/01/2023 10:09 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 10:11 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 10:11 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 10:11 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 10:11 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 10:11 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/01/2023 10:12 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 10:12 CH
+BAG:kakarots9x99 remove Găng lưỡng long lydo: Mặc cho đệ tử at 02/01/2023 10:12 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 10:12 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:15 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:15 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:15 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:15 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:15 CH
+BAG:kakarots9x99 remove Nâng cấp kỹ năng 2 đệ tử lydo: Tự Xóa vật phẩm at 02/01/2023 10:15 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/01/2023 10:16 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:27 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:39 CH
+BAG:kakarots9x99 remove 1xSao pha lê lydo: Ép ngọc rồng at 02/01/2023 10:49 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/01/2023 10:49 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/01/2023 10:53 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 10:57 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc vào người at 02/01/2023 11:01 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 11:01 CH
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc vào người at 02/01/2023 11:01 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc vào người at 02/01/2023 11:01 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc vào người at 02/01/2023 11:01 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:12 CH
+BAG:kakarots9x99 remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 11:14 CH
+BAG:kakarots9x99 remove Thỏi vàng lydo: Cất vào rương at 02/01/2023 11:14 CH
+BAG:kakarots9x99 remove Đá thạch anh tím lydo: Cất vào rương at 02/01/2023 11:14 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/01/2023 11:26 CH

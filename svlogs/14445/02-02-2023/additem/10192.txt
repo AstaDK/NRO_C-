@@ -1,0 +1,18 @@
+BAG:trungdz add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 10:21 SA
+BAG:trungdz add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:08 SA
+BAG:trungdz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xQuần sợi len lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:09 SA
+BAG:trungdz add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:trungdz add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:trungdz add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:trungdz add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:trungdz add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:trungdz add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/02/2023 11:10 SA
+BAG:trungdz add 20xThỏi vàng lydo: Lấy từ rương qua người at 02/02/2023 11:54 SA

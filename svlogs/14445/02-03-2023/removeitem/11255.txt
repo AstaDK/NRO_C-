@@ -1,0 +1,18 @@
+BAG:radaki remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 11:18 SA
+BAG:radaki remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:19 SA
+BAG:radaki remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:21 SA
+BAG:radaki remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 11:23 SA
+BAG:radaki remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 11:23 SA
+BAG:radaki remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 02/03/2023 11:24 SA
+BAG:radaki remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 11:24 SA
+BAG:radaki remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 11:24 SA
+BAG:radaki remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 11:24 SA
+BAG:radaki remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 11:24 SA
+BAG:radaki remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 11:24 SA
+BAG:radaki remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 11:25 SA
+BAG:radaki remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 02/03/2023 11:25 SA
+BAG:radaki remove Cải trang Gohan Bư lydo: Mặc vào người at 02/03/2023 11:25 SA
+BAG:radaki remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:25 SA
+BAG:radaki remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:26 SA
+BAG:radaki remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:26 SA
+BAG:radaki remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:26 SA

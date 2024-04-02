@@ -1,0 +1,404 @@
+BAG:tamcane add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 7:15 SA
+BAG:tamcane add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:tamcane add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:tamcane add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:tamcane add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:tamcane add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:tamcane add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:tamcane add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:tamcane add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:tamcane add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:tamcane add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 1xQuần vải đen lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/03/2023 7:22 SA
+BAG:tamcane add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:tamcane add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:tamcane add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 02/03/2023 7:23 SA
+BAG:tamcane add 34xĐá Ruby lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
+BAG:tamcane add 28xĐá thạch anh tím (old: 27) lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
+BAG:tamcane add 3xMảnh Quỷ đất lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
+BAG:tamcane add 4xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
+BAG:tamcane add 30xĐá lục bảo (old: 22) lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
+BAG:tamcane add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:tamcane add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:tamcane add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:tamcane add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:tamcane add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/03/2023 7:27 SA
+BAG:tamcane add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:tamcane add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:tamcane add 1xCải trang lydo: Mua từ cửa hàng at 02/03/2023 7:30 SA
+BAG:tamcane add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:tamcane add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:tamcane add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:tamcane add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:tamcane add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:tamcane add 1xCây mai lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:tamcane add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:tamcane add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 7:32 SA
+BAG:tamcane add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:tamcane add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 53xLì xì (old: 52) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:tamcane add 54xLì xì (old: 53) lydo: Nhặt từ map at 02/03/2023 7:35 SA
+BAG:tamcane add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 7:35 SA
+BAG:tamcane add 30xĐậu thần cấp 4 lydo: Mua từ cửa hàng at 02/03/2023 7:45 SA
+BAG:tamcane add 60xĐậu thần cấp 4 (old: 30) lydo: Mua từ cửa hàng at 02/03/2023 7:45 SA
+BAG:tamcane add 90xĐậu thần cấp 4 (old: 60) lydo: Mua từ cửa hàng at 02/03/2023 7:45 SA
+BAG:tamcane add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 55xLì xì (old: 54) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 56xLì xì (old: 55) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:tamcane add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:tamcane add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:tamcane add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:tamcane add 57xLì xì (old: 56) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:tamcane add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:tamcane add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:tamcane add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:tamcane add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:tamcane add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:tamcane add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 62xLì xì (old: 61) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:tamcane add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:tamcane add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:tamcane add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:tamcane add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:tamcane add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:tamcane add 65xLì xì (old: 64) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:tamcane add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:tamcane add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 66xLì xì (old: 65) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 67xLì xì (old: 66) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 68xLì xì (old: 67) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:tamcane add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 69xLì xì (old: 68) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 70xLì xì (old: 69) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 71xLì xì (old: 70) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 72xLì xì (old: 71) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 73xLì xì (old: 72) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:tamcane add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 74xLì xì (old: 73) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 5xBột mì (old: 4) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:tamcane add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 75xLì xì (old: 74) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 76xLì xì (old: 75) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 77xLì xì (old: 76) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 78xLì xì (old: 77) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:tamcane add 79xLì xì (old: 78) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 80xLì xì (old: 79) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 81xLì xì (old: 80) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 82xLì xì (old: 81) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:tamcane add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 83xLì xì (old: 82) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 84xLì xì (old: 83) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 85xLì xì (old: 84) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 86xLì xì (old: 85) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:tamcane add 87xLì xì (old: 86) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 66xBình rượu (old: 65) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 88xLì xì (old: 87) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 89xLì xì (old: 88) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:tamcane add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 67xBình rượu (old: 66) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 68xBình rượu (old: 67) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 90xLì xì (old: 89) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 91xLì xì (old: 90) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 6xBột mì (old: 5) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 92xLì xì (old: 91) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 93xLì xì (old: 92) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 94xLì xì (old: 93) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:tamcane add 95xLì xì (old: 94) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 69xBình rượu (old: 68) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 96xLì xì (old: 95) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 97xLì xì (old: 96) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:tamcane add 98xLì xì (old: 97) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 70xBình rượu (old: 69) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 7xBột mì (old: 6) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 71xBình rượu (old: 70) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:tamcane add 99xLì xì (old: 98) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 72xBình rượu (old: 71) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 73xBình rượu (old: 72) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 74xBình rượu (old: 73) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 75xBình rượu (old: 74) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 8xBột mì (old: 7) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:tamcane add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 76xBình rượu (old: 75) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 100xLì xì (old: 99) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 77xBình rượu (old: 76) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 78xBình rượu (old: 77) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 79xBình rượu (old: 78) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 80xBình rượu (old: 79) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:tamcane add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 101xLì xì (old: 100) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 102xLì xì (old: 101) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 81xBình rượu (old: 80) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 82xBình rượu (old: 81) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:tamcane add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/03/2023 10:36 SA

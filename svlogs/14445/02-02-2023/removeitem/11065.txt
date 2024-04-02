@@ -1,0 +1,34 @@
+BAG:google remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 8:36 CH
+BAG:google remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:36 CH
+BAG:google remove Avatar lydo: Mặc vào người at 02/02/2023 8:36 CH
+BAG:google remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/02/2023 8:36 CH
+BAG:google remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:37 CH
+BAG:google remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 8:38 CH
+BAG:google remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:38 CH
+BAG:google remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:39 CH
+BAG:google remove Găng sắt lydo: Mặc vào người at 02/02/2023 8:41 CH
+BAG:google remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 8:42 CH
+BAG:google remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 8:42 CH
+BAG:google remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:42 CH
+BAG:google remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 8:43 CH
+BAG:google remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 8:43 CH
+BAG:google remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 8:44 CH
+BAG:google remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 8:44 CH
+BAG:google remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:44 CH
+BAG:google remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:google remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:google remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 02/02/2023 8:44 CH
+BAG:google remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:google remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:44 CH
+BAG:google remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/02/2023 8:45 CH
+BAG:google remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:45 CH
+BAG:google remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:45 CH
+BAG:google remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:45 CH
+BAG:google remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:45 CH
+BAG:google remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:google remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:49 CH
+BAG:google remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:49 CH
+BAG:google remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 8:49 CH
+BAG:google remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:50 CH
+BAG:google remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:50 CH
+BAG:google remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 8:50 CH

@@ -1,0 +1,643 @@
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 5:40 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 5:52 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:04 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:15 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:27 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:39 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:05 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 7:12 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:17 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:29 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:40 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:52 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:04 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:16 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:27 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:39 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:49 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:49 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:49 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:52 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:52 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:52 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:54 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:54 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:54 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:57 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:57 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:57 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:59 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:59 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:59 SA
+BAG:kakarots9x99 remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 9:02 SA
+BAG:kakarots9x99 remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 9:03 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:04 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:04 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:04 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc vào người at 02/02/2023 9:05 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:05 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:06 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:06 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:06 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:07 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:07 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:07 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:07 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:07 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:08 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:08 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:08 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc vào người at 02/02/2023 9:09 SA
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc vào người at 02/02/2023 9:09 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 9:09 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:09 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:10 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:10 SA
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:10 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:11 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:11 SA
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:11 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 9:12 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:15 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 9:26 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 9:28 SA
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 9:31 SA
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 9:31 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:31 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 9:40 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:43 SA
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 9:50 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:55 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:07 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:20 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:31 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 10:43 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:14 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:26 SA
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:38 SA
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:40 SA
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:40 SA
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:40 SA
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:40 SA
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc vào người at 02/02/2023 11:40 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 11:40 SA
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 11:41 SA
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:14 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:kakarots9x99 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:35 CH
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:39 CH
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 12:41 CH
+BAG:kakarots9x99 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 12:41 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:41 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:41 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:41 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:41 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 CH
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 CH
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:49 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:49 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:49 CH
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 12:49 CH
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 12:51 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:09 CH
+BAG:kakarots9x99 remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 1:41 CH
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 1:41 CH
+BAG:kakarots9x99 remove 5xCây mai lydo: Cay Thong at 02/02/2023 1:41 CH
+BAG:kakarots9x99 remove 5xLì xì lydo: Cay Thong at 02/02/2023 1:41 CH
+BAG:kakarots9x99 remove 5xBình rượu lydo: Cay Thong at 02/02/2023 1:41 CH
+BAG:kakarots9x99 remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 1:41 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:43 CH
+BAG:kakarots9x99 remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 1:46 CH
+BAG:kakarots9x99 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 1:46 CH
+BAG:kakarots9x99 remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 1:46 CH
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 1:47 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 1:49 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Cất vào rương at 02/02/2023 1:50 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Cất vào rương at 02/02/2023 1:50 CH
+BAG:kakarots9x99 remove Găng vải thô lydo: Cất vào rương at 02/02/2023 1:50 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 1:50 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 1:50 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 1:50 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 1:50 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Găng lưỡng long lydo: Cất vào rương at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Cất vào rương at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Đá Ruby lydo: Cất vào rương at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Đá Saphia lydo: Cất vào rương at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 1:51 CH
+BAG:kakarots9x99 remove Sách Huýt Sáo lv1 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Sách Huýt Sáo lv2 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Sách Huýt Sáo lv3 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Sách Huýt Sáo lv4 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Sách Huýt Sáo lv5 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Sách Huýt Sáo lv6 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Sách Huýt Sáo lv7 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Bom hi sinh lv1 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Bom hi sinh lv2 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Bom hi sinh lv3 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Bom hi sinh lv4 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Bom hi sinh lv5 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Bom hi sinh lv6 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove Bom hi sinh lv7 lydo: Sách kĩ năng at 02/02/2023 1:52 CH
+BAG:kakarots9x99 remove 5xCây mai lydo: Cay Thong at 02/02/2023 2:01 CH
+BAG:kakarots9x99 remove 5xLì xì lydo: Cay Thong at 02/02/2023 2:01 CH
+BAG:kakarots9x99 remove 5xBình rượu lydo: Cay Thong at 02/02/2023 2:01 CH
+BAG:kakarots9x99 remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 2:01 CH
+BAG:kakarots9x99 remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 2:01 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:15 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:15 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:15 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:22 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:22 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:22 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 2:32 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 2:32 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:34 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:35 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:35 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:35 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:35 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:35 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:36 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:36 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:36 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:36 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:36 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:36 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:37 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:37 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:37 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 2:37 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 2:37 CH
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc cho đệ tử at 02/02/2023 2:37 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 2:37 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 2:38 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Cất vào rương at 02/02/2023 2:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:38 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:40 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:40 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:40 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:40 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 2:40 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 2:40 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Cất vào rương at 02/02/2023 2:44 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 2:59 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 3:06 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:11 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:23 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:35 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:46 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 3:58 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 4:10 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 4:22 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 4:34 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 4:45 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 4:57 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 5:06 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 5:12 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 5:17 CH
+BAG:kakarots9x99 remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:22 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:kakarots9x99 remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:33 CH
+BAG:kakarots9x99 remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 5:34 CH
+BAG:kakarots9x99 remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 5:49 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:50 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 5:54 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Cất vào rương at 02/02/2023 5:55 CH
+BAG:kakarots9x99 remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/02/2023 5:55 CH
+BAG:kakarots9x99 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 5:55 CH
+BAG:kakarots9x99 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 5:55 CH
+BAG:kakarots9x99 remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 5:55 CH
+BAG:kakarots9x99 remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 5:56 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:08 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:33 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:44 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:46 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:46 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:46 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:46 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:46 CH
+BAG:kakarots9x99 remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:46 CH
+BAG:kakarots9x99 remove Cải trang Dr Lychee lydo: Mặc cho đệ tử at 02/02/2023 6:48 CH
+BAG:kakarots9x99 remove Găng vải thô lydo: Cất vào rương at 02/02/2023 6:56 CH
+BAG:kakarots9x99 remove Quần vàng Zealot lydo: Cất vào rương at 02/02/2023 6:56 CH
+BAG:kakarots9x99 remove Giày vàng Zealot lydo: Cất vào rương at 02/02/2023 6:56 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 6:57 CH
+BAG:kakarots9x99 remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 6:59 CH
+BAG:kakarots9x99 remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:59 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:11 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:23 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:35 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:47 CH
+BAG:kakarots9x99 remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:kakarots9x99 remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 8:17 CH
+BAG:kakarots9x99 remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/02/2023 8:31 CH
+BAG:kakarots9x99 remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 8:31 CH
+BAG:kakarots9x99 remove 5xLì xì lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 1xĐá Saphia lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 2xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 1xĐá lục bảo lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 5xBình rượu lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 9xCây mai lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 2xPháo hoa lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 5xĐậu thần cấp 8 lydo: Bán cho shop at 02/02/2023 8:32 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:35 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:35 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:35 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:36 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:36 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:36 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:37 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:37 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:37 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:39 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:39 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:39 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:40 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:40 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:40 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:45 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:45 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:45 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:46 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:46 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:47 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:47 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:49 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:49 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:51 CH
+BAG:kakarots9x99 remove 5xNgọc Rồng 3 sao lydo: Giao dịch với ztrumxx at 02/02/2023 8:52 CH
+BAG:kakarots9x99 remove 1xGiày vàng Zealot lydo: Giao dịch với ztrumxx at 02/02/2023 8:52 CH
+BAG:kakarots9x99 remove 1xQuần vàng Zealot lydo: Giao dịch với ztrumxx at 02/02/2023 8:52 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:52 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:52 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:56 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:56 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:56 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:00 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:00 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:00 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:02 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:02 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:02 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:05 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:05 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:05 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:07 CH
+BAG:kakarots9x99 remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 9:08 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:12 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:13 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:13 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:15 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:15 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:15 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:20 CH
+BAG:kakarots9x99 remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 9:23 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:24 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:25 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:26 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:26 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:26 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:26 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:27 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:28 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:28 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:28 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:29 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:29 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:30 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:30 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:30 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:30 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:31 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:31 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:31 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:32 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:32 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:32 CH
+BAG:kakarots9x99 remove 1xGiày lưỡng long lydo: Giao dịch với doremon at 02/02/2023 9:33 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:36 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:36 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:41 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:41 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:41 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:42 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:42 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:42 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:43 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:44 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:44 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:44 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:45 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:45 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:46 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:46 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:46 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 9:47 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 9:57 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:59 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:06 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:06 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:06 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:08 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:08 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:08 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:09 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:09 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:09 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:10 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:10 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:10 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:11 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:11 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:11 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:12 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:12 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:12 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:13 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:13 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:13 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:14 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:14 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:14 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:15 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 10:15 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:16 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:16 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:16 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:18 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:20 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:22 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:22 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:22 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:24 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:26 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:27 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:27 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:27 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:27 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:27 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:29 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:29 CH
+BAG:kakarots9x99 remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 02/02/2023 10:29 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:30 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:30 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:30 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:32 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:32 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:32 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:33 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:34 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:34 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:34 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:35 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:35 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:35 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:36 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:36 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:36 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Cất vào rương at 02/02/2023 10:37 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Cất vào rương at 02/02/2023 10:37 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Cất vào rương at 02/02/2023 10:37 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 10:37 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 10:37 CH
+BAG:kakarots9x99 remove Găng lưỡng long lydo: Cất vào rương at 02/02/2023 10:37 CH
+BAG:kakarots9x99 remove Găng lông đỏ lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:kakarots9x99 remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/02/2023 10:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:38 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:39 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:39 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:39 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:40 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:40 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:40 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:41 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:41 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:41 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:42 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:42 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:42 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:43 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:43 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:44 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:44 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:44 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:45 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 10:45 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:45 CH
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc vào người at 02/02/2023 10:45 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc vào người at 02/02/2023 10:45 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc vào người at 02/02/2023 10:45 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 10:45 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:46 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:46 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:46 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:47 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:47 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:48 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:48 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:48 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:48 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:48 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:48 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:49 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:49 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:49 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:50 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:50 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:50 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:51 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:51 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:51 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:52 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:52 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:52 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:53 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:53 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:53 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:53 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:54 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:54 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:54 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:54 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:54 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:55 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:55 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:55 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:56 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:56 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:56 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:58 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:59 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:59 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:59 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:00 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:00 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:00 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:01 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:01 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:01 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:02 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:02 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:02 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:03 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:03 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:03 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:04 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:04 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:04 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:05 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:05 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:05 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:06 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:06 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:06 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:07 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:08 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:08 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:11 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:11 CH
+BAG:kakarots9x99 remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:11 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 11:13 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 11:13 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 11:13 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 11:14 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 11:14 CH
+BAG:kakarots9x99 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 02/02/2023 11:14 CH
+BAG:kakarots9x99 remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:16 CH
+BAG:kakarots9x99 remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:16 CH
+BAG:kakarots9x99 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:16 CH
+BAG:kakarots9x99 remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:16 CH
+BAG:kakarots9x99 remove Găng vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:16 CH
+BAG:kakarots9x99 remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:16 CH
+BAG:kakarots9x99 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 11:46 CH
+BAG:kakarots9x99 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:52 CH

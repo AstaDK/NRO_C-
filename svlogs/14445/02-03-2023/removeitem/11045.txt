@@ -1,0 +1,14 @@
+BAG:gokussj remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:03 SA
+BAG:gokussj remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:04 SA
+BAG:gokussj remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 3:04 SA
+BAG:gokussj remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 3:04 SA
+BAG:gokussj remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 3:05 SA
+BAG:gokussj remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:05 SA
+BAG:gokussj remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/03/2023 3:05 SA
+BAG:gokussj remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/03/2023 3:05 SA
+BAG:gokussj remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/03/2023 3:06 SA
+BAG:gokussj remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/03/2023 3:06 SA
+BAG:gokussj remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/03/2023 3:06 SA
+BAG:gokussj remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/03/2023 3:06 SA
+BAG:gokussj remove 1xTái tạo năng lượng lv5 lydo: Bán cho shop at 02/03/2023 3:06 SA
+BAG:gokussj remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/03/2023 3:06 SA

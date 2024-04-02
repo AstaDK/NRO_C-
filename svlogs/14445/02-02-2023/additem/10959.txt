@@ -1,0 +1,19 @@
+BAG:maylaai add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 2:36 CH
+BAG:maylaai add 1xLì xì lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:maylaai add 1xCây mai lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:maylaai add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:maylaai add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:maylaai add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 2:37 CH
+BAG:maylaai add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:maylaai add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 2:38 CH
+BAG:maylaai add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:maylaai add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 2:39 CH
+BAG:maylaai add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/02/2023 2:42 CH
+BAG:maylaai add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:maylaai add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:maylaai add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:maylaai add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:maylaai add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:maylaai add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 2:43 CH
+BAG:maylaai add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 2:45 CH
+BAG:maylaai add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 2:45 CH

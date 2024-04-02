@@ -1,0 +1,61 @@
+BAG:thoxinh01 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 11:34 AM
+BAG:thoxinh01 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 12:03 PM
+BAG:thoxinh01 add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 01/30/2023 12:10 PM
+BAG:thoxinh01 add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 01/30/2023 6:21 PM
+BAG:thoxinh01 add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 6:31 PM
+BAG:thoxinh01 add 1xCột nhà lydo: Mua từ cửa hàng at 01/30/2023 6:33 PM
+BAG:thoxinh01 add 1xMảnh Phi long lydo: Nhặt từ map at 01/30/2023 6:36 PM
+BAG:thoxinh01 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 6:37 PM
+BAG:thoxinh01 add 1xMèo mun lydo: Mua từ cửa hàng at 01/30/2023 6:44 PM
+BAG:thoxinh01 add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 6:45 PM
+BAG:thoxinh01 add 1xGăng len Pico lydo: Mua từ cửa hàng at 01/30/2023 7:16 PM
+BAG:thoxinh01 add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 01/30/2023 7:16 PM
+BAG:thoxinh01 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 7:17 PM
+BAG:thoxinh01 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 7:17 PM
+BAG:thoxinh01 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/30/2023 7:18 PM
+BAG:thoxinh01 add 1xCải trang lydo: Mua từ cửa hàng at 01/30/2023 7:20 PM
+BAG:thoxinh01 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/30/2023 7:20 PM
+BAG:thoxinh01 add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 7:21 PM
+BAG:thoxinh01 add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 7:21 PM
+BAG:thoxinh01 add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 7:21 PM
+BAG:thoxinh01 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 7:22 PM
+BAG:thoxinh01 add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 7:22 PM
+BAG:thoxinh01 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/30/2023 7:22 PM
+BAG:thoxinh01 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 7:22 PM
+BAG:thoxinh01 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 7:23 PM
+BAG:thoxinh01 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 7:23 PM
+BAG:thoxinh01 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 7:23 PM
+BAG:thoxinh01 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 7:23 PM
+BAG:thoxinh01 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 7:23 PM
+BAG:thoxinh01 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 7:23 PM
+BAG:thoxinh01 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/30/2023 7:24 PM
+BAG:thoxinh01 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 7:24 PM
+BAG:thoxinh01 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/30/2023 7:24 PM
+BAG:thoxinh01 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 7:25 PM
+BAG:thoxinh01 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/30/2023 7:25 PM
+BAG:thoxinh01 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 7:27 PM
+BAG:thoxinh01 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/30/2023 7:27 PM
+BAG:thoxinh01 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/30/2023 7:27 PM
+BAG:thoxinh01 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 7:28 PM
+BAG:thoxinh01 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 7:28 PM
+BAG:thoxinh01 add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/30/2023 7:28 PM
+BAG:thoxinh01 add 1xBột mì lydo: Nhặt từ map at 01/30/2023 7:29 PM
+BAG:thoxinh01 add 1xĐậu xanh lydo: Nhặt từ map at 01/30/2023 7:29 PM
+BAG:thoxinh01 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/30/2023 7:29 PM
+BAG:thoxinh01 add 2xBột mì (old: 1) lydo: Nhặt từ map at 01/30/2023 7:30 PM
+BAG:thoxinh01 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 7:30 PM
+BAG:thoxinh01 add 1xGà quay nguyên con lydo: Nhặt từ map at 01/30/2023 7:31 PM
+BAG:thoxinh01 add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 01/30/2023 7:31 PM
+BAG:thoxinh01 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/30/2023 7:31 PM
+BAG:thoxinh01 add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/30/2023 7:31 PM
+BAG:thoxinh01 add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/30/2023 7:31 PM
+BAG:thoxinh01 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 7:31 PM
+BAG:thoxinh01 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/30/2023 7:32 PM
+BAG:thoxinh01 add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 01/30/2023 7:33 PM

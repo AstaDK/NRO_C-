@@ -1,0 +1,65 @@
+BAG:kamizeno add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:27 AM
+BAG:kamizeno add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 10:29 AM
+BAG:kamizeno add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 10:30 AM
+BAG:kamizeno add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 10:30 AM
+BAG:kamizeno add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 10:30 AM
+BAG:kamizeno add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 10:30 AM
+BAG:kamizeno add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 10:30 AM
+BAG:kamizeno add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 10:31 AM
+BAG:kamizeno add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 10:32 AM
+BAG:kamizeno add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 10:32 AM
+BAG:kamizeno add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/30/2023 10:32 AM
+BAG:kamizeno add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/30/2023 10:32 AM
+BAG:kamizeno add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 10:33 AM
+BAG:kamizeno add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/30/2023 10:33 AM
+BAG:kamizeno add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/30/2023 10:33 AM
+BAG:kamizeno add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 01/30/2023 10:33 AM
+BAG:kamizeno add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 10:33 AM
+BAG:kamizeno add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 10:33 AM
+BAG:kamizeno add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 01/30/2023 10:36 AM
+BAG:kamizeno add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 10:37 AM
+BAG:kamizeno add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 10:39 AM
+BAG:kamizeno add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/30/2023 10:39 AM
+BAG:kamizeno add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 10:39 AM
+BAG:kamizeno add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 10:39 AM
+BAG:kamizeno add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/30/2023 10:40 AM
+BAG:kamizeno add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 10:40 AM
+BAG:kamizeno add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 10:41 AM
+BAG:kamizeno add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/30/2023 10:41 AM
+BAG:kamizeno add 1xMảnh Phi long lydo: Nhặt từ map at 01/30/2023 10:42 AM
+BAG:kamizeno add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/30/2023 10:42 AM
+BAG:kamizeno add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/30/2023 10:42 AM
+BAG:kamizeno add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/30/2023 10:43 AM
+BAG:kamizeno add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 01/30/2023 10:44 AM
+BAG:kamizeno add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/30/2023 10:44 AM
+BAG:kamizeno add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 10:44 AM
+BAG:kamizeno add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:46 AM
+BAG:kamizeno add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 10:46 AM
+BAG:kamizeno add 1xGăng len Pico lydo: Mua từ cửa hàng at 01/30/2023 10:47 AM
+BAG:kamizeno add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 01/30/2023 10:47 AM
+BAG:kamizeno add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 01/30/2023 10:47 AM
+BAG:kamizeno add 10xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 10:48 AM
+BAG:kamizeno add 7xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 01/30/2023 10:48 AM
+BAG:kamizeno add 3xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 01/30/2023 10:48 AM
+BAG:kamizeno add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 10:48 AM
+BAG:kamizeno add 23xĐậu thần cấp 5 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 10:48 AM
+BAG:kamizeno add 1xPhi Long VIP lydo: Mua từ cửa hàng at 01/30/2023 10:48 AM
+BAG:kamizeno add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/30/2023 10:49 AM
+BAG:kamizeno add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/30/2023 10:49 AM
+BAG:kamizeno add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/30/2023 10:50 AM
+BAG:kamizeno add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 10:50 AM
+BAG:kamizeno add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/30/2023 10:51 AM
+BAG:kamizeno add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 01/30/2023 10:52 AM
+BAG:kamizeno add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/30/2023 10:52 AM
+BAG:kamizeno add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/30/2023 10:52 AM
+BAG:kamizeno add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 01/30/2023 10:52 AM
+BAG:kamizeno add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 10:52 AM
+BAG:kamizeno add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 01/30/2023 10:54 AM
+BAG:kamizeno add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/30/2023 11:28 AM
+BAG:kamizeno add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/30/2023 11:28 AM
+BAG:kamizeno add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 11:30 AM
+BAG:kamizeno add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/30/2023 11:30 AM
+BAG:kamizeno add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 01/30/2023 11:30 AM
+BAG:kamizeno add 22xĐậu thần cấp 5 (old: 15) lydo: Lấy từ rương qua người at 01/30/2023 11:31 AM
+BAG:kamizeno add 1xMèo mun lydo: Mua từ cửa hàng at 01/30/2023 11:33 AM
+BAG:kamizeno add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/30/2023 11:35 AM

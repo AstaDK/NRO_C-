@@ -1,0 +1,199 @@
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:16 AM
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:17 AM
+BAG:zenodro remove Avatar đeo khẩu trang lydo: Mặc vào người at 01/30/2023 2:27 AM
+BAG:zenodro remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 01/30/2023 2:27 AM
+BAG:zenodro remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 01/30/2023 2:27 AM
+BAG:zenodro remove Sách đấm Dragon lv1 lydo: Tự Xóa vật phẩm at 01/30/2023 2:27 AM
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:31 AM
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:31 AM
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:31 AM
+BAG:zenodro remove Găng vải dày lydo: Mặc vào người at 01/30/2023 2:32 AM
+BAG:zenodro remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 01/30/2023 2:33 AM
+BAG:zenodro remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 01/30/2023 2:33 AM
+BAG:zenodro remove Sách đấm Dragon lv6 lydo: Sách kĩ năng at 01/30/2023 2:33 AM
+BAG:zenodro remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 01/30/2023 2:42 AM
+BAG:zenodro remove Diều rồng lydo: Cất vào rương at 01/30/2023 2:43 AM
+BAG:zenodro remove Hồn ma Pôcôlô lydo: Cất vào rương at 01/30/2023 2:43 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:44 AM
+BAG:zenodro remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 01/30/2023 2:45 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:46 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:46 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:46 AM
+BAG:zenodro remove 2xĐá Saphia lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 2xĐá Titan lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 3xĐá Ruby lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 2xĐá lục bảo lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 1xMảnh Phi long lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:47 AM
+BAG:zenodro remove 6xĐậu thần cấp 4 lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 2xSao pha lê lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 1xSao pha lê lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 2xSao pha lê lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 2xSao pha lê lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 1xVệ tinh sinh lực lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 4xSao pha lê lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 01/30/2023 2:48 AM
+BAG:zenodro remove 2xVệ tinh trí lực lydo: Bán cho shop at 01/30/2023 2:49 AM
+BAG:zenodro remove 1xSao pha lê lydo: Bán cho shop at 01/30/2023 2:49 AM
+BAG:zenodro remove 1xSao pha lê lydo: Bán cho shop at 01/30/2023 2:49 AM
+BAG:zenodro remove 1xVệ tinh sinh lực lydo: Bán cho shop at 01/30/2023 2:49 AM
+BAG:zenodro remove Cải trang Dr Lychee lydo: Mặc cho đệ tử at 01/30/2023 2:50 AM
+BAG:zenodro remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 01/30/2023 2:50 AM
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:50 AM
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:51 AM
+BAG:zenodro remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 2:51 AM
+BAG:zenodro remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 2:53 AM
+BAG:zenodro remove Cải trang Dr Lychee lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Cải trang Chill cấp 2 lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Bột mì lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Sao pha lê lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Sao pha lê lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Ngọc Rồng 4 sao lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Ngọc Rồng 7 sao lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/30/2023 2:54 AM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 2:56 AM
+BAG:zenodro remove 2xĐậu thần cấp 1 lydo: Bán cho shop at 01/30/2023 2:58 AM
+BAG:zenodro remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 11:36 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:36 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:37 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:37 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:38 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:38 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:39 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:40 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:40 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:40 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:40 AM
+BAG:zenodro remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 11:41 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:41 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:41 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:42 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:42 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:42 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:43 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:43 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:43 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:43 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:43 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:43 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:44 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:44 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:44 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:44 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:45 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:45 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:45 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:45 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:45 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:45 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:46 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:46 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:46 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:46 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:47 AM
+BAG:zenodro remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove Gà quay nguyên con lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove Đá Ruby lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove Đá lục bảo lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove Đá Titan lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove Đá Saphia lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove Mảnh Khủng long mẹ lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove Bột mì lydo: Cất vào rương at 01/30/2023 11:49 AM
+BAG:zenodro remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 11:51 AM
+BAG:zenodro remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 11:51 AM
+BAG:zenodro remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/30/2023 11:51 AM
+BAG:zenodro remove Giày cao su Kame lydo: Mặc vào người at 01/30/2023 11:52 AM
+BAG:zenodro remove 1xGăng vải dày lydo: Bán cho shop at 01/30/2023 11:52 AM
+BAG:zenodro remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 01/30/2023 11:52 AM
+BAG:zenodro remove Găng thun dày lydo: Mặc vào người at 01/30/2023 11:53 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:53 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:53 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:54 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:54 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:54 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:55 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:55 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:56 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:57 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:58 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 11:58 AM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:00 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:01 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:02 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:02 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:03 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:04 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:05 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:06 PM
+BAG:zenodro remove 1xGăng thun dày lydo: Bán cho shop at 01/30/2023 12:07 PM
+BAG:zenodro remove 1xQuần vải đen lydo: Bán cho shop at 01/30/2023 12:07 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:10 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:11 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:12 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:14 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:15 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:15 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 12:32 PM
+BAG:zenodro remove Sao pha lê lydo: Cất vào rương at 01/30/2023 3:59 PM
+BAG:zenodro remove Sao pha lê lydo: Cất vào rương at 01/30/2023 3:59 PM
+BAG:zenodro remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 3:59 PM
+BAG:zenodro remove Đá lục bảo lydo: Cất vào rương at 01/30/2023 4:00 PM
+BAG:zenodro remove Đá Saphia lydo: Cất vào rương at 01/30/2023 4:00 PM
+BAG:zenodro remove Đá Ruby lydo: Cất vào rương at 01/30/2023 4:00 PM
+BAG:zenodro remove 1xGăng vải Kame lydo: Bán cho shop at 01/30/2023 4:01 PM
+BAG:zenodro remove 1xGiày cao su Kame lydo: Bán cho shop at 01/30/2023 4:01 PM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:01 PM
+BAG:zenodro remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 4:01 PM
+BAG:zenodro remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 4:03 PM
+BAG:zenodro remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 4:03 PM
+BAG:zenodro remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/30/2023 4:04 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:14 PM
+BAG:zenodro remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/30/2023 4:24 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 4:39 PM
+BAG:zenodro remove 1xGăng thun Kame lydo: Bán cho shop at 01/30/2023 4:40 PM
+BAG:zenodro remove Giày võ kame lydo: Tự Xóa vật phẩm at 01/30/2023 5:50 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:52 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:53 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:54 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:55 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:56 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:57 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:57 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:57 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:57 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:57 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:58 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:58 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:58 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:58 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:58 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:59 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:59 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:59 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 5:59 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:00 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:00 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:00 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:00 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:01 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:01 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:02 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:06 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:09 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:10 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:10 PM
+BAG:zenodro remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 6:59 PM
+BAG:zenodro remove Cải trang Dr Lychee lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove Thỏi vàng lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove Đá thạch anh tím lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove Đá Ruby lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove Đá lục bảo lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove Đá Saphia lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove Đá Titan lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove Sao pha lê lydo: Cất vào rương at 01/30/2023 7:00 PM
+BAG:zenodro remove 1xGăng võ Kame lydo: Bán cho shop at 01/30/2023 7:01 PM
+BAG:zenodro remove 1xQuần võ Kame lydo: Bán cho shop at 01/30/2023 7:01 PM
+BAG:zenodro remove Rada cấp 9 lydo: Mặc vào người at 01/30/2023 7:01 PM

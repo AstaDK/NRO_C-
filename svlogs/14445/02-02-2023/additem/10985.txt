@@ -1,0 +1,24 @@
+BAG:cuongloi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 5:45 CH
+BAG:cuongloi add 1xCây mai lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:cuongloi add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 5:48 CH
+BAG:cuongloi add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:cuongloi add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:cuongloi add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:cuongloi add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 5:52 CH
+BAG:cuongloi add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:cuongloi add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:cuongloi add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:cuongloi add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:cuongloi add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:cuongloi add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 6:04 CH
+BAG:cuongloi add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:cuongloi add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 6:05 CH
+BAG:cuongloi add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:cuongloi add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 6:06 CH
+BAG:cuongloi add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:cuongloi add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:cuongloi add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:cuongloi add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 6:07 CH
+BAG:cuongloi add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 6:08 CH
+BAG:cuongloi add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 6:08 CH
+BAG:cuongloi add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 6:09 CH

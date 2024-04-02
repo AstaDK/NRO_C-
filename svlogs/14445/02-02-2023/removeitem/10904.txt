@@ -1,0 +1,556 @@
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Lì xì lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Trứng vịt muối lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Lì xì lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Bình rượu lydo: Cất vào rương at 02/02/2023 12:07 SA
+BAG:sugarbaby remove Lì xì lydo: Cất vào rương at 02/02/2023 12:08 SA
+BAG:sugarbaby remove Lì xì lydo: Cất vào rương at 02/02/2023 12:14 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:14 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:14 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:14 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:14 SA
+BAG:sugarbaby remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 SA
+BAG:sugarbaby remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:sugarbaby remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:sugarbaby remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:sugarbaby remove Lì xì lydo: Cất vào rương at 02/02/2023 12:37 SA
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 12:37 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:sugarbaby remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:sugarbaby remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:38 SA
+BAG:sugarbaby remove Cải trang Mabư Noel lydo: Mặc vào người at 02/02/2023 12:41 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:44 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:44 SA
+BAG:sugarbaby remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 SA
+BAG:sugarbaby remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 12:46 SA
+BAG:sugarbaby remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 02/02/2023 12:47 SA
+BAG:sugarbaby remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 02/02/2023 12:49 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:50 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:50 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:51 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 12:55 SA
+BAG:sugarbaby remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 12:56 SA
+BAG:sugarbaby remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 12:56 SA
+BAG:sugarbaby remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 1:01 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:08 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:08 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:10 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:13 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:16 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:21 SA
+BAG:sugarbaby remove Găng bạc lydo: Mặc cho đệ tử at 02/02/2023 1:25 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:25 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:29 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:33 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:37 SA
+BAG:sugarbaby remove Găng bạc lydo: Mặc vào người at 02/02/2023 1:39 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:43 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:48 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:53 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:59 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:06 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:13 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 2:18 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 2:18 SA
+BAG:sugarbaby remove Găng bạc lydo: Tự Xóa vật phẩm at 02/02/2023 2:18 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:19 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:20 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:21 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:23 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:25 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:27 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:29 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:31 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:34 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:36 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:40 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:42 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:44 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:47 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:49 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:52 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:54 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:57 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 2:59 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:02 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:05 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:08 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:11 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:14 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:17 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:20 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:24 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:27 SA
+BAG:sugarbaby remove Găng vàng lydo: Tự Xóa vật phẩm at 02/02/2023 7:34 SA
+BAG:sugarbaby remove Mảnh vỡ bông tai lydo: Cất vào rương at 02/02/2023 7:34 SA
+BAG:sugarbaby remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 7:35 SA
+BAG:sugarbaby remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 7:36 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:38 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:39 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:42 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:46 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:50 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:53 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:57 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:02 SA
+BAG:sugarbaby remove Găng lông Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 8:02 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:03 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:08 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:12 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:16 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:31 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:32 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:32 SA
+BAG:sugarbaby remove Đậu thần cấp 10 lydo: Tự Xóa vật phẩm at 02/02/2023 8:36 SA
+BAG:sugarbaby remove Đá Saphia lydo: Cất vào rương at 02/02/2023 8:38 SA
+BAG:sugarbaby remove Đá Ruby lydo: Cất vào rương at 02/02/2023 8:38 SA
+BAG:sugarbaby remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 8:38 SA
+BAG:sugarbaby remove Đá Titan lydo: Cất vào rương at 02/02/2023 8:38 SA
+BAG:sugarbaby remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 8:38 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:40 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:40 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:41 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:41 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:42 SA
+BAG:sugarbaby remove Cải trang Dr Lychee lydo: Mặc vào người at 02/02/2023 8:42 SA
+BAG:sugarbaby remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 8:42 SA
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 8:42 SA
+BAG:sugarbaby remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 8:46 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:02 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:06 SA
+BAG:sugarbaby remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 9:19 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:19 SA
+BAG:sugarbaby remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 02/02/2023 9:26 SA
+BAG:sugarbaby remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Huýt Sáo lv1 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Huýt Sáo lv2 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Huýt Sáo lv3 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Huýt Sáo lv4 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Huýt Sáo lv5 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Huýt Sáo lv6 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Huýt Sáo lv7 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Antomic lv1 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Antomic lv2 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Antomic lv3 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Antomic lv4 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Antomic lv5 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Antomic lv6 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Sách Antomic lv7 lydo: Sách kĩ năng at 02/02/2023 9:27 SA
+BAG:sugarbaby remove Bom hi sinh lv1 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Bom hi sinh lv2 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Bom hi sinh lv3 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Bom hi sinh lv4 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Bom hi sinh lv5 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Bom hi sinh lv6 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Bom hi sinh lv7 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách Trói lv1 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách Trói lv2 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách Trói lv3 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách Trói lv4 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách Trói lv5 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách Trói lv6 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách Trói lv7 lydo: Sách kĩ năng at 02/02/2023 9:28 SA
+BAG:sugarbaby remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 02/02/2023 9:29 SA
+BAG:sugarbaby remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 02/02/2023 9:29 SA
+BAG:sugarbaby remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 02/02/2023 9:29 SA
+BAG:sugarbaby remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 02/02/2023 9:29 SA
+BAG:sugarbaby remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 02/02/2023 9:29 SA
+BAG:sugarbaby remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 02/02/2023 9:29 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:39 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:41 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:41 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:41 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:41 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:41 SA
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 9:42 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:44 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:45 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:46 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:48 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:49 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:50 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:51 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:53 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:56 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:56 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:56 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:58 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:58 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:58 SA
+BAG:sugarbaby remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 9:59 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 9:59 SA
+BAG:sugarbaby remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 9:59 SA
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:03 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:03 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:03 SA
+BAG:sugarbaby remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 10:03 SA
+BAG:sugarbaby remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 10:03 SA
+BAG:sugarbaby remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 10:03 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:45 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:05 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:21 SA
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:22 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:25 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:25 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:25 SA
+BAG:sugarbaby remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 02/02/2023 11:25 SA
+BAG:sugarbaby remove Găng da Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 11:25 SA
+BAG:sugarbaby remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 11:25 SA
+BAG:sugarbaby remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:sugarbaby remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:sugarbaby remove Cải trang Black Goku SSJ White lydo: Mặc vào người at 02/02/2023 11:30 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:31 SA
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:31 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:32 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:32 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:32 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:32 SA
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 11:32 SA
+BAG:sugarbaby remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:32 SA
+BAG:sugarbaby remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:32 SA
+BAG:sugarbaby remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 11:33 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:48 SA
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:03 CH
+BAG:sugarbaby remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 12:06 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:20 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:35 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:50 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:05 CH
+BAG:sugarbaby remove Cải trang Mabư Noel lydo: Tự Xóa vật phẩm at 02/02/2023 1:26 CH
+BAG:sugarbaby remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/02/2023 1:26 CH
+BAG:sugarbaby remove Găng lông đỏ lydo: Tự Xóa vật phẩm at 02/02/2023 1:43 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 1:43 CH
+BAG:sugarbaby remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 1:44 CH
+BAG:sugarbaby remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 1:44 CH
+BAG:sugarbaby remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 1:44 CH
+BAG:sugarbaby remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 1:44 CH
+BAG:sugarbaby remove Giầy vải thô lydo: Mặc vào người at 02/02/2023 1:44 CH
+BAG:sugarbaby remove Quần vải thô lydo: Mặc vào người at 02/02/2023 1:44 CH
+BAG:sugarbaby remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 1:51 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 1:51 CH
+BAG:sugarbaby remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 1:51 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 1:51 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 1:51 CH
+BAG:sugarbaby remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/02/2023 1:51 CH
+BAG:sugarbaby remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 1:52 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 1:53 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:54 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:54 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 1:55 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:56 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:56 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 1:56 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 1:57 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 1:57 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 2:00 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:01 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:01 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:01 CH
+BAG:sugarbaby remove Cải trang lydo: Tự Xóa vật phẩm at 02/02/2023 2:40 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:40 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 2:41 CH
+BAG:sugarbaby remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 2:42 CH
+BAG:sugarbaby remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 2:43 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 2:45 CH
+BAG:sugarbaby remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 2:45 CH
+BAG:sugarbaby remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 2:46 CH
+BAG:sugarbaby remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 2:46 CH
+BAG:sugarbaby remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 2:49 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 2:50 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 2:50 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 2:50 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:51 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:51 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:51 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:52 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:53 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:53 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:53 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:54 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:55 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:55 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:55 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:55 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:55 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:56 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:56 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:56 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 2:56 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:57 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:57 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:57 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:57 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:57 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:58 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:58 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:58 CH
+BAG:sugarbaby remove Áo vải thô lydo: Mặc vào người at 02/02/2023 2:58 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 2:59 CH
+BAG:sugarbaby remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 2:59 CH
+BAG:sugarbaby remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 2:59 CH
+BAG:sugarbaby remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 2:59 CH
+BAG:sugarbaby remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 2:59 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 3:00 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 3:00 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:01 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:01 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 3:01 CH
+BAG:sugarbaby remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 3:01 CH
+BAG:sugarbaby remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 3:01 CH
+BAG:sugarbaby remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 3:02 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:14 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:29 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 3:44 CH
+BAG:sugarbaby remove Vệ tinh trí tuệ lydo: Cất vào rương at 02/02/2023 3:55 CH
+BAG:sugarbaby remove Sao pha lê lydo: Cất vào rương at 02/02/2023 3:55 CH
+BAG:sugarbaby remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 3:55 CH
+BAG:sugarbaby remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 3:55 CH
+BAG:sugarbaby remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 3:55 CH
+BAG:sugarbaby remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/02/2023 3:58 CH
+BAG:sugarbaby remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/02/2023 3:58 CH
+BAG:sugarbaby remove Găng siêu Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 3:58 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:01 CH
+BAG:sugarbaby remove 1xMảnh Quỷ đất lydo: Bán cho shop at 02/02/2023 4:11 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:11 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:11 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:12 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:12 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:12 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:12 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:12 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:12 CH
+BAG:sugarbaby remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 4:13 CH
+BAG:sugarbaby remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 4:13 CH
+BAG:sugarbaby remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 4:13 CH
+BAG:sugarbaby remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 4:13 CH
+BAG:sugarbaby remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 4:13 CH
+BAG:sugarbaby remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 4:13 CH
+BAG:sugarbaby remove Găng bạc lydo: Mặc cho đệ tử at 02/02/2023 4:15 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:sugarbaby remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:16 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:17 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:17 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:17 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:18 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:18 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:18 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:18 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:18 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:18 CH
+BAG:sugarbaby remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 4:18 CH
+BAG:sugarbaby remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 4:18 CH
+BAG:sugarbaby remove Sao pha lê lydo: Cất vào rương at 02/02/2023 4:19 CH
+BAG:sugarbaby remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 4:19 CH
+BAG:sugarbaby remove Ghế bay lydo: Tự Xóa vật phẩm at 02/02/2023 4:19 CH
+BAG:sugarbaby remove Găng vàng lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Găng lông Xayda lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Găng da Xayda lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Găng lông đỏ lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Găng siêu Xayda lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Lì xì lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Găng Kaio lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Tự động luyện tập lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Vệ tinh trí tuệ lydo: Cất vào rương at 02/02/2023 4:20 CH
+BAG:sugarbaby remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:25 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:25 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:25 CH
+BAG:sugarbaby remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:25 CH
+BAG:sugarbaby remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 4:25 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:25 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:26 CH
+BAG:sugarbaby remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 4:26 CH
+BAG:sugarbaby remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 4:26 CH
+BAG:sugarbaby remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:sugarbaby remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:sugarbaby remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:sugarbaby remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:41 CH
+BAG:sugarbaby remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 4:42 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:42 CH
+BAG:sugarbaby remove Mèo mun lydo: Tự Xóa vật phẩm at 02/02/2023 4:44 CH
+BAG:sugarbaby remove Bông tai Porata lydo: Cất vào rương at 02/02/2023 4:45 CH
+BAG:sugarbaby remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:sugarbaby remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:sugarbaby remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 4:45 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:45 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:45 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:46 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:46 CH
+BAG:sugarbaby remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 4:46 CH
+BAG:sugarbaby remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 4:47 CH
+BAG:sugarbaby remove Áo vải thô lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Quần vải thô lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Găng vải thô lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Găng vải thô lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Áo vải thô lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Bình rượu lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Tự động luyện tập lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Lì xì lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Cây mai lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove Quỷ Chim lydo: Cất vào rương at 02/02/2023 4:55 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:56 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:57 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:57 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:57 CH
+BAG:sugarbaby remove Đậu thần cấp 10 lydo: Tự Xóa vật phẩm at 02/02/2023 4:57 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:58 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 4:58 CH
+BAG:sugarbaby remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 4:58 CH
+BAG:sugarbaby remove Găng bạc lydo: Tự Xóa vật phẩm at 02/02/2023 5:01 CH
+BAG:sugarbaby remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 5:03 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 5:15 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 5:19 CH
+BAG:sugarbaby remove Găng vàng lydo: Tự Xóa vật phẩm at 02/02/2023 5:20 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 5:32 CH
+BAG:sugarbaby remove Găng lông Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 5:39 CH
+BAG:sugarbaby remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 5:39 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 5:59 CH
+BAG:sugarbaby remove Găng da Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 6:08 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 6:15 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 6:31 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:41 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:42 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:42 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:42 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:42 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:42 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 6:48 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:04 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:19 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:35 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:54 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:10 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:25 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:40 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:55 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:10 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:25 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:40 CH
+BAG:sugarbaby remove Nâng cấp kỹ năng 4 đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:06 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:06 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:06 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:06 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:06 CH
+BAG:sugarbaby remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 10:06 CH
+BAG:sugarbaby remove Vệ tinh trí tuệ lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 CH
+BAG:sugarbaby remove Găng lông đỏ lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 CH
+BAG:sugarbaby remove Găng siêu Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 10:06 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:11 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:26 CH
+BAG:sugarbaby remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:45 CH
+BAG:sugarbaby remove Mảnh vỡ bông tai lydo: Cất vào rương at 02/02/2023 10:52 CH
+BAG:sugarbaby remove Bông tai Porata lydo: Cất vào rương at 02/02/2023 10:53 CH
+BAG:sugarbaby remove Áo vải thô lydo: Cất vào rương at 02/02/2023 10:53 CH
+BAG:sugarbaby remove Quần vải thô lydo: Cất vào rương at 02/02/2023 10:53 CH
+BAG:sugarbaby remove Găng vải thô lydo: Cất vào rương at 02/02/2023 10:53 CH
+BAG:sugarbaby remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 10:53 CH
+BAG:sugarbaby remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 02/02/2023 10:53 CH
+BAG:sugarbaby remove Giày Kaio lydo: Mặc vào người at 02/02/2023 10:59 CH
+BAG:sugarbaby remove Quần vải thô lydo: Cất vào rương at 02/02/2023 11:17 CH
+BAG:sugarbaby remove Găng vải thô lydo: Cất vào rương at 02/02/2023 11:17 CH
+BAG:sugarbaby remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 11:17 CH
+BAG:sugarbaby remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:17 CH
+BAG:sugarbaby remove Giầy vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:18 CH
+BAG:sugarbaby remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Quần vải thô lydo: Cất vào rương at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Găng vải thô lydo: Cất vào rương at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Giầy vải thô lydo: Cất vào rương at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Quỷ Chim lydo: Cất vào rương at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:sugarbaby remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 02/02/2023 11:30 CH
+BAG:sugarbaby remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:31 CH
+BAG:sugarbaby remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:31 CH
+BAG:sugarbaby remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:31 CH
+BAG:sugarbaby remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/02/2023 11:35 CH
+BAG:sugarbaby remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 11:44 CH

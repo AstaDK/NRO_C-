@@ -1,0 +1,131 @@
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:07 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:08 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:17 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:20 PM
+BAG:picolok remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 6:21 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:24 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:25 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:26 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:27 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:27 PM
+BAG:picolok remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 6:28 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 6:28 PM
+BAG:picolok remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 6:28 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:29 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:29 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:31 PM
+BAG:picolok remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:33 PM
+BAG:picolok remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 6:37 PM
+BAG:picolok remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 6:38 PM
+BAG:picolok remove Găng sợi len lydo: Mặc vào người at 01/29/2023 6:38 PM
+BAG:picolok remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 6:38 PM
+BAG:picolok remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 01/29/2023 6:38 PM
+BAG:picolok remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 6:38 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 6:38 PM
+BAG:picolok remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/29/2023 6:38 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 6:38 PM
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 6:38 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 6:40 PM
+BAG:picolok remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 6:40 PM
+BAG:picolok remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 6:40 PM
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 6:40 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 6:40 PM
+BAG:picolok remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 6:41 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 6:41 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 6:41 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 6:41 PM
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 6:41 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 6:41 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 6:41 PM
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 6:43 PM
+BAG:picolok remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 6:43 PM
+BAG:picolok remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 6:43 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 6:46 PM
+BAG:picolok remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 6:47 PM
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 6:47 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 6:47 PM
+BAG:picolok remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 6:52 PM
+BAG:picolok remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:00 PM
+BAG:picolok remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 7:10 PM
+BAG:picolok remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 7:10 PM
+BAG:picolok remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/29/2023 7:10 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:10 PM
+BAG:picolok remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 7:10 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 7:19 PM
+BAG:picolok remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 7:19 PM
+BAG:picolok remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 7:19 PM
+BAG:picolok remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 7:19 PM
+BAG:picolok remove Găng sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:25 PM
+BAG:picolok remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 7:27 PM
+BAG:picolok remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:38 PM
+BAG:picolok remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:38 PM
+BAG:picolok remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:46 PM
+BAG:picolok remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 7:51 PM
+BAG:picolok remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:05 PM
+BAG:picolok remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:05 PM
+BAG:picolok remove Quần sợi len lydo: Cất vào rương at 01/29/2023 8:14 PM
+BAG:picolok remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:30 PM
+BAG:picolok remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:41 PM
+BAG:picolok remove Giầy sợi len lydo: Cất vào rương at 01/29/2023 8:42 PM
+BAG:picolok remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 8:51 PM
+BAG:picolok remove Găng sợi len lydo: Cất vào rương at 01/29/2023 8:51 PM
+BAG:picolok remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 9:10 PM
+BAG:picolok remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 9:27 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 9:27 PM
+BAG:picolok remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 9:27 PM
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 9:27 PM
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:23 PM
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:23 PM
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:23 PM
+BAG:picolok remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 10:24 PM
+BAG:picolok remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 10:24 PM
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:25 PM
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:25 PM
+BAG:picolok remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 10:25 PM
+BAG:picolok remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 10:27 PM
+BAG:picolok remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 10:27 PM
+BAG:picolok remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 10:28 PM
+BAG:picolok remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 10:28 PM
+BAG:picolok remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 10:28 PM
+BAG:picolok remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 10:28 PM
+BAG:picolok remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/29/2023 10:28 PM
+BAG:picolok remove 5xThỏi vàng lydo: Giao dịch với alpha at 01/29/2023 10:28 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:29 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:29 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:29 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:29 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:29 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:29 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:29 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:30 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:30 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:30 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:30 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:30 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:30 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:30 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:31 PM
+BAG:picolok remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 10:31 PM
+BAG:picolok remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 01/29/2023 10:31 PM
+BAG:picolok remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/29/2023 10:31 PM
+BAG:picolok remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 01/29/2023 10:31 PM
+BAG:picolok remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 01/29/2023 10:31 PM
+BAG:picolok remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 01/29/2023 10:31 PM
+BAG:picolok remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 01/29/2023 10:31 PM
+BAG:picolok remove Sách đấm Demon lv7 lydo: Sách kĩ năng at 01/29/2023 10:31 PM
+BAG:picolok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/29/2023 11:08 PM
+BAG:picolok remove Sách Liên hoàn lv1 lydo: Sách kĩ năng at 01/29/2023 11:46 PM
+BAG:picolok remove Sách Liên hoàn lv2 lydo: Sách kĩ năng at 01/29/2023 11:46 PM
+BAG:picolok remove Sách Liên hoàn lv3 lydo: Sách kĩ năng at 01/29/2023 11:46 PM
+BAG:picolok remove Sách Liên hoàn lv4 lydo: Sách kĩ năng at 01/29/2023 11:46 PM
+BAG:picolok remove Sách Liên hoàn lv5 lydo: Sách kĩ năng at 01/29/2023 11:46 PM
+BAG:picolok remove Sách Liên hoàn lv6 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Sách Liên hoàn lv7 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Đẻ trứng lv1 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Đẻ trứng lv2 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Đẻ trứng lv3 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Đẻ trứng lv4 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Đẻ trứng lv5 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Đẻ trứng lv6 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove Đẻ trứng lv7 lydo: Sách kĩ năng at 01/29/2023 11:47 PM
+BAG:picolok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 01/29/2023 11:54 PM

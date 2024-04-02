@@ -1,0 +1,15 @@
+BAG:vanhmoi add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:01 AM
+BAG:vanhmoi add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 10:04 AM
+BAG:vanhmoi add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 10:06 AM
+BAG:vanhmoi add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 10:06 AM
+BAG:vanhmoi add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 10:07 AM
+BAG:vanhmoi add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 10:07 AM
+BAG:vanhmoi add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 10:07 AM
+BAG:vanhmoi add 1xĐậu xanh lydo: Nhặt từ map at 01/30/2023 10:08 AM
+BAG:vanhmoi add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 10:08 AM
+BAG:vanhmoi add 1xGà quay nguyên con lydo: Nhặt từ map at 01/30/2023 10:08 AM
+BAG:vanhmoi add 20xThỏi vàng lydo: Giftcode at 01/30/2023 10:11 AM
+BAG:vanhmoi add 1xMèo mun lydo: Mua từ cửa hàng at 01/30/2023 10:11 AM
+BAG:vanhmoi add 1xCột nhà lydo: Mua từ cửa hàng at 01/30/2023 10:16 AM
+BAG:vanhmoi add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/30/2023 10:18 AM
+BAG:vanhmoi add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 01/30/2023 10:18 AM

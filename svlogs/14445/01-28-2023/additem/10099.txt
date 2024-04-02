@@ -1,0 +1,8 @@
+BAG:songoku add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/28/2023 11:47 PM
+BAG:songoku add 6xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/28/2023 11:51 PM
+BAG:songoku add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 01/28/2023 11:51 PM
+BAG:songoku add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/28/2023 11:54 PM
+BAG:songoku add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/28/2023 11:58 PM
+BAG:songoku add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/28/2023 11:58 PM
+BAG:songoku add 29xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 01/28/2023 11:59 PM
+BAG:songoku add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 01/28/2023 11:59 PM

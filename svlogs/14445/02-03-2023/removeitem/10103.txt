@@ -1,0 +1,157 @@
+BAG:dongdz remove Giày lưỡng long lydo: Tự Xóa vật phẩm at 02/03/2023 5:31 SA
+BAG:dongdz remove Quần vàng Zealot lydo: Tự Xóa vật phẩm at 02/03/2023 5:32 SA
+BAG:dongdz remove Găng lưỡng long lydo: Tự Xóa vật phẩm at 02/03/2023 5:32 SA
+BAG:dongdz remove Áo lưỡng long lydo: Tự Xóa vật phẩm at 02/03/2023 5:32 SA
+BAG:dongdz remove Giày vàng Zealot lydo: Tự Xóa vật phẩm at 02/03/2023 5:32 SA
+BAG:dongdz remove Găng jean Calic lydo: Tự Xóa vật phẩm at 02/03/2023 5:32 SA
+BAG:dongdz remove Áo lưỡng long lydo: Tự Xóa vật phẩm at 02/03/2023 5:32 SA
+BAG:dongdz remove Áo vàng Zealot lydo: Tự Xóa vật phẩm at 02/03/2023 5:33 SA
+BAG:dongdz remove 1xCủ cà rốt lydo: Dùng buff at 02/03/2023 5:33 SA
+BAG:dongdz remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 5:33 SA
+BAG:dongdz remove Găng lưỡng long lydo: Tự Xóa vật phẩm at 02/03/2023 6:18 SA
+BAG:dongdz remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 6:18 SA
+BAG:dongdz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 6:18 SA
+BAG:dongdz remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 6:18 SA
+BAG:dongdz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 6:18 SA
+BAG:dongdz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 6:18 SA
+BAG:dongdz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 6:19 SA
+BAG:dongdz remove 1xCủ cà rốt lydo: Dùng buff at 02/03/2023 6:19 SA
+BAG:dongdz remove Mảnh vỡ bông tai lydo: Cất vào rương at 02/03/2023 6:22 SA
+BAG:dongdz remove Quỷ Chim lydo: Cất vào rương at 02/03/2023 6:22 SA
+BAG:dongdz remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 6:22 SA
+BAG:dongdz remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 6:22 SA
+BAG:dongdz remove Viên Capsule đặc biệt lydo: Cất vào rương at 02/03/2023 6:23 SA
+BAG:dongdz remove 1xCủ cà rốt lydo: Dùng buff at 02/03/2023 6:25 SA
+BAG:dongdz remove 1xCủ cà rốt lydo: Dùng buff at 02/03/2023 6:25 SA
+BAG:dongdz remove 1xGăng jean Calic lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 1xÁo jean Calic lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 1xGiày jean Calic lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 1xGiày jean Calic lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 1xQuần vàng Zealot lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 1xGăng lưỡng long lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 1xĐá lục bảo lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 99xNgọc Rồng 6 sao lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 99xĐá Saphia lydo: Bán cho shop at 02/03/2023 11:12 SA
+BAG:dongdz remove 99xĐá Ruby lydo: Bán cho shop at 02/03/2023 11:13 SA
+BAG:dongdz remove 99xĐá lục bảo lydo: Bán cho shop at 02/03/2023 11:13 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xTrứng vịt muối lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xGà quay nguyên con lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xBột mì lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 10xĐậu xanh lydo: Nấu bánh at 02/03/2023 11:17 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 11:18 SA
+BAG:dongdz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:19 SA
+BAG:dongdz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:19 SA
+BAG:dongdz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:19 SA
+BAG:dongdz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:19 SA
+BAG:dongdz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:19 SA
+BAG:dongdz remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 11:19 SA
+BAG:dongdz remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 11:20 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:20 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:21 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:24 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:25 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:25 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/03/2023 11:26 SA
+BAG:dongdz remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/03/2023 11:28 SA
+BAG:dongdz remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 11:28 SA
+BAG:dongdz remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 11:28 SA
+BAG:dongdz remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 11:28 SA
+BAG:dongdz remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 02/03/2023 11:30 SA
+BAG:dongdz remove 1xGiáp Xên bọ hung lydo: Dùng buff at 02/03/2023 11:30 SA
+BAG:dongdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:35 SA
+BAG:dongdz remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 11:48 SA
+BAG:dongdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:54 SA
+BAG:dongdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:01 CH
+BAG:dongdz remove 1xGăng vàng Zealot lydo: Bán cho shop at 02/03/2023 1:38 CH
+BAG:dongdz remove 1xGiày lưỡng long lydo: Bán cho shop at 02/03/2023 1:38 CH
+BAG:dongdz remove 1xGăng lưỡng long lydo: Bán cho shop at 02/03/2023 1:38 CH
+BAG:dongdz remove 1xGăng vàng Zealot lydo: Bán cho shop at 02/03/2023 1:39 CH
+BAG:dongdz remove 1xGiày lưỡng long lydo: Bán cho shop at 02/03/2023 1:39 CH
+BAG:dongdz remove 1xQuần jean Calic lydo: Bán cho shop at 02/03/2023 1:39 CH
+BAG:dongdz remove 1xGăng vàng Zealot lydo: Bán cho shop at 02/03/2023 1:39 CH

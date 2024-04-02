@@ -1,0 +1,65 @@
+BAG:picoloo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 9:04 PM
+BAG:picoloo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:07 PM
+BAG:picoloo add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:picoloo add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 9:10 PM
+BAG:picoloo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 9:10 PM
+BAG:picoloo add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:picoloo add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:picoloo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 9:17 PM
+BAG:picoloo add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 01/29/2023 9:17 PM
+BAG:picoloo add 3xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/29/2023 9:18 PM
+BAG:picoloo add 22xĐậu thần cấp 4 (old: 3) lydo: Lấy từ rương qua người at 01/29/2023 9:18 PM
+BAG:picoloo add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 01/29/2023 9:18 PM
+BAG:picoloo add 1xPhi Long VIP lydo: Mua từ cửa hàng at 01/29/2023 9:19 PM
+BAG:picoloo add 1xAvatar đeo khẩu trang lydo: Lấy từ body vào hành trang at 01/29/2023 9:19 PM
+BAG:picoloo add 20xThỏi vàng lydo: Giftcode at 01/29/2023 9:20 PM
+BAG:picoloo add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 9:21 PM
+BAG:picoloo add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:picoloo add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 9:22 PM
+BAG:picoloo add 1xÁo thun Pico lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:picoloo add 1xQuần thun Pico lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:picoloo add 1xGăng len Pico lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:picoloo add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 01/29/2023 9:25 PM
+BAG:picoloo add 1xCánh thiên thần lydo: Lấy từ rương qua người at 01/29/2023 9:25 PM
+BAG:picoloo add 1xSao pha lê lydo: Lấy từ lucky box at 01/29/2023 9:26 PM
+BAG:picoloo add 1xSao pha lê lydo: Lấy từ lucky box at 01/29/2023 9:26 PM
+BAG:picoloo add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 01/29/2023 9:26 PM
+BAG:picoloo add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 01/29/2023 9:27 PM
+BAG:picoloo add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 01/29/2023 9:27 PM
+BAG:picoloo add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 01/29/2023 9:29 PM
+BAG:picoloo add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 01/29/2023 9:29 PM
+BAG:picoloo add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 01/29/2023 9:29 PM
+BAG:picoloo add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 01/29/2023 9:30 PM
+BAG:picoloo add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 01/29/2023 9:30 PM
+BAG:picoloo add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 01/29/2023 9:30 PM
+BAG:picoloo add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 01/29/2023 9:30 PM
+BAG:picoloo add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 01/29/2023 9:30 PM
+BAG:picoloo add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 01/29/2023 9:30 PM
+BAG:picoloo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:30 PM
+BAG:picoloo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/29/2023 9:31 PM
+BAG:picoloo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 9:32 PM
+BAG:picoloo add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 9:33 PM
+BAG:picoloo add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/29/2023 9:33 PM
+BAG:picoloo add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/29/2023 9:33 PM
+BAG:picoloo add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/29/2023 9:33 PM
+BAG:picoloo add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 01/29/2023 9:33 PM
+BAG:picoloo add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:38 PM
+BAG:picoloo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 9:38 PM
+BAG:picoloo add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 9:40 PM

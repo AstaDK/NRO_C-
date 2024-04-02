@@ -1,0 +1,11 @@
+BAG:igzeno remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 9:18 SA
+BAG:igzeno remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 9:35 SA
+BAG:igzeno remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 9:43 SA
+BAG:igzeno remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 02/03/2023 9:48 SA
+BAG:igzeno remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 9:48 SA
+BAG:igzeno remove 1xÁo sợi len lydo: Bán cho shop at 02/03/2023 12:05 CH
+BAG:igzeno remove 1xQuần sợi len lydo: Bán cho shop at 02/03/2023 12:06 CH
+BAG:igzeno remove Găng thun Pico lydo: Mặc vào người at 02/03/2023 12:06 CH
+BAG:igzeno remove Giày nhựa cứng lydo: Mặc vào người at 02/03/2023 12:06 CH
+BAG:igzeno remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 12:06 CH
+BAG:igzeno remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:10 CH

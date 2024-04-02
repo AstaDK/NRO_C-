@@ -1,0 +1,125 @@
+BAG:picclo add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 1:18 CH
+BAG:picclo add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 1:20 CH
+BAG:picclo add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 1:22 CH
+BAG:picclo add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 1:23 CH
+BAG:picclo add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:picclo add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 1:25 CH
+BAG:picclo add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/03/2023 1:26 CH
+BAG:picclo add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 1:27 CH
+BAG:picclo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:picclo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:picclo add 17xBột mì (old: 16) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:picclo add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:picclo add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:picclo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 1:28 CH
+BAG:picclo add 1xPháo hoa lydo: Nhặt từ map at 02/03/2023 1:38 CH
+BAG:picclo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:40 CH
+BAG:picclo add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 1:41 CH
+BAG:picclo add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 1:41 CH
+BAG:picclo add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 1:41 CH
+BAG:picclo add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 1:41 CH
+BAG:picclo add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 1:41 CH
+BAG:picclo add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 1:41 CH
+BAG:picclo add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:picclo add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/03/2023 1:43 CH
+BAG:picclo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:picclo add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:picclo add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/03/2023 1:44 CH
+BAG:picclo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:picclo add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 1:45 CH
+BAG:picclo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 1:46 CH
+BAG:picclo add 44xĐậu thần cấp 10 (old: 24) lydo: Lấy từ rương qua người at 02/03/2023 1:46 CH
+BAG:picclo add 1xCải trang lydo: Lấy từ rương qua người at 02/03/2023 1:46 CH
+BAG:picclo add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:picclo add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 1:46 CH
+BAG:picclo add 1xÁo vải Pico lydo: Lấy từ rương qua người at 02/03/2023 1:47 CH
+BAG:picclo add 1xGiày da Pico lydo: Lấy từ rương qua người at 02/03/2023 1:47 CH
+BAG:picclo add 1xGăng len cứng lydo: Lấy từ rương qua người at 02/03/2023 1:47 CH
+BAG:picclo add 1xQuần vải cứng Pico lydo: Lấy từ rương qua người at 02/03/2023 1:47 CH
+BAG:picclo add 1xCải trang lydo: Lấy từ rương qua người at 02/03/2023 1:47 CH
+BAG:picclo add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:picclo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:picclo add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:48 CH

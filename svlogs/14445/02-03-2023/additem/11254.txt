@@ -1,0 +1,107 @@
+BAG:mrhoan add 1xGăng vải thô lydo: Nhặt từ map at 02/03/2023 10:59 SA
+BAG:mrhoan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 11:00 SA
+BAG:mrhoan add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 11:04 SA
+BAG:mrhoan add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:mrhoan add 1xCây mai lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:mrhoan add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:mrhoan add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:mrhoan add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:mrhoan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 11:09 SA
+BAG:mrhoan add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:mrhoan add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:mrhoan add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:mrhoan add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:mrhoan add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:mrhoan add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:mrhoan add 1xLì xì lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:mrhoan add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:mrhoan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 11:13 SA
+BAG:mrhoan add 20xThỏi vàng lydo: Giftcode at 02/03/2023 11:16 SA
+BAG:mrhoan add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 11:17 SA
+BAG:mrhoan add 1xÁo thun Pico lydo: Mua từ cửa hàng at 02/03/2023 11:22 SA
+BAG:mrhoan add 1xQuần thun Pico lydo: Mua từ cửa hàng at 02/03/2023 11:22 SA
+BAG:mrhoan add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 02/03/2023 11:22 SA
+BAG:mrhoan add 1xGăng len Pico lydo: Mua từ cửa hàng at 02/03/2023 11:22 SA
+BAG:mrhoan add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 11:24 SA
+BAG:mrhoan add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 11:24 SA
+BAG:mrhoan add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 11:24 SA
+BAG:mrhoan add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 11:24 SA
+BAG:mrhoan add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 11:24 SA
+BAG:mrhoan add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:mrhoan add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:mrhoan add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:mrhoan add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:mrhoan add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:mrhoan add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:mrhoan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 11:25 SA
+BAG:mrhoan add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:mrhoan add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:mrhoan add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:mrhoan add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:mrhoan add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:mrhoan add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:mrhoan add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:mrhoan add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:mrhoan add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:mrhoan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:mrhoan add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:mrhoan add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 11:29 SA
+BAG:mrhoan add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:mrhoan add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 11:31 SA
+BAG:mrhoan add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/03/2023 11:32 SA
+BAG:mrhoan add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:mrhoan add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:mrhoan add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:mrhoan add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:mrhoan add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:mrhoan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 11:38 SA
+BAG:mrhoan add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:mrhoan add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:mrhoan add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:mrhoan add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:mrhoan add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 11:39 SA
+BAG:mrhoan add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 11:40 SA
+BAG:mrhoan add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 11:41 SA
+BAG:mrhoan add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:mrhoan add 1xMảnh Phi long lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:mrhoan add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:mrhoan add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:mrhoan add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:mrhoan add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:mrhoan add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 11:42 SA
+BAG:mrhoan add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:mrhoan add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:mrhoan add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:mrhoan add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 11:44 SA
+BAG:mrhoan add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 11:44 SA

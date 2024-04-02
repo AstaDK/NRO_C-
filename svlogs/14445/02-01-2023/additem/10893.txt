@@ -1,0 +1,2 @@
+BAG:momimo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 5:11 CH
+BAG:momimo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/01/2023 5:11 CH

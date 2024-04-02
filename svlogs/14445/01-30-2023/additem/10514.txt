@@ -1,0 +1,96 @@
+BAG:gaohong add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 9:45 AM
+BAG:gaohong add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 9:45 AM
+BAG:gaohong add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 9:48 AM
+BAG:gaohong add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 9:48 AM
+BAG:gaohong add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 9:51 AM
+BAG:gaohong add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 9:51 AM
+BAG:gaohong add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 9:52 AM
+BAG:gaohong add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 9:52 AM
+BAG:gaohong add 1xTrứng vịt muối lydo: Nhặt từ map at 01/30/2023 9:52 AM
+BAG:gaohong add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 9:53 AM
+BAG:gaohong add 1xBột mì lydo: Nhặt từ map at 01/30/2023 9:53 AM
+BAG:gaohong add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 9:53 AM
+BAG:gaohong add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 9:54 AM
+BAG:gaohong add 1xMảnh Khủng long lydo: Nhặt từ map at 01/30/2023 9:55 AM
+BAG:gaohong add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 9:55 AM
+BAG:gaohong add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/30/2023 9:55 AM
+BAG:gaohong add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 9:55 AM
+BAG:gaohong add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/30/2023 9:56 AM
+BAG:gaohong add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/30/2023 9:56 AM
+BAG:gaohong add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/30/2023 9:56 AM
+BAG:gaohong add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 9:57 AM
+BAG:gaohong add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 9:57 AM
+BAG:gaohong add 1xCải trang Hit lydo: Mua từ cửa hàng at 01/30/2023 10:01 AM
+BAG:gaohong add 1xMèo mun lydo: Mua từ cửa hàng at 01/30/2023 10:02 AM
+BAG:gaohong add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 10:02 AM
+BAG:gaohong add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 10:02 AM
+BAG:gaohong add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 10:02 AM
+BAG:gaohong add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/30/2023 10:02 AM
+BAG:gaohong add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/30/2023 10:02 AM
+BAG:gaohong add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 01/30/2023 10:03 AM
+BAG:gaohong add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/30/2023 10:05 AM
+BAG:gaohong add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 10:05 AM
+BAG:gaohong add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 01/30/2023 10:07 AM
+BAG:gaohong add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/30/2023 10:08 AM
+BAG:gaohong add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/30/2023 10:08 AM
+BAG:gaohong add 1xMảnh Khủng long lydo: Nhặt từ map at 01/30/2023 10:09 AM
+BAG:gaohong add 1xMảnh Khủng long lydo: Nhặt từ map at 01/30/2023 10:09 AM
+BAG:gaohong add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/30/2023 10:09 AM
+BAG:gaohong add 1xĐậu xanh lydo: Nhặt từ map at 01/30/2023 10:10 AM
+BAG:gaohong add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/30/2023 10:10 AM
+BAG:gaohong add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/30/2023 10:10 AM
+BAG:gaohong add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/30/2023 10:10 AM
+BAG:gaohong add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/30/2023 10:11 AM
+BAG:gaohong add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/30/2023 10:11 AM
+BAG:gaohong add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 01/30/2023 10:11 AM
+BAG:gaohong add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 01/30/2023 10:12 AM
+BAG:gaohong add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 10:12 AM
+BAG:gaohong add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/30/2023 10:12 AM
+BAG:gaohong add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/30/2023 10:12 AM
+BAG:gaohong add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/30/2023 10:12 AM
+BAG:gaohong add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 01/30/2023 10:13 AM
+BAG:gaohong add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 01/30/2023 10:13 AM
+BAG:gaohong add 1xQuần vải đen lydo: Nhặt từ map at 01/30/2023 10:13 AM
+BAG:gaohong add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 01/30/2023 10:13 AM
+BAG:gaohong add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 01/30/2023 10:14 AM
+BAG:gaohong add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 01/30/2023 10:14 AM
+BAG:gaohong add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 10:14 AM
+BAG:gaohong add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/30/2023 10:14 AM
+BAG:gaohong add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/30/2023 10:15 AM
+BAG:gaohong add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 01/30/2023 10:15 AM
+BAG:gaohong add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/30/2023 10:15 AM
+BAG:gaohong add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 01/30/2023 10:16 AM
+BAG:gaohong add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 01/30/2023 10:16 AM
+BAG:gaohong add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 01/30/2023 10:16 AM
+BAG:gaohong add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 01/30/2023 10:17 AM
+BAG:gaohong add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/30/2023 10:17 AM
+BAG:gaohong add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 01/30/2023 10:17 AM
+BAG:gaohong add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/30/2023 10:17 AM
+BAG:gaohong add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 1xRada cấp 1 lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 01/30/2023 10:18 AM
+BAG:gaohong add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/30/2023 10:19 AM
+BAG:gaohong add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 01/30/2023 10:19 AM
+BAG:gaohong add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/30/2023 10:19 AM
+BAG:gaohong add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 01/30/2023 10:19 AM
+BAG:gaohong add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/30/2023 10:19 AM
+BAG:gaohong add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 01/30/2023 10:20 AM

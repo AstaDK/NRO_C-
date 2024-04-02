@@ -1,0 +1,93 @@
+BAG:gamlimku add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 01/31/2023 8:57 AM
+BAG:gamlimku add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/31/2023 8:58 AM
+BAG:gamlimku add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 8:58 AM
+BAG:gamlimku add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 8:58 AM
+BAG:gamlimku add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/31/2023 8:58 AM
+BAG:gamlimku add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/31/2023 8:58 AM
+BAG:gamlimku add 1xDiều rồng lydo: Mua từ cửa hàng at 01/31/2023 8:58 AM
+BAG:gamlimku add 1xMèo mun lydo: Mua từ cửa hàng at 01/31/2023 8:58 AM
+BAG:gamlimku add 20xThỏi vàng lydo: Giftcode at 01/31/2023 8:59 AM
+BAG:gamlimku add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/31/2023 8:59 AM
+BAG:gamlimku add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 01/31/2023 8:59 AM
+BAG:gamlimku add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 01/31/2023 8:59 AM
+BAG:gamlimku add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 01/31/2023 8:59 AM
+BAG:gamlimku add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 01/31/2023 9:00 AM
+BAG:gamlimku add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 01/31/2023 9:00 AM
+BAG:gamlimku add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 01/31/2023 9:00 AM
+BAG:gamlimku add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 01/31/2023 9:00 AM
+BAG:gamlimku add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 01/31/2023 9:00 AM
+BAG:gamlimku add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 01/31/2023 9:00 AM
+BAG:gamlimku add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 01/31/2023 9:00 AM
+BAG:gamlimku add 1xCải trang Mabư Noel lydo: Lấy từ body vào hành trang at 01/31/2023 9:00 AM
+BAG:gamlimku add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 01/31/2023 9:07 AM
+BAG:gamlimku add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 01/31/2023 9:07 AM
+BAG:gamlimku add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/31/2023 9:07 AM
+BAG:gamlimku add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 01/31/2023 9:08 AM
+BAG:gamlimku add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 01/31/2023 9:08 AM
+BAG:gamlimku add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 01/31/2023 9:08 AM
+BAG:gamlimku add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 01/31/2023 9:08 AM
+BAG:gamlimku add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 01/31/2023 9:08 AM
+BAG:gamlimku add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xSao pha lê lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xSao pha lê lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xSao pha lê lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xSao pha lê lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xSao pha lê lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xSao pha lê lydo: Lấy từ lucky box at 01/31/2023 9:18 AM
+BAG:gamlimku add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 9:25 AM
+BAG:gamlimku add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 01/31/2023 9:25 AM
+BAG:gamlimku add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 9:27 AM
+BAG:gamlimku add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 9:27 AM
+BAG:gamlimku add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 01/31/2023 9:29 AM
+BAG:gamlimku add 1xGhế bay lydo: Mua từ cửa hàng at 01/31/2023 9:29 AM
+BAG:gamlimku add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 9:31 AM
+BAG:gamlimku add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 9:31 AM
+BAG:gamlimku add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 9:32 AM
+BAG:gamlimku add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/31/2023 9:32 AM
+BAG:gamlimku add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/31/2023 9:32 AM
+BAG:gamlimku add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/31/2023 9:32 AM
+BAG:gamlimku add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 01/31/2023 9:34 AM
+BAG:gamlimku add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 01/31/2023 9:34 AM
+BAG:gamlimku add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 01/31/2023 9:34 AM
+BAG:gamlimku add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 01/31/2023 9:35 AM
+BAG:gamlimku add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 01/31/2023 9:35 AM
+BAG:gamlimku add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 01/31/2023 9:36 AM
+BAG:gamlimku add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 01/31/2023 9:36 AM
+BAG:gamlimku add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 01/31/2023 9:37 AM
+BAG:gamlimku add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 01/31/2023 9:37 AM
+BAG:gamlimku add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 01/31/2023 9:37 AM
+BAG:gamlimku add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 01/31/2023 9:37 AM
+BAG:gamlimku add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 01/31/2023 9:37 AM
+BAG:gamlimku add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 9:40 AM
+BAG:gamlimku add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 9:40 AM
+BAG:gamlimku add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 9:40 AM
+BAG:gamlimku add 1xGà quay nguyên con lydo: Nhặt từ map at 01/31/2023 9:40 AM
+BAG:gamlimku add 1xBột mì lydo: Nhặt từ map at 01/31/2023 9:41 AM
+BAG:gamlimku add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 9:41 AM
+BAG:gamlimku add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 9:45 AM

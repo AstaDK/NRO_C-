@@ -1,0 +1,53 @@
+BAG:bestks remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 7:10 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:12 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:12 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:13 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:14 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:15 CH
+BAG:bestks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 7:16 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:16 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:16 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:16 CH
+BAG:bestks remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:16 CH
+BAG:bestks remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 7:17 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:18 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:18 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:19 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:19 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:19 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:20 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:20 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:20 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:21 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:21 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:21 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:22 CH
+BAG:bestks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 7:23 CH
+BAG:bestks remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 7:23 CH
+BAG:bestks remove Avatar đeo khẩu trang lydo: Mặc vào người at 02/02/2023 7:24 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:29 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:29 CH
+BAG:bestks remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 7:30 CH
+BAG:bestks remove Mèo mun lydo: Tự Xóa vật phẩm at 02/02/2023 7:30 CH
+BAG:bestks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 7:30 CH
+BAG:bestks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 7:30 CH
+BAG:bestks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 7:30 CH
+BAG:bestks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 7:30 CH
+BAG:bestks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 7:30 CH
+BAG:bestks remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 7:30 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:31 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:31 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:32 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:32 CH
+BAG:bestks remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 7:32 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:32 CH
+BAG:bestks remove Cải trang Hit lydo: Mặc cho đệ tử at 02/02/2023 7:33 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:33 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:33 CH
+BAG:bestks remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 02/02/2023 7:33 CH
+BAG:bestks remove Cải trang Hit lydo: Tự Xóa vật phẩm at 02/02/2023 7:33 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:34 CH
+BAG:bestks remove Cải trang Hit lydo: Tự Xóa vật phẩm at 02/02/2023 7:34 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:34 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:35 CH
+BAG:bestks remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/02/2023 7:35 CH

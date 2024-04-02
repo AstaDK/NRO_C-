@@ -1,0 +1,52 @@
+BAG:hahahaj add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:38 AM
+BAG:hahahaj add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:52 AM
+BAG:hahahaj add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 10:58 AM
+BAG:hahahaj add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 11:00 AM
+BAG:hahahaj add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 11:00 AM
+BAG:hahahaj add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 11:02 AM
+BAG:hahahaj add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/30/2023 11:04 AM
+BAG:hahahaj add 1xBột mì lydo: Nhặt từ map at 01/30/2023 11:04 AM
+BAG:hahahaj add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 01/30/2023 11:05 AM
+BAG:hahahaj add 5xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:05 AM
+BAG:hahahaj add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 11:06 AM
+BAG:hahahaj add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 11:06 AM
+BAG:hahahaj add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 11:06 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:06 AM
+BAG:hahahaj add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 11:08 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 6) lydo: Thu hoạch đậu at 01/30/2023 11:08 AM
+BAG:hahahaj add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 01/30/2023 11:08 AM
+BAG:hahahaj add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 01/30/2023 11:08 AM
+BAG:hahahaj add 1xGhế bay lydo: Mua từ cửa hàng at 01/30/2023 11:09 AM
+BAG:hahahaj add 1xAvatar lydo: Mua từ cửa hàng at 01/30/2023 11:09 AM
+BAG:hahahaj add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 11:09 AM
+BAG:hahahaj add 1xGăng đồng lydo: Mua từ cửa hàng at 01/30/2023 11:13 AM
+BAG:hahahaj add 1xRada cấp 5 lydo: Mua từ cửa hàng at 01/30/2023 11:13 AM
+BAG:hahahaj add 1xGăng bạc lydo: Mua từ cửa hàng at 01/30/2023 11:15 AM
+BAG:hahahaj add 5xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:25 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:27 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 6) lydo: Thu hoạch đậu at 01/30/2023 11:28 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:35 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:38 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:40 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:42 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 2) lydo: Thu hoạch đậu at 01/30/2023 11:44 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 7) lydo: Thu hoạch đậu at 01/30/2023 11:44 AM
+BAG:hahahaj add 30xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 11:45 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:51 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:53 AM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 11:55 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 11:55 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 11:55 AM
+BAG:hahahaj add 26xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 11:55 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 6) lydo: Thu hoạch đậu at 01/30/2023 11:59 AM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 11:59 AM
+BAG:hahahaj add 23xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 11:59 AM
+BAG:hahahaj add 1xBông tai Porata lydo: Mua từ cửa hàng at 01/30/2023 12:01 PM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 12:06 PM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 12:07 PM
+BAG:hahahaj add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 12:07 PM
+BAG:hahahaj add 26xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 12:07 PM
+BAG:hahahaj add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/30/2023 8:13 PM
+BAG:hahahaj add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/30/2023 8:13 PM
+BAG:hahahaj add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 9:01 PM
+BAG:hahahaj add 4xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 9:15 PM

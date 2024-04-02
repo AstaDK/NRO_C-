@@ -1,0 +1,29 @@
+BAG:gaidiem add 207xThỏi vàng (old: 7) lydo: Đổi vàng at 02/03/2023 12:28 SA
+BAG:gaidiem add 5xNgọc Rồng 5 sao lydo: (GD) Nhận từ luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem add 40xNgọc Rồng 4 sao lydo: (GD) Nhận từ luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem add 5xNgọc Rồng 6 sao lydo: (GD) Nhận từ luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem add 5xNgọc Rồng 1 sao lydo: (GD) Nhận từ luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem add 5xNgọc Rồng 7 sao lydo: (GD) Nhận từ luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem add 5xNgọc Rồng 2 sao lydo: (GD) Nhận từ luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem add 3xNgọc Rồng 5 sao lydo: (GD) Nhận từ luxubu at 02/03/2023 12:31 SA
+BAG:gaidiem add 117xCây mai (old: 116) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:gaidiem add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:gaidiem add 118xCây mai (old: 117) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:gaidiem add 1xÁo thun Kame lydo: Lấy từ body vào hành trang at 02/03/2023 12:37 SA
+BAG:gaidiem add 1xQuần võ Kame lydo: Lấy từ body vào hành trang at 02/03/2023 12:37 SA
+BAG:gaidiem add 1xGiày võ kame lydo: Lấy từ body vào hành trang at 02/03/2023 12:38 SA
+BAG:gaidiem add 1xRada cấp 6 lydo: Lấy từ body vào hành trang at 02/03/2023 12:38 SA
+BAG:gaidiem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:38 SA
+BAG:gaidiem add 13xSao pha lê lydo: (GD) Nhận từ pit01 at 02/03/2023 12:48 SA
+BAG:gaidiem add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 02/03/2023 1:00 SA

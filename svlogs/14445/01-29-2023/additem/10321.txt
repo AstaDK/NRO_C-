@@ -1,0 +1,261 @@
+BAG:octiu1304 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:56 PM
+BAG:octiu1304 add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 8:16 PM
+BAG:octiu1304 add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 8:21 PM
+BAG:octiu1304 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 8:21 PM
+BAG:octiu1304 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 8:22 PM
+BAG:octiu1304 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 8:23 PM
+BAG:octiu1304 add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 8:24 PM
+BAG:octiu1304 add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 8:25 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 8:26 PM
+BAG:octiu1304 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 8:27 PM
+BAG:octiu1304 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/29/2023 8:27 PM
+BAG:octiu1304 add 1xÁo sợi len lydo: Nhặt từ map at 01/29/2023 8:39 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/29/2023 8:39 PM
+BAG:octiu1304 add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 8:44 PM
+BAG:octiu1304 add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 8:44 PM
+BAG:octiu1304 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 8:46 PM
+BAG:octiu1304 add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 8:47 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 8:47 PM
+BAG:octiu1304 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 8:47 PM
+BAG:octiu1304 add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 8:48 PM
+BAG:octiu1304 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 8:48 PM
+BAG:octiu1304 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 8:48 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/29/2023 8:49 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 01/29/2023 8:50 PM
+BAG:octiu1304 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 8:50 PM
+BAG:octiu1304 add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 8:50 PM
+BAG:octiu1304 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 8:51 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/29/2023 8:52 PM
+BAG:octiu1304 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 8:53 PM
+BAG:octiu1304 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 8:53 PM
+BAG:octiu1304 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/29/2023 8:54 PM
+BAG:octiu1304 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/29/2023 8:54 PM
+BAG:octiu1304 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 8:54 PM
+BAG:octiu1304 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 8:54 PM
+BAG:octiu1304 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/29/2023 8:54 PM
+BAG:octiu1304 add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/29/2023 8:54 PM
+BAG:octiu1304 add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 8:55 PM
+BAG:octiu1304 add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 8:55 PM
+BAG:octiu1304 add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 8:56 PM
+BAG:octiu1304 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 8:56 PM
+BAG:octiu1304 add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 8:56 PM
+BAG:octiu1304 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 8:56 PM
+BAG:octiu1304 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/29/2023 8:56 PM
+BAG:octiu1304 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/29/2023 8:57 PM
+BAG:octiu1304 add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/29/2023 8:57 PM
+BAG:octiu1304 add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 8:57 PM
+BAG:octiu1304 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 8:58 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 8:58 PM
+BAG:octiu1304 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 8:58 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/29/2023 8:58 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/29/2023 8:58 PM
+BAG:octiu1304 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 8:58 PM
+BAG:octiu1304 add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 8:58 PM
+BAG:octiu1304 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/29/2023 8:59 PM
+BAG:octiu1304 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 8:59 PM
+BAG:octiu1304 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/29/2023 8:59 PM
+BAG:octiu1304 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 8:59 PM
+BAG:octiu1304 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 01/29/2023 8:59 PM
+BAG:octiu1304 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 9:01 PM
+BAG:octiu1304 add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 01/29/2023 9:02 PM
+BAG:octiu1304 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/29/2023 9:02 PM
+BAG:octiu1304 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/29/2023 9:02 PM
+BAG:octiu1304 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/29/2023 9:02 PM
+BAG:octiu1304 add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/29/2023 9:03 PM
+BAG:octiu1304 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/29/2023 9:03 PM
+BAG:octiu1304 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/29/2023 9:03 PM
+BAG:octiu1304 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 9:04 PM
+BAG:octiu1304 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/29/2023 9:04 PM
+BAG:octiu1304 add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 01/29/2023 9:04 PM
+BAG:octiu1304 add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 01/29/2023 9:05 PM
+BAG:octiu1304 add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 01/29/2023 9:05 PM
+BAG:octiu1304 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/29/2023 9:05 PM
+BAG:octiu1304 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/29/2023 9:07 PM
+BAG:octiu1304 add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 01/29/2023 9:07 PM
+BAG:octiu1304 add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 01/29/2023 9:07 PM
+BAG:octiu1304 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:octiu1304 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:octiu1304 add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:octiu1304 add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:octiu1304 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:octiu1304 add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:octiu1304 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:octiu1304 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/29/2023 9:09 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 01/29/2023 9:09 PM
+BAG:octiu1304 add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 01/29/2023 9:09 PM
+BAG:octiu1304 add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 01/29/2023 9:09 PM
+BAG:octiu1304 add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 01/29/2023 9:10 PM
+BAG:octiu1304 add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/29/2023 9:10 PM
+BAG:octiu1304 add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 01/29/2023 9:10 PM
+BAG:octiu1304 add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/29/2023 9:11 PM
+BAG:octiu1304 add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 01/29/2023 9:11 PM
+BAG:octiu1304 add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 01/29/2023 9:11 PM
+BAG:octiu1304 add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/29/2023 9:11 PM
+BAG:octiu1304 add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:octiu1304 add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:octiu1304 add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:octiu1304 add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:octiu1304 add 1xRada cấp 1 lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:octiu1304 add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 01/29/2023 9:12 PM
+BAG:octiu1304 add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:octiu1304 add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:octiu1304 add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:octiu1304 add 1xGà quay nguyên con lydo: Nhặt từ map at 01/29/2023 9:13 PM
+BAG:octiu1304 add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:octiu1304 add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:octiu1304 add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:octiu1304 add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:octiu1304 add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 01/29/2023 9:14 PM
+BAG:octiu1304 add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:octiu1304 add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:octiu1304 add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:octiu1304 add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:octiu1304 add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 01/29/2023 9:15 PM
+BAG:octiu1304 add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:octiu1304 add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:octiu1304 add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 01/29/2023 9:16 PM
+BAG:octiu1304 add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:octiu1304 add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:octiu1304 add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:octiu1304 add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:octiu1304 add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:octiu1304 add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 01/29/2023 9:17 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/29/2023 9:18 PM
+BAG:octiu1304 add 1xĐậu xanh lydo: Nhặt từ map at 01/29/2023 9:18 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 9:18 PM
+BAG:octiu1304 add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:octiu1304 add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:octiu1304 add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:octiu1304 add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:octiu1304 add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:octiu1304 add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 01/29/2023 9:19 PM
+BAG:octiu1304 add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 01/29/2023 9:20 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/29/2023 9:21 PM
+BAG:octiu1304 add 1xGăng sợi len lydo: Nhặt từ map at 01/29/2023 9:21 PM
+BAG:octiu1304 add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 01/29/2023 9:22 PM
+BAG:octiu1304 add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 01/29/2023 9:23 PM
+BAG:octiu1304 add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 01/29/2023 9:23 PM
+BAG:octiu1304 add 1xAvatar lydo: Mua từ cửa hàng at 01/29/2023 9:24 PM
+BAG:octiu1304 add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 01/29/2023 9:26 PM
+BAG:octiu1304 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:28 PM
+BAG:octiu1304 add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:octiu1304 add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:octiu1304 add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:octiu1304 add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 01/29/2023 9:32 PM
+BAG:octiu1304 add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:octiu1304 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:octiu1304 add 1xBột mì lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:octiu1304 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 9:33 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/29/2023 9:34 PM
+BAG:octiu1304 add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:octiu1304 add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:octiu1304 add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:octiu1304 add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:octiu1304 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:octiu1304 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:octiu1304 add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/29/2023 9:35 PM
+BAG:octiu1304 add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 01/29/2023 9:36 PM
+BAG:octiu1304 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 9:36 PM
+BAG:octiu1304 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 9:36 PM
+BAG:octiu1304 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 9:37 PM
+BAG:octiu1304 add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 01/29/2023 9:37 PM
+BAG:octiu1304 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 9:38 PM
+BAG:octiu1304 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/29/2023 9:38 PM
+BAG:octiu1304 add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 9:38 PM
+BAG:octiu1304 add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/29/2023 9:38 PM
+BAG:octiu1304 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/29/2023 9:39 PM
+BAG:octiu1304 add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 01/29/2023 9:39 PM
+BAG:octiu1304 add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 01/29/2023 9:39 PM
+BAG:octiu1304 add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 01/29/2023 9:39 PM
+BAG:octiu1304 add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 01/29/2023 9:39 PM
+BAG:octiu1304 add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 01/29/2023 9:39 PM
+BAG:octiu1304 add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 01/29/2023 9:40 PM
+BAG:octiu1304 add 2xBột mì (old: 1) lydo: Nhặt từ map at 01/29/2023 9:40 PM
+BAG:octiu1304 add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 01/29/2023 9:40 PM
+BAG:octiu1304 add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 01/29/2023 9:40 PM
+BAG:octiu1304 add 1xĐậu xanh lydo: Nhặt từ map at 01/29/2023 9:40 PM
+BAG:octiu1304 add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 01/29/2023 9:41 PM
+BAG:octiu1304 add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 01/29/2023 9:41 PM
+BAG:octiu1304 add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 01/29/2023 9:42 PM
+BAG:octiu1304 add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/29/2023 9:42 PM
+BAG:octiu1304 add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 01/29/2023 9:42 PM
+BAG:octiu1304 add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 01/29/2023 9:42 PM
+BAG:octiu1304 add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 01/29/2023 9:42 PM
+BAG:octiu1304 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 9:42 PM
+BAG:octiu1304 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 01/29/2023 9:43 PM
+BAG:octiu1304 add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 01/29/2023 9:44 PM
+BAG:octiu1304 add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 01/29/2023 9:44 PM
+BAG:octiu1304 add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/29/2023 9:45 PM
+BAG:octiu1304 add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 01/29/2023 9:45 PM
+BAG:octiu1304 add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 01/29/2023 9:45 PM
+BAG:octiu1304 add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 01/29/2023 9:45 PM
+BAG:octiu1304 add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 01/29/2023 9:46 PM
+BAG:octiu1304 add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 01/29/2023 9:46 PM
+BAG:octiu1304 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 01/29/2023 9:46 PM
+BAG:octiu1304 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 01/29/2023 9:46 PM
+BAG:octiu1304 add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 01/29/2023 9:47 PM
+BAG:octiu1304 add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 01/29/2023 9:48 PM
+BAG:octiu1304 add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 01/29/2023 9:48 PM
+BAG:octiu1304 add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 01/29/2023 9:48 PM
+BAG:octiu1304 add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 01/29/2023 9:48 PM
+BAG:octiu1304 add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 01/29/2023 9:49 PM
+BAG:octiu1304 add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 01/29/2023 9:49 PM
+BAG:octiu1304 add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 01/29/2023 9:49 PM
+BAG:octiu1304 add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 01/29/2023 9:50 PM
+BAG:octiu1304 add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:50 PM
+BAG:octiu1304 add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:50 PM
+BAG:octiu1304 add 1xGăng sợi len lydo: Nhặt từ map at 01/29/2023 9:51 PM
+BAG:octiu1304 add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 01/29/2023 9:51 PM
+BAG:octiu1304 add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 01/29/2023 9:51 PM
+BAG:octiu1304 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 9:52 PM
+BAG:octiu1304 add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 01/29/2023 9:52 PM
+BAG:octiu1304 add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 9:52 PM
+BAG:octiu1304 add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 01/29/2023 9:53 PM
+BAG:octiu1304 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 9:53 PM
+BAG:octiu1304 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 9:53 PM
+BAG:octiu1304 add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 01/29/2023 9:53 PM
+BAG:octiu1304 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 9:53 PM
+BAG:octiu1304 add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 01/29/2023 9:53 PM
+BAG:octiu1304 add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:octiu1304 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:octiu1304 add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:octiu1304 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:octiu1304 add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:octiu1304 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 9:55 PM
+BAG:octiu1304 add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 01/29/2023 9:56 PM
+BAG:octiu1304 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/29/2023 9:56 PM
+BAG:octiu1304 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/29/2023 9:56 PM
+BAG:octiu1304 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 9:56 PM
+BAG:octiu1304 add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 01/29/2023 9:56 PM
+BAG:octiu1304 add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 01/29/2023 9:56 PM
+BAG:octiu1304 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/29/2023 9:57 PM
+BAG:octiu1304 add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/29/2023 9:57 PM
+BAG:octiu1304 add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 01/29/2023 9:57 PM
+BAG:octiu1304 add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 01/29/2023 9:57 PM
+BAG:octiu1304 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/29/2023 9:57 PM
+BAG:octiu1304 add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 01/29/2023 9:58 PM
+BAG:octiu1304 add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 01/29/2023 9:58 PM
+BAG:octiu1304 add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 01/29/2023 9:58 PM
+BAG:octiu1304 add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 01/29/2023 9:59 PM
+BAG:octiu1304 add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 01/29/2023 9:59 PM
+BAG:octiu1304 add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 01/29/2023 9:59 PM
+BAG:octiu1304 add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 01/29/2023 9:59 PM
+BAG:octiu1304 add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 01/29/2023 9:59 PM
+BAG:octiu1304 add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 01/29/2023 9:59 PM
+BAG:octiu1304 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/29/2023 10:00 PM
+BAG:octiu1304 add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 01/29/2023 10:00 PM

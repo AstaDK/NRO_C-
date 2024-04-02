@@ -1,0 +1,49 @@
+BAG:minhk add 1xNezuko lydo: Mua từ cửa hàng at 01/28/2023 7:09 PM
+BAG:minhk add 1xNezuko lydo: Mua từ cửa hàng at 01/28/2023 7:09 PM
+BAG:minhk add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/28/2023 7:10 PM
+BAG:minhk add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/28/2023 7:10 PM
+BAG:minhk add 1xNezuko lydo: Lấy từ body đệ vào hành trang at 01/28/2023 7:36 PM
+BAG:minhk add 1xCải trang Chill lydo: Mua từ cửa hàng at 01/28/2023 7:38 PM
+BAG:minhk add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/28/2023 7:38 PM
+BAG:minhk add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/28/2023 7:39 PM
+BAG:minhk add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 01/28/2023 7:39 PM
+BAG:minhk add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 01/28/2023 7:39 PM
+BAG:minhk add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 01/28/2023 7:40 PM
+BAG:minhk add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/28/2023 7:42 PM
+BAG:minhk add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/28/2023 7:42 PM
+BAG:minhk add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/28/2023 7:43 PM
+BAG:minhk add 1xĐá Ruby lydo: Nhặt từ map at 01/28/2023 7:43 PM
+BAG:minhk add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/28/2023 7:43 PM
+BAG:minhk add 1xĐá lục bảo lydo: Nhặt từ map at 01/28/2023 7:44 PM
+BAG:minhk add 1xĐá Saphia lydo: Nhặt từ map at 01/28/2023 7:44 PM
+BAG:minhk add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/28/2023 7:45 PM
+BAG:minhk add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/28/2023 7:45 PM
+BAG:minhk add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/28/2023 7:46 PM
+BAG:minhk add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/28/2023 7:48 PM
+BAG:minhk add 1xĐá Titan lydo: Nhặt từ map at 01/28/2023 7:48 PM
+BAG:minhk add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/28/2023 7:48 PM
+BAG:minhk add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/28/2023 7:48 PM
+BAG:minhk add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/28/2023 7:50 PM
+BAG:minhk add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/28/2023 7:50 PM
+BAG:minhk add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/28/2023 7:51 PM
+BAG:minhk add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/28/2023 7:51 PM
+BAG:minhk add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 01/28/2023 7:52 PM
+BAG:minhk add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/28/2023 7:53 PM
+BAG:minhk add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/28/2023 7:53 PM
+BAG:minhk add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 01/28/2023 7:55 PM
+BAG:minhk add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/28/2023 7:56 PM
+BAG:minhk add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/28/2023 7:56 PM
+BAG:minhk add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/28/2023 7:56 PM
+BAG:minhk add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/28/2023 7:57 PM
+BAG:minhk add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 01/28/2023 7:58 PM
+BAG:minhk add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 01/28/2023 7:58 PM
+BAG:minhk add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/28/2023 7:59 PM
+BAG:minhk add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 01/28/2023 7:59 PM
+BAG:minhk add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 01/28/2023 7:59 PM
+BAG:minhk add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 01/28/2023 7:59 PM
+BAG:minhk add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/28/2023 7:59 PM
+BAG:minhk add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 01/28/2023 7:59 PM
+BAG:minhk add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/28/2023 7:59 PM
+BAG:minhk add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 01/28/2023 8:00 PM
+BAG:minhk add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/28/2023 8:00 PM
+BAG:minhk add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 01/28/2023 8:01 PM

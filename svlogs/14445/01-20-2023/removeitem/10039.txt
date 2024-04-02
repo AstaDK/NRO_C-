@@ -1,0 +1,16 @@
+BAG:nmdzvl remove  Nhẫn Thời Không 1 lydo: Mặc vào người at 01/20/2023 10:30 SA
+BAG:nmdzvl remove 1xThẩu Huy Thạch lydo: Bán cho shop at 01/20/2023 10:39 SA
+BAG:nmdzvl remove Găng Chí Tôn lydo: Tự Xóa vật phẩm at 01/20/2023 2:16 CH
+BAG:nmdzvl remove Quần Chí Tôn lydo: Tự Xóa vật phẩm at 01/20/2023 2:16 CH
+BAG:nmdzvl remove Mảnh áo lydo: Tự Xóa vật phẩm at 01/20/2023 2:16 CH
+BAG:nmdzvl remove  Nhẫn Thời Không 1 lydo: Mặc vào người at 01/20/2023 2:17 CH
+BAG:nmdzvl remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 01/20/2023 3:56 CH
+BAG:nmdzvl remove Đá bảo vệ lydo: Tự Xóa vật phẩm at 01/20/2023 4:23 CH
+BAG:nmdzvl remove Nhẫn Thần Linh lydo: Tự Xóa vật phẩm at 01/20/2023 4:23 CH
+BAG:nmdzvl remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 01/20/2023 4:23 CH
+BAG:nmdzvl remove Quần Chí Tôn lydo: Tự Xóa vật phẩm at 01/20/2023 4:23 CH
+BAG:nmdzvl remove Găng Chí Tôn lydo: Tự Xóa vật phẩm at 01/20/2023 4:23 CH
+BAG:nmdzvl remove Áo Chí Tôn lydo: Tự Xóa vật phẩm at 01/20/2023 4:23 CH
+BAG:nmdzvl remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/20/2023 4:31 CH
+BAG:nmdzvl remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/20/2023 4:31 CH
+BAG:nmdzvl remove  Nhẫn Thời Không 1 lydo: Mặc vào người at 01/20/2023 4:31 CH

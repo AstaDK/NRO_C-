@@ -1,0 +1,57 @@
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:30 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:31 SA
+BAG:gucci remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:31 SA
+BAG:gucci remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:31 SA
+BAG:gucci remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:31 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:33 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:gucci remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:gucci remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:34 SA
+BAG:gucci remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:35 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:35 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:36 SA
+BAG:gucci remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:37 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:37 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:gucci remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:gucci remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:gucci remove Gà quay nguyên con lydo: Cất vào rương at 02/03/2023 12:42 SA
+BAG:gucci remove Đậu xanh lydo: Cất vào rương at 02/03/2023 12:42 SA
+BAG:gucci remove Trứng vịt muối lydo: Cất vào rương at 02/03/2023 12:43 SA
+BAG:gucci remove Mảnh Lợn lòi lydo: Cất vào rương at 02/03/2023 12:43 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:44 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:46 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:47 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:48 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:49 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:49 SA
+BAG:gucci remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:gucci remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:gucci remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:gucci remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:gucci remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:gucci remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:50 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:54 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:55 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:56 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:57 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:58 SA
+BAG:gucci remove Áo sợi len lydo: Tự Xóa vật phẩm at 02/03/2023 12:58 SA
+BAG:gucci remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:59 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:59 SA
+BAG:gucci remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:59 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 12:59 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:00 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:02 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:23 SA
+BAG:gucci remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:23 SA
+BAG:gucci remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:23 SA
+BAG:gucci remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 02/03/2023 11:23 SA
+BAG:gucci remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:gucci remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:26 SA
+BAG:gucci remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:26 SA
+BAG:gucci remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/03/2023 11:26 SA

@@ -1,0 +1,151 @@
+BAG:ztrumxx add 1xLì xì lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 1xCây mai lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/03/2023 12:35 SA
+BAG:ztrumxx add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:ztrumxx add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 12:36 SA
+BAG:ztrumxx add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:ztrumxx add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:ztrumxx add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:ztrumxx add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 12:37 SA
+BAG:ztrumxx add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 12:38 SA
+BAG:ztrumxx add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 12:38 SA
+BAG:ztrumxx add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 12:38 SA
+BAG:ztrumxx add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 12:38 SA
+BAG:ztrumxx add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 12:38 SA
+BAG:ztrumxx add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 12:38 SA
+BAG:ztrumxx add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:05 SA
+BAG:ztrumxx add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:05 SA
+BAG:ztrumxx add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:05 SA
+BAG:ztrumxx add 1xGăng da Pico lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:05 SA
+BAG:ztrumxx add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:06 SA
+BAG:ztrumxx add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:06 SA
+BAG:ztrumxx add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 02/03/2023 2:06 SA
+BAG:ztrumxx add 1xGăng sợi len lydo: Lấy từ rương qua người at 02/03/2023 2:06 SA
+BAG:ztrumxx add 1xÁo vàng Zealot lydo: Lấy từ rương qua người at 02/03/2023 2:07 SA
+BAG:ztrumxx add 1xQuần vàng Zealot lydo: Lấy từ rương qua người at 02/03/2023 2:07 SA
+BAG:ztrumxx add 1xGiày vàng Zealot lydo: Lấy từ rương qua người at 02/03/2023 2:07 SA
+BAG:ztrumxx add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 02/03/2023 2:07 SA
+BAG:ztrumxx add 96xThỏi vàng lydo: Lấy từ rương qua người at 02/03/2023 2:07 SA
+BAG:ztrumxx add 1xRada cấp 6 lydo: Mua từ cửa hàng at 02/03/2023 2:08 SA
+BAG:ztrumxx add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 2:12 SA
+BAG:ztrumxx add 1xBột mì lydo: Nhặt từ map at 02/03/2023 2:14 SA
+BAG:ztrumxx add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 2:21 SA
+BAG:ztrumxx add 1xÁo vàng Zealot lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:22 SA
+BAG:ztrumxx add 1xQuần vàng Zealot lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:22 SA
+BAG:ztrumxx add 1xGiày vàng Zealot lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:22 SA
+BAG:ztrumxx add 1xCải trang Dr Lychee lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:22 SA
+BAG:ztrumxx add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 2:22 SA
+BAG:ztrumxx add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 2:25 SA
+BAG:ztrumxx add 1xCây mai lydo: Nhặt từ map at 02/03/2023 2:26 SA
+BAG:ztrumxx add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 2:32 SA
+BAG:ztrumxx add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 2:32 SA
+BAG:ztrumxx add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 2:32 SA
+BAG:ztrumxx add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 2:32 SA
+BAG:ztrumxx add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 2:32 SA
+BAG:ztrumxx add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 2:32 SA
+BAG:ztrumxx add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 02/03/2023 2:33 SA
+BAG:ztrumxx add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 02/03/2023 2:33 SA
+BAG:ztrumxx add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 02/03/2023 2:33 SA
+BAG:ztrumxx add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 2:33 SA
+BAG:ztrumxx add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 02/03/2023 2:33 SA
+BAG:ztrumxx add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 2:47 SA
+BAG:ztrumxx add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 75xNgọc Rồng 4 sao (old: 74) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 76xNgọc Rồng 4 sao (old: 75) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 77xNgọc Rồng 4 sao (old: 76) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 02/03/2023 2:52 SA
+BAG:ztrumxx add 10xThỏi vàng lydo: (GD) Nhận từ doremon at 02/03/2023 2:55 SA
+BAG:ztrumxx add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 3:29 SA
+BAG:ztrumxx add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 3:29 SA
+BAG:ztrumxx add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/03/2023 3:29 SA
+BAG:ztrumxx add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/03/2023 3:29 SA
+BAG:ztrumxx add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/03/2023 3:29 SA
+BAG:ztrumxx add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/03/2023 3:29 SA
+BAG:ztrumxx add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/03/2023 3:40 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 78xNgọc Rồng 4 sao (old: 77) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 79xNgọc Rồng 4 sao (old: 78) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 3:41 SA
+BAG:ztrumxx add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 80xNgọc Rồng 4 sao (old: 79) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 81xNgọc Rồng 4 sao (old: 80) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 3:42 SA
+BAG:ztrumxx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 3:43 SA
+BAG:ztrumxx add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 02/03/2023 12:19 CH
+BAG:ztrumxx add 1xLì xì lydo: Nhặt từ map at 02/03/2023 12:45 CH
+BAG:ztrumxx add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 1:05 CH
+BAG:ztrumxx add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:ztrumxx add 1xCây mai lydo: Nhặt từ map at 02/03/2023 1:24 CH
+BAG:ztrumxx add 82xNgọc Rồng 4 sao (old: 81) lydo: Nhặt từ map at 02/03/2023 1:29 CH
+BAG:ztrumxx add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 1:41 CH
+BAG:ztrumxx add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 1:47 CH
+BAG:ztrumxx add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:ztrumxx add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 1:54 CH
+BAG:ztrumxx add 1xÁo sợi len lydo: Lấy từ rương qua người at 02/03/2023 1:59 CH
+BAG:ztrumxx add 1xQuần sợi len lydo: Lấy từ rương qua người at 02/03/2023 1:59 CH
+BAG:ztrumxx add 1xGiầy sợi len lydo: Lấy từ rương qua người at 02/03/2023 1:59 CH
+BAG:ztrumxx add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 1:59 CH
+BAG:ztrumxx add 1xGiày vàng Zealot lydo: Lấy từ rương qua người at 02/03/2023 1:59 CH
+BAG:ztrumxx add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 2:00 CH

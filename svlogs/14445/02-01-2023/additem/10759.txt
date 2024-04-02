@@ -1,0 +1,9 @@
+BAG:admindz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 5:03 CH
+BAG:admindz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 5:03 CH
+BAG:admindz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/01/2023 5:03 CH
+BAG:admindz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 5:03 CH
+BAG:admindz add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/01/2023 5:03 CH
+BAG:admindz add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/01/2023 5:04 CH
+BAG:admindz add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 5:04 CH
+BAG:admindz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 5:04 CH
+BAG:admindz add 10xĐậu thần cấp 6 lydo: Thu hoạch đậu at 02/01/2023 7:25 CH

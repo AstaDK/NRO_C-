@@ -1,0 +1,42 @@
+BAG:picolosama add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/01/2023 9:21 CH
+BAG:picolosama add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/01/2023 9:21 CH
+BAG:picolosama add 5xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/01/2023 9:24 CH
+BAG:picolosama add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/01/2023 9:24 CH
+BAG:picolosama add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 9:27 CH
+BAG:picolosama add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 9:28 CH
+BAG:picolosama add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:picolosama add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 9:30 CH
+BAG:picolosama add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 9:31 CH
+BAG:picolosama add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 9:31 CH
+BAG:picolosama add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 9:31 CH
+BAG:picolosama add 20xThỏi vàng lydo: Giftcode at 02/01/2023 9:32 CH
+BAG:picolosama add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/01/2023 9:32 CH
+BAG:picolosama add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/01/2023 9:32 CH
+BAG:picolosama add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/01/2023 9:32 CH
+BAG:picolosama add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/01/2023 9:32 CH
+BAG:picolosama add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/01/2023 9:32 CH
+BAG:picolosama add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/01/2023 9:33 CH
+BAG:picolosama add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/01/2023 9:33 CH
+BAG:picolosama add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/01/2023 9:33 CH
+BAG:picolosama add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 02/01/2023 9:35 CH
+BAG:picolosama add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/01/2023 10:01 CH
+BAG:picolosama add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 02/01/2023 10:01 CH
+BAG:picolosama add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 02/01/2023 10:01 CH
+BAG:picolosama add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 02/01/2023 10:01 CH
+BAG:picolosama add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 02/01/2023 10:02 CH
+BAG:picolosama add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 02/01/2023 10:02 CH
+BAG:picolosama add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 02/01/2023 10:02 CH
+BAG:picolosama add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 10:03 CH
+BAG:picolosama add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 10:03 CH
+BAG:picolosama add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 10:05 CH
+BAG:picolosama add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 10:05 CH
+BAG:picolosama add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/01/2023 10:05 CH
+BAG:picolosama add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 10:05 CH
+BAG:picolosama add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 10:05 CH
+BAG:picolosama add 1xTrứng vịt muối lydo: Nhặt từ map at 02/01/2023 10:06 CH
+BAG:picolosama add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 10:06 CH
+BAG:picolosama add 1xQuần sợi len lydo: Nhặt từ map at 02/01/2023 10:06 CH
+BAG:picolosama add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 10:06 CH
+BAG:picolosama add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 10:07 CH
+BAG:picolosama add 1xGiầy sợi len lydo: Nhặt từ map at 02/01/2023 10:07 CH
+BAG:picolosama add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 10:07 CH

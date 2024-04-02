@@ -1,0 +1,87 @@
+BAG:zeuss remove 11xSao pha lê lydo: Giao dịch với ilikeboss at 01/30/2023 1:03 AM
+BAG:zeuss remove Găng da Pico lydo: Mặc vào người at 01/30/2023 10:13 AM
+BAG:zeuss remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:13 AM
+BAG:zeuss remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:13 AM
+BAG:zeuss remove Giày sắt Tron lydo: Mặc vào người at 01/30/2023 10:14 AM
+BAG:zeuss remove 1xÁo sợi len lydo: Bán cho shop at 01/30/2023 10:14 AM
+BAG:zeuss remove 1xQuần sợi len lydo: Bán cho shop at 01/30/2023 10:14 AM
+BAG:zeuss remove Đẻ trứng lv1 lydo: Sách kĩ năng at 01/30/2023 10:15 AM
+BAG:zeuss remove Đẻ trứng lv2 lydo: Sách kĩ năng at 01/30/2023 10:15 AM
+BAG:zeuss remove Đẻ trứng lv3 lydo: Sách kĩ năng at 01/30/2023 10:15 AM
+BAG:zeuss remove Đẻ trứng lv4 lydo: Sách kĩ năng at 01/30/2023 10:15 AM
+BAG:zeuss remove Đẻ trứng lv5 lydo: Sách kĩ năng at 01/30/2023 10:15 AM
+BAG:zeuss remove Đẻ trứng lv6 lydo: Sách kĩ năng at 01/30/2023 10:15 AM
+BAG:zeuss remove Đẻ trứng lv7 lydo: Sách kĩ năng at 01/30/2023 10:15 AM
+BAG:zeuss remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 10:17 AM
+BAG:zeuss remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 10:17 AM
+BAG:zeuss remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 10:17 AM
+BAG:zeuss remove 1xSao pha lê lydo: Ép ngọc rồng at 01/30/2023 10:18 AM
+BAG:zeuss remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 10:18 AM
+BAG:zeuss remove Cải trang lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 AM
+BAG:zeuss remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/30/2023 11:05 AM
+BAG:zeuss remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 01/30/2023 11:05 AM
+BAG:zeuss remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 01/30/2023 11:05 AM
+BAG:zeuss remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 01/30/2023 11:05 AM
+BAG:zeuss remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 01/30/2023 11:05 AM
+BAG:zeuss remove Sách đấm Demon lv7 lydo: Sách kĩ năng at 01/30/2023 11:05 AM
+BAG:zeuss remove Sao pha lê lydo: Cất vào rương at 01/30/2023 4:18 PM
+BAG:zeuss remove Sao pha lê lydo: Cất vào rương at 01/30/2023 4:18 PM
+BAG:zeuss remove Đậu thần cấp 5 lydo: Tự Xóa vật phẩm at 01/30/2023 4:24 PM
+BAG:zeuss remove 1xPhi Long lydo: Bán cho shop at 01/30/2023 4:25 PM
+BAG:zeuss remove Sách Liên hoàn lv1 lydo: Sách kĩ năng at 01/30/2023 4:25 PM
+BAG:zeuss remove Sách Liên hoàn lv2 lydo: Sách kĩ năng at 01/30/2023 4:25 PM
+BAG:zeuss remove Sách Liên hoàn lv3 lydo: Sách kĩ năng at 01/30/2023 4:25 PM
+BAG:zeuss remove Sách Liên hoàn lv4 lydo: Sách kĩ năng at 01/30/2023 4:25 PM
+BAG:zeuss remove Sách Liên hoàn lv5 lydo: Sách kĩ năng at 01/30/2023 4:25 PM
+BAG:zeuss remove Sách Liên hoàn lv6 lydo: Sách kĩ năng at 01/30/2023 4:25 PM
+BAG:zeuss remove Sách Liên hoàn lv7 lydo: Sách kĩ năng at 01/30/2023 4:25 PM
+BAG:zeuss remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 01/30/2023 4:26 PM
+BAG:zeuss remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 01/30/2023 4:26 PM
+BAG:zeuss remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 01/30/2023 4:26 PM
+BAG:zeuss remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 01/30/2023 4:26 PM
+BAG:zeuss remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 01/30/2023 4:26 PM
+BAG:zeuss remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 01/30/2023 4:26 PM
+BAG:zeuss remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 01/30/2023 4:26 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:31 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:34 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:37 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:38 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:40 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:40 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:42 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:46 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:49 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:49 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:52 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:56 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 4:59 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:00 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:05 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:09 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:10 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:18 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:19 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:27 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:28 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:35 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:37 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:45 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:46 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:55 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 5:55 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 6:03 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 6:04 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 6:12 PM
+BAG:zeuss remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 8:27 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 8:51 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 9:27 PM
+BAG:zeuss remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 9:28 PM
+BAG:zeuss remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 9:28 PM
+BAG:zeuss remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 01/30/2023 10:03 PM
+BAG:zeuss remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 PM
+BAG:zeuss remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 PM
+BAG:zeuss remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 PM
+BAG:zeuss remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 PM
+BAG:zeuss remove Đá Titan lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 PM
+BAG:zeuss remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 PM
+BAG:zeuss remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/30/2023 10:19 PM

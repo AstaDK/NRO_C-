@@ -1,0 +1,9 @@
+BAG:snowbaby add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 6:23 CH
+BAG:snowbaby add 8xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 6:28 CH
+BAG:snowbaby add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:32 CH
+BAG:snowbaby add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 6:33 CH
+BAG:snowbaby add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 6:33 CH
+BAG:snowbaby add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 02/02/2023 6:33 CH
+BAG:snowbaby add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 6:35 CH
+BAG:snowbaby add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 6:36 CH
+BAG:snowbaby add 1xCây mai lydo: Nhặt từ map at 02/02/2023 6:36 CH

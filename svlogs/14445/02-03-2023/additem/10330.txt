@@ -1,0 +1,6 @@
+BAG:gohanll add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 7:49 SA
+BAG:gohanll add 1xCây mai lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:gohanll add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:gohanll add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:gohanll add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:gohanll add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 7:53 SA

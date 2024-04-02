@@ -1,0 +1,5 @@
+BAG:h3heol add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 7:37 AM
+BAG:h3heol add 7xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/30/2023 7:42 AM
+BAG:h3heol add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 7:43 AM
+BAG:h3heol add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/30/2023 7:44 AM
+BAG:h3heol add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/30/2023 7:45 AM

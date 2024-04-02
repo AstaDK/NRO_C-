@@ -1,0 +1,68 @@
+BAG:maczzz add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/02/2023 7:02 SA
+BAG:maczzz add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 7:05 SA
+BAG:maczzz add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:05 SA
+BAG:maczzz add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:10 SA
+BAG:maczzz add 1xLì xì lydo: Nhặt từ map at 02/02/2023 10:56 SA
+BAG:maczzz add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 02/02/2023 11:07 SA
+BAG:maczzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 11:38 SA
+BAG:maczzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 12:03 CH
+BAG:maczzz add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 02/02/2023 3:47 CH
+BAG:maczzz add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 5:18 CH
+BAG:maczzz add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 6:11 CH
+BAG:maczzz add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 6:11 CH
+BAG:maczzz add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 6:11 CH
+BAG:maczzz add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 6:11 CH
+BAG:maczzz add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 6:11 CH
+BAG:maczzz add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 6:12 CH
+BAG:maczzz add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 8:00 CH
+BAG:maczzz add 31xĐậu thần cấp 9 (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 8:01 CH
+BAG:maczzz add 61xĐậu thần cấp 9 (old: 31) lydo: Mua từ cửa hàng at 02/02/2023 8:01 CH
+BAG:maczzz add 91xĐậu thần cấp 9 (old: 61) lydo: Mua từ cửa hàng at 02/02/2023 8:01 CH
+BAG:maczzz add 22xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 8:01 CH
+BAG:maczzz add 99xĐậu thần cấp 9 (old: 91) lydo: Mua từ cửa hàng at 02/02/2023 8:01 CH
+BAG:maczzz add 52xĐậu thần cấp 9 (old: 22) lydo: Mua từ cửa hàng at 02/02/2023 8:01 CH
+BAG:maczzz add 82xĐậu thần cấp 9 (old: 52) lydo: Mua từ cửa hàng at 02/02/2023 8:01 CH
+BAG:maczzz add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 9:04 CH
+BAG:maczzz add 10xThỏi vàng lydo: Lấy từ rương qua người at 02/02/2023 9:18 CH
+BAG:maczzz add 81xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 02/02/2023 9:18 CH
+BAG:maczzz add 1xGăng jean Calic lydo: Lấy từ rương qua người at 02/02/2023 9:18 CH
+BAG:maczzz add 1xGăng bạc Goku lydo: Lấy từ body vào hành trang at 02/02/2023 9:19 CH
+BAG:maczzz add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 02/02/2023 9:19 CH
+BAG:maczzz add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 02/02/2023 9:19 CH
+BAG:maczzz add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 02/02/2023 9:21 CH
+BAG:maczzz add 1xÁo jean Calic lydo: Lấy từ body vào hành trang at 02/02/2023 9:21 CH
+BAG:maczzz add 1xRada cấp 10 lydo: Mua từ cửa hàng at 02/02/2023 9:22 CH
+BAG:maczzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 9:27 CH
+BAG:maczzz add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 02/02/2023 9:36 CH
+BAG:maczzz add 65xĐậu thần cấp 9 (old: 35) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 95xĐậu thần cấp 9 (old: 65) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 26xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 99xĐậu thần cấp 9 (old: 95) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 56xĐậu thần cấp 9 (old: 26) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 86xĐậu thần cấp 9 (old: 56) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 17xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 99xĐậu thần cấp 9 (old: 86) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 47xĐậu thần cấp 9 (old: 17) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 77xĐậu thần cấp 9 (old: 47) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 8xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 99xĐậu thần cấp 9 (old: 77) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 38xĐậu thần cấp 9 (old: 8) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 68xĐậu thần cấp 9 (old: 38) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 98xĐậu thần cấp 9 (old: 68) lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 1xQuỷ Chim lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:maczzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/02/2023 9:40 CH
+BAG:maczzz add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 9:42 CH
+BAG:maczzz add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 9:45 CH
+BAG:maczzz add 1xRada cấp 10 lydo: Lấy từ body vào hành trang at 02/02/2023 10:48 CH
+BAG:maczzz add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 02/02/2023 10:48 CH
+BAG:maczzz add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 02/02/2023 10:48 CH
+BAG:maczzz add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 02/02/2023 10:48 CH
+BAG:maczzz add 1xÁo jean Calic lydo: Lấy từ body vào hành trang at 02/02/2023 10:48 CH

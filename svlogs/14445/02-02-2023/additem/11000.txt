@@ -1,0 +1,49 @@
+BAG:aloha add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 6:24 CH
+BAG:aloha add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 6:30 CH
+BAG:aloha add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 6:30 CH
+BAG:aloha add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 6:30 CH
+BAG:aloha add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 6:31 CH
+BAG:aloha add 1xCây mai lydo: Nhặt từ map at 02/02/2023 6:32 CH
+BAG:aloha add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 6:32 CH
+BAG:aloha add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 6:33 CH
+BAG:aloha add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 6:33 CH
+BAG:aloha add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:33 CH
+BAG:aloha add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 6:35 CH
+BAG:aloha add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 6:36 CH
+BAG:aloha add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 6:50 CH
+BAG:aloha add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 6:51 CH
+BAG:aloha add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 6:52 CH
+BAG:aloha add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 6:53 CH
+BAG:aloha add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 6:54 CH
+BAG:aloha add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 6:55 CH
+BAG:aloha add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:aloha add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 6:57 CH
+BAG:aloha add 30xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 6:57 CH
+BAG:aloha add 59xĐậu thần cấp 1 (old: 29) lydo: Mua từ cửa hàng at 02/02/2023 6:57 CH
+BAG:aloha add 89xĐậu thần cấp 1 (old: 59) lydo: Mua từ cửa hàng at 02/02/2023 6:57 CH
+BAG:aloha add 94xĐậu thần cấp 1 (old: 89) lydo: Lấy từ rương qua người at 02/02/2023 6:58 CH
+BAG:aloha add 20xThỏi vàng lydo: Giftcode at 02/02/2023 7:02 CH
+BAG:aloha add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:aloha add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:aloha add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:aloha add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:aloha add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:aloha add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:aloha add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 7:08 CH
+BAG:aloha add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:aloha add 1xRada cấp 1 lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:aloha add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:aloha add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:aloha add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:aloha add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:aloha add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 7:09 CH
+BAG:aloha add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:aloha add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:aloha add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:aloha add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:aloha add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:aloha add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 7:10 CH
+BAG:aloha add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:aloha add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 7:11 CH
+BAG:aloha add 1xGiáp Xên bọ hung lydo: SuKien at 02/02/2023 7:11 CH
+BAG:aloha add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/02/2023 7:12 CH

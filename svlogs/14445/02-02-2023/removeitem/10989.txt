@@ -1,0 +1,79 @@
+BAG:tamcane remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:26 CH
+BAG:tamcane remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:26 CH
+BAG:tamcane remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:26 CH
+BAG:tamcane remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:54 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:02 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:03 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:03 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:04 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:04 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:04 CH
+BAG:tamcane remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 7:07 CH
+BAG:tamcane remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/02/2023 7:12 CH
+BAG:tamcane remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 7:12 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:19 CH
+BAG:tamcane remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:20 CH
+BAG:tamcane remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Đậu xanh lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Mảnh Khủng long lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Trứng vịt muối lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Đá Ruby lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Lì xì lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Cây mai lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Bình rượu lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Đậu thần cấp 1 lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Đá Saphia lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Đá lục bảo lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Đá Titan lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 7:21 CH
+BAG:tamcane remove 1xMèo mun lydo: Bán cho shop at 02/02/2023 7:22 CH
+BAG:tamcane remove 1xQuần vải đen lydo: Bán cho shop at 02/02/2023 7:22 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 7:31 CH
+BAG:tamcane remove Găng vải đen lydo: Cất vào rương at 02/02/2023 9:34 CH
+BAG:tamcane remove Áo vải 3 lỗ lydo: Cất vào rương at 02/02/2023 9:34 CH
+BAG:tamcane remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:34 CH
+BAG:tamcane remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 9:34 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 9:41 CH
+BAG:tamcane remove 5xCây mai lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xLì xì lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xBình rượu lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xCây mai lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xLì xì lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xBình rượu lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xCây mai lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xLì xì lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xBình rượu lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 9:46 CH
+BAG:tamcane remove 1xẨn danh lydo: Dùng buff at 02/02/2023 9:46 CH
+BAG:tamcane remove 1xVàng lydo: Bán cho shop at 02/02/2023 9:46 CH
+BAG:tamcane remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:26 CH
+BAG:tamcane remove 1xBổ huyết lydo: Dùng buff at 02/02/2023 10:26 CH
+BAG:tamcane remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:28 CH
+BAG:tamcane remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:30 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:tamcane remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 10:38 CH
+BAG:tamcane remove Mảnh Quỷ đất lydo: Cất vào rương at 02/02/2023 10:38 CH
+BAG:tamcane remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 10:38 CH
+BAG:tamcane remove Đậu xanh lydo: Cất vào rương at 02/02/2023 10:38 CH
+BAG:tamcane remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 10:38 CH
+BAG:tamcane remove Gà quay nguyên con lydo: Cất vào rương at 02/02/2023 10:38 CH
+BAG:tamcane remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 10:39 CH
+BAG:tamcane remove Áo vải 3 lỗ lydo: Cất vào rương at 02/02/2023 10:42 CH
+BAG:tamcane remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:42 CH
+BAG:tamcane remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:42 CH
+BAG:tamcane remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 02/02/2023 10:43 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 10:49 CH
+BAG:tamcane remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:tamcane remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:tamcane remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 10:50 CH
+BAG:tamcane remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 10:51 CH
+BAG:tamcane remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/02/2023 10:52 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 10:53 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:tamcane remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/02/2023 10:55 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:tamcane remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 02/02/2023 10:57 CH

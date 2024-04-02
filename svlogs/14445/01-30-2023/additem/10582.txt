@@ -1,0 +1,25 @@
+BAG:paingenma add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 4:34 PM
+BAG:paingenma add 5xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 01/30/2023 4:39 PM
+BAG:paingenma add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 4:40 PM
+BAG:paingenma add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 01/30/2023 4:40 PM
+BAG:paingenma add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 4:40 PM
+BAG:paingenma add 1xTrứng vịt muối lydo: Nhặt từ map at 01/30/2023 4:41 PM
+BAG:paingenma add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 4:43 PM
+BAG:paingenma add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 4:43 PM
+BAG:paingenma add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 4:44 PM
+BAG:paingenma add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/30/2023 4:44 PM
+BAG:paingenma add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 4:45 PM
+BAG:paingenma add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 01/30/2023 4:46 PM
+BAG:paingenma add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 4:52 PM
+BAG:paingenma add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 4:52 PM
+BAG:paingenma add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/30/2023 4:52 PM
+BAG:paingenma add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 5:02 PM
+BAG:paingenma add 10xĐậu thần cấp 3 (old: 2) lydo: Thu hoạch đậu at 01/30/2023 5:02 PM
+BAG:paingenma add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/30/2023 5:04 PM
+BAG:paingenma add 8xĐậu thần cấp 3 (old: 6) lydo: Thu hoạch đậu at 01/30/2023 5:07 PM
+BAG:paingenma add 1xCải trang Hit lydo: Mua từ cửa hàng at 01/30/2023 5:15 PM
+BAG:paingenma add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/30/2023 5:15 PM
+BAG:paingenma add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 01/30/2023 5:15 PM
+BAG:paingenma add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/30/2023 5:16 PM
+BAG:paingenma add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/30/2023 5:16 PM
+BAG:paingenma add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/30/2023 5:16 PM

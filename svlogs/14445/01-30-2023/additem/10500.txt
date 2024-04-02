@@ -1,0 +1,8 @@
+BAG:sieunamec add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 8:39 AM
+BAG:sieunamec add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 8:41 AM
+BAG:sieunamec add 1xQuần sợi len lydo: Nhặt từ map at 01/30/2023 8:42 AM
+BAG:sieunamec add 1xMảnh Phi long lydo: Nhặt từ map at 01/30/2023 8:43 AM
+BAG:sieunamec add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 01/30/2023 8:44 AM
+BAG:sieunamec add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 8:44 AM
+BAG:sieunamec add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 8:45 AM
+BAG:sieunamec add 1xGăng len Pico lydo: Mua từ cửa hàng at 01/30/2023 8:45 AM

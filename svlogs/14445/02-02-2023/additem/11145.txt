@@ -1,0 +1,123 @@
+BAG:zedonee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 11:07 CH
+BAG:zedonee add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:zedonee add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:zedonee add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:zedonee add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:zedonee add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:zedonee add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:zedonee add 1xÁo vải thô lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:zedonee add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:zedonee add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:zedonee add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:zedonee add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:zedonee add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:zedonee add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:zedonee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 11:14 CH
+BAG:zedonee add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 11:15 CH
+BAG:zedonee add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 11:16 CH
+BAG:zedonee add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 02/02/2023 11:16 CH
+BAG:zedonee add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:zedonee add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:zedonee add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:zedonee add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:zedonee add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:zedonee add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:zedonee add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:zedonee add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:zedonee add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:zedonee add 8xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 11:19 CH
+BAG:zedonee add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 02/02/2023 11:20 CH
+BAG:zedonee add 40xĐậu thần cấp 1 (old: 10) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 70xĐậu thần cấp 1 (old: 40) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 1xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 99xĐậu thần cấp 1 (old: 70) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 31xĐậu thần cấp 1 (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 61xĐậu thần cấp 1 (old: 31) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 91xĐậu thần cấp 1 (old: 61) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 22xĐậu thần cấp 1 lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 99xĐậu thần cấp 1 (old: 91) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 52xĐậu thần cấp 1 (old: 22) lydo: Mua từ cửa hàng at 02/02/2023 11:20 CH
+BAG:zedonee add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:zedonee add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:zedonee add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:zedonee add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:zedonee add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:zedonee add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:zedonee add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:zedonee add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 02/02/2023 11:24 CH
+BAG:zedonee add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:zedonee add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:zedonee add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:zedonee add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:zedonee add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:zedonee add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:zedonee add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 11:28 CH
+BAG:zedonee add 1xCải trang Hit lydo: Mua từ cửa hàng at 02/02/2023 11:28 CH
+BAG:zedonee add 20xThỏi vàng lydo: Giftcode at 02/02/2023 11:29 CH
+BAG:zedonee add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 02/02/2023 11:31 CH
+BAG:zedonee add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 11:33 CH
+BAG:zedonee add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:zedonee add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:zedonee add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 02/02/2023 11:38 CH
+BAG:zedonee add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 02/02/2023 11:38 CH
+BAG:zedonee add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 02/02/2023 11:38 CH
+BAG:zedonee add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 02/02/2023 11:38 CH
+BAG:zedonee add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:zedonee add 1xGăng đồng lydo: Mua từ cửa hàng at 02/02/2023 11:40 CH
+BAG:zedonee add 1xQuần giáp bạc lydo: Mua từ cửa hàng at 02/02/2023 11:40 CH
+BAG:zedonee add 1xÁo giáp bạc lydo: Mua từ cửa hàng at 02/02/2023 11:41 CH
+BAG:zedonee add 1xGiày bạc lydo: Mua từ cửa hàng at 02/02/2023 11:41 CH
+BAG:zedonee add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 11:42 CH
+BAG:zedonee add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:zedonee add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:zedonee add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:zedonee add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:zedonee add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 11:45 CH
+BAG:zedonee add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 11:45 CH
+BAG:zedonee add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 11:45 CH
+BAG:zedonee add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/02/2023 11:45 CH
+BAG:zedonee add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:zedonee add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:zedonee add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:zedonee add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:zedonee add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:zedonee add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:zedonee add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:zedonee add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:zedonee add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:zedonee add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:zedonee add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:zedonee add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 11:50 CH
+BAG:zedonee add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 11:50 CH
+BAG:zedonee add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 11:50 CH
+BAG:zedonee add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/02/2023 11:52 CH
+BAG:zedonee add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:zedonee add 1xGiày vàng lydo: Mua từ cửa hàng at 02/02/2023 11:54 CH
+BAG:zedonee add 1xQuần giáp vàng lydo: Mua từ cửa hàng at 02/02/2023 11:54 CH
+BAG:zedonee add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 11:54 CH
+BAG:zedonee add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 11:55 CH
+BAG:zedonee add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 11:55 CH
+BAG:zedonee add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:zedonee add 1xBột mì lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:zedonee add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:zedonee add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:zedonee add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:zedonee add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:zedonee add 1xGăng bạc lydo: Mua từ cửa hàng at 02/02/2023 11:58 CH
+BAG:zedonee add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 11:59 CH

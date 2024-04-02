@@ -1,0 +1,8 @@
+BAG:thaouyen add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 7:43 PM
+BAG:thaouyen add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 7:43 PM
+BAG:thaouyen add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 01/30/2023 7:57 PM
+BAG:thaouyen add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 7:58 PM
+BAG:thaouyen add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/30/2023 7:58 PM
+BAG:thaouyen add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/30/2023 7:59 PM
+BAG:thaouyen add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 7:59 PM
+BAG:thaouyen add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/30/2023 8:01 PM

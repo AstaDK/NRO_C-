@@ -1,0 +1,218 @@
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:20 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 12:43 SA
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:05 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 SA
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:13 SA
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:30 SA
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:47 SA
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:04 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:23 CH
+BAG:soc1s2bay remove Lì xì lydo: Cất vào rương at 02/02/2023 12:24 CH
+BAG:soc1s2bay remove Lì xì lydo: Cất vào rương at 02/02/2023 12:24 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:42 CH
+BAG:soc1s2bay remove 39xĐá Ruby lydo: Bán cho shop at 02/02/2023 12:51 CH
+BAG:soc1s2bay remove 34xĐá Titan lydo: Bán cho shop at 02/02/2023 12:51 CH
+BAG:soc1s2bay remove 39xĐá Saphia lydo: Bán cho shop at 02/02/2023 12:51 CH
+BAG:soc1s2bay remove 28xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 12:51 CH
+BAG:soc1s2bay remove 25xĐá lục bảo lydo: Bán cho shop at 02/02/2023 12:51 CH
+BAG:soc1s2bay remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xCây mai lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xBình rượu lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xLì xì lydo: Bán cho shop at 02/02/2023 12:52 CH
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove Găng lông đỏ lydo: Mặc cho đệ tử at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 12:53 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:55 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:55 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:55 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:55 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:55 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 12:56 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:00 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:02 CH
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 1:03 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove Găng bạc lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 1:04 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:05 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:05 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:05 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:05 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:05 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 1:05 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:16 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:51 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 1:53 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:30 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:47 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 3:02 CH
+BAG:soc1s2bay remove 3xVàng lydo: Bán cho shop at 02/02/2023 3:05 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:06 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:15 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:34 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:51 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:02 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:22 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:37 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:37 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:37 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:37 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:37 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 4:37 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:39 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:40 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:41 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:41 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 5:00 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:00 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:16 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:23 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:25 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:26 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:28 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:28 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:28 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:28 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:28 CH
+BAG:soc1s2bay remove Găng bạc lydo: Tự Xóa vật phẩm at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove Găng vàng lydo: Tự Xóa vật phẩm at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 1xVàng lydo: Bán cho shop at 02/02/2023 8:29 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:30 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:31 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:50 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:07 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:24 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:15 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:19 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:22 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:26 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:29 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:soc1s2bay remove 1xCuồng nộ lydo: Giao dịch với alpha at 02/02/2023 10:32 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:33 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:38 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:39 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:40 CH
+BAG:soc1s2bay remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 10:41 CH
+BAG:soc1s2bay remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:41 CH
+BAG:soc1s2bay remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:41 CH
+BAG:soc1s2bay remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:41 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:50 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:55 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:00 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:09 CH
+BAG:soc1s2bay remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:soc1s2bay remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:soc1s2bay remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 11:21 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:24 CH
+BAG:soc1s2bay remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:43 CH
+BAG:soc1s2bay remove 12xĐá lục bảo lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:soc1s2bay remove 9xĐá Titan lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:soc1s2bay remove 11xĐá Saphia lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:soc1s2bay remove 10xĐá Ruby lydo: Bán cho shop at 02/02/2023 11:52 CH
+BAG:soc1s2bay remove Găng siêu Xayda lydo: Cất vào rương at 02/02/2023 11:53 CH
+BAG:soc1s2bay remove Lì xì lydo: Cất vào rương at 02/02/2023 11:53 CH
+BAG:soc1s2bay remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 11:53 CH
+BAG:soc1s2bay remove Ẩn danh lydo: Cất vào rương at 02/02/2023 11:53 CH
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:53 CH
+BAG:soc1s2bay remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:54 CH
+BAG:soc1s2bay remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 11:55 CH
+BAG:soc1s2bay remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:55 CH
+BAG:soc1s2bay remove Áo vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:55 CH
+BAG:soc1s2bay remove Quần vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:55 CH
+BAG:soc1s2bay remove Giầy vải thô lydo: Mặc cho đệ tử at 02/02/2023 11:55 CH
+BAG:soc1s2bay remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 11:55 CH
+BAG:soc1s2bay remove Găng bạc lydo: Mặc cho đệ tử at 02/02/2023 11:55 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:56 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:56 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:57 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:57 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:57 CH
+BAG:soc1s2bay remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 11:57 CH

@@ -1,0 +1,16 @@
+BAG:huypro add 20xThỏi vàng lydo: Giftcode at 02/02/2023 7:04 CH
+BAG:huypro add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 02/02/2023 7:05 CH
+BAG:huypro add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 7:05 CH
+BAG:huypro add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 7:05 CH
+BAG:huypro add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 7:05 CH
+BAG:huypro add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 7:05 CH
+BAG:huypro add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:huypro add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:huypro add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:huypro add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:huypro add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:huypro add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:huypro add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/02/2023 7:06 CH
+BAG:huypro add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 7:07 CH
+BAG:huypro add 3xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/02/2023 7:08 CH
+BAG:huypro add 23xĐậu thần cấp 10 (old: 3) lydo: Lấy từ rương qua người at 02/02/2023 7:08 CH

@@ -1,0 +1,180 @@
+BAG:hnzero remove Avatar đeo khẩu trang lydo: Mặc vào người at 01/29/2023 12:25 AM
+BAG:hnzero remove 1xViên Capsule đặc biệt lydo: Bán cho shop at 01/29/2023 12:27 AM
+BAG:hnzero remove 1xPhi Long VIP lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 50xĐậu thần cấp 1 lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 1xGà quay nguyên con lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 4xĐá Saphia lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 3xĐá Titan lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 8xĐá lục bảo lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 1xMảnh Lợn lòi lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 2xĐậu xanh lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 2xĐá Ruby lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 1xTrứng vịt muối lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove 1xĐá thạch anh tím lydo: Bán cho shop at 01/29/2023 12:28 AM
+BAG:hnzero remove Quần sợi len lydo: Mặc vào người at 01/29/2023 12:29 AM
+BAG:hnzero remove 1xÁo sợi len lydo: Bán cho shop at 01/29/2023 12:29 AM
+BAG:hnzero remove Quần sợi len lydo: Mặc vào người at 01/29/2023 12:30 AM
+BAG:hnzero remove 1xQuần sợi len lydo: Bán cho shop at 01/29/2023 12:30 AM
+BAG:hnzero remove Giày nhựa cứng lydo: Mặc vào người at 01/29/2023 12:31 AM
+BAG:hnzero remove Rada cấp 4 lydo: Mặc vào người at 01/29/2023 12:31 AM
+BAG:hnzero remove Găng len Pico lydo: Mặc vào người at 01/29/2023 12:31 AM
+BAG:hnzero remove Avatar lydo: Tự Xóa vật phẩm at 01/29/2023 12:31 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:33 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:38 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:39 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:39 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:40 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:40 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 12:41 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 12:41 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 12:48 AM
+BAG:hnzero remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 12:48 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 12:48 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:49 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:49 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:50 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:50 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:50 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 12:50 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:50 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 12:50 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:51 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:52 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:52 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:53 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:53 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:54 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:54 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:54 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:55 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:55 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:56 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:56 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 12:56 AM
+BAG:hnzero remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 12:56 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 12:56 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:57 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:57 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:57 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:58 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:58 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:58 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:59 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:59 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:00 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:00 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:00 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:01 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 1:01 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:01 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:02 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:02 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:02 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:03 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:03 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:04 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:04 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:04 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:05 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:05 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:06 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:06 AM
+BAG:hnzero remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:06 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 1:07 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 1:07 AM
+BAG:hnzero remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 1:07 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 1:12 AM
+BAG:hnzero remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 1:12 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 1:12 AM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 1:18 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 1:18 AM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 1:20 AM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 1:21 AM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 1:25 AM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 1:28 AM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 1:32 AM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 1:36 AM
+BAG:hnzero remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 2:38 PM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 2:38 PM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 2:38 PM
+BAG:hnzero remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 01/29/2023 2:39 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 2:39 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 2:39 PM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 2:42 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 2:42 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 2:43 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 2:47 PM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 2:47 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 2:47 PM
+BAG:hnzero remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 2:47 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 2:47 PM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 2:48 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 2:48 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 2:50 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 2:54 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 2:58 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:02 PM
+BAG:hnzero remove Đá Ruby lydo: Cất vào rương at 01/29/2023 3:04 PM
+BAG:hnzero remove Đá thạch anh tím lydo: Cất vào rương at 01/29/2023 3:04 PM
+BAG:hnzero remove Đá lục bảo lydo: Cất vào rương at 01/29/2023 3:04 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 3:07 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 3:07 PM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 3:07 PM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 3:07 PM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 3:08 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:08 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 3:08 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:12 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:16 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:19 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:22 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:26 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:30 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:34 PM
+BAG:hnzero remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 3:37 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 3:37 PM
+BAG:hnzero remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 3:37 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 3:37 PM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 3:37 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 3:38 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:38 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 3:38 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 3:38 PM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 3:38 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 3:39 PM
+BAG:hnzero remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 3:40 PM
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 3:40 PM
+BAG:hnzero remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 3:40 PM
+BAG:hnzero remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 3:40 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 3:40 PM
+BAG:hnzero remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 3:40 PM
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 3:40 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:42 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:45 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:49 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:53 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:57 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 3:59 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 4:03 PM
+BAG:hnzero remove 56xSao pha lê lydo: Giao dịch với darkness at 01/29/2023 11:22 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 11:41 PM
+BAG:hnzero remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 11:42 PM
+BAG:hnzero remove Bột mì lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Gà quay nguyên con lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Trứng vịt muối lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Đậu xanh lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Đá thạch anh tím lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Đá lục bảo lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Đá Ruby lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove Đá Saphia lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:hnzero remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:59 PM
+BAG:hnzero remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:59 PM
+BAG:hnzero remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:59 PM

@@ -1,0 +1,35 @@
+BAG:xdbom100tr add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/29/2023 7:24 PM
+BAG:xdbom100tr add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 7:25 PM
+BAG:xdbom100tr add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 01/29/2023 7:25 PM
+BAG:xdbom100tr add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:26 PM
+BAG:xdbom100tr add 5xĐậu thần cấp 2 lydo: Thu hoạch đậu at 01/29/2023 7:26 PM
+BAG:xdbom100tr add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 7:27 PM
+BAG:xdbom100tr add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 7:28 PM
+BAG:xdbom100tr add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 7:30 PM
+BAG:xdbom100tr add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 7:34 PM
+BAG:xdbom100tr add 1xÁo vải thô lydo: Nhặt từ map at 01/29/2023 7:35 PM
+BAG:xdbom100tr add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 7:36 PM
+BAG:xdbom100tr add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 7:40 PM
+BAG:xdbom100tr add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 01/29/2023 7:43 PM
+BAG:xdbom100tr add 1xCải trang Hit lydo: Mua từ cửa hàng at 01/29/2023 7:43 PM
+BAG:xdbom100tr add 20xThỏi vàng lydo: Giftcode at 01/29/2023 7:44 PM
+BAG:xdbom100tr add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/29/2023 7:44 PM
+BAG:xdbom100tr add 1xGhế bay lydo: Mua từ cửa hàng at 01/29/2023 7:46 PM
+BAG:xdbom100tr add 1xBột mì lydo: Nhặt từ map at 01/29/2023 7:47 PM
+BAG:xdbom100tr add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 7:47 PM
+BAG:xdbom100tr add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/29/2023 7:47 PM
+BAG:xdbom100tr add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 7:47 PM
+BAG:xdbom100tr add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 9:02 PM
+BAG:xdbom100tr add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:02 PM
+BAG:xdbom100tr add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:02 PM
+BAG:xdbom100tr add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 01/29/2023 9:03 PM
+BAG:xdbom100tr add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 9:04 PM
+BAG:xdbom100tr add 1xMảnh Quỷ bay lydo: Nhặt từ map at 01/29/2023 9:04 PM
+BAG:xdbom100tr add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 9:05 PM
+BAG:xdbom100tr add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/29/2023 9:05 PM
+BAG:xdbom100tr add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 9:06 PM
+BAG:xdbom100tr add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/29/2023 9:07 PM
+BAG:xdbom100tr add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 9:08 PM
+BAG:xdbom100tr add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 9:09 PM
+BAG:xdbom100tr add 1xGà quay nguyên con lydo: Nhặt từ map at 01/29/2023 9:09 PM
+BAG:xdbom100tr add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/29/2023 9:09 PM

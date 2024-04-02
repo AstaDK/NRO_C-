@@ -1,0 +1,121 @@
+BAG:germa66 remove Rada cấp 1 lydo: Cất vào rương at 02/03/2023 12:38 SA
+BAG:germa66 remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 12:38 SA
+BAG:germa66 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:38 SA
+BAG:germa66 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:39 SA
+BAG:germa66 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:germa66 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:germa66 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 12:43 SA
+BAG:germa66 remove Đậu thần cấp 4 lydo: Cất vào rương at 02/03/2023 12:46 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:47 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:48 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:49 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:54 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:54 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:55 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 12:57 SA
+BAG:germa66 remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 02/03/2023 12:57 SA
+BAG:germa66 remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 02/03/2023 12:57 SA
+BAG:germa66 remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 02/03/2023 12:57 SA
+BAG:germa66 remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 02/03/2023 12:57 SA
+BAG:germa66 remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 02/03/2023 12:57 SA
+BAG:germa66 remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 02/03/2023 12:58 SA
+BAG:germa66 remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 02/03/2023 12:58 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:00 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:01 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:02 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:germa66 remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/03/2023 1:08 SA
+BAG:germa66 remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 1:10 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:14 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:15 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:15 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:15 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:15 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:15 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:15 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:16 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:16 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:16 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:16 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:16 SA
+BAG:germa66 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/03/2023 1:16 SA
+BAG:germa66 remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 02/03/2023 1:16 SA
+BAG:germa66 remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/03/2023 1:16 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:18 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:44 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 1:53 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 2:01 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 2:10 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 2:19 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 2:31 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 2:40 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 2:52 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:02 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:13 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:23 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:32 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:42 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 3:52 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:01 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:10 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:17 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:24 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:31 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:38 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:45 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:52 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 4:59 SA
+BAG:germa66 remove Đá Ruby lydo: Cất vào rương at 02/03/2023 10:33 SA
+BAG:germa66 remove Đá Titan lydo: Cất vào rương at 02/03/2023 10:33 SA
+BAG:germa66 remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 10:33 SA
+BAG:germa66 remove Đá Saphia lydo: Cất vào rương at 02/03/2023 10:33 SA
+BAG:germa66 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 10:33 SA
+BAG:germa66 remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 10:33 SA
+BAG:germa66 remove Mảnh Quỷ đất lydo: Cất vào rương at 02/03/2023 10:33 SA
+BAG:germa66 remove Gà quay nguyên con lydo: Cất vào rương at 02/03/2023 10:34 SA
+BAG:germa66 remove Đậu thần cấp 4 lydo: Cất vào rương at 02/03/2023 10:34 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xCây mai lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xLì xì lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xBình rượu lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xCây mai lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xLì xì lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xBình rượu lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xCây mai lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xLì xì lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xBình rượu lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xCây mai lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xLì xì lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xBình rượu lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 10:36 SA
+BAG:germa66 remove Đá lục bảo lydo: Cất vào rương at 02/03/2023 10:37 SA
+BAG:germa66 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:39 SA
+BAG:germa66 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:42 SA
+BAG:germa66 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 10:44 SA
+BAG:germa66 remove Mảnh Quỷ đất lydo: Cất vào rương at 02/03/2023 10:44 SA
+BAG:germa66 remove Viên Capsule đặc biệt lydo: Cất vào rương at 02/03/2023 10:44 SA
+BAG:germa66 remove Vàng lydo: Cất vào rương at 02/03/2023 10:44 SA
+BAG:germa66 remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 02/03/2023 10:45 SA
+BAG:germa66 remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:germa66 remove 1xCánh thiên thần 2 lydo: Bán cho shop at 02/03/2023 10:49 SA
+BAG:germa66 remove 1xMèo mun lydo: Bán cho shop at 02/03/2023 10:49 SA
+BAG:germa66 remove Bình nước phép lydo: Tự Xóa vật phẩm at 02/03/2023 10:51 SA

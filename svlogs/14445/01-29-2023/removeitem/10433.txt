@@ -1,0 +1,74 @@
+BAG:huykubu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 10:54 PM
+BAG:huykubu remove Rada cấp 1 lydo: Mặc vào người at 01/29/2023 10:58 PM
+BAG:huykubu remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 01/29/2023 10:59 PM
+BAG:huykubu remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 01/29/2023 10:59 PM
+BAG:huykubu remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 01/29/2023 10:59 PM
+BAG:huykubu remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 11:02 PM
+BAG:huykubu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 11:03 PM
+BAG:huykubu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 11:03 PM
+BAG:huykubu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 11:03 PM
+BAG:huykubu remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 11:04 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:05 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:05 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:06 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:06 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:06 PM
+BAG:huykubu remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:08 PM
+BAG:huykubu remove 2xVệ tinh sinh lực lydo: Bán cho shop at 01/29/2023 11:08 PM
+BAG:huykubu remove 4xVệ tinh trí lực lydo: Bán cho shop at 01/29/2023 11:08 PM
+BAG:huykubu remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:08 PM
+BAG:huykubu remove 2xSao pha lê lydo: Bán cho shop at 01/29/2023 11:08 PM
+BAG:huykubu remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 01/29/2023 11:08 PM
+BAG:huykubu remove 3xSao pha lê lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xĐá Ruby lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xĐá lục bảo lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 2xVệ tinh trí lực lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xVệ tinh sinh lực lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:09 PM
+BAG:huykubu remove 2xSao pha lê lydo: Bán cho shop at 01/29/2023 11:10 PM
+BAG:huykubu remove 2xVệ tinh sinh lực lydo: Bán cho shop at 01/29/2023 11:10 PM
+BAG:huykubu remove 1xVệ tinh trí lực lydo: Bán cho shop at 01/29/2023 11:10 PM
+BAG:huykubu remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:huykubu remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:huykubu remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:huykubu remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:huykubu remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 01/29/2023 11:11 PM
+BAG:huykubu remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 01/29/2023 11:11 PM
+BAG:huykubu remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 01/29/2023 11:11 PM
+BAG:huykubu remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 11:13 PM
+BAG:huykubu remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 11:13 PM
+BAG:huykubu remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 01/29/2023 11:14 PM
+BAG:huykubu remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 01/29/2023 11:18 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:22 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:22 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:22 PM
+BAG:huykubu remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/29/2023 11:23 PM
+BAG:huykubu remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 11:24 PM
+BAG:huykubu remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 11:24 PM
+BAG:huykubu remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 11:24 PM
+BAG:huykubu remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 11:24 PM
+BAG:huykubu remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 01/29/2023 11:25 PM
+BAG:huykubu remove Đậu thần cấp 7 lydo: Tự Xóa vật phẩm at 01/29/2023 11:26 PM
+BAG:huykubu remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 01/29/2023 11:26 PM
+BAG:huykubu remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:26 PM
+BAG:huykubu remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:26 PM
+BAG:huykubu remove Áo vải thô lydo: Mặc vào người at 01/29/2023 11:26 PM
+BAG:huykubu remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:26 PM
+BAG:huykubu remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 01/29/2023 11:26 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:27 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:29 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:29 PM
+BAG:huykubu remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:29 PM
+BAG:huykubu remove 1xSao pha lê lydo: Ép ngọc rồng at 01/29/2023 11:32 PM
+BAG:huykubu remove Áo vải thô lydo: Mặc vào người at 01/29/2023 11:32 PM
+BAG:huykubu remove Ngọc Rồng 7 sao lydo: Cất vào rương at 01/29/2023 11:34 PM
+BAG:huykubu remove Ngọc Rồng 5 sao lydo: Cất vào rương at 01/29/2023 11:34 PM
+BAG:huykubu remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/29/2023 11:34 PM
+BAG:huykubu remove Ngọc Rồng 4 sao lydo: Cất vào rương at 01/29/2023 11:34 PM
+BAG:huykubu remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 01/29/2023 11:36 PM
+BAG:huykubu remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 01/29/2023 11:37 PM
+BAG:huykubu remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 01/29/2023 11:41 PM

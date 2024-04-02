@@ -1,0 +1,71 @@
+BAG:binnamek remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:05 SA
+BAG:binnamek remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:08 SA
+BAG:binnamek remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:08 SA
+BAG:binnamek remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:08 SA
+BAG:binnamek remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:08 SA
+BAG:binnamek remove 5xCây mai lydo: Cay Thong at 02/03/2023 12:10 SA
+BAG:binnamek remove 5xLì xì lydo: Cay Thong at 02/03/2023 12:10 SA
+BAG:binnamek remove 5xBình rượu lydo: Cay Thong at 02/03/2023 12:10 SA
+BAG:binnamek remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 12:10 SA
+BAG:binnamek remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/03/2023 12:10 SA
+BAG:binnamek remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/03/2023 12:10 SA
+BAG:binnamek remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 12:10 SA
+BAG:binnamek remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 12:11 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:26 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:45 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:02 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:18 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:35 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:52 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:09 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:26 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:43 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:00 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:17 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:33 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:50 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:07 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:24 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:41 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:58 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 5:15 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 5:31 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 5:48 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:05 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:22 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:39 SA
+BAG:binnamek remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 6:50 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:54 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 7:11 SA
+BAG:binnamek remove Viên Capsule đặc biệt lydo: Tự Xóa vật phẩm at 02/03/2023 11:05 SA
+BAG:binnamek remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/03/2023 11:16 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 11:16 SA
+BAG:binnamek remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:16 SA
+BAG:binnamek remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:binnamek remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 11:18 SA
+BAG:binnamek remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:18 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 11:21 SA
+BAG:binnamek remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 11:24 SA
+BAG:binnamek remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:26 SA
+BAG:binnamek remove 99xThỏi vàng lydo: Tách thỏi vàng at 02/03/2023 11:31 SA
+BAG:binnamek remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 11:32 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 11:50 SA
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:07 CH
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:24 CH
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:41 CH
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:30 CH
+BAG:binnamek remove Cải trang Hatchiyack lydo: Mặc vào người at 02/03/2023 1:32 CH
+BAG:binnamek remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 1:36 CH
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:39 CH
+BAG:binnamek remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:46 CH
+BAG:binnamek remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:46 CH
+BAG:binnamek remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:47 CH
+BAG:binnamek remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:48 CH
+BAG:binnamek remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/03/2023 1:50 CH
+BAG:binnamek remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/03/2023 1:50 CH
+BAG:binnamek remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 1:50 CH
+BAG:binnamek remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 1:50 CH
+BAG:binnamek remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:52 CH
+BAG:binnamek remove 2xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:52 CH
+BAG:binnamek remove Găng sợi len lydo: Mặc vào người at 02/03/2023 1:55 CH
+BAG:binnamek remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 2:04 CH

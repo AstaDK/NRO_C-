@@ -1,0 +1,37 @@
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:06 SA
+BAG:quangdz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:11 SA
+BAG:quangdz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:11 SA
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:15 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:16 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:16 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:16 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:16 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 12:16 SA
+BAG:quangdz remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:16 SA
+BAG:quangdz remove Mèo mun lydo: Tự Xóa vật phẩm at 02/03/2023 12:18 SA
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:20 SA
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:26 SA
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 6:18 SA
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 6:23 SA
+BAG:quangdz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 6:24 SA
+BAG:quangdz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 6:24 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 6:24 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 6:24 SA
+BAG:quangdz remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/03/2023 6:24 SA
+BAG:quangdz remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 6:24 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 6:33 SA
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 6:43 SA
+BAG:quangdz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 7:49 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 7:54 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:12 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:32 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:54 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 9:21 SA
+BAG:quangdz remove 1xCủ cà rốt lydo: Dùng buff at 02/03/2023 9:42 SA
+BAG:quangdz remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/03/2023 11:50 SA
+BAG:quangdz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:50 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 11:54 SA
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:07 CH
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:21 CH
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:35 CH
+BAG:quangdz remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 12:48 CH

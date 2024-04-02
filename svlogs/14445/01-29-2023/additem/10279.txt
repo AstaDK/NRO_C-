@@ -1,0 +1,6 @@
+BAG:bestnamek add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:16 PM
+BAG:bestnamek add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 7:16 PM
+BAG:bestnamek add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 01/29/2023 7:16 PM
+BAG:bestnamek add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 7:16 PM
+BAG:bestnamek add 20xThỏi vàng lydo: Giftcode at 01/29/2023 7:22 PM
+BAG:bestnamek add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 7:22 PM

@@ -1,0 +1,35 @@
+BAG:goxfey add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 11:08 CH
+BAG:goxfey add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 11:08 CH
+BAG:goxfey add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 11:08 CH
+BAG:goxfey add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 11:09 CH
+BAG:goxfey add 1xĐá Saphia lydo: Nhặt từ map at 01/31/2023 11:09 CH
+BAG:goxfey add 1xĐá Titan lydo: Nhặt từ map at 01/31/2023 11:10 CH
+BAG:goxfey add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/31/2023 11:10 CH
+BAG:goxfey add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/31/2023 11:10 CH
+BAG:goxfey add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 01/31/2023 11:11 CH
+BAG:goxfey add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/31/2023 11:11 CH
+BAG:goxfey add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 11:11 CH
+BAG:goxfey add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/31/2023 11:11 CH
+BAG:goxfey add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/31/2023 11:12 CH
+BAG:goxfey add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 11:12 CH
+BAG:goxfey add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/31/2023 11:12 CH
+BAG:goxfey add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/31/2023 11:13 CH
+BAG:goxfey add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 01/31/2023 11:13 CH
+BAG:goxfey add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/31/2023 11:13 CH
+BAG:goxfey add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/31/2023 11:13 CH
+BAG:goxfey add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/31/2023 11:14 CH
+BAG:goxfey add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 01/31/2023 11:15 CH
+BAG:goxfey add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/31/2023 11:16 CH
+BAG:goxfey add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 11:16 CH
+BAG:goxfey add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 01/31/2023 11:17 CH
+BAG:goxfey add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 01/31/2023 11:18 CH
+BAG:goxfey add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/31/2023 11:19 CH
+BAG:goxfey add 1xĐậu xanh lydo: Nhặt từ map at 01/31/2023 11:19 CH
+BAG:goxfey add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 01/31/2023 11:20 CH
+BAG:goxfey add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/31/2023 11:20 CH
+BAG:goxfey add 1xMảnh Phi long lydo: Nhặt từ map at 01/31/2023 11:21 CH
+BAG:goxfey add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 01/31/2023 11:21 CH
+BAG:goxfey add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/31/2023 11:22 CH
+BAG:goxfey add 20xThỏi vàng lydo: Giftcode at 01/31/2023 11:23 CH
+BAG:goxfey add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/31/2023 11:24 CH
+BAG:goxfey add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/31/2023 11:26 CH

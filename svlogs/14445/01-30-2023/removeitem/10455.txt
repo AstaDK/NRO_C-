@@ -1,0 +1,19 @@
+BAG:boylove remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 12:45 AM
+BAG:boylove remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 12:56 AM
+BAG:boylove remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 12:57 AM
+BAG:boylove remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 12:57 AM
+BAG:boylove remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/30/2023 12:57 AM
+BAG:boylove remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 01/30/2023 1:00 AM
+BAG:boylove remove Cải trang Hit lydo: Mặc vào người at 01/30/2023 1:00 AM
+BAG:boylove remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 1:01 AM
+BAG:boylove remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 1:01 AM
+BAG:boylove remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 1:01 AM
+BAG:boylove remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 01/30/2023 1:05 AM
+BAG:boylove remove Cánh thiên thần lydo: Cất vào rương at 01/30/2023 1:07 AM
+BAG:boylove remove Cánh thiên thần lydo: Cất vào rương at 01/30/2023 1:07 AM
+BAG:boylove remove Ghế bay lydo: Tự Xóa vật phẩm at 01/30/2023 1:08 AM
+BAG:boylove remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/30/2023 1:11 AM
+BAG:boylove remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:13 AM
+BAG:boylove remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:57 AM
+BAG:boylove remove Cải trang Hit lydo: Mặc cho đệ tử at 01/30/2023 1:57 AM
+BAG:boylove remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 01/30/2023 1:58 AM

@@ -1,0 +1,9 @@
+BAG:tobirama add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 9:10 PM
+BAG:tobirama add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:12 PM
+BAG:tobirama add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 9:12 PM
+BAG:tobirama add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:34 PM
+BAG:tobirama add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 9:34 PM
+BAG:tobirama add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 01/29/2023 9:36 PM
+BAG:tobirama add 20xThỏi vàng lydo: Giftcode at 01/29/2023 9:37 PM
+BAG:tobirama add 1xMèo mun lydo: Mua từ cửa hàng at 01/29/2023 9:38 PM
+BAG:tobirama add 1xCải trang VIP lydo: Mua từ cửa hàng at 01/29/2023 9:39 PM

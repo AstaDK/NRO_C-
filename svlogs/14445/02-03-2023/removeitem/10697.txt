@@ -1,0 +1,51 @@
+BAG:picolohoho remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 02/03/2023 6:48 SA
+BAG:picolohoho remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 6:49 SA
+BAG:picolohoho remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 8:43 SA
+BAG:picolohoho remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 8:43 SA
+BAG:picolohoho remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 8:43 SA
+BAG:picolohoho remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 8:43 SA
+BAG:picolohoho remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 8:44 SA
+BAG:picolohoho remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 8:44 SA
+BAG:picolohoho remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 8:44 SA
+BAG:picolohoho remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 8:44 SA
+BAG:picolohoho remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 8:44 SA
+BAG:picolohoho remove Găng da Pico lydo: Mặc vào người at 02/03/2023 8:44 SA
+BAG:picolohoho remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 9:02 SA
+BAG:picolohoho remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 9:02 SA
+BAG:picolohoho remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 9:02 SA
+BAG:picolohoho remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 9:02 SA
+BAG:picolohoho remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 9:02 SA
+BAG:picolohoho remove Sách Liên hoàn lv1 lydo: Sách kĩ năng at 02/03/2023 9:02 SA
+BAG:picolohoho remove Sách Liên hoàn lv2 lydo: Sách kĩ năng at 02/03/2023 9:02 SA
+BAG:picolohoho remove Sách Liên hoàn lv3 lydo: Sách kĩ năng at 02/03/2023 9:02 SA
+BAG:picolohoho remove Đá Saphia lydo: Cất vào rương at 02/03/2023 9:02 SA
+BAG:picolohoho remove Đá Titan lydo: Cất vào rương at 02/03/2023 9:02 SA
+BAG:picolohoho remove Đá lục bảo lydo: Cất vào rương at 02/03/2023 9:02 SA
+BAG:picolohoho remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/03/2023 9:03 SA
+BAG:picolohoho remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 9:06 SA
+BAG:picolohoho remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 9:13 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 9:31 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 9:31 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 9:31 SA
+BAG:picolohoho remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 9:31 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 9:31 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 9:32 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 9:43 SA
+BAG:picolohoho remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 9:49 SA
+BAG:picolohoho remove 12xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 9:50 SA
+BAG:picolohoho remove 1xGăng da Pico lydo: Bán cho shop at 02/03/2023 9:50 SA
+BAG:picolohoho remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/03/2023 9:51 SA
+BAG:picolohoho remove Sách Liên hoàn lv4 lydo: Sách kĩ năng at 02/03/2023 9:51 SA
+BAG:picolohoho remove Sách Liên hoàn lv5 lydo: Sách kĩ năng at 02/03/2023 9:51 SA
+BAG:picolohoho remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 02/03/2023 9:53 SA
+BAG:picolohoho remove Găng đồng Tron lydo: Mặc vào người at 02/03/2023 9:53 SA
+BAG:picolohoho remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/03/2023 9:53 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 9:57 SA
+BAG:picolohoho remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 02/03/2023 9:58 SA
+BAG:picolohoho remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 02/03/2023 9:58 SA
+BAG:picolohoho remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 02/03/2023 9:58 SA
+BAG:picolohoho remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 02/03/2023 9:58 SA
+BAG:picolohoho remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 02/03/2023 9:58 SA
+BAG:picolohoho remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 02/03/2023 9:58 SA
+BAG:picolohoho remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 02/03/2023 9:58 SA
+BAG:picolohoho remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 02/03/2023 10:00 SA

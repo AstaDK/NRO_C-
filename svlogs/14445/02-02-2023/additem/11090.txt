@@ -1,0 +1,42 @@
+BAG:tytqwezbd add 1xCây mai lydo: Nhặt từ map at 02/02/2023 9:17 CH
+BAG:tytqwezbd add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 9:17 CH
+BAG:tytqwezbd add 1xLì xì lydo: Nhặt từ map at 02/02/2023 9:18 CH
+BAG:tytqwezbd add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 9:19 CH
+BAG:tytqwezbd add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 9:19 CH
+BAG:tytqwezbd add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 9:20 CH
+BAG:tytqwezbd add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 9:21 CH
+BAG:tytqwezbd add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 02/02/2023 9:22 CH
+BAG:tytqwezbd add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 02/02/2023 9:22 CH
+BAG:tytqwezbd add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 02/02/2023 9:22 CH
+BAG:tytqwezbd add 1xPhi Long VIP lydo: Mua từ cửa hàng at 02/02/2023 9:22 CH
+BAG:tytqwezbd add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 9:25 CH
+BAG:tytqwezbd add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 9:26 CH
+BAG:tytqwezbd add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 9:27 CH
+BAG:tytqwezbd add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 02/02/2023 9:28 CH
+BAG:tytqwezbd add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 02/02/2023 9:28 CH
+BAG:tytqwezbd add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 9:29 CH
+BAG:tytqwezbd add 1xSách Masenko lv1 lydo: Mua từ cửa hàng at 02/02/2023 9:30 CH
+BAG:tytqwezbd add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 9:32 CH
+BAG:tytqwezbd add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 9:32 CH
+BAG:tytqwezbd add 18xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 9:32 CH
+BAG:tytqwezbd add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 9:32 CH
+BAG:tytqwezbd add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 9:35 CH
+BAG:tytqwezbd add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 9:35 CH
+BAG:tytqwezbd add 1xÁo thun Pico lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:tytqwezbd add 1xGăng len Pico lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:tytqwezbd add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 9:37 CH
+BAG:tytqwezbd add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 9:38 CH
+BAG:tytqwezbd add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 9:39 CH
+BAG:tytqwezbd add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 9:43 CH
+BAG:tytqwezbd add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 9:43 CH
+BAG:tytqwezbd add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 9:44 CH
+BAG:tytqwezbd add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 02/02/2023 9:44 CH
+BAG:tytqwezbd add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 9:45 CH
+BAG:tytqwezbd add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 9:45 CH
+BAG:tytqwezbd add 1xÁo sợi len lydo: Mua từ cửa hàng at 02/02/2023 9:45 CH
+BAG:tytqwezbd add 1xGăng sợi len lydo: Mua từ cửa hàng at 02/02/2023 9:46 CH
+BAG:tytqwezbd add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 02/02/2023 9:46 CH
+BAG:tytqwezbd add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/02/2023 9:46 CH
+BAG:tytqwezbd add 1xQuần sợi gai lydo: Mua từ cửa hàng at 02/02/2023 9:46 CH
+BAG:tytqwezbd add 1xGiầy sợi gai lydo: Mua từ cửa hàng at 02/02/2023 9:46 CH
+BAG:tytqwezbd add 1xGiầy sợi gai lydo: Mua từ cửa hàng at 02/02/2023 9:47 CH

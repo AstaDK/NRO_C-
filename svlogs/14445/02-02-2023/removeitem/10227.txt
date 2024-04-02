@@ -1,0 +1,184 @@
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:22 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:29 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:38 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 2:49 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:06 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:23 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:41 SA
+BAG:hieuvjp remove Găng sợi len lydo: Mặc vào người at 02/02/2023 3:47 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 3:51 SA
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 4:08 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 4:26 SA
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 4:33 SA
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 02/02/2023 5:49 SA
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 5:50 SA
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 02/02/2023 5:50 SA
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:50 SA
+BAG:hieuvjp remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 5:56 SA
+BAG:hieuvjp remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 7:31 SA
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 7:31 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:32 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:51 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:07 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:09 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:10 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:28 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 8:41 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:01 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:22 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:32 SA
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 9:51 SA
+BAG:hieuvjp remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:11 CH
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 12:12 CH
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 12:12 CH
+BAG:hieuvjp remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:hieuvjp remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 12:15 CH
+BAG:hieuvjp remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 CH
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 12:30 CH
+BAG:hieuvjp remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/02/2023 6:07 CH
+BAG:hieuvjp remove Găng len cứng lydo: Mặc cho đệ tử at 02/02/2023 6:08 CH
+BAG:hieuvjp remove Giày da Pico lydo: Mặc cho đệ tử at 02/02/2023 6:08 CH
+BAG:hieuvjp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:09 CH
+BAG:hieuvjp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:09 CH
+BAG:hieuvjp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:09 CH
+BAG:hieuvjp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:09 CH
+BAG:hieuvjp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:10 CH
+BAG:hieuvjp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/02/2023 6:10 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:11 CH
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 6:11 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 6:51 CH
+BAG:hieuvjp remove Quần sợi len lydo: Mặc cho đệ tử at 02/02/2023 6:56 CH
+BAG:hieuvjp remove Áo sợi len lydo: Mặc cho đệ tử at 02/02/2023 6:56 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:08 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:13 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:34 CH
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 02/02/2023 7:43 CH
+BAG:hieuvjp remove Giày da Pico lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 CH
+BAG:hieuvjp remove Găng len cứng lydo: Tự Xóa vật phẩm at 02/02/2023 7:52 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 7:55 CH
+BAG:hieuvjp remove Áo sợi len lydo: Mặc vào người at 02/02/2023 9:38 CH
+BAG:hieuvjp remove Quần sợi len lydo: Mặc vào người at 02/02/2023 9:38 CH
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:38 CH
+BAG:hieuvjp remove Giầy sợi len lydo: Mặc vào người at 02/02/2023 9:38 CH
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 9:39 CH
+BAG:hieuvjp remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 9:39 CH
+BAG:hieuvjp remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:43 CH
+BAG:hieuvjp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:13 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:13 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:13 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:14 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:15 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:15 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:16 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:16 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:16 CH
+BAG:hieuvjp remove Áo sợi len lydo: Mặc vào người at 02/02/2023 10:16 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:17 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:18 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:18 CH
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 02/02/2023 10:18 CH
+BAG:hieuvjp remove Áo sắt Tron lydo: Mặc cho đệ tử at 02/02/2023 10:20 CH
+BAG:hieuvjp remove Đá Ruby lydo: Cất vào rương at 02/02/2023 10:20 CH
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 10:20 CH
+BAG:hieuvjp remove Giày đồng Tron lydo: Mặc cho đệ tử at 02/02/2023 10:20 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:21 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:21 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:21 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:22 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:23 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:23 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:23 CH
+BAG:hieuvjp remove Quần sắt Tron lydo: Mặc cho đệ tử at 02/02/2023 10:23 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:24 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:24 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:24 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:26 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:26 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:26 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:27 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:27 CH
+BAG:hieuvjp remove Áo sợi len lydo: Mặc vào người at 02/02/2023 10:29 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:29 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:30 CH
+BAG:hieuvjp remove Áo sợi len lydo: Mặc vào người at 02/02/2023 10:30 CH
+BAG:hieuvjp remove Quần sợi len lydo: Mặc vào người at 02/02/2023 10:30 CH
+BAG:hieuvjp remove Giầy sợi len lydo: Mặc vào người at 02/02/2023 10:31 CH
+BAG:hieuvjp remove Găng sợi len lydo: Mặc vào người at 02/02/2023 10:31 CH
+BAG:hieuvjp remove Đá Titan lydo: Cất vào rương at 02/02/2023 10:32 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:32 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 6 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:33 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 10:34 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:35 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:35 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:36 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:36 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:36 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:36 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:37 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:37 CH
+BAG:hieuvjp remove Áo sắt Tron lydo: Mặc cho đệ tử at 02/02/2023 10:37 CH
+BAG:hieuvjp remove Giày đồng Tron lydo: Mặc cho đệ tử at 02/02/2023 10:37 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:38 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:38 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:38 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:39 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:39 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:39 CH
+BAG:hieuvjp remove Quần sợi len lydo: Mặc vào người at 02/02/2023 10:39 CH
+BAG:hieuvjp remove Giầy sợi len lydo: Mặc vào người at 02/02/2023 10:39 CH
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 10:39 CH
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:40 CH
+BAG:hieuvjp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 10:40 CH
+BAG:hieuvjp remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:41 CH
+BAG:hieuvjp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:41 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:57 CH
+BAG:hieuvjp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 10:58 CH
+BAG:hieuvjp remove Áo sợi len lydo: Mặc vào người at 02/02/2023 10:59 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:05 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:05 CH
+BAG:hieuvjp remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:05 CH
+BAG:hieuvjp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:hieuvjp remove Sao pha lê lydo: Cất vào rương at 02/02/2023 11:07 CH
+BAG:hieuvjp remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH

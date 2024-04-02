@@ -1,0 +1,180 @@
+BAG:tungvipnro add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/02/2023 10:59 CH
+BAG:tungvipnro add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:tungvipnro add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:tungvipnro add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:tungvipnro add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:tungvipnro add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/02/2023 11:02 CH
+BAG:tungvipnro add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:tungvipnro add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:tungvipnro add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 11:03 CH
+BAG:tungvipnro add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:tungvipnro add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:tungvipnro add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/02/2023 11:04 CH
+BAG:tungvipnro add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:tungvipnro add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/02/2023 11:05 CH
+BAG:tungvipnro add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/02/2023 11:06 CH
+BAG:tungvipnro add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:tungvipnro add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:tungvipnro add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:tungvipnro add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:tungvipnro add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/02/2023 11:07 CH
+BAG:tungvipnro add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:tungvipnro add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:tungvipnro add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:tungvipnro add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 11:08 CH
+BAG:tungvipnro add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:tungvipnro add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:tungvipnro add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/02/2023 11:09 CH
+BAG:tungvipnro add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:tungvipnro add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:tungvipnro add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:tungvipnro add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 11:10 CH
+BAG:tungvipnro add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 11:11 CH
+BAG:tungvipnro add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:tungvipnro add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 11:12 CH
+BAG:tungvipnro add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:tungvipnro add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 11:13 CH
+BAG:tungvipnro add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 11:14 CH
+BAG:tungvipnro add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 11:16 CH
+BAG:tungvipnro add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:tungvipnro add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:tungvipnro add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:tungvipnro add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 11:17 CH
+BAG:tungvipnro add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:tungvipnro add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:tungvipnro add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:tungvipnro add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:tungvipnro add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/02/2023 11:18 CH
+BAG:tungvipnro add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:tungvipnro add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:tungvipnro add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:tungvipnro add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:tungvipnro add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 11:19 CH
+BAG:tungvipnro add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:tungvipnro add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:tungvipnro add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/02/2023 11:20 CH
+BAG:tungvipnro add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:tungvipnro add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 11:21 CH
+BAG:tungvipnro add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:tungvipnro add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:tungvipnro add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:tungvipnro add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:tungvipnro add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/02/2023 11:22 CH
+BAG:tungvipnro add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:tungvipnro add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:tungvipnro add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:tungvipnro add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:tungvipnro add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/02/2023 11:23 CH
+BAG:tungvipnro add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:tungvipnro add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:tungvipnro add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:tungvipnro add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:tungvipnro add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:tungvipnro add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:tungvipnro add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/02/2023 11:24 CH
+BAG:tungvipnro add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:tungvipnro add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:tungvipnro add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/02/2023 11:25 CH
+BAG:tungvipnro add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:tungvipnro add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:tungvipnro add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/02/2023 11:26 CH
+BAG:tungvipnro add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:tungvipnro add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:tungvipnro add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:tungvipnro add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/02/2023 11:27 CH
+BAG:tungvipnro add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:tungvipnro add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:tungvipnro add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/02/2023 11:29 CH
+BAG:tungvipnro add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/02/2023 11:30 CH
+BAG:tungvipnro add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/02/2023 11:30 CH
+BAG:tungvipnro add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/02/2023 11:31 CH
+BAG:tungvipnro add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/02/2023 11:31 CH
+BAG:tungvipnro add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/02/2023 11:31 CH
+BAG:tungvipnro add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:tungvipnro add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/02/2023 11:32 CH
+BAG:tungvipnro add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:tungvipnro add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:tungvipnro add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:tungvipnro add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:tungvipnro add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/02/2023 11:33 CH
+BAG:tungvipnro add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:tungvipnro add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:tungvipnro add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/02/2023 11:34 CH
+BAG:tungvipnro add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:tungvipnro add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/02/2023 11:35 CH
+BAG:tungvipnro add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:tungvipnro add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/02/2023 11:36 CH
+BAG:tungvipnro add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:tungvipnro add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:tungvipnro add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:tungvipnro add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/02/2023 11:38 CH
+BAG:tungvipnro add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:tungvipnro add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:tungvipnro add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:tungvipnro add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:tungvipnro add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:tungvipnro add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:tungvipnro add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/02/2023 11:39 CH
+BAG:tungvipnro add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/02/2023 11:40 CH
+BAG:tungvipnro add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:tungvipnro add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:tungvipnro add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:tungvipnro add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:tungvipnro add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:tungvipnro add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/02/2023 11:41 CH
+BAG:tungvipnro add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/02/2023 11:42 CH
+BAG:tungvipnro add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/02/2023 11:42 CH
+BAG:tungvipnro add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:tungvipnro add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:tungvipnro add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:tungvipnro add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:tungvipnro add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:tungvipnro add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/02/2023 11:43 CH
+BAG:tungvipnro add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:tungvipnro add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:tungvipnro add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 02/02/2023 11:44 CH
+BAG:tungvipnro add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/02/2023 11:45 CH
+BAG:tungvipnro add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:tungvipnro add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:tungvipnro add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:tungvipnro add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:tungvipnro add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/02/2023 11:46 CH
+BAG:tungvipnro add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:tungvipnro add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:tungvipnro add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/02/2023 11:47 CH
+BAG:tungvipnro add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:tungvipnro add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:tungvipnro add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:tungvipnro add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:tungvipnro add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:tungvipnro add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/02/2023 11:48 CH
+BAG:tungvipnro add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:tungvipnro add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:tungvipnro add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/02/2023 11:49 CH
+BAG:tungvipnro add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/02/2023 11:50 CH
+BAG:tungvipnro add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/02/2023 11:51 CH
+BAG:tungvipnro add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/02/2023 11:51 CH
+BAG:tungvipnro add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/02/2023 11:52 CH
+BAG:tungvipnro add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:tungvipnro add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:tungvipnro add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:tungvipnro add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/02/2023 11:53 CH
+BAG:tungvipnro add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/02/2023 11:54 CH
+BAG:tungvipnro add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/02/2023 11:54 CH
+BAG:tungvipnro add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/02/2023 11:54 CH
+BAG:tungvipnro add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/02/2023 11:54 CH
+BAG:tungvipnro add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/02/2023 11:55 CH
+BAG:tungvipnro add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/02/2023 11:55 CH
+BAG:tungvipnro add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:tungvipnro add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:tungvipnro add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/02/2023 11:56 CH
+BAG:tungvipnro add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:tungvipnro add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/02/2023 11:57 CH
+BAG:tungvipnro add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:tungvipnro add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:tungvipnro add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:tungvipnro add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:tungvipnro add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/02/2023 11:58 CH
+BAG:tungvipnro add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/02/2023 11:59 CH
+BAG:tungvipnro add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/02/2023 11:59 CH
+BAG:tungvipnro add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/02/2023 11:59 CH

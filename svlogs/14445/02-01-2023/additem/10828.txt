@@ -1,0 +1,83 @@
+BAG:chocopie add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 12:00 SA
+BAG:chocopie add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/01/2023 12:02 SA
+BAG:chocopie add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/01/2023 12:02 SA
+BAG:chocopie add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/01/2023 12:03 SA
+BAG:chocopie add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/01/2023 12:03 SA
+BAG:chocopie add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 12:03 SA
+BAG:chocopie add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 12:03 SA
+BAG:chocopie add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 12:03 SA
+BAG:chocopie add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 12:05 SA
+BAG:chocopie add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 12:06 SA
+BAG:chocopie add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 12:06 SA
+BAG:chocopie add 6xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/01/2023 12:09 SA
+BAG:chocopie add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 12:19 SA
+BAG:chocopie add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 12:22 SA
+BAG:chocopie add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:24 SA
+BAG:chocopie add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 12:27 SA
+BAG:chocopie add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 12:31 SA
+BAG:chocopie add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 12:33 SA
+BAG:chocopie add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:33 SA
+BAG:chocopie add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 12:34 SA
+BAG:chocopie add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 12:34 SA
+BAG:chocopie add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 12:36 SA
+BAG:chocopie add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 12:36 SA
+BAG:chocopie add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 12:37 SA
+BAG:chocopie add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 12:38 SA
+BAG:chocopie add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 12:38 SA
+BAG:chocopie add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 12:39 SA
+BAG:chocopie add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 12:40 SA
+BAG:chocopie add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 12:40 SA
+BAG:chocopie add 3xĐậu thần cấp 10 lydo: Thu hoạch đậu at 02/01/2023 12:42 SA
+BAG:chocopie add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 02/01/2023 12:42 SA
+BAG:chocopie add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:chocopie add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:chocopie add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 12:43 SA
+BAG:chocopie add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 12:46 SA
+BAG:chocopie add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 12:46 SA
+BAG:chocopie add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 12:46 SA
+BAG:chocopie add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/01/2023 12:49 SA
+BAG:chocopie add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 02/01/2023 12:49 SA
+BAG:chocopie add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 02/01/2023 12:49 SA
+BAG:chocopie add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 02/01/2023 12:49 SA
+BAG:chocopie add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 02/01/2023 12:49 SA
+BAG:chocopie add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 02/01/2023 12:49 SA
+BAG:chocopie add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 02/01/2023 12:49 SA
+BAG:chocopie add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 02/01/2023 12:50 SA
+BAG:chocopie add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 02/01/2023 12:51 SA
+BAG:chocopie add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 02/01/2023 12:51 SA
+BAG:chocopie add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 02/01/2023 12:51 SA
+BAG:chocopie add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 02/01/2023 12:51 SA
+BAG:chocopie add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 12:53 SA
+BAG:chocopie add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 12:53 SA
+BAG:chocopie add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 12:54 SA
+BAG:chocopie add 1xĐậu xanh lydo: Nhặt từ map at 02/01/2023 12:56 SA
+BAG:chocopie add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 12:57 SA
+BAG:chocopie add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:chocopie add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/01/2023 12:58 SA
+BAG:chocopie add 10xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 02/01/2023 1:05 SA
+BAG:chocopie add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/01/2023 9:22 SA
+BAG:chocopie add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 9:22 SA
+BAG:chocopie add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 9:22 SA
+BAG:chocopie add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/01/2023 9:22 SA
+BAG:chocopie add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 9:25 SA
+BAG:chocopie add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 9:25 SA
+BAG:chocopie add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 9:25 SA
+BAG:chocopie add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 9:25 SA
+BAG:chocopie add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/01/2023 9:25 SA
+BAG:chocopie add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 9:26 SA
+BAG:chocopie add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 9:27 SA
+BAG:chocopie add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 9:27 SA
+BAG:chocopie add 1xCải trang lydo: Mua từ cửa hàng at 02/01/2023 9:28 SA
+BAG:chocopie add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 9:29 SA
+BAG:chocopie add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 9:30 SA
+BAG:chocopie add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 9:34 SA
+BAG:chocopie add 1xBột mì lydo: Nhặt từ map at 02/01/2023 9:35 SA

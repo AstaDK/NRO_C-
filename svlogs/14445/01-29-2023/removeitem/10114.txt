@@ -1,0 +1,34 @@
+BAG:phucsama remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 12:03 AM
+BAG:phucsama remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 12:03 AM
+BAG:phucsama remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 12:03 AM
+BAG:phucsama remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 12:03 AM
+BAG:phucsama remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 12:08 AM
+BAG:phucsama remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 12:08 AM
+BAG:phucsama remove Sách đấm Demon lv1 lydo: Tự Xóa vật phẩm at 01/29/2023 12:08 AM
+BAG:phucsama remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/29/2023 12:08 AM
+BAG:phucsama remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 01/29/2023 12:08 AM
+BAG:phucsama remove Avatar đeo khẩu trang lydo: Mặc vào người at 01/29/2023 12:08 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:08 AM
+BAG:phucsama remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 12:08 AM
+BAG:phucsama remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 12:08 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:09 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:09 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:09 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:09 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:09 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:10 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:10 AM
+BAG:phucsama remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 12:10 AM
+BAG:phucsama remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 12:10 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:10 AM
+BAG:phucsama remove Găng thun Pico lydo: Mặc vào người at 01/29/2023 12:11 AM
+BAG:phucsama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:13 AM
+BAG:phucsama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:13 AM
+BAG:phucsama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:13 AM
+BAG:phucsama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:13 AM
+BAG:phucsama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:13 AM
+BAG:phucsama remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:13 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:13 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:14 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:14 AM
+BAG:phucsama remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 12:14 AM

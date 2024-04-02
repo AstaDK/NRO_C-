@@ -1,0 +1,133 @@
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:02 SA
+BAG:hnzero remove 1xCuồng nộ lydo: Dùng buff at 02/03/2023 12:03 SA
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:07 SA
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:18 SA
+BAG:hnzero remove 5xCây mai lydo: Cay Thong at 02/03/2023 12:24 SA
+BAG:hnzero remove 5xLì xì lydo: Cay Thong at 02/03/2023 12:24 SA
+BAG:hnzero remove 5xBình rượu lydo: Cay Thong at 02/03/2023 12:24 SA
+BAG:hnzero remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 12:24 SA
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:31 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:33 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:34 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:35 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:36 SA
+BAG:hnzero remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:hnzero remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:hnzero remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:hnzero remove Vàng lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:hnzero remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:51 SA
+BAG:hnzero remove 8xCây mai lydo: Cay Thong at 02/03/2023 1:00 SA
+BAG:hnzero remove 8xLì xì lydo: Cay Thong at 02/03/2023 1:00 SA
+BAG:hnzero remove 8xBình rượu lydo: Cay Thong at 02/03/2023 1:00 SA
+BAG:hnzero remove 8xPháo hoa lydo: Cay Thong at 02/03/2023 1:00 SA
+BAG:hnzero remove 15xThỏi vàng lydo: Cay Thong at 02/03/2023 1:00 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:06 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:10 SA
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 1:10 SA
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 1:17 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:20 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:21 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:23 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:31 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:33 SA
+BAG:hnzero remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 1:34 SA
+BAG:hnzero remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Sao pha lê lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Bổ khí lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Giáp Xên bọ hung lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Ngọc Rồng 2 sao lydo: Cất vào rương at 02/03/2023 1:38 SA
+BAG:hnzero remove Găng jean Calic lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Áo lưỡng long lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:39 SA
+BAG:hnzero remove Áo sợi len lydo: Mặc cho đệ tử at 02/03/2023 1:40 SA
+BAG:hnzero remove Quần sợi len lydo: Mặc cho đệ tử at 02/03/2023 1:40 SA
+BAG:hnzero remove Giầy sợi len lydo: Mặc cho đệ tử at 02/03/2023 1:40 SA
+BAG:hnzero remove Găng sợi len lydo: Mặc vào người at 02/03/2023 1:40 SA
+BAG:hnzero remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:40 SA
+BAG:hnzero remove 2xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:40 SA
+BAG:hnzero remove Găng sắt Tron lydo: Mặc vào người at 02/03/2023 1:41 SA
+BAG:hnzero remove Quần vàng Zealot lydo: Tự Xóa vật phẩm at 02/03/2023 1:42 SA
+BAG:hnzero remove Giày lưỡng long lydo: Tự Xóa vật phẩm at 02/03/2023 1:42 SA
+BAG:hnzero remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 1:42 SA
+BAG:hnzero remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 1:42 SA
+BAG:hnzero remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 1:42 SA
+BAG:hnzero remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 1:42 SA
+BAG:hnzero remove Áo sợi len lydo: Mặc vào người at 02/03/2023 1:43 SA
+BAG:hnzero remove Quần sợi len lydo: Mặc vào người at 02/03/2023 1:43 SA
+BAG:hnzero remove Giầy sợi len lydo: Mặc vào người at 02/03/2023 1:43 SA
+BAG:hnzero remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove 2xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove 2xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove 2xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove 2xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove Áo sắt Tron lydo: Mặc vào người at 02/03/2023 1:43 SA
+BAG:hnzero remove 4xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove 4xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:43 SA
+BAG:hnzero remove Áo vàng Zealot lydo: Mặc vào người at 02/03/2023 1:44 SA
+BAG:hnzero remove 6xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:44 SA
+BAG:hnzero remove 6xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:44 SA
+BAG:hnzero remove Áo Thần Namếc lydo: Mặc vào người at 02/03/2023 1:44 SA
+BAG:hnzero remove 8xĐá Vĩnh Hằng lydo: Cường Hóa at 02/03/2023 1:44 SA
+BAG:hnzero remove 8xĐá Hắc Hóa lydo: Cường Hóa at 02/03/2023 1:44 SA
+BAG:hnzero remove Áo Hủy Diệt lydo: Mặc vào người at 02/03/2023 1:44 SA
+BAG:hnzero remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 1:46 SA
+BAG:hnzero remove Tanjiro lydo: Mặc vào người at 02/03/2023 1:50 SA
+BAG:hnzero remove Cải Trang Thần Zeno Xayda lydo: Mặc cho đệ tử at 02/03/2023 1:50 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:51 SA
+BAG:hnzero remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 1:51 SA
+BAG:hnzero remove Găng sợi len lydo: Mặc vào người at 02/03/2023 1:51 SA
+BAG:hnzero remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 1:52 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:11 SA
+BAG:hnzero remove Quần sắt Tron lydo: Tự Xóa vật phẩm at 02/03/2023 2:19 SA
+BAG:hnzero remove Giày sắt Tron lydo: Tự Xóa vật phẩm at 02/03/2023 2:19 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:28 SA
+BAG:hnzero remove Găng da Pico lydo: Tự Xóa vật phẩm at 02/03/2023 2:41 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:45 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:02 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:19 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:35 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:44 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:44 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:44 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:44 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:44 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:44 SA
+BAG:hnzero remove Áo sợi len lydo: Mặc cho đệ tử at 02/03/2023 3:48 SA
+BAG:hnzero remove Quần sợi len lydo: Mặc cho đệ tử at 02/03/2023 3:48 SA
+BAG:hnzero remove Giầy sợi len lydo: Mặc cho đệ tử at 02/03/2023 3:48 SA
+BAG:hnzero remove Rada cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 3:48 SA
+BAG:hnzero remove Cải Trang Thần Zeno Xayda lydo: Mặc cho đệ tử at 02/03/2023 3:48 SA
+BAG:hnzero remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/03/2023 3:48 SA
+BAG:hnzero remove Găng len cứng lydo: Mặc cho đệ tử at 02/03/2023 3:49 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:50 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:50 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:50 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:50 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:50 SA
+BAG:hnzero remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 02/03/2023 3:50 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:02 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:21 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:38 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:55 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 5:12 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 5:29 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 5:46 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:02 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:19 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:36 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 6:53 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 7:10 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 7:27 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 9:38 SA
+BAG:hnzero remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 9:55 SA

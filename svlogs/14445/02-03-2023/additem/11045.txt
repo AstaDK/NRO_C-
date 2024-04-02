@@ -1,0 +1,37 @@
+BAG:gokussj add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:gokussj add 200xLì xì (old: 199) lydo: Nhặt từ map at 02/03/2023 3:02 SA
+BAG:gokussj add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 201xLì xì (old: 200) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 272xCây mai (old: 271) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 236xBình rượu (old: 235) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 237xBình rượu (old: 236) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 273xCây mai (old: 272) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 238xBình rượu (old: 237) lydo: Nhặt từ map at 02/03/2023 3:03 SA
+BAG:gokussj add 239xBình rượu (old: 238) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:gokussj add 274xCây mai (old: 273) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:gokussj add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:gokussj add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:gokussj add 202xLì xì (old: 201) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:gokussj add 275xCây mai (old: 274) lydo: Nhặt từ map at 02/03/2023 3:04 SA
+BAG:gokussj add 203xLì xì (old: 202) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:gokussj add 276xCây mai (old: 275) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:gokussj add 277xCây mai (old: 276) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:gokussj add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:gokussj add 204xLì xì (old: 203) lydo: Nhặt từ map at 02/03/2023 3:05 SA
+BAG:gokussj add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 02/03/2023 3:05 SA
+BAG:gokussj add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 02/03/2023 3:05 SA
+BAG:gokussj add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 02/03/2023 3:05 SA
+BAG:gokussj add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 02/03/2023 3:06 SA
+BAG:gokussj add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 02/03/2023 3:06 SA
+BAG:gokussj add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 02/03/2023 3:06 SA
+BAG:gokussj add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 02/03/2023 3:06 SA
+BAG:gokussj add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 02/03/2023 3:06 SA
+BAG:gokussj add 205xLì xì (old: 204) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:gokussj add 206xLì xì (old: 205) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:gokussj add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/03/2023 3:06 SA
+BAG:gokussj add 240xBình rượu (old: 239) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:gokussj add 278xCây mai (old: 277) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:gokussj add 279xCây mai (old: 278) lydo: Nhặt từ map at 02/03/2023 3:07 SA
+BAG:gokussj add 20xThỏi vàng lydo: Giftcode at 02/03/2023 3:07 SA

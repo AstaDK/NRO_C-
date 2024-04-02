@@ -1,0 +1,8 @@
+BAG:hakaj remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 11:13 CH
+BAG:hakaj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 11:19 CH
+BAG:hakaj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 11:19 CH
+BAG:hakaj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 11:19 CH
+BAG:hakaj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 11:19 CH
+BAG:hakaj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 11:20 CH
+BAG:hakaj remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 01/31/2023 11:20 CH
+BAG:hakaj remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/31/2023 11:20 CH

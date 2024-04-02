@@ -1,0 +1,20 @@
+BAG:mrhoan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:02 SA
+BAG:mrhoan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:04 SA
+BAG:mrhoan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:05 SA
+BAG:mrhoan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:05 SA
+BAG:mrhoan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA
+BAG:mrhoan remove 1xQuần sợi len lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:mrhoan remove 1xÁo sợi len lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:mrhoan remove Giầy cao su Pico lydo: Mặc vào người at 02/03/2023 11:23 SA
+BAG:mrhoan remove 1xĐá Saphia lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:mrhoan remove 1xĐá lục bảo lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:mrhoan remove Găng len Pico lydo: Mặc vào người at 02/03/2023 11:23 SA
+BAG:mrhoan remove 1xMảnh Khủng long mẹ lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:mrhoan remove 1xMảnh Quỷ đất mẹ lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:mrhoan remove 1xGăng vải thô lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:mrhoan remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:24 SA
+BAG:mrhoan remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:26 SA
+BAG:mrhoan remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:26 SA
+BAG:mrhoan remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 11:37 SA
+BAG:mrhoan remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:37 SA
+BAG:mrhoan remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:37 SA

@@ -1,0 +1,8 @@
+BAG:l7newbi add 1xLì xì lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:l7newbi add 1xCây mai lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:l7newbi add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:l7newbi add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:l7newbi add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:l7newbi add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:l7newbi add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 11:30 SA
+BAG:l7newbi add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 11:30 SA

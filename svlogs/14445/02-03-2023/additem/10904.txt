@@ -1,0 +1,1260 @@
+BAG:sugarbaby add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:sugarbaby add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:sugarbaby add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:sugarbaby add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:sugarbaby add 78xCây mai (old: 77) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:sugarbaby add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:sugarbaby add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 7xBột mì (old: 6) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 62xLì xì (old: 61) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 79xCây mai (old: 78) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 80xCây mai (old: 79) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 81xCây mai (old: 80) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 82xCây mai (old: 81) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 83xCây mai (old: 82) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 84xCây mai (old: 83) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:sugarbaby add 85xCây mai (old: 84) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 8xBột mì (old: 7) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 86xCây mai (old: 85) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 65xLì xì (old: 64) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:sugarbaby add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 87xCây mai (old: 86) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/03/2023 12:06 SA
+BAG:sugarbaby add 66xLì xì (old: 65) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 67xLì xì (old: 66) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 68xLì xì (old: 67) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 69xLì xì (old: 68) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 70xLì xì (old: 69) lydo: Nhặt từ map at 02/03/2023 12:07 SA
+BAG:sugarbaby add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 71xLì xì (old: 70) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 12:08 SA
+BAG:sugarbaby add 72xLì xì (old: 71) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 88xCây mai (old: 87) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 73xLì xì (old: 72) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 89xCây mai (old: 88) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 90xCây mai (old: 89) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:sugarbaby add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 91xCây mai (old: 90) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:sugarbaby add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 92xCây mai (old: 91) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 9xBột mì (old: 8) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 74xLì xì (old: 73) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 1xÁo vải thô lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 93xCây mai (old: 92) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 75xLì xì (old: 74) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 76xLì xì (old: 75) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 66xBình rượu (old: 65) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 94xCây mai (old: 93) lydo: Nhặt từ map at 02/03/2023 12:10 SA
+BAG:sugarbaby add 67xBình rượu (old: 66) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 77xLì xì (old: 76) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 68xBình rượu (old: 67) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 69xBình rượu (old: 68) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 70xBình rượu (old: 69) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 71xBình rượu (old: 70) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 95xCây mai (old: 94) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 78xLì xì (old: 77) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 72xBình rượu (old: 71) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 73xBình rượu (old: 72) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 79xLì xì (old: 78) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 96xCây mai (old: 95) lydo: Nhặt từ map at 02/03/2023 12:11 SA
+BAG:sugarbaby add 80xLì xì (old: 79) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 74xBình rượu (old: 73) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 97xCây mai (old: 96) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 98xCây mai (old: 97) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 81xLì xì (old: 80) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 75xBình rượu (old: 74) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 82xLì xì (old: 81) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 76xBình rượu (old: 75) lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/03/2023 12:12 SA
+BAG:sugarbaby add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 83xLì xì (old: 82) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 84xLì xì (old: 83) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 99xCây mai (old: 98) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 85xLì xì (old: 84) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 86xLì xì (old: 85) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 87xLì xì (old: 86) lydo: Nhặt từ map at 02/03/2023 12:13 SA
+BAG:sugarbaby add 100xCây mai (old: 99) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 101xCây mai (old: 100) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 102xCây mai (old: 101) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 103xCây mai (old: 102) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 88xLì xì (old: 87) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 89xLì xì (old: 88) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 104xCây mai (old: 103) lydo: Nhặt từ map at 02/03/2023 12:14 SA
+BAG:sugarbaby add 90xLì xì (old: 89) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 105xCây mai (old: 104) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 106xCây mai (old: 105) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 107xCây mai (old: 106) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 91xLì xì (old: 90) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/03/2023 12:15 SA
+BAG:sugarbaby add 77xBình rượu (old: 76) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 92xLì xì (old: 91) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 108xCây mai (old: 107) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 93xLì xì (old: 92) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 94xLì xì (old: 93) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 95xLì xì (old: 94) lydo: Nhặt từ map at 02/03/2023 12:16 SA
+BAG:sugarbaby add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 109xCây mai (old: 108) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 78xBình rượu (old: 77) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 110xCây mai (old: 109) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 79xBình rượu (old: 78) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 111xCây mai (old: 110) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 80xBình rượu (old: 79) lydo: Nhặt từ map at 02/03/2023 12:17 SA
+BAG:sugarbaby add 112xCây mai (old: 111) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 96xLì xì (old: 95) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 81xBình rượu (old: 80) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 113xCây mai (old: 112) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 1xQuần vải thô lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 97xLì xì (old: 96) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 98xLì xì (old: 97) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 82xBình rượu (old: 81) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 83xBình rượu (old: 82) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 114xCây mai (old: 113) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 84xBình rượu (old: 83) lydo: Nhặt từ map at 02/03/2023 12:18 SA
+BAG:sugarbaby add 99xLì xì (old: 98) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:sugarbaby add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:sugarbaby add 100xLì xì (old: 99) lydo: Nhặt từ map at 02/03/2023 12:19 SA
+BAG:sugarbaby add 115xCây mai (old: 114) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 101xLì xì (old: 100) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 102xLì xì (old: 101) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 1xÁo vải thô lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 103xLì xì (old: 102) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 104xLì xì (old: 103) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 85xBình rượu (old: 84) lydo: Nhặt từ map at 02/03/2023 12:20 SA
+BAG:sugarbaby add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 86xBình rượu (old: 85) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 116xCây mai (old: 115) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 105xLì xì (old: 104) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 106xLì xì (old: 105) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 117xCây mai (old: 116) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 118xCây mai (old: 117) lydo: Nhặt từ map at 02/03/2023 12:21 SA
+BAG:sugarbaby add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 107xLì xì (old: 106) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 87xBình rượu (old: 86) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 10xBột mì (old: 9) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 119xCây mai (old: 118) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 120xCây mai (old: 119) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 108xLì xì (old: 107) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 88xBình rượu (old: 87) lydo: Nhặt từ map at 02/03/2023 12:22 SA
+BAG:sugarbaby add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 89xBình rượu (old: 88) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 109xLì xì (old: 108) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 110xLì xì (old: 109) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 111xLì xì (old: 110) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 90xBình rượu (old: 89) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 112xLì xì (old: 111) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 121xCây mai (old: 120) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 122xCây mai (old: 121) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 02/03/2023 12:23 SA
+BAG:sugarbaby add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 91xBình rượu (old: 90) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 92xBình rượu (old: 91) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 123xCây mai (old: 122) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 113xLì xì (old: 112) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 114xLì xì (old: 113) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 02/03/2023 12:24 SA
+BAG:sugarbaby add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 93xBình rượu (old: 92) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 124xCây mai (old: 123) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 115xLì xì (old: 114) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 125xCây mai (old: 124) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/03/2023 12:25 SA
+BAG:sugarbaby add 116xLì xì (old: 115) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:sugarbaby add 126xCây mai (old: 125) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:sugarbaby add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:sugarbaby add 127xCây mai (old: 126) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:sugarbaby add 128xCây mai (old: 127) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:sugarbaby add 94xBình rượu (old: 93) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:sugarbaby add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 02/03/2023 12:26 SA
+BAG:sugarbaby add 1xQuỷ Chim lydo: Lấy từ rương qua người at 02/03/2023 12:28 SA
+BAG:sugarbaby add 1xBông tai Porata lydo: Lấy từ rương qua người at 02/03/2023 12:29 SA
+BAG:sugarbaby add 34xThỏi vàng lydo: Lấy từ rương qua người at 02/03/2023 12:29 SA
+BAG:sugarbaby add 11xSao pha lê lydo: Lấy từ rương qua người at 02/03/2023 12:30 SA
+BAG:sugarbaby add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 02/03/2023 12:30 SA
+BAG:sugarbaby add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 02/03/2023 12:30 SA
+BAG:sugarbaby add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:sugarbaby add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:sugarbaby add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 02/03/2023 12:36 SA
+BAG:sugarbaby add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 02/03/2023 7:55 SA
+BAG:sugarbaby add 117xLì xì (old: 116) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sugarbaby add 95xBình rượu (old: 94) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sugarbaby add 118xLì xì (old: 117) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sugarbaby add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sugarbaby add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sugarbaby add 119xLì xì (old: 118) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sugarbaby add 96xBình rượu (old: 95) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 129xCây mai (old: 128) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 130xCây mai (old: 129) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 131xCây mai (old: 130) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sugarbaby add 97xBình rượu (old: 96) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 120xLì xì (old: 119) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 121xLì xì (old: 120) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 132xCây mai (old: 131) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 122xLì xì (old: 121) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 123xLì xì (old: 122) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 133xCây mai (old: 132) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sugarbaby add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 98xBình rượu (old: 97) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 134xCây mai (old: 133) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 135xCây mai (old: 134) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 99xBình rượu (old: 98) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 100xBình rượu (old: 99) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 124xLì xì (old: 123) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 101xBình rượu (old: 100) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 136xCây mai (old: 135) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 137xCây mai (old: 136) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 125xLì xì (old: 124) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 138xCây mai (old: 137) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sugarbaby add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 126xLì xì (old: 125) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 139xCây mai (old: 138) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 127xLì xì (old: 126) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sugarbaby add 140xCây mai (old: 139) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 141xCây mai (old: 140) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 128xLì xì (old: 127) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 142xCây mai (old: 141) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 143xCây mai (old: 142) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 129xLì xì (old: 128) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 102xBình rượu (old: 101) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 130xLì xì (old: 129) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sugarbaby add 103xBình rượu (old: 102) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 131xLì xì (old: 130) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 144xCây mai (old: 143) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 132xLì xì (old: 131) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 145xCây mai (old: 144) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 146xCây mai (old: 145) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 104xBình rượu (old: 103) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 105xBình rượu (old: 104) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 147xCây mai (old: 146) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 106xBình rượu (old: 105) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sugarbaby add 133xLì xì (old: 132) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 148xCây mai (old: 147) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 149xCây mai (old: 148) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 134xLì xì (old: 133) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 135xLì xì (old: 134) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 136xLì xì (old: 135) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 137xLì xì (old: 136) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sugarbaby add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sugarbaby add 150xCây mai (old: 149) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sugarbaby add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sugarbaby add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sugarbaby add 107xBình rượu (old: 106) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sugarbaby add 138xLì xì (old: 137) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sugarbaby add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sugarbaby add 108xBình rượu (old: 107) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 139xLì xì (old: 138) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 151xCây mai (old: 150) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 109xBình rượu (old: 108) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 110xBình rượu (old: 109) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sugarbaby add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 152xCây mai (old: 151) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 111xBình rượu (old: 110) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 112xBình rượu (old: 111) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 153xCây mai (old: 152) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:sugarbaby add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sugarbaby add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sugarbaby add 154xCây mai (old: 153) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sugarbaby add 155xCây mai (old: 154) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sugarbaby add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sugarbaby add 156xCây mai (old: 155) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sugarbaby add 157xCây mai (old: 156) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sugarbaby add 158xCây mai (old: 157) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sugarbaby add 140xLì xì (old: 139) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sugarbaby add 113xBình rượu (old: 112) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sugarbaby add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sugarbaby add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sugarbaby add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sugarbaby add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sugarbaby add 114xBình rượu (old: 113) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 141xLì xì (old: 140) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 159xCây mai (old: 158) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 115xBình rượu (old: 114) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 142xLì xì (old: 141) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 116xBình rượu (old: 115) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 143xLì xì (old: 142) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sugarbaby add 144xLì xì (old: 143) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 117xBình rượu (old: 116) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 118xBình rượu (old: 117) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 119xBình rượu (old: 118) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 120xBình rượu (old: 119) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 145xLì xì (old: 144) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sugarbaby add 146xLì xì (old: 145) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sugarbaby add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sugarbaby add 147xLì xì (old: 146) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sugarbaby add 160xCây mai (old: 159) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:sugarbaby add 148xLì xì (old: 147) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:sugarbaby add 149xLì xì (old: 148) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:sugarbaby add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:sugarbaby add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:sugarbaby add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:sugarbaby add 161xCây mai (old: 160) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 121xBình rượu (old: 120) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 162xCây mai (old: 161) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 150xLì xì (old: 149) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 163xCây mai (old: 162) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 164xCây mai (old: 163) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sugarbaby add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 165xCây mai (old: 164) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 122xBình rượu (old: 121) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 151xLì xì (old: 150) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 123xBình rượu (old: 122) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 166xCây mai (old: 165) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sugarbaby add 167xCây mai (old: 166) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:sugarbaby add 124xBình rượu (old: 123) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:sugarbaby add 152xLì xì (old: 151) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:sugarbaby add 168xCây mai (old: 167) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:sugarbaby add 169xCây mai (old: 168) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:sugarbaby add 170xCây mai (old: 169) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sugarbaby add 125xBình rượu (old: 124) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sugarbaby add 171xCây mai (old: 170) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sugarbaby add 172xCây mai (old: 171) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sugarbaby add 126xBình rượu (old: 125) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sugarbaby add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 173xCây mai (old: 172) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 127xBình rượu (old: 126) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 153xLì xì (old: 152) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 8:25 SA
+BAG:sugarbaby add 128xBình rượu (old: 127) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 129xBình rượu (old: 128) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:sugarbaby add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 174xCây mai (old: 173) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 175xCây mai (old: 174) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 154xLì xì (old: 153) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 176xCây mai (old: 175) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 177xCây mai (old: 176) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 178xCây mai (old: 177) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 130xBình rượu (old: 129) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:sugarbaby add 179xCây mai (old: 178) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:sugarbaby add 155xLì xì (old: 154) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:sugarbaby add 156xLì xì (old: 155) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:sugarbaby add 180xCây mai (old: 179) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:sugarbaby add 131xBình rượu (old: 130) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 181xCây mai (old: 180) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 132xBình rượu (old: 131) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 133xBình rượu (old: 132) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 134xBình rượu (old: 133) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 182xCây mai (old: 181) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 135xBình rượu (old: 134) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sugarbaby add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sugarbaby add 136xBình rượu (old: 135) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sugarbaby add 157xLì xì (old: 156) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sugarbaby add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sugarbaby add 183xCây mai (old: 182) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sugarbaby add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sugarbaby add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 158xLì xì (old: 157) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 137xBình rượu (old: 136) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 159xLì xì (old: 158) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 138xBình rượu (old: 137) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 160xLì xì (old: 159) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sugarbaby add 184xCây mai (old: 183) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sugarbaby add 185xCây mai (old: 184) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sugarbaby add 186xCây mai (old: 185) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sugarbaby add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sugarbaby add 161xLì xì (old: 160) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sugarbaby add 187xCây mai (old: 186) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sugarbaby add 188xCây mai (old: 187) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sugarbaby add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/03/2023 8:32 SA
+BAG:sugarbaby add 162xLì xì (old: 161) lydo: Nhặt từ map at 02/03/2023 8:32 SA
+BAG:sugarbaby add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 8:32 SA
+BAG:sugarbaby add 11xBột mì (old: 10) lydo: Nhặt từ map at 02/03/2023 8:32 SA
+BAG:sugarbaby add 189xCây mai (old: 188) lydo: Nhặt từ map at 02/03/2023 8:32 SA
+BAG:sugarbaby add 163xLì xì (old: 162) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 139xBình rượu (old: 138) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 190xCây mai (old: 189) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 140xBình rượu (old: 139) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 191xCây mai (old: 190) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:sugarbaby add 164xLì xì (old: 163) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:sugarbaby add 165xLì xì (old: 164) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:sugarbaby add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:sugarbaby add 166xLì xì (old: 165) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:sugarbaby add 167xLì xì (old: 166) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:sugarbaby add 141xBình rượu (old: 140) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:sugarbaby add 1xQuỷ Chim lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 1xBông tai Porata lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 191xCây mai lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 167xLì xì lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 141xBình rượu lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 1xQuỷ Chim lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 1xTự động luyện tập lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 141xBình rượu lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 167xLì xì lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 191xCây mai lydo: Lấy từ rương qua người at 02/03/2023 8:35 SA
+BAG:sugarbaby add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:sugarbaby add 142xBình rượu (old: 141) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:sugarbaby add 143xBình rượu (old: 142) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:sugarbaby add 192xCây mai (old: 191) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 193xCây mai (old: 192) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 168xLì xì (old: 167) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 144xBình rượu (old: 143) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 194xCây mai (old: 193) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 195xCây mai (old: 194) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 196xCây mai (old: 195) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 145xBình rượu (old: 144) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 169xLì xì (old: 168) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:sugarbaby add 197xCây mai (old: 196) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 170xLì xì (old: 169) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 198xCây mai (old: 197) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 146xBình rượu (old: 145) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 199xCây mai (old: 198) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 200xCây mai (old: 199) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 201xCây mai (old: 200) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 202xCây mai (old: 201) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:sugarbaby add 147xBình rượu (old: 146) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 203xCây mai (old: 202) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 171xLì xì (old: 170) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 204xCây mai (old: 203) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 148xBình rượu (old: 147) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 205xCây mai (old: 204) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:sugarbaby add 149xBình rượu (old: 148) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 206xCây mai (old: 205) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 172xLì xì (old: 171) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 150xBình rượu (old: 149) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:sugarbaby add 173xLì xì (old: 172) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 174xLì xì (old: 173) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 175xLì xì (old: 174) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 207xCây mai (old: 206) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 208xCây mai (old: 207) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 209xCây mai (old: 208) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 210xCây mai (old: 209) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 211xCây mai (old: 210) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 212xCây mai (old: 211) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:sugarbaby add 213xCây mai (old: 212) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 214xCây mai (old: 213) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 151xBình rượu (old: 150) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 215xCây mai (old: 214) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 216xCây mai (old: 215) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 176xLì xì (old: 175) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 177xLì xì (old: 176) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:sugarbaby add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 178xLì xì (old: 177) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 179xLì xì (old: 178) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 217xCây mai (old: 216) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 152xBình rượu (old: 151) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 218xCây mai (old: 217) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:sugarbaby add 219xCây mai (old: 218) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 180xLì xì (old: 179) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 181xLì xì (old: 180) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 153xBình rượu (old: 152) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 182xLì xì (old: 181) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 154xBình rượu (old: 153) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 220xCây mai (old: 219) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 155xBình rượu (old: 154) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:sugarbaby add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 221xCây mai (old: 220) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 222xCây mai (old: 221) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 223xCây mai (old: 222) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 224xCây mai (old: 223) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 183xLì xì (old: 182) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 156xBình rượu (old: 155) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 184xLì xì (old: 183) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 225xCây mai (old: 224) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:sugarbaby add 157xBình rượu (old: 156) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 185xLì xì (old: 184) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 186xLì xì (old: 185) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 158xBình rượu (old: 157) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 159xBình rượu (old: 158) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 226xCây mai (old: 225) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 227xCây mai (old: 226) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 187xLì xì (old: 186) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 228xCây mai (old: 227) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 229xCây mai (old: 228) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 160xBình rượu (old: 159) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:sugarbaby add 188xLì xì (old: 187) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 161xBình rượu (old: 160) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 230xCây mai (old: 229) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 162xBình rượu (old: 161) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 163xBình rượu (old: 162) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 231xCây mai (old: 230) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 232xCây mai (old: 231) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 189xLì xì (old: 188) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:sugarbaby add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 164xBình rượu (old: 163) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 12xBột mì (old: 11) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 233xCây mai (old: 232) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 190xLì xì (old: 189) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:sugarbaby add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 191xLì xì (old: 190) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 76xĐá Ruby (old: 75) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 234xCây mai (old: 233) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 235xCây mai (old: 234) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 165xBình rượu (old: 164) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 192xLì xì (old: 191) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 166xBình rượu (old: 165) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 236xCây mai (old: 235) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 77xĐá Ruby (old: 76) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 167xBình rượu (old: 166) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:sugarbaby add 78xĐá Ruby (old: 77) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 193xLì xì (old: 192) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 237xCây mai (old: 236) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 194xLì xì (old: 193) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 79xĐá Ruby (old: 78) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 195xLì xì (old: 194) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 168xBình rượu (old: 167) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 169xBình rượu (old: 168) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 80xĐá Ruby (old: 79) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:sugarbaby add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 81xĐá Ruby (old: 80) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 196xLì xì (old: 195) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 238xCây mai (old: 237) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 170xBình rượu (old: 169) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 239xCây mai (old: 238) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 240xCây mai (old: 239) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 171xBình rượu (old: 170) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 197xLì xì (old: 196) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 172xBình rượu (old: 171) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 198xLì xì (old: 197) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 199xLì xì (old: 198) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:sugarbaby add 241xCây mai (old: 240) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 200xLì xì (old: 199) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 173xBình rượu (old: 172) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 242xCây mai (old: 241) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 13xBột mì (old: 12) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 201xLì xì (old: 200) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 243xCây mai (old: 242) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:sugarbaby add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 244xCây mai (old: 243) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 174xBình rượu (old: 173) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 202xLì xì (old: 201) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 245xCây mai (old: 244) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 175xBình rượu (old: 174) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 176xBình rượu (old: 175) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 177xBình rượu (old: 176) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 178xBình rượu (old: 177) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 203xLì xì (old: 202) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 179xBình rượu (old: 178) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 204xLì xì (old: 203) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 246xCây mai (old: 245) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:sugarbaby add 247xCây mai (old: 246) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 180xBình rượu (old: 179) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 181xBình rượu (old: 180) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 248xCây mai (old: 247) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 205xLì xì (old: 204) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 182xBình rượu (old: 181) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 206xLì xì (old: 205) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 207xLì xì (old: 206) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 183xBình rượu (old: 182) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:sugarbaby add 184xBình rượu (old: 183) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 208xLì xì (old: 207) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 185xBình rượu (old: 184) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 209xLì xì (old: 208) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 249xCây mai (old: 248) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 186xBình rượu (old: 185) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 250xCây mai (old: 249) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 82xĐá Ruby (old: 81) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 187xBình rượu (old: 186) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:sugarbaby add 251xCây mai (old: 250) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 252xCây mai (old: 251) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 188xBình rượu (old: 187) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 210xLì xì (old: 209) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 211xLì xì (old: 210) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 212xLì xì (old: 211) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 253xCây mai (old: 252) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 213xLì xì (old: 212) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 254xCây mai (old: 253) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 83xĐá Ruby (old: 82) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 214xLì xì (old: 213) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:sugarbaby add 189xBình rượu (old: 188) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 255xCây mai (old: 254) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 256xCây mai (old: 255) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 215xLì xì (old: 214) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 257xCây mai (old: 256) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 258xCây mai (old: 257) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 190xBình rượu (old: 189) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 216xLì xì (old: 215) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 191xBình rượu (old: 190) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 217xLì xì (old: 216) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:sugarbaby add 218xLì xì (old: 217) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 192xBình rượu (old: 191) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 193xBình rượu (old: 192) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 219xLì xì (old: 218) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 194xBình rượu (old: 193) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 195xBình rượu (old: 194) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 220xLì xì (old: 219) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 221xLì xì (old: 220) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 259xCây mai (old: 258) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 260xCây mai (old: 259) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:sugarbaby add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 196xBình rượu (old: 195) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 261xCây mai (old: 260) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 84xĐá Ruby (old: 83) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 85xĐá Ruby (old: 84) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 222xLì xì (old: 221) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:sugarbaby add 223xLì xì (old: 222) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 224xLì xì (old: 223) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 262xCây mai (old: 261) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 197xBình rượu (old: 196) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 263xCây mai (old: 262) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 225xLì xì (old: 224) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 226xLì xì (old: 225) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 264xCây mai (old: 263) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 227xLì xì (old: 226) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 265xCây mai (old: 264) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:sugarbaby add 198xBình rượu (old: 197) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 266xCây mai (old: 265) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 228xLì xì (old: 227) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 229xLì xì (old: 228) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 230xLì xì (old: 229) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 231xLì xì (old: 230) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 199xBình rượu (old: 198) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 200xBình rượu (old: 199) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 232xLì xì (old: 231) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 201xBình rượu (old: 200) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:sugarbaby add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 202xBình rượu (old: 201) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 233xLì xì (old: 232) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 267xCây mai (old: 266) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 203xBình rượu (old: 202) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 204xBình rượu (old: 203) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 234xLì xì (old: 233) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 205xBình rượu (old: 204) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:sugarbaby add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 86xĐá Ruby (old: 85) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 235xLì xì (old: 234) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 87xĐá Ruby (old: 86) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 268xCây mai (old: 267) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 269xCây mai (old: 268) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 236xLì xì (old: 235) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 206xBình rượu (old: 205) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 270xCây mai (old: 269) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 88xĐá Ruby (old: 87) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 9:05 SA
+BAG:sugarbaby add 271xCây mai (old: 270) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 89xĐá Ruby (old: 88) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 237xLì xì (old: 236) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 238xLì xì (old: 237) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 239xLì xì (old: 238) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 207xBình rượu (old: 206) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 240xLì xì (old: 239) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 208xBình rượu (old: 207) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 241xLì xì (old: 240) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sugarbaby add 209xBình rượu (old: 208) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 272xCây mai (old: 271) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 273xCây mai (old: 272) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 242xLì xì (old: 241) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 274xCây mai (old: 273) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 275xCây mai (old: 274) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 276xCây mai (old: 275) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 243xLì xì (old: 242) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 90xĐá Ruby (old: 89) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sugarbaby add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 210xBình rượu (old: 209) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 244xLì xì (old: 243) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 211xBình rượu (old: 210) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 212xBình rượu (old: 211) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 213xBình rượu (old: 212) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 277xCây mai (old: 276) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 278xCây mai (old: 277) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 91xĐá Ruby (old: 90) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:sugarbaby add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 279xCây mai (old: 278) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 214xBình rượu (old: 213) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 245xLì xì (old: 244) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 246xLì xì (old: 245) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 247xLì xì (old: 246) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 215xBình rượu (old: 214) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 248xLì xì (old: 247) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 216xBình rượu (old: 215) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:sugarbaby add 280xCây mai (old: 279) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 281xCây mai (old: 280) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 249xLì xì (old: 248) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 282xCây mai (old: 281) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 92xĐá Ruby (old: 91) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 250xLì xì (old: 249) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 217xBình rượu (old: 216) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 93xĐá Ruby (old: 92) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 218xBình rượu (old: 217) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:sugarbaby add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 251xLì xì (old: 250) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 283xCây mai (old: 282) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 252xLì xì (old: 251) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 284xCây mai (old: 283) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 285xCây mai (old: 284) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 253xLì xì (old: 252) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 286xCây mai (old: 285) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 219xBình rượu (old: 218) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 287xCây mai (old: 286) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 288xCây mai (old: 287) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 289xCây mai (old: 288) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 290xCây mai (old: 289) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 291xCây mai (old: 290) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:sugarbaby add 254xLì xì (old: 253) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 14xBột mì (old: 13) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 255xLì xì (old: 254) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 256xLì xì (old: 255) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 292xCây mai (old: 291) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 257xLì xì (old: 256) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 258xLì xì (old: 257) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 220xBình rượu (old: 219) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 293xCây mai (old: 292) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 221xBình rượu (old: 220) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 294xCây mai (old: 293) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:sugarbaby add 295xCây mai (old: 294) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 222xBình rượu (old: 221) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 223xBình rượu (old: 222) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 94xĐá Ruby (old: 93) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 296xCây mai (old: 295) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 297xCây mai (old: 296) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 224xBình rượu (old: 223) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 95xĐá Ruby (old: 94) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:sugarbaby add 298xCây mai (old: 297) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 299xCây mai (old: 298) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 225xBình rượu (old: 224) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 300xCây mai (old: 299) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 226xBình rượu (old: 225) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 301xCây mai (old: 300) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 302xCây mai (old: 301) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 303xCây mai (old: 302) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 304xCây mai (old: 303) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sugarbaby add 305xCây mai (old: 304) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 96xĐá Ruby (old: 95) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 259xLì xì (old: 258) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 260xLì xì (old: 259) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 306xCây mai (old: 305) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 307xCây mai (old: 306) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 227xBình rượu (old: 226) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 308xCây mai (old: 307) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 309xCây mai (old: 308) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 261xLì xì (old: 260) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 228xBình rượu (old: 227) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 310xCây mai (old: 309) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 229xBình rượu (old: 228) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 311xCây mai (old: 310) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:sugarbaby add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 312xCây mai (old: 311) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 262xLì xì (old: 261) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 263xLì xì (old: 262) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 264xLì xì (old: 263) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 313xCây mai (old: 312) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 97xĐá Ruby (old: 96) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 314xCây mai (old: 313) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 315xCây mai (old: 314) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 230xBình rượu (old: 229) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 265xLì xì (old: 264) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 266xLì xì (old: 265) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:sugarbaby add 316xCây mai (old: 315) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 267xLì xì (old: 266) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 268xLì xì (old: 267) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 317xCây mai (old: 316) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 98xĐá Ruby (old: 97) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 318xCây mai (old: 317) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 269xLì xì (old: 268) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 231xBình rượu (old: 230) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 232xBình rượu (old: 231) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 319xCây mai (old: 318) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 320xCây mai (old: 319) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 321xCây mai (old: 320) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 322xCây mai (old: 321) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:sugarbaby add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 233xBình rượu (old: 232) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 323xCây mai (old: 322) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 324xCây mai (old: 323) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 325xCây mai (old: 324) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 234xBình rượu (old: 233) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 326xCây mai (old: 325) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 327xCây mai (old: 326) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 235xBình rượu (old: 234) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 270xLì xì (old: 269) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 328xCây mai (old: 327) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sugarbaby add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 236xBình rượu (old: 235) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 329xCây mai (old: 328) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 92xĐá thạch anh tím (old: 91) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 271xLì xì (old: 270) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 272xLì xì (old: 271) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 273xLì xì (old: 272) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:sugarbaby add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 330xCây mai (old: 329) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 237xBình rượu (old: 236) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 274xLì xì (old: 273) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 331xCây mai (old: 330) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 99xĐá Ruby (old: 98) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 238xBình rượu (old: 237) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 275xLì xì (old: 274) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 332xCây mai (old: 331) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 333xCây mai (old: 332) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 276xLì xì (old: 275) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 334xCây mai (old: 333) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 239xBình rượu (old: 238) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 277xLì xì (old: 276) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:sugarbaby add 335xCây mai (old: 334) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 336xCây mai (old: 335) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 240xBình rượu (old: 239) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 337xCây mai (old: 336) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 241xBình rượu (old: 240) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 338xCây mai (old: 337) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 339xCây mai (old: 338) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 340xCây mai (old: 339) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 93xĐá thạch anh tím (old: 92) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 341xCây mai (old: 340) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 342xCây mai (old: 341) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 242xBình rượu (old: 241) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sugarbaby add 343xCây mai (old: 342) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 243xBình rượu (old: 242) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 244xBình rượu (old: 243) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 278xLì xì (old: 277) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 279xLì xì (old: 278) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 280xLì xì (old: 279) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 245xBình rượu (old: 244) lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:sugarbaby add 344xCây mai (old: 343) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 246xBình rượu (old: 245) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 247xBình rượu (old: 246) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 281xLì xì (old: 280) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 282xLì xì (old: 281) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 345xCây mai (old: 344) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 283xLì xì (old: 282) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 248xBình rượu (old: 247) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 346xCây mai (old: 345) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:sugarbaby add 347xCây mai (old: 346) lydo: Nhặt từ map at 02/03/2023 9:24 SA
+BAG:sugarbaby add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 02/03/2023 9:24 SA
+BAG:sugarbaby add 249xBình rượu (old: 248) lydo: Nhặt từ map at 02/03/2023 9:25 SA
+BAG:sugarbaby add 348xCây mai (old: 347) lydo: Nhặt từ map at 02/03/2023 9:25 SA
+BAG:sugarbaby add 284xLì xì (old: 283) lydo: Nhặt từ map at 02/03/2023 9:25 SA
+BAG:sugarbaby add 349xCây mai (old: 348) lydo: Nhặt từ map at 02/03/2023 9:25 SA
+BAG:sugarbaby add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 02/03/2023 9:26 SA
+BAG:sugarbaby add 350xCây mai (old: 349) lydo: Nhặt từ map at 02/03/2023 9:26 SA
+BAG:sugarbaby add 351xCây mai (old: 350) lydo: Nhặt từ map at 02/03/2023 9:26 SA
+BAG:sugarbaby add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 02/03/2023 9:26 SA
+BAG:sugarbaby add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 02/03/2023 9:26 SA
+BAG:sugarbaby add 285xLì xì (old: 284) lydo: Nhặt từ map at 02/03/2023 9:27 SA
+BAG:sugarbaby add 250xBình rượu (old: 249) lydo: Nhặt từ map at 02/03/2023 9:27 SA
+BAG:sugarbaby add 94xĐá thạch anh tím (old: 93) lydo: Nhặt từ map at 02/03/2023 9:27 SA
+BAG:sugarbaby add 15xBột mì (old: 14) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 352xCây mai (old: 351) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 353xCây mai (old: 352) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 286xLì xì (old: 285) lydo: Nhặt từ map at 02/03/2023 9:28 SA
+BAG:sugarbaby add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 02/03/2023 9:29 SA
+BAG:sugarbaby add 354xCây mai (old: 353) lydo: Nhặt từ map at 02/03/2023 9:29 SA
+BAG:sugarbaby add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 02/03/2023 9:29 SA
+BAG:sugarbaby add 355xCây mai (old: 354) lydo: Nhặt từ map at 02/03/2023 9:29 SA
+BAG:sugarbaby add 356xCây mai (old: 355) lydo: Nhặt từ map at 02/03/2023 9:29 SA
+BAG:sugarbaby add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 9:29 SA
+BAG:sugarbaby add 357xCây mai (old: 356) lydo: Nhặt từ map at 02/03/2023 9:30 SA
+BAG:sugarbaby add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 02/03/2023 9:30 SA
+BAG:sugarbaby add 287xLì xì (old: 286) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:sugarbaby add 288xLì xì (old: 287) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:sugarbaby add 289xLì xì (old: 288) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:sugarbaby add 290xLì xì (old: 289) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:sugarbaby add 291xLì xì (old: 290) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:sugarbaby add 358xCây mai (old: 357) lydo: Nhặt từ map at 02/03/2023 9:31 SA
+BAG:sugarbaby add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 02/03/2023 9:34 SA
+BAG:sugarbaby add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 02/03/2023 9:34 SA
+BAG:sugarbaby add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 02/03/2023 9:34 SA
+BAG:sugarbaby add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 02/03/2023 9:34 SA
+BAG:sugarbaby add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 02/03/2023 9:36 SA
+BAG:sugarbaby add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 02/03/2023 9:36 SA
+BAG:sugarbaby add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 02/03/2023 9:36 SA
+BAG:sugarbaby add 68xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ rương qua người at 02/03/2023 9:37 SA
+BAG:sugarbaby add 26xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ rương qua người at 02/03/2023 9:37 SA
+BAG:sugarbaby add 19xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 02/03/2023 9:37 SA
+BAG:sugarbaby add 3xNgọc Rồng 7 sao lydo: (GD) Nhận từ hieuvjp at 02/03/2023 9:41 SA
+BAG:sugarbaby add 9xNgọc Rồng 7 sao lydo: (GD) Nhận từ top1kame at 02/03/2023 9:41 SA
+BAG:sugarbaby add 48xNgọc Rồng 4 sao (old: 47) lydo: Lấy từ lucky box at 02/03/2023 9:42 SA
+BAG:sugarbaby add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 02/03/2023 9:42 SA
+BAG:sugarbaby add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 02/03/2023 9:42 SA
+BAG:sugarbaby add 49xNgọc Rồng 4 sao (old: 48) lydo: Lấy từ lucky box at 02/03/2023 9:42 SA
+BAG:sugarbaby add 50xNgọc Rồng 4 sao (old: 49) lydo: Lấy từ lucky box at 02/03/2023 9:42 SA
+BAG:sugarbaby add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 9:43 SA
+BAG:sugarbaby add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 9:43 SA
+BAG:sugarbaby add 99xThỏi vàng lydo: Lấy từ rương qua người at 02/03/2023 9:47 SA
+BAG:sugarbaby add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 9:48 SA
+BAG:sugarbaby add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 9:51 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 9:51 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 9:56 SA
+BAG:sugarbaby add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhập ngọc at 02/03/2023 10:02 SA
+BAG:sugarbaby add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhập ngọc at 02/03/2023 10:02 SA
+BAG:sugarbaby add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhập ngọc at 02/03/2023 10:02 SA
+BAG:sugarbaby add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhập ngọc at 02/03/2023 10:02 SA
+BAG:sugarbaby add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhập ngọc at 02/03/2023 10:02 SA
+BAG:sugarbaby add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhập ngọc at 02/03/2023 10:02 SA
+BAG:sugarbaby add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 10:06 SA
+BAG:sugarbaby add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 10:06 SA
+BAG:sugarbaby add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 10:06 SA
+BAG:sugarbaby add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 10:06 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 10:06 SA
+BAG:sugarbaby add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:07 SA
+BAG:sugarbaby add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:07 SA
+BAG:sugarbaby add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:07 SA
+BAG:sugarbaby add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:07 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:07 SA
+BAG:sugarbaby add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:07 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:07 SA
+BAG:sugarbaby add 1xCải trang lydo: Mua từ cửa hàng at 02/03/2023 10:08 SA
+BAG:sugarbaby add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 02/03/2023 10:09 SA
+BAG:sugarbaby add 359xCây mai (old: 358) lydo: Nhặt từ map at 02/03/2023 10:10 SA
+BAG:sugarbaby add 292xLì xì (old: 291) lydo: Nhặt từ map at 02/03/2023 10:11 SA
+BAG:sugarbaby add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 02/03/2023 10:14 SA
+BAG:sugarbaby add 360xCây mai (old: 359) lydo: Nhặt từ map at 02/03/2023 10:16 SA
+BAG:sugarbaby add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 02/03/2023 10:17 SA
+BAG:sugarbaby add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 10:19 SA
+BAG:sugarbaby add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 10:20 SA
+BAG:sugarbaby add 361xCây mai (old: 360) lydo: Nhặt từ map at 02/03/2023 10:22 SA
+BAG:sugarbaby add 362xCây mai (old: 361) lydo: Nhặt từ map at 02/03/2023 10:22 SA
+BAG:sugarbaby add 293xLì xì (old: 292) lydo: Nhặt từ map at 02/03/2023 10:27 SA
+BAG:sugarbaby add 363xCây mai (old: 362) lydo: Nhặt từ map at 02/03/2023 10:28 SA
+BAG:sugarbaby add 364xCây mai (old: 363) lydo: Nhặt từ map at 02/03/2023 10:28 SA
+BAG:sugarbaby add 251xBình rượu (old: 250) lydo: Nhặt từ map at 02/03/2023 10:30 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 10:31 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 10:33 SA
+BAG:sugarbaby add 294xLì xì (old: 293) lydo: Nhặt từ map at 02/03/2023 10:33 SA
+BAG:sugarbaby add 252xBình rượu (old: 251) lydo: Nhặt từ map at 02/03/2023 10:33 SA
+BAG:sugarbaby add 365xCây mai (old: 364) lydo: Nhặt từ map at 02/03/2023 10:34 SA
+BAG:sugarbaby add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 10:35 SA
+BAG:sugarbaby add 295xLì xì (old: 294) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:sugarbaby add 366xCây mai (old: 365) lydo: Nhặt từ map at 02/03/2023 10:37 SA
+BAG:sugarbaby add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 10:38 SA
+BAG:sugarbaby add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 10:39 SA
+BAG:sugarbaby add 367xCây mai (old: 366) lydo: Nhặt từ map at 02/03/2023 10:40 SA
+BAG:sugarbaby add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 10:40 SA
+BAG:sugarbaby add 368xCây mai (old: 367) lydo: Nhặt từ map at 02/03/2023 10:41 SA
+BAG:sugarbaby add 296xLì xì (old: 295) lydo: Nhặt từ map at 02/03/2023 10:42 SA
+BAG:sugarbaby add 369xCây mai (old: 368) lydo: Nhặt từ map at 02/03/2023 10:43 SA
+BAG:sugarbaby add 8xNgọc Rồng 7 sao lydo: (GD) Nhận từ bunma at 02/03/2023 10:46 SA
+BAG:sugarbaby add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:47 SA
+BAG:sugarbaby add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 02/03/2023 10:47 SA
+BAG:sugarbaby add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 10:49 SA
+BAG:sugarbaby add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/03/2023 10:49 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/03/2023 10:49 SA
+BAG:sugarbaby add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 02/03/2023 10:51 SA
+BAG:sugarbaby add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 02/03/2023 10:51 SA
+BAG:sugarbaby add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 02/03/2023 10:51 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:02 SA
+BAG:sugarbaby add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:sugarbaby add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:sugarbaby add 1xÁo vải thô lydo: Lấy từ rương qua người at 02/03/2023 11:06 SA
+BAG:sugarbaby add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 11:06 SA
+BAG:sugarbaby add 1xGiầy vải thô lydo: Lấy từ rương qua người at 02/03/2023 11:07 SA
+BAG:sugarbaby add 1xGăng vải thô lydo: Lấy từ rương qua người at 02/03/2023 11:07 SA
+BAG:sugarbaby add 1xQuần vải thô lydo: Lấy từ rương qua người at 02/03/2023 11:07 SA
+BAG:sugarbaby add 297xLì xì (old: 296) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:sugarbaby add 370xCây mai (old: 369) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:sugarbaby add 298xLì xì (old: 297) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:sugarbaby add 1xCây mai lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:24 SA
+BAG:sugarbaby add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:31 SA

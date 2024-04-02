@@ -1,0 +1,317 @@
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:07 SA
+BAG:pitaz remove Quần sợi len lydo: Cất vào rương at 02/03/2023 12:19 SA
+BAG:pitaz remove Áo sợi len lydo: Cất vào rương at 02/03/2023 12:19 SA
+BAG:pitaz remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/03/2023 12:19 SA
+BAG:pitaz remove Găng bạc Zealot lydo: Cất vào rương at 02/03/2023 12:19 SA
+BAG:pitaz remove Quần sợi len lydo: Mặc cho đệ tử at 02/03/2023 12:20 SA
+BAG:pitaz remove Áo sợi len lydo: Mặc cho đệ tử at 02/03/2023 12:20 SA
+BAG:pitaz remove Giầy sợi len lydo: Mặc cho đệ tử at 02/03/2023 12:20 SA
+BAG:pitaz remove Găng bạc Zealot lydo: Tự Xóa vật phẩm at 02/03/2023 12:34 SA
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:36 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:50 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:51 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:54 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:55 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:55 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:56 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:57 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:58 SA
+BAG:pitaz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:00 SA
+BAG:pitaz remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 1:00 SA
+BAG:pitaz remove Giầy sợi len lydo: Cất vào rương at 02/03/2023 1:00 SA
+BAG:pitaz remove Rada cấp 1 lydo: Cất vào rương at 02/03/2023 1:00 SA
+BAG:pitaz remove Giáp tập luyện cấp 1 lydo: Cất vào rương at 02/03/2023 1:00 SA
+BAG:pitaz remove Ngọc Rồng 7 sao lydo: Cất vào rương at 02/03/2023 1:00 SA
+BAG:pitaz remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 02/03/2023 1:01 SA
+BAG:pitaz remove Máy dò Capsule kì bí lydo: Cất vào rương at 02/03/2023 1:01 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:05 SA
+BAG:pitaz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:05 SA
+BAG:pitaz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:05 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:05 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:05 SA
+BAG:pitaz remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 02/03/2023 1:06 SA
+BAG:pitaz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:06 SA
+BAG:pitaz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:06 SA
+BAG:pitaz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:06 SA
+BAG:pitaz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:07 SA
+BAG:pitaz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:07 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:08 SA
+BAG:pitaz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:08 SA
+BAG:pitaz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:08 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:08 SA
+BAG:pitaz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:08 SA
+BAG:pitaz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:09 SA
+BAG:pitaz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:09 SA
+BAG:pitaz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 1:10 SA
+BAG:pitaz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 1:10 SA
+BAG:pitaz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:10 SA
+BAG:pitaz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:10 SA
+BAG:pitaz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:10 SA
+BAG:pitaz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:16 SA
+BAG:pitaz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:16 SA
+BAG:pitaz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:16 SA
+BAG:pitaz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:16 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove Ẩn danh lydo: Tự Xóa vật phẩm at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:17 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:22 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:29 SA
+BAG:pitaz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 1:30 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:35 SA
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 1:35 SA
+BAG:pitaz remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 02/03/2023 1:36 SA
+BAG:pitaz remove 1xViên Capsule kì bí lydo: CSKB at 02/03/2023 1:44 SA
+BAG:pitaz remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 1:44 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 1:44 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 1:44 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 1:44 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 1:44 SA
+BAG:pitaz remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 1:46 SA
+BAG:pitaz remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/03/2023 1:46 SA
+BAG:pitaz remove Bổ huyết lydo: Cất vào rương at 02/03/2023 1:47 SA
+BAG:pitaz remove Cuồng nộ lydo: Cất vào rương at 02/03/2023 1:47 SA
+BAG:pitaz remove Bổ khí lydo: Cất vào rương at 02/03/2023 1:47 SA
+BAG:pitaz remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 1:47 SA
+BAG:pitaz remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 1:47 SA
+BAG:pitaz remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 1:47 SA
+BAG:pitaz remove Máy dò Capsule kì bí lydo: Cất vào rương at 02/03/2023 1:47 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:50 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:51 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:53 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:55 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:57 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:59 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:01 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:03 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:05 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:07 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:09 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:11 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:13 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:15 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:17 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:19 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:21 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:23 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:26 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:28 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:30 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:32 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:35 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:37 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:39 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:41 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:43 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:45 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:47 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:49 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:52 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:54 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:56 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:57 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 2:59 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:01 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:03 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:05 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:07 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:09 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:11 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:13 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:14 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:16 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:18 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:20 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:21 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:23 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:25 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:27 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:28 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:30 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:31 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:33 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:35 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:36 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:38 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:39 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:41 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:43 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:44 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:46 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:47 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:49 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:50 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:51 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:53 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:54 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:56 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:57 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 3:58 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:00 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:01 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:02 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:04 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:05 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:06 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:08 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:09 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:10 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:11 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:13 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:14 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:15 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:16 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:17 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:19 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:20 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:21 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:22 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:23 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:24 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:26 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:27 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:28 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:29 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 4:30 SA
+BAG:pitaz remove 6xCuồng nộ lydo: Giao dịch với infrared at 02/03/2023 8:04 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 8:05 SA
+BAG:pitaz remove Quần sợi len lydo: Mặc vào người at 02/03/2023 8:22 SA
+BAG:pitaz remove Áo sợi len lydo: Mặc vào người at 02/03/2023 8:22 SA
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 8:41 SA
+BAG:pitaz remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 02/03/2023 8:41 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 8:50 SA
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 8:51 SA
+BAG:pitaz remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 9:01 SA
+BAG:pitaz remove Ngọc Rồng 2 sao lydo: Cất vào rương at 02/03/2023 9:01 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:02 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:02 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:02 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:02 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:02 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:02 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:03 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:04 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:04 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:04 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:04 SA
+BAG:pitaz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 9:04 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:08 SA
+BAG:pitaz remove 5xCây mai lydo: Cay Thong at 02/03/2023 9:09 SA
+BAG:pitaz remove 5xLì xì lydo: Cay Thong at 02/03/2023 9:09 SA
+BAG:pitaz remove 5xBình rượu lydo: Cay Thong at 02/03/2023 9:09 SA
+BAG:pitaz remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 9:09 SA
+BAG:pitaz remove Bổ khí lydo: Cất vào rương at 02/03/2023 9:10 SA
+BAG:pitaz remove Bổ huyết lydo: Cất vào rương at 02/03/2023 9:10 SA
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 10:01 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:13 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:23 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:23 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:24 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:28 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:29 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:29 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 10:33 SA
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:31 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 11:34 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 11:53 SA
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:10 CH
+BAG:pitaz remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:27 CH
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:46 CH
+BAG:pitaz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 12:56 CH

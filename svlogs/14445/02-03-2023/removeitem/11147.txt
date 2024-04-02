@@ -1,0 +1,201 @@
+BAG:tenlagi remove Đậu thần cấp 5 lydo: Tự Xóa vật phẩm at 02/03/2023 12:00 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:04 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:05 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:05 SA
+BAG:tenlagi remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 02/03/2023 12:06 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:06 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:06 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:06 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:07 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:07 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:07 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:08 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:08 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:08 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:09 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:09 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:09 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:10 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:11 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:11 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:11 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:12 SA
+BAG:tenlagi remove Quần vải đen lydo: Tự Xóa vật phẩm at 02/03/2023 12:12 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:12 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:13 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:14 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:16 SA
+BAG:tenlagi remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:16 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:17 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:17 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:17 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:17 SA
+BAG:tenlagi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:18 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:18 SA
+BAG:tenlagi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:18 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:19 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:20 SA
+BAG:tenlagi remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:22 SA
+BAG:tenlagi remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:22 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:23 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:23 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:23 SA
+BAG:tenlagi remove Đá Ruby lydo: Cất vào rương at 02/03/2023 12:23 SA
+BAG:tenlagi remove Đá lục bảo lydo: Cất vào rương at 02/03/2023 12:23 SA
+BAG:tenlagi remove Đá Titan lydo: Cất vào rương at 02/03/2023 12:23 SA
+BAG:tenlagi remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 12:24 SA
+BAG:tenlagi remove Đá Saphia lydo: Cất vào rương at 02/03/2023 12:24 SA
+BAG:tenlagi remove 1xGăng vải dày lydo: Bán cho shop at 02/03/2023 12:25 SA
+BAG:tenlagi remove Giày cao su Kame lydo: Mặc vào người at 02/03/2023 12:26 SA
+BAG:tenlagi remove 1xRada cấp 1 lydo: Bán cho shop at 02/03/2023 12:26 SA
+BAG:tenlagi remove Rada cấp 4 lydo: Mặc cho đệ tử at 02/03/2023 12:26 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:28 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:29 SA
+BAG:tenlagi remove Găng vải đen lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:tenlagi remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:tenlagi remove Mảnh Lợn lòi lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:tenlagi remove Đá lục bảo lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:tenlagi remove Mảnh Lợn lòi mẹ lydo: Cất vào rương at 02/03/2023 12:30 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:31 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:32 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:32 SA
+BAG:tenlagi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:33 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:34 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:34 SA
+BAG:tenlagi remove Quần vải đen lydo: Mặc cho đệ tử at 02/03/2023 12:35 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:36 SA
+BAG:tenlagi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:36 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:36 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:36 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:36 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:36 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:37 SA
+BAG:tenlagi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:37 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:37 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:37 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:38 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 12:38 SA
+BAG:tenlagi remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 SA
+BAG:tenlagi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xCây mai lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xLì xì lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xBình rượu lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xCây mai lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xLì xì lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xBình rượu lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 5xThỏi vàng lydo: Cay Thong at 02/03/2023 12:40 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:41 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:41 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:41 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:42 SA
+BAG:tenlagi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:43 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:43 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:43 SA
+BAG:tenlagi remove 1xBổ khí lydo: Dùng buff at 02/03/2023 12:43 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:44 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:45 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:46 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:46 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:47 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:47 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:49 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:49 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:52 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:53 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:53 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:53 SA
+BAG:tenlagi remove 1xGiày cao su Kame lydo: Bán cho shop at 02/03/2023 12:55 SA
+BAG:tenlagi remove 1xNho tím lydo: Ăn nho at 02/03/2023 12:55 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:57 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:58 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:58 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:58 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:58 SA
+BAG:tenlagi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/03/2023 12:59 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:59 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 12:59 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:00 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:01 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:02 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:03 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:04 SA
+BAG:tenlagi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/03/2023 1:05 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:05 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:05 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:06 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:07 SA
+BAG:tenlagi remove Rada cấp 4 lydo: Tự Xóa vật phẩm at 02/03/2023 1:07 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:07 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:08 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:09 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:09 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:10 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:10 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:11 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:11 SA
+BAG:tenlagi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 1:11 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:11 SA
+BAG:tenlagi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:11 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:11 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:11 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:12 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:12 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:13 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:14 SA
+BAG:tenlagi remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:15 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:15 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:15 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:16 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:17 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:18 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:19 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:19 SA
+BAG:tenlagi remove 1xGăng thun dày lydo: Bán cho shop at 02/03/2023 1:20 SA
+BAG:tenlagi remove Kaioken lv1 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Kaioken lv2 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Kaioken lv3 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Kaioken lv4 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Kaioken lv5 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Kaioken lv6 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Kaioken lv7 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Quả cầu Kênh Khi lv1 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Quả cầu Kênh Khi lv2 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Quả cầu Kênh Khi lv3 lydo: Sách kĩ năng at 02/03/2023 1:22 SA
+BAG:tenlagi remove Quả cầu Kênh Khi lv4 lydo: Sách kĩ năng at 02/03/2023 1:23 SA
+BAG:tenlagi remove Quả cầu Kênh Khi lv5 lydo: Sách kĩ năng at 02/03/2023 1:23 SA
+BAG:tenlagi remove Quả cầu Kênh Khi lv6 lydo: Sách kĩ năng at 02/03/2023 1:23 SA
+BAG:tenlagi remove Quả cầu Kênh Khi lv7 lydo: Sách kĩ năng at 02/03/2023 1:23 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:24 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:25 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:26 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:27 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:28 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:28 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:29 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:30 SA
+BAG:tenlagi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 1:30 SA
+BAG:tenlagi remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:30 SA
+BAG:tenlagi remove Giày võ kame lydo: Mặc cho đệ tử at 02/03/2023 1:31 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:31 SA
+BAG:tenlagi remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:31 SA
+BAG:tenlagi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 1:31 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:32 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:33 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:33 SA
+BAG:tenlagi remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 1:34 SA
+BAG:tenlagi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:34 SA
+BAG:tenlagi remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/03/2023 1:34 SA
+BAG:tenlagi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/03/2023 1:42 SA

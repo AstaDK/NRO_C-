@@ -1,0 +1,4 @@
+BAG:dongdz add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/28/2023 11:46 PM
+BAG:dongdz add 1xĐá Ruby lydo: Nhặt từ map at 01/28/2023 11:58 PM
+BAG:dongdz add 1xĐá lục bảo lydo: Nhặt từ map at 01/28/2023 11:58 PM
+BAG:dongdz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/28/2023 11:59 PM

@@ -1,0 +1,138 @@
+BAG:mobiut add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 6:41 CH
+BAG:mobiut add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 6:44 CH
+BAG:mobiut add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 6:44 CH
+BAG:mobiut add 1xCây mai lydo: Nhặt từ map at 02/02/2023 6:44 CH
+BAG:mobiut add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:47 CH
+BAG:mobiut add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 6:48 CH
+BAG:mobiut add 15xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 02/02/2023 6:49 CH
+BAG:mobiut add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 6:50 CH
+BAG:mobiut add 1xCột nhà lydo: Mua từ cửa hàng at 02/02/2023 6:50 CH
+BAG:mobiut add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 6:54 CH
+BAG:mobiut add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 02/02/2023 6:54 CH
+BAG:mobiut add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 02/02/2023 6:54 CH
+BAG:mobiut add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 02/02/2023 6:54 CH
+BAG:mobiut add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 02/02/2023 6:54 CH
+BAG:mobiut add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 02/02/2023 6:54 CH
+BAG:mobiut add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 02/02/2023 6:54 CH
+BAG:mobiut add 1xAvatar lydo: Lấy từ body vào hành trang at 02/02/2023 6:55 CH
+BAG:mobiut add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:mobiut add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:mobiut add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:mobiut add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:mobiut add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:mobiut add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:mobiut add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 6:56 CH
+BAG:mobiut add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:mobiut add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:mobiut add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:mobiut add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:mobiut add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:mobiut add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 6:57 CH
+BAG:mobiut add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 6:58 CH
+BAG:mobiut add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:58 CH
+BAG:mobiut add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 6:58 CH
+BAG:mobiut add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 6:58 CH
+BAG:mobiut add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:mobiut add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:mobiut add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:mobiut add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:mobiut add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 6:59 CH
+BAG:mobiut add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:mobiut add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:mobiut add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:mobiut add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:mobiut add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/02/2023 7:00 CH
+BAG:mobiut add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 7:01 CH
+BAG:mobiut add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:mobiut add 1xMảnh Phi long lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:mobiut add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 7:02 CH
+BAG:mobiut add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 7:03 CH
+BAG:mobiut add 1xGiầy cao su Pico lydo: Mua từ cửa hàng at 02/02/2023 7:04 CH
+BAG:mobiut add 1xGăng len Pico lydo: Mua từ cửa hàng at 02/02/2023 7:04 CH
+BAG:mobiut add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/02/2023 7:06 CH
+BAG:mobiut add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/02/2023 7:06 CH
+BAG:mobiut add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 7:06 CH
+BAG:mobiut add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/02/2023 7:08 CH
+BAG:mobiut add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/02/2023 7:09 CH
+BAG:mobiut add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/02/2023 7:09 CH
+BAG:mobiut add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/02/2023 7:09 CH
+BAG:mobiut add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 7:09 CH
+BAG:mobiut add 20xThỏi vàng lydo: Giftcode at 02/02/2023 7:10 CH
+BAG:mobiut add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:12 CH
+BAG:mobiut add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/02/2023 7:12 CH
+BAG:mobiut add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 7:13 CH
+BAG:mobiut add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 7:13 CH
+BAG:mobiut add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:14 CH
+BAG:mobiut add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 02/02/2023 7:15 CH
+BAG:mobiut add 3xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/02/2023 7:15 CH
+BAG:mobiut add 6xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 02/02/2023 7:16 CH
+BAG:mobiut add 6xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 02/02/2023 7:16 CH
+BAG:mobiut add 8xĐậu thần cấp 4 lydo: Lấy từ rương qua người at 02/02/2023 7:16 CH
+BAG:mobiut add 10xĐậu thần cấp 4 (old: 8) lydo: Thu hoạch đậu at 02/02/2023 7:16 CH
+BAG:mobiut add 1xCải trang lydo: Mua từ cửa hàng at 02/02/2023 7:17 CH
+BAG:mobiut add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 7:17 CH
+BAG:mobiut add 1xCây mai lydo: Nhặt từ map at 02/02/2023 7:18 CH
+BAG:mobiut add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 7:18 CH
+BAG:mobiut add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 7:19 CH
+BAG:mobiut add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 7:19 CH
+BAG:mobiut add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 7:21 CH
+BAG:mobiut add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/02/2023 7:21 CH
+BAG:mobiut add 1xLì xì lydo: Nhặt từ map at 02/02/2023 7:22 CH
+BAG:mobiut add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 7:22 CH
+BAG:mobiut add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/02/2023 7:22 CH
+BAG:mobiut add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 7:22 CH
+BAG:mobiut add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:mobiut add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:mobiut add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:mobiut add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:mobiut add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:mobiut add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 7:23 CH
+BAG:mobiut add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:mobiut add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:mobiut add 1xTrứng vịt muối lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:mobiut add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:mobiut add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 7:24 CH
+BAG:mobiut add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 7:25 CH
+BAG:mobiut add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/02/2023 7:25 CH
+BAG:mobiut add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 7:25 CH
+BAG:mobiut add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 7:25 CH
+BAG:mobiut add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 7:25 CH
+BAG:mobiut add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 7:25 CH
+BAG:mobiut add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 7:26 CH
+BAG:mobiut add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 7:26 CH
+BAG:mobiut add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 7:27 CH
+BAG:mobiut add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 7:27 CH
+BAG:mobiut add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 7:27 CH
+BAG:mobiut add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 7:28 CH
+BAG:mobiut add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/02/2023 7:28 CH
+BAG:mobiut add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 7:28 CH
+BAG:mobiut add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 1xĐậu xanh lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 1xGà quay nguyên con lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/02/2023 7:29 CH
+BAG:mobiut add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/02/2023 7:30 CH
+BAG:mobiut add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/02/2023 7:30 CH
+BAG:mobiut add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/02/2023 7:30 CH
+BAG:mobiut add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/02/2023 7:30 CH
+BAG:mobiut add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 7:30 CH
+BAG:mobiut add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/02/2023 7:30 CH
+BAG:mobiut add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/02/2023 7:31 CH

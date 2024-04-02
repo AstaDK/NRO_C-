@@ -1,0 +1,55 @@
+BAG:thomtest remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 11:00 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:05 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:05 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:07 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:07 SA
+BAG:thomtest remove 1xPhi Long VIP lydo: Bán cho shop at 02/03/2023 11:08 SA
+BAG:thomtest remove Avatar đeo khẩu trang lydo: Mặc vào người at 02/03/2023 11:08 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:12 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:12 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:12 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:13 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:13 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:14 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:17 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:18 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:18 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:18 SA
+BAG:thomtest remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:18 SA
+BAG:thomtest remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/03/2023 11:23 SA
+BAG:thomtest remove 1xCánh thiên thần 2 lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:thomtest remove Hồn ma Pôcôlô lydo: Tự Xóa vật phẩm at 02/03/2023 11:23 SA
+BAG:thomtest remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 11:23 SA
+BAG:thomtest remove 1xMèo mun lydo: Bán cho shop at 02/03/2023 11:23 SA
+BAG:thomtest remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:24 SA
+BAG:thomtest remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:24 SA
+BAG:thomtest remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 02/03/2023 11:24 SA
+BAG:thomtest remove Cây mai lydo: Cất vào rương at 02/03/2023 11:24 SA
+BAG:thomtest remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 11:24 SA
+BAG:thomtest remove Đá Saphia lydo: Cất vào rương at 02/03/2023 11:24 SA
+BAG:thomtest remove Đá Ruby lydo: Cất vào rương at 02/03/2023 11:24 SA
+BAG:thomtest remove Đá Titan lydo: Cất vào rương at 02/03/2023 11:25 SA
+BAG:thomtest remove Thỏi vàng lydo: Cất vào rương at 02/03/2023 11:25 SA
+BAG:thomtest remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:thomtest remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:39 CH
+BAG:thomtest remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:44 CH
+BAG:thomtest remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:49 CH
+BAG:thomtest remove Đá lục bảo lydo: Cất vào rương at 02/03/2023 12:51 CH
+BAG:thomtest remove Đá Ruby lydo: Cất vào rương at 02/03/2023 12:51 CH
+BAG:thomtest remove Đá thạch anh tím lydo: Cất vào rương at 02/03/2023 12:51 CH
+BAG:thomtest remove Đá Titan lydo: Cất vào rương at 02/03/2023 12:51 CH
+BAG:thomtest remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 12:51 CH
+BAG:thomtest remove Mảnh Lợn lòi lydo: Cất vào rương at 02/03/2023 12:51 CH
+BAG:thomtest remove Đá Saphia lydo: Cất vào rương at 02/03/2023 12:51 CH
+BAG:thomtest remove Cột nhà lydo: Cất vào rương at 02/03/2023 12:52 CH
+BAG:thomtest remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 12:57 CH
+BAG:thomtest remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:52 CH
+BAG:thomtest remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/03/2023 1:59 CH
+BAG:thomtest remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 2:03 CH
+BAG:thomtest remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 2:03 CH

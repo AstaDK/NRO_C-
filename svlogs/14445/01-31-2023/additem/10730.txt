@@ -1,0 +1,36 @@
+BAG:khoababy add 1xMảnh Quỷ đất lydo: Nhặt từ map at 01/31/2023 12:32 PM
+BAG:khoababy add 1xĐá Ruby lydo: Nhặt từ map at 01/31/2023 12:34 PM
+BAG:khoababy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/31/2023 12:38 PM
+BAG:khoababy add 5xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/31/2023 12:38 PM
+BAG:khoababy add 1xĐá lục bảo lydo: Nhặt từ map at 01/31/2023 12:42 PM
+BAG:khoababy add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/31/2023 12:44 PM
+BAG:khoababy add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 01/31/2023 12:52 PM
+BAG:khoababy add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 01/31/2023 12:52 PM
+BAG:khoababy add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 01/31/2023 12:52 PM
+BAG:khoababy add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 01/31/2023 12:52 PM
+BAG:khoababy add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 01/31/2023 12:52 PM
+BAG:khoababy add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 01/31/2023 12:52 PM
+BAG:khoababy add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 01/31/2023 12:53 PM
+BAG:khoababy add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 01/31/2023 12:54 PM
+BAG:khoababy add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 01/31/2023 12:54 PM
+BAG:khoababy add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 01/31/2023 12:54 PM
+BAG:khoababy add 1xGhế bay lydo: Mua từ cửa hàng at 01/31/2023 12:54 PM
+BAG:khoababy add 1xGhế bay lydo: Mua từ cửa hàng at 01/31/2023 12:54 PM
+BAG:khoababy add 1xGhế bay lydo: Mua từ cửa hàng at 01/31/2023 12:58 PM
+BAG:khoababy add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/31/2023 4:23 PM
+BAG:khoababy add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/31/2023 4:23 PM
+BAG:khoababy add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 01/31/2023 4:31 PM
+BAG:khoababy add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 01/31/2023 4:33 PM
+BAG:khoababy add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 01/31/2023 4:34 PM
+BAG:khoababy add 1xVán bay VIP lydo: Mua từ cửa hàng at 01/31/2023 4:41 PM
+BAG:khoababy add 1xCột nhà lydo: Mua từ cửa hàng at 01/31/2023 4:42 PM

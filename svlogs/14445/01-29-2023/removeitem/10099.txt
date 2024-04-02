@@ -1,0 +1,71 @@
+BAG:songoku remove Avatar đeo khẩu trang lydo: Mặc vào người at 01/29/2023 12:04 AM
+BAG:songoku remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 01/29/2023 12:08 AM
+BAG:songoku remove Avatar đeo khẩu trang lydo: Tự Xóa vật phẩm at 01/29/2023 12:08 AM
+BAG:songoku remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 01/29/2023 12:08 AM
+BAG:songoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 12:29 AM
+BAG:songoku remove Cải trang Mabư Noel lydo: Mặc cho đệ tử at 01/29/2023 12:30 AM
+BAG:songoku remove Cải trang Mabư Noel lydo: Mặc vào người at 01/29/2023 12:31 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:35 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:41 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:50 AM
+BAG:songoku remove Găng thun dày lydo: Mặc cho đệ tử at 01/29/2023 12:52 AM
+BAG:songoku remove Quần vải Kame lydo: Mặc cho đệ tử at 01/29/2023 12:53 AM
+BAG:songoku remove Áo vải Kame lydo: Mặc cho đệ tử at 01/29/2023 12:53 AM
+BAG:songoku remove Giày nhựa Kame lydo: Mặc cho đệ tử at 01/29/2023 12:53 AM
+BAG:songoku remove Rada cấp 5 lydo: Mặc cho đệ tử at 01/29/2023 12:53 AM
+BAG:songoku remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 01/29/2023 12:53 AM
+BAG:songoku remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/29/2023 12:53 AM
+BAG:songoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 12:53 AM
+BAG:songoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 12:53 AM
+BAG:songoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 12:53 AM
+BAG:songoku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:54 AM
+BAG:songoku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:54 AM
+BAG:songoku remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 01/29/2023 12:55 AM
+BAG:songoku remove Cải trang Mabư Noel lydo: Tự Xóa vật phẩm at 01/29/2023 12:56 AM
+BAG:songoku remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/29/2023 12:56 AM
+BAG:songoku remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 01/29/2023 12:56 AM
+BAG:songoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 12:57 AM
+BAG:songoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 12:58 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 12:59 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 1:00 AM
+BAG:songoku remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 1:02 AM
+BAG:songoku remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 01/29/2023 1:06 AM
+BAG:songoku remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 01/29/2023 1:06 AM
+BAG:songoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 1:06 AM
+BAG:songoku remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 01/29/2023 1:07 AM
+BAG:songoku remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 01/29/2023 1:07 AM
+BAG:songoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 1:07 AM
+BAG:songoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 1:08 AM
+BAG:songoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 01/29/2023 1:08 AM
+BAG:songoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 1:08 AM
+BAG:songoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 1:08 AM
+BAG:songoku remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 01/29/2023 1:09 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 1:11 AM
+BAG:songoku remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 01/29/2023 1:12 AM
+BAG:songoku remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 1:12 AM
+BAG:songoku remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 1:12 AM
+BAG:songoku remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 1:13 AM
+BAG:songoku remove Đá Ruby lydo: Tự Xóa vật phẩm at 01/29/2023 1:15 AM
+BAG:songoku remove Quần vải đen lydo: Tự Xóa vật phẩm at 01/29/2023 1:15 AM
+BAG:songoku remove Áo vải 3 lỗ lydo: Mặc vào người at 01/29/2023 1:15 AM
+BAG:songoku remove Đá Titan lydo: Tự Xóa vật phẩm at 01/29/2023 1:15 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:18 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:22 AM
+BAG:songoku remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 6:23 AM
+BAG:songoku remove Cải trang Mabư Noel lydo: Mặc vào người at 01/29/2023 6:23 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:24 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:31 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:35 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:39 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:43 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:48 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:52 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 6:56 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:01 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:05 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:09 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:13 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:18 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:22 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:26 AM
+BAG:songoku remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 7:30 AM

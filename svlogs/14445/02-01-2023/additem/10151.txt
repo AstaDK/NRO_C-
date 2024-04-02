@@ -1,0 +1,645 @@
+BAG:kakasii add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 3:04 CH
+BAG:kakasii add 45xĐậu thần cấp 2 (old: 31) lydo: Lấy từ rương qua người at 02/01/2023 3:05 CH
+BAG:kakasii add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/01/2023 3:05 CH
+BAG:kakasii add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 3:07 CH
+BAG:kakasii add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 3:07 CH
+BAG:kakasii add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 3:08 CH
+BAG:kakasii add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 3:08 CH
+BAG:kakasii add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 3:09 CH
+BAG:kakasii add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/01/2023 3:09 CH
+BAG:kakasii add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 3:09 CH
+BAG:kakasii add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 3:10 CH
+BAG:kakasii add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/01/2023 3:10 CH
+BAG:kakasii add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 3:10 CH
+BAG:kakasii add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 02/01/2023 3:11 CH
+BAG:kakasii add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 3:11 CH
+BAG:kakasii add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 3:11 CH
+BAG:kakasii add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 3:12 CH
+BAG:kakasii add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/01/2023 3:14 CH
+BAG:kakasii add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 3:15 CH
+BAG:kakasii add 1xTrứng vịt muối lydo: Nhặt từ map at 02/01/2023 3:15 CH
+BAG:kakasii add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 3:15 CH
+BAG:kakasii add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/01/2023 3:16 CH
+BAG:kakasii add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 3:17 CH
+BAG:kakasii add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 3:17 CH
+BAG:kakasii add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 02/01/2023 3:17 CH
+BAG:kakasii add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/01/2023 3:18 CH
+BAG:kakasii add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 02/01/2023 3:19 CH
+BAG:kakasii add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 02/01/2023 3:19 CH
+BAG:kakasii add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/01/2023 3:19 CH
+BAG:kakasii add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 02/01/2023 3:19 CH
+BAG:kakasii add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 3:19 CH
+BAG:kakasii add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/01/2023 3:19 CH
+BAG:kakasii add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/01/2023 3:20 CH
+BAG:kakasii add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 3:20 CH
+BAG:kakasii add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 3:20 CH
+BAG:kakasii add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 02/01/2023 3:20 CH
+BAG:kakasii add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 3:20 CH
+BAG:kakasii add 1xGà quay nguyên con lydo: Nhặt từ map at 02/01/2023 3:21 CH
+BAG:kakasii add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 3:21 CH
+BAG:kakasii add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 3:21 CH
+BAG:kakasii add 6xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 02/01/2023 3:22 CH
+BAG:kakasii add 40xĐậu thần cấp 2 (old: 26) lydo: Lấy từ rương qua người at 02/01/2023 3:22 CH
+BAG:kakasii add 24xĐậu thần cấp 3 (old: 6) lydo: Lấy từ rương qua người at 02/01/2023 3:22 CH
+BAG:kakasii add 42xĐậu thần cấp 3 (old: 24) lydo: Lấy từ rương qua người at 02/01/2023 3:23 CH
+BAG:kakasii add 60xĐậu thần cấp 3 (old: 42) lydo: Lấy từ rương qua người at 02/01/2023 3:23 CH
+BAG:kakasii add 69xĐậu thần cấp 3 (old: 60) lydo: Lấy từ rương qua người at 02/01/2023 3:23 CH
+BAG:kakasii add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 3:23 CH
+BAG:kakasii add 87xĐậu thần cấp 3 (old: 69) lydo: Lấy từ rương qua người at 02/01/2023 3:23 CH
+BAG:kakasii add 96xĐậu thần cấp 3 (old: 87) lydo: Lấy từ rương qua người at 02/01/2023 3:24 CH
+BAG:kakasii add 6xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 02/01/2023 3:24 CH
+BAG:kakasii add 99xĐậu thần cấp 3 (old: 96) lydo: Lấy từ rương qua người at 02/01/2023 3:24 CH
+BAG:kakasii add 24xĐậu thần cấp 3 (old: 6) lydo: Lấy từ rương qua người at 02/01/2023 3:24 CH
+BAG:kakasii add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/01/2023 3:25 CH
+BAG:kakasii add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 3:25 CH
+BAG:kakasii add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 3:25 CH
+BAG:kakasii add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/01/2023 3:26 CH
+BAG:kakasii add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 3:26 CH
+BAG:kakasii add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/01/2023 3:26 CH
+BAG:kakasii add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/01/2023 3:27 CH
+BAG:kakasii add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 3:27 CH
+BAG:kakasii add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 3:27 CH
+BAG:kakasii add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 3:28 CH
+BAG:kakasii add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 02/01/2023 3:28 CH
+BAG:kakasii add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 3:28 CH
+BAG:kakasii add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 02/01/2023 3:29 CH
+BAG:kakasii add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 02/01/2023 3:29 CH
+BAG:kakasii add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 3:29 CH
+BAG:kakasii add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 3:30 CH
+BAG:kakasii add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 3:30 CH
+BAG:kakasii add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 3:31 CH
+BAG:kakasii add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/01/2023 3:31 CH
+BAG:kakasii add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 3:31 CH
+BAG:kakasii add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 3:32 CH
+BAG:kakasii add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 3:32 CH
+BAG:kakasii add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 3:32 CH
+BAG:kakasii add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 02/01/2023 3:32 CH
+BAG:kakasii add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/01/2023 3:32 CH
+BAG:kakasii add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/01/2023 3:32 CH
+BAG:kakasii add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/01/2023 3:33 CH
+BAG:kakasii add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 3:33 CH
+BAG:kakasii add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 3:33 CH
+BAG:kakasii add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 3:33 CH
+BAG:kakasii add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/01/2023 3:34 CH
+BAG:kakasii add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 02/01/2023 3:35 CH
+BAG:kakasii add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/01/2023 3:35 CH
+BAG:kakasii add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 3:35 CH
+BAG:kakasii add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 3:36 CH
+BAG:kakasii add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/01/2023 3:36 CH
+BAG:kakasii add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/01/2023 3:36 CH
+BAG:kakasii add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 02/01/2023 3:36 CH
+BAG:kakasii add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 3:37 CH
+BAG:kakasii add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/01/2023 3:37 CH
+BAG:kakasii add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 3:37 CH
+BAG:kakasii add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 3:37 CH
+BAG:kakasii add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/01/2023 3:38 CH
+BAG:kakasii add 1xBột mì lydo: Nhặt từ map at 02/01/2023 3:38 CH
+BAG:kakasii add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/01/2023 3:38 CH
+BAG:kakasii add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 02/01/2023 3:38 CH
+BAG:kakasii add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 3:38 CH
+BAG:kakasii add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/01/2023 3:39 CH
+BAG:kakasii add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 3:39 CH
+BAG:kakasii add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/01/2023 3:39 CH
+BAG:kakasii add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 3:40 CH
+BAG:kakasii add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 3:40 CH
+BAG:kakasii add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 02/01/2023 3:40 CH
+BAG:kakasii add 1xGiầy vải thô lydo: Nhặt từ map at 02/01/2023 3:40 CH
+BAG:kakasii add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 3:41 CH
+BAG:kakasii add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/01/2023 3:41 CH
+BAG:kakasii add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/01/2023 3:41 CH
+BAG:kakasii add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/01/2023 3:41 CH
+BAG:kakasii add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 3:41 CH
+BAG:kakasii add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 3:42 CH
+BAG:kakasii add 1xGăng vải thô lydo: Nhặt từ map at 02/01/2023 3:42 CH
+BAG:kakasii add 2xBột mì (old: 1) lydo: Nhặt từ map at 02/01/2023 3:43 CH
+BAG:kakasii add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 3:43 CH
+BAG:kakasii add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 3:43 CH
+BAG:kakasii add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 3:44 CH
+BAG:kakasii add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/01/2023 3:44 CH
+BAG:kakasii add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 3:44 CH
+BAG:kakasii add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 02/01/2023 3:44 CH
+BAG:kakasii add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 3:44 CH
+BAG:kakasii add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 02/01/2023 3:45 CH
+BAG:kakasii add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/01/2023 3:45 CH
+BAG:kakasii add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 3:45 CH
+BAG:kakasii add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/01/2023 3:45 CH
+BAG:kakasii add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 3:45 CH
+BAG:kakasii add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/01/2023 3:45 CH
+BAG:kakasii add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 3:46 CH
+BAG:kakasii add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 02/01/2023 3:46 CH
+BAG:kakasii add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/01/2023 3:46 CH
+BAG:kakasii add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/01/2023 3:47 CH
+BAG:kakasii add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/01/2023 3:47 CH
+BAG:kakasii add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/01/2023 3:47 CH
+BAG:kakasii add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 3:47 CH
+BAG:kakasii add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 02/01/2023 3:47 CH
+BAG:kakasii add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 02/01/2023 3:48 CH
+BAG:kakasii add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/01/2023 3:49 CH
+BAG:kakasii add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/01/2023 3:49 CH
+BAG:kakasii add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/01/2023 3:50 CH
+BAG:kakasii add 1xGiầy vải thô lydo: Nhặt từ map at 02/01/2023 3:50 CH
+BAG:kakasii add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 02/01/2023 3:50 CH
+BAG:kakasii add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/01/2023 3:51 CH
+BAG:kakasii add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/01/2023 3:51 CH
+BAG:kakasii add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/01/2023 3:51 CH
+BAG:kakasii add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/01/2023 3:51 CH
+BAG:kakasii add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/01/2023 3:51 CH
+BAG:kakasii add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 02/01/2023 3:51 CH
+BAG:kakasii add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/01/2023 3:52 CH
+BAG:kakasii add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/01/2023 3:52 CH
+BAG:kakasii add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/01/2023 3:53 CH
+BAG:kakasii add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/01/2023 3:53 CH
+BAG:kakasii add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/01/2023 3:53 CH
+BAG:kakasii add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 02/01/2023 3:55 CH
+BAG:kakasii add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/01/2023 3:55 CH
+BAG:kakasii add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/01/2023 3:55 CH
+BAG:kakasii add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 02/01/2023 3:56 CH
+BAG:kakasii add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/01/2023 3:56 CH
+BAG:kakasii add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/01/2023 3:56 CH
+BAG:kakasii add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 02/01/2023 3:56 CH
+BAG:kakasii add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/01/2023 3:57 CH
+BAG:kakasii add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/01/2023 3:57 CH
+BAG:kakasii add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 02/01/2023 3:58 CH
+BAG:kakasii add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/01/2023 3:58 CH
+BAG:kakasii add 1xGăng vải thô lydo: Nhặt từ map at 02/01/2023 3:59 CH
+BAG:kakasii add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/01/2023 3:59 CH
+BAG:kakasii add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/01/2023 3:59 CH
+BAG:kakasii add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/01/2023 4:00 CH
+BAG:kakasii add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 02/01/2023 4:00 CH
+BAG:kakasii add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 02/01/2023 4:00 CH
+BAG:kakasii add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/01/2023 4:01 CH
+BAG:kakasii add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/01/2023 4:01 CH
+BAG:kakasii add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/01/2023 4:01 CH
+BAG:kakasii add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/01/2023 4:01 CH
+BAG:kakasii add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/01/2023 4:01 CH
+BAG:kakasii add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/01/2023 4:02 CH
+BAG:kakasii add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/01/2023 4:02 CH
+BAG:kakasii add 1xQuần vải thô lydo: Nhặt từ map at 02/01/2023 4:02 CH
+BAG:kakasii add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/01/2023 4:02 CH
+BAG:kakasii add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/01/2023 4:02 CH
+BAG:kakasii add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/01/2023 4:02 CH
+BAG:kakasii add 1xÁo vải thô lydo: Nhặt từ map at 02/01/2023 4:03 CH
+BAG:kakasii add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/01/2023 4:03 CH
+BAG:kakasii add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/01/2023 4:03 CH
+BAG:kakasii add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/01/2023 4:04 CH
+BAG:kakasii add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/01/2023 4:04 CH
+BAG:kakasii add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/01/2023 4:04 CH
+BAG:kakasii add 1xÁo vải thô lydo: Nhặt từ map at 02/01/2023 4:04 CH
+BAG:kakasii add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/01/2023 4:04 CH
+BAG:kakasii add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/01/2023 4:05 CH
+BAG:kakasii add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/01/2023 4:05 CH
+BAG:kakasii add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/01/2023 4:05 CH
+BAG:kakasii add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/01/2023 4:06 CH
+BAG:kakasii add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/01/2023 4:06 CH
+BAG:kakasii add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 02/01/2023 4:06 CH
+BAG:kakasii add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/01/2023 4:07 CH
+BAG:kakasii add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 4:07 CH
+BAG:kakasii add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/01/2023 4:07 CH
+BAG:kakasii add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 02/01/2023 4:07 CH
+BAG:kakasii add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/01/2023 4:07 CH
+BAG:kakasii add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/01/2023 4:08 CH
+BAG:kakasii add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 02/01/2023 4:08 CH
+BAG:kakasii add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/01/2023 4:08 CH
+BAG:kakasii add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/01/2023 4:08 CH
+BAG:kakasii add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 02/01/2023 4:09 CH
+BAG:kakasii add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/01/2023 4:09 CH
+BAG:kakasii add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 02/01/2023 4:09 CH
+BAG:kakasii add 1xĐậu xanh lydo: Nhặt từ map at 02/01/2023 4:10 CH
+BAG:kakasii add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 4:10 CH
+BAG:kakasii add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/01/2023 4:10 CH
+BAG:kakasii add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/01/2023 4:11 CH
+BAG:kakasii add 1xÁo vải thô lydo: Nhặt từ map at 02/01/2023 4:11 CH
+BAG:kakasii add 3xBột mì (old: 2) lydo: Nhặt từ map at 02/01/2023 4:11 CH
+BAG:kakasii add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 02/01/2023 4:11 CH
+BAG:kakasii add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/01/2023 4:12 CH
+BAG:kakasii add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/01/2023 4:12 CH
+BAG:kakasii add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/01/2023 4:14 CH
+BAG:kakasii add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 02/01/2023 4:14 CH
+BAG:kakasii add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 02/01/2023 4:14 CH
+BAG:kakasii add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/01/2023 4:15 CH
+BAG:kakasii add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 02/01/2023 4:15 CH
+BAG:kakasii add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 4:16 CH
+BAG:kakasii add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 4:16 CH
+BAG:kakasii add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 4:16 CH
+BAG:kakasii add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/01/2023 4:16 CH
+BAG:kakasii add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 4:17 CH
+BAG:kakasii add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 02/01/2023 4:17 CH
+BAG:kakasii add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 4:17 CH
+BAG:kakasii add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 4:17 CH
+BAG:kakasii add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 4:18 CH
+BAG:kakasii add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 4:18 CH
+BAG:kakasii add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 4:18 CH
+BAG:kakasii add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/01/2023 4:18 CH
+BAG:kakasii add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 4:18 CH
+BAG:kakasii add 1xGiầy vải thô lydo: Nhặt từ map at 02/01/2023 4:20 CH
+BAG:kakasii add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 4:20 CH
+BAG:kakasii add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 4:21 CH
+BAG:kakasii add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 4:21 CH
+BAG:kakasii add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 4:21 CH
+BAG:kakasii add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 02/01/2023 4:21 CH
+BAG:kakasii add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/01/2023 4:21 CH
+BAG:kakasii add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 02/01/2023 4:21 CH
+BAG:kakasii add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/01/2023 4:22 CH
+BAG:kakasii add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 4:22 CH
+BAG:kakasii add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 4:22 CH
+BAG:kakasii add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 4:23 CH
+BAG:kakasii add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 4:23 CH
+BAG:kakasii add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 02/01/2023 4:23 CH
+BAG:kakasii add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 4:24 CH
+BAG:kakasii add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 4:24 CH
+BAG:kakasii add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 4:24 CH
+BAG:kakasii add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 4:25 CH
+BAG:kakasii add 1xQuần vải thô lydo: Nhặt từ map at 02/01/2023 4:25 CH
+BAG:kakasii add 4xBột mì (old: 3) lydo: Nhặt từ map at 02/01/2023 4:25 CH
+BAG:kakasii add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 4:25 CH
+BAG:kakasii add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 4:26 CH
+BAG:kakasii add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/01/2023 4:26 CH
+BAG:kakasii add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 02/01/2023 4:26 CH
+BAG:kakasii add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 02/01/2023 4:26 CH
+BAG:kakasii add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 02/01/2023 4:26 CH
+BAG:kakasii add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/01/2023 4:26 CH
+BAG:kakasii add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 4:27 CH
+BAG:kakasii add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 4:27 CH
+BAG:kakasii add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 02/01/2023 4:27 CH
+BAG:kakasii add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 02/01/2023 4:27 CH
+BAG:kakasii add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/01/2023 4:28 CH
+BAG:kakasii add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 02/01/2023 4:28 CH
+BAG:kakasii add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 4:28 CH
+BAG:kakasii add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 4:28 CH
+BAG:kakasii add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 4:28 CH
+BAG:kakasii add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 4:29 CH
+BAG:kakasii add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 4:29 CH
+BAG:kakasii add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 4:29 CH
+BAG:kakasii add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 4:29 CH
+BAG:kakasii add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/01/2023 4:29 CH
+BAG:kakasii add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 02/01/2023 4:30 CH
+BAG:kakasii add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 02/01/2023 4:30 CH
+BAG:kakasii add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/01/2023 4:31 CH
+BAG:kakasii add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/01/2023 4:31 CH
+BAG:kakasii add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/01/2023 4:31 CH
+BAG:kakasii add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/01/2023 4:32 CH
+BAG:kakasii add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 4:32 CH
+BAG:kakasii add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 02/01/2023 4:32 CH
+BAG:kakasii add 1xQuần vải thô lydo: Nhặt từ map at 02/01/2023 4:33 CH
+BAG:kakasii add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 4:34 CH
+BAG:kakasii add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/01/2023 4:34 CH
+BAG:kakasii add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 02/01/2023 4:34 CH
+BAG:kakasii add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 4:34 CH
+BAG:kakasii add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/01/2023 4:34 CH
+BAG:kakasii add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 02/01/2023 4:35 CH
+BAG:kakasii add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 4:35 CH
+BAG:kakasii add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/01/2023 4:35 CH
+BAG:kakasii add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/01/2023 4:35 CH
+BAG:kakasii add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/01/2023 4:35 CH
+BAG:kakasii add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/01/2023 4:35 CH
+BAG:kakasii add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 02/01/2023 4:35 CH
+BAG:kakasii add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 02/01/2023 4:36 CH
+BAG:kakasii add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/01/2023 4:36 CH
+BAG:kakasii add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/01/2023 4:36 CH
+BAG:kakasii add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/01/2023 4:36 CH
+BAG:kakasii add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/01/2023 4:37 CH
+BAG:kakasii add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 02/01/2023 4:37 CH
+BAG:kakasii add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 02/01/2023 4:37 CH
+BAG:kakasii add 46xMảnh Quỷ đất (old: 45) lydo: Nhặt từ map at 02/01/2023 4:37 CH
+BAG:kakasii add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/01/2023 4:38 CH
+BAG:kakasii add 47xMảnh Quỷ đất (old: 46) lydo: Nhặt từ map at 02/01/2023 4:38 CH
+BAG:kakasii add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/01/2023 4:39 CH
+BAG:kakasii add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/01/2023 4:40 CH
+BAG:kakasii add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 4:40 CH
+BAG:kakasii add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 4:40 CH
+BAG:kakasii add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 02/01/2023 4:40 CH
+BAG:kakasii add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 4:40 CH
+BAG:kakasii add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 02/01/2023 4:40 CH
+BAG:kakasii add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/01/2023 4:41 CH
+BAG:kakasii add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/01/2023 4:41 CH
+BAG:kakasii add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/01/2023 4:42 CH
+BAG:kakasii add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 02/01/2023 4:42 CH
+BAG:kakasii add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/01/2023 4:42 CH
+BAG:kakasii add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 02/01/2023 4:43 CH
+BAG:kakasii add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 02/01/2023 4:43 CH
+BAG:kakasii add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/01/2023 4:43 CH
+BAG:kakasii add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 02/01/2023 4:43 CH
+BAG:kakasii add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/01/2023 4:44 CH
+BAG:kakasii add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/01/2023 4:44 CH
+BAG:kakasii add 48xMảnh Quỷ đất (old: 47) lydo: Nhặt từ map at 02/01/2023 4:44 CH
+BAG:kakasii add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 02/01/2023 4:44 CH
+BAG:kakasii add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 02/01/2023 4:45 CH
+BAG:kakasii add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/01/2023 4:45 CH
+BAG:kakasii add 49xMảnh Quỷ đất (old: 48) lydo: Nhặt từ map at 02/01/2023 4:46 CH
+BAG:kakasii add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/01/2023 4:46 CH
+BAG:kakasii add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/01/2023 4:46 CH
+BAG:kakasii add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/01/2023 4:46 CH
+BAG:kakasii add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/01/2023 4:47 CH
+BAG:kakasii add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/01/2023 4:47 CH
+BAG:kakasii add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/01/2023 4:47 CH
+BAG:kakasii add 50xMảnh Quỷ đất (old: 49) lydo: Nhặt từ map at 02/01/2023 4:48 CH
+BAG:kakasii add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/01/2023 4:49 CH
+BAG:kakasii add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 02/01/2023 4:50 CH
+BAG:kakasii add 51xMảnh Quỷ đất (old: 50) lydo: Nhặt từ map at 02/01/2023 4:50 CH
+BAG:kakasii add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/01/2023 4:50 CH
+BAG:kakasii add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 02/01/2023 4:52 CH
+BAG:kakasii add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/01/2023 4:52 CH
+BAG:kakasii add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 02/01/2023 4:52 CH
+BAG:kakasii add 52xMảnh Quỷ đất (old: 51) lydo: Nhặt từ map at 02/01/2023 4:52 CH
+BAG:kakasii add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/01/2023 4:52 CH
+BAG:kakasii add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/01/2023 4:53 CH
+BAG:kakasii add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 02/01/2023 4:53 CH
+BAG:kakasii add 53xMảnh Quỷ đất (old: 52) lydo: Nhặt từ map at 02/01/2023 4:53 CH
+BAG:kakasii add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/01/2023 4:53 CH
+BAG:kakasii add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/01/2023 4:54 CH
+BAG:kakasii add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/01/2023 4:54 CH
+BAG:kakasii add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/01/2023 4:54 CH
+BAG:kakasii add 54xMảnh Quỷ đất (old: 53) lydo: Nhặt từ map at 02/01/2023 4:55 CH
+BAG:kakasii add 55xMảnh Quỷ đất (old: 54) lydo: Nhặt từ map at 02/01/2023 4:55 CH
+BAG:kakasii add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/01/2023 4:55 CH
+BAG:kakasii add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/01/2023 4:55 CH
+BAG:kakasii add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/01/2023 4:56 CH
+BAG:kakasii add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/01/2023 4:56 CH
+BAG:kakasii add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/01/2023 4:57 CH
+BAG:kakasii add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/01/2023 4:57 CH
+BAG:kakasii add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/01/2023 4:57 CH
+BAG:kakasii add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/01/2023 4:58 CH
+BAG:kakasii add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/01/2023 4:58 CH
+BAG:kakasii add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/01/2023 4:58 CH
+BAG:kakasii add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 02/01/2023 4:58 CH
+BAG:kakasii add 56xMảnh Quỷ đất (old: 55) lydo: Nhặt từ map at 02/01/2023 5:01 CH
+BAG:kakasii add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/01/2023 5:02 CH
+BAG:kakasii add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 02/01/2023 5:02 CH
+BAG:kakasii add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/01/2023 5:02 CH
+BAG:kakasii add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 02/01/2023 5:03 CH
+BAG:kakasii add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/01/2023 5:03 CH
+BAG:kakasii add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/01/2023 5:04 CH
+BAG:kakasii add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/01/2023 5:05 CH
+BAG:kakasii add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/01/2023 5:05 CH
+BAG:kakasii add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 02/01/2023 5:05 CH
+BAG:kakasii add 57xMảnh Quỷ đất (old: 56) lydo: Nhặt từ map at 02/01/2023 5:06 CH
+BAG:kakasii add 58xMảnh Quỷ đất (old: 57) lydo: Nhặt từ map at 02/01/2023 5:06 CH
+BAG:kakasii add 59xMảnh Quỷ đất (old: 58) lydo: Nhặt từ map at 02/01/2023 5:07 CH
+BAG:kakasii add 60xMảnh Quỷ đất (old: 59) lydo: Nhặt từ map at 02/01/2023 5:08 CH
+BAG:kakasii add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/01/2023 5:10 CH
+BAG:kakasii add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 02/01/2023 5:10 CH
+BAG:kakasii add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/01/2023 5:10 CH
+BAG:kakasii add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/01/2023 5:10 CH
+BAG:kakasii add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/01/2023 5:11 CH
+BAG:kakasii add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 02/01/2023 5:11 CH
+BAG:kakasii add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 02/01/2023 5:12 CH
+BAG:kakasii add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/01/2023 5:38 CH
+BAG:kakasii add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 02/01/2023 5:38 CH
+BAG:kakasii add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/01/2023 5:39 CH
+BAG:kakasii add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/01/2023 5:39 CH
+BAG:kakasii add 61xMảnh Quỷ đất (old: 60) lydo: Nhặt từ map at 02/01/2023 5:40 CH
+BAG:kakasii add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/01/2023 5:40 CH
+BAG:kakasii add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/01/2023 5:41 CH
+BAG:kakasii add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/01/2023 5:41 CH
+BAG:kakasii add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/01/2023 5:42 CH
+BAG:kakasii add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/01/2023 5:42 CH
+BAG:kakasii add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 02/01/2023 5:42 CH
+BAG:kakasii add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/01/2023 5:43 CH
+BAG:kakasii add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/01/2023 5:43 CH
+BAG:kakasii add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/01/2023 5:43 CH
+BAG:kakasii add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/01/2023 5:44 CH
+BAG:kakasii add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/01/2023 5:44 CH
+BAG:kakasii add 62xMảnh Quỷ đất (old: 61) lydo: Nhặt từ map at 02/01/2023 5:45 CH
+BAG:kakasii add 63xMảnh Quỷ đất (old: 62) lydo: Nhặt từ map at 02/01/2023 5:45 CH
+BAG:kakasii add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 02/01/2023 5:45 CH
+BAG:kakasii add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 02/01/2023 5:45 CH
+BAG:kakasii add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 02/01/2023 5:45 CH
+BAG:kakasii add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/01/2023 5:46 CH
+BAG:kakasii add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/01/2023 5:46 CH
+BAG:kakasii add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 02/01/2023 5:46 CH
+BAG:kakasii add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/01/2023 5:47 CH
+BAG:kakasii add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/01/2023 5:47 CH
+BAG:kakasii add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 02/01/2023 5:47 CH
+BAG:kakasii add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 02/01/2023 5:47 CH
+BAG:kakasii add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/01/2023 5:48 CH
+BAG:kakasii add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 02/01/2023 5:49 CH
+BAG:kakasii add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 02/01/2023 5:50 CH
+BAG:kakasii add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 5:50 CH
+BAG:kakasii add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 5:50 CH
+BAG:kakasii add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 5:51 CH
+BAG:kakasii add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 02/01/2023 5:51 CH
+BAG:kakasii add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/01/2023 5:51 CH
+BAG:kakasii add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/01/2023 5:51 CH
+BAG:kakasii add 1xĐá Titan lydo: Nhặt từ map at 02/01/2023 5:52 CH
+BAG:kakasii add 64xMảnh Quỷ đất (old: 63) lydo: Nhặt từ map at 02/01/2023 5:52 CH
+BAG:kakasii add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 02/01/2023 5:52 CH
+BAG:kakasii add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 5:52 CH
+BAG:kakasii add 65xMảnh Quỷ đất (old: 64) lydo: Nhặt từ map at 02/01/2023 5:53 CH
+BAG:kakasii add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/01/2023 5:54 CH
+BAG:kakasii add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 02/01/2023 5:54 CH
+BAG:kakasii add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/01/2023 5:54 CH
+BAG:kakasii add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/01/2023 5:54 CH
+BAG:kakasii add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 02/01/2023 5:55 CH
+BAG:kakasii add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 02/01/2023 5:55 CH
+BAG:kakasii add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/01/2023 5:56 CH
+BAG:kakasii add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/01/2023 5:56 CH
+BAG:kakasii add 1xĐá Ruby lydo: Nhặt từ map at 02/01/2023 5:57 CH
+BAG:kakasii add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 02/01/2023 5:57 CH
+BAG:kakasii add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 02/01/2023 5:58 CH
+BAG:kakasii add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/01/2023 5:58 CH
+BAG:kakasii add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 02/01/2023 5:58 CH
+BAG:kakasii add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/01/2023 5:58 CH
+BAG:kakasii add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 02/01/2023 5:58 CH
+BAG:kakasii add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/01/2023 5:59 CH
+BAG:kakasii add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/01/2023 5:59 CH
+BAG:kakasii add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/01/2023 5:59 CH
+BAG:kakasii add 66xMảnh Quỷ đất (old: 65) lydo: Nhặt từ map at 02/01/2023 5:59 CH
+BAG:kakasii add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/01/2023 5:59 CH
+BAG:kakasii add 67xMảnh Quỷ đất (old: 66) lydo: Nhặt từ map at 02/01/2023 5:59 CH
+BAG:kakasii add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/01/2023 6:00 CH
+BAG:kakasii add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/01/2023 6:00 CH
+BAG:kakasii add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/01/2023 6:00 CH
+BAG:kakasii add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 02/01/2023 6:01 CH
+BAG:kakasii add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/01/2023 6:01 CH
+BAG:kakasii add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/01/2023 6:01 CH
+BAG:kakasii add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:kakasii add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:kakasii add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:kakasii add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:kakasii add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:kakasii add 68xMảnh Quỷ đất (old: 67) lydo: Nhặt từ map at 02/01/2023 6:02 CH
+BAG:kakasii add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/01/2023 6:03 CH
+BAG:kakasii add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/01/2023 6:03 CH
+BAG:kakasii add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/01/2023 6:03 CH
+BAG:kakasii add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/01/2023 6:04 CH
+BAG:kakasii add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/01/2023 6:05 CH
+BAG:kakasii add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/01/2023 6:05 CH
+BAG:kakasii add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/01/2023 6:06 CH
+BAG:kakasii add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/01/2023 6:06 CH
+BAG:kakasii add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/01/2023 6:06 CH
+BAG:kakasii add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/01/2023 6:06 CH
+BAG:kakasii add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/01/2023 6:07 CH
+BAG:kakasii add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 02/01/2023 6:07 CH
+BAG:kakasii add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/01/2023 6:07 CH
+BAG:kakasii add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/01/2023 6:07 CH
+BAG:kakasii add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 02/01/2023 6:07 CH
+BAG:kakasii add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/01/2023 6:08 CH
+BAG:kakasii add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 02/01/2023 6:09 CH
+BAG:kakasii add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/01/2023 6:09 CH
+BAG:kakasii add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 02/01/2023 6:09 CH
+BAG:kakasii add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/01/2023 6:10 CH
+BAG:kakasii add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 02/01/2023 6:10 CH
+BAG:kakasii add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/01/2023 6:10 CH
+BAG:kakasii add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/01/2023 6:10 CH
+BAG:kakasii add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 02/01/2023 6:10 CH
+BAG:kakasii add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/01/2023 6:10 CH
+BAG:kakasii add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/01/2023 6:11 CH
+BAG:kakasii add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/01/2023 6:11 CH
+BAG:kakasii add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/01/2023 6:12 CH
+BAG:kakasii add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/01/2023 6:12 CH
+BAG:kakasii add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/01/2023 6:13 CH
+BAG:kakasii add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 02/01/2023 6:13 CH
+BAG:kakasii add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 02/01/2023 6:14 CH
+BAG:kakasii add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 02/01/2023 6:14 CH
+BAG:kakasii add 69xMảnh Quỷ đất (old: 68) lydo: Nhặt từ map at 02/01/2023 6:14 CH
+BAG:kakasii add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/01/2023 6:14 CH
+BAG:kakasii add 70xMảnh Quỷ đất (old: 69) lydo: Nhặt từ map at 02/01/2023 6:14 CH
+BAG:kakasii add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 02/01/2023 6:15 CH
+BAG:kakasii add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/01/2023 6:15 CH
+BAG:kakasii add 5xBột mì (old: 4) lydo: Nhặt từ map at 02/01/2023 6:15 CH
+BAG:kakasii add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/01/2023 6:15 CH
+BAG:kakasii add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/01/2023 6:15 CH
+BAG:kakasii add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 02/01/2023 6:16 CH
+BAG:kakasii add 71xMảnh Quỷ đất (old: 70) lydo: Nhặt từ map at 02/01/2023 6:16 CH
+BAG:kakasii add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 02/01/2023 6:16 CH
+BAG:kakasii add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 02/01/2023 6:16 CH
+BAG:kakasii add 72xMảnh Quỷ đất (old: 71) lydo: Nhặt từ map at 02/01/2023 6:17 CH
+BAG:kakasii add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 02/01/2023 6:17 CH
+BAG:kakasii add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/01/2023 6:17 CH
+BAG:kakasii add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 02/01/2023 6:18 CH
+BAG:kakasii add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 02/01/2023 6:18 CH
+BAG:kakasii add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/01/2023 6:18 CH
+BAG:kakasii add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/01/2023 6:19 CH
+BAG:kakasii add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/01/2023 6:19 CH
+BAG:kakasii add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 02/01/2023 6:20 CH
+BAG:kakasii add 73xMảnh Quỷ đất (old: 72) lydo: Nhặt từ map at 02/01/2023 6:20 CH
+BAG:kakasii add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/01/2023 6:20 CH
+BAG:kakasii add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 02/01/2023 6:20 CH
+BAG:kakasii add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/01/2023 6:21 CH
+BAG:kakasii add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/01/2023 6:21 CH
+BAG:kakasii add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/01/2023 6:21 CH
+BAG:kakasii add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/01/2023 6:21 CH
+BAG:kakasii add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/01/2023 6:22 CH
+BAG:kakasii add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 02/01/2023 6:22 CH
+BAG:kakasii add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/01/2023 6:22 CH
+BAG:kakasii add 74xMảnh Quỷ đất (old: 73) lydo: Nhặt từ map at 02/01/2023 6:23 CH
+BAG:kakasii add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 02/01/2023 6:24 CH
+BAG:kakasii add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 02/01/2023 6:24 CH
+BAG:kakasii add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 02/01/2023 6:24 CH
+BAG:kakasii add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/01/2023 6:25 CH
+BAG:kakasii add 75xMảnh Quỷ đất (old: 74) lydo: Nhặt từ map at 02/01/2023 6:25 CH
+BAG:kakasii add 1xQuần vải thô lydo: Nhặt từ map at 02/01/2023 6:25 CH
+BAG:kakasii add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/01/2023 6:26 CH
+BAG:kakasii add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/01/2023 6:26 CH
+BAG:kakasii add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/01/2023 6:26 CH
+BAG:kakasii add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 02/01/2023 6:27 CH
+BAG:kakasii add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 02/01/2023 6:27 CH
+BAG:kakasii add 76xMảnh Quỷ đất (old: 75) lydo: Nhặt từ map at 02/01/2023 6:27 CH
+BAG:kakasii add 77xMảnh Quỷ đất (old: 76) lydo: Nhặt từ map at 02/01/2023 6:28 CH
+BAG:kakasii add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 02/01/2023 6:28 CH
+BAG:kakasii add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 02/01/2023 6:29 CH
+BAG:kakasii add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 02/01/2023 6:30 CH
+BAG:kakasii add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/01/2023 6:30 CH
+BAG:kakasii add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/01/2023 6:30 CH
+BAG:kakasii add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 02/01/2023 6:31 CH
+BAG:kakasii add 6xBột mì (old: 5) lydo: Nhặt từ map at 02/01/2023 6:31 CH
+BAG:kakasii add 1xGăng vải thô lydo: Nhặt từ map at 02/01/2023 6:31 CH
+BAG:kakasii add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 02/01/2023 6:32 CH
+BAG:kakasii add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 02/01/2023 6:32 CH
+BAG:kakasii add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 02/01/2023 6:33 CH
+BAG:kakasii add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 02/01/2023 6:33 CH
+BAG:kakasii add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/01/2023 6:33 CH
+BAG:kakasii add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/01/2023 6:34 CH
+BAG:kakasii add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 02/01/2023 6:35 CH
+BAG:kakasii add 7xBột mì (old: 6) lydo: Nhặt từ map at 02/01/2023 6:35 CH
+BAG:kakasii add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 02/01/2023 6:35 CH
+BAG:kakasii add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/01/2023 6:35 CH
+BAG:kakasii add 1xGiầy vải thô lydo: Nhặt từ map at 02/01/2023 6:36 CH
+BAG:kakasii add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 02/01/2023 6:36 CH
+BAG:kakasii add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/01/2023 6:37 CH
+BAG:kakasii add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 02/01/2023 6:38 CH
+BAG:kakasii add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 02/01/2023 6:38 CH
+BAG:kakasii add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 02/01/2023 6:38 CH
+BAG:kakasii add 78xMảnh Quỷ đất (old: 77) lydo: Nhặt từ map at 02/01/2023 6:38 CH
+BAG:kakasii add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 02/01/2023 6:39 CH
+BAG:kakasii add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 02/01/2023 6:39 CH
+BAG:kakasii add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/01/2023 6:39 CH
+BAG:kakasii add 79xMảnh Quỷ đất (old: 78) lydo: Nhặt từ map at 02/01/2023 6:39 CH
+BAG:kakasii add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/01/2023 6:40 CH
+BAG:kakasii add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/01/2023 6:41 CH
+BAG:kakasii add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 02/01/2023 6:41 CH
+BAG:kakasii add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 02/01/2023 6:42 CH
+BAG:kakasii add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 02/01/2023 6:42 CH
+BAG:kakasii add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/01/2023 6:42 CH
+BAG:kakasii add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 02/01/2023 6:43 CH
+BAG:kakasii add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/01/2023 6:45 CH
+BAG:kakasii add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/01/2023 6:45 CH
+BAG:kakasii add 80xMảnh Quỷ đất (old: 79) lydo: Nhặt từ map at 02/01/2023 6:46 CH
+BAG:kakasii add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 02/01/2023 6:47 CH
+BAG:kakasii add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 02/01/2023 6:47 CH
+BAG:kakasii add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/01/2023 6:48 CH
+BAG:kakasii add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 02/01/2023 6:48 CH
+BAG:kakasii add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 02/01/2023 6:48 CH
+BAG:kakasii add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/01/2023 6:49 CH
+BAG:kakasii add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/01/2023 6:49 CH
+BAG:kakasii add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/01/2023 6:50 CH
+BAG:kakasii add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 02/01/2023 6:50 CH
+BAG:kakasii add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 02/01/2023 6:51 CH
+BAG:kakasii add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 02/01/2023 6:51 CH
+BAG:kakasii add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/01/2023 6:52 CH
+BAG:kakasii add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 02/01/2023 6:52 CH
+BAG:kakasii add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 02/01/2023 6:53 CH
+BAG:kakasii add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 02/01/2023 6:53 CH
+BAG:kakasii add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/01/2023 6:53 CH
+BAG:kakasii add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 02/01/2023 6:54 CH
+BAG:kakasii add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 02/01/2023 6:54 CH
+BAG:kakasii add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 02/01/2023 6:54 CH
+BAG:kakasii add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/01/2023 6:54 CH
+BAG:kakasii add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/01/2023 6:54 CH
+BAG:kakasii add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 02/01/2023 6:55 CH
+BAG:kakasii add 81xMảnh Quỷ đất (old: 80) lydo: Nhặt từ map at 02/01/2023 6:55 CH
+BAG:kakasii add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 02/01/2023 6:56 CH
+BAG:kakasii add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 02/01/2023 6:56 CH
+BAG:kakasii add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/01/2023 6:58 CH
+BAG:kakasii add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 02/01/2023 6:58 CH
+BAG:kakasii add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 02/01/2023 6:59 CH
+BAG:kakasii add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/01/2023 6:59 CH
+BAG:kakasii add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 02/01/2023 7:00 CH
+BAG:kakasii add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 02/01/2023 7:00 CH
+BAG:kakasii add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 02/01/2023 7:00 CH
+BAG:kakasii add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 02/01/2023 7:00 CH
+BAG:kakasii add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 02/01/2023 7:00 CH
+BAG:kakasii add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 02/01/2023 7:01 CH
+BAG:kakasii add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 02/01/2023 7:01 CH
+BAG:kakasii add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 02/01/2023 7:01 CH
+BAG:kakasii add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 02/01/2023 7:01 CH
+BAG:kakasii add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 02/01/2023 7:02 CH
+BAG:kakasii add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 02/01/2023 7:02 CH
+BAG:kakasii add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/01/2023 7:02 CH
+BAG:kakasii add 82xMảnh Quỷ đất (old: 81) lydo: Nhặt từ map at 02/01/2023 7:02 CH
+BAG:kakasii add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 02/01/2023 7:02 CH
+BAG:kakasii add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 02/01/2023 7:03 CH
+BAG:kakasii add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 02/01/2023 7:05 CH
+BAG:kakasii add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/01/2023 7:05 CH
+BAG:kakasii add 83xMảnh Quỷ đất (old: 82) lydo: Nhặt từ map at 02/01/2023 7:05 CH
+BAG:kakasii add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 02/01/2023 7:07 CH
+BAG:kakasii add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 02/01/2023 7:07 CH
+BAG:kakasii add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/01/2023 7:08 CH
+BAG:kakasii add 84xMảnh Quỷ đất (old: 83) lydo: Nhặt từ map at 02/01/2023 7:08 CH
+BAG:kakasii add 85xMảnh Quỷ đất (old: 84) lydo: Nhặt từ map at 02/01/2023 7:08 CH
+BAG:kakasii add 86xMảnh Quỷ đất (old: 85) lydo: Nhặt từ map at 02/01/2023 7:09 CH
+BAG:kakasii add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 02/01/2023 7:09 CH
+BAG:kakasii add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 02/01/2023 7:10 CH
+BAG:kakasii add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 02/01/2023 7:10 CH
+BAG:kakasii add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 02/01/2023 7:10 CH
+BAG:kakasii add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/01/2023 7:11 CH
+BAG:kakasii add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/01/2023 7:12 CH
+BAG:kakasii add 87xMảnh Quỷ đất (old: 86) lydo: Nhặt từ map at 02/01/2023 7:12 CH
+BAG:kakasii add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/01/2023 7:13 CH

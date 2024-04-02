@@ -1,0 +1,4 @@
+BAG:kakarot1thp remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 9:27 CH
+BAG:kakarot1thp remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 9:36 CH
+BAG:kakarot1thp remove Ván bay VIP lydo: Tự Xóa vật phẩm at 02/01/2023 9:39 CH
+BAG:kakarot1thp remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 9:44 CH

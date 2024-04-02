@@ -1,0 +1,567 @@
+BAG:succacboys add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:succacboys add 1xLì xì lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:succacboys add 1xCây mai lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:succacboys add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:succacboys add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 6:45 SA
+BAG:succacboys add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 6:45 SA
+BAG:succacboys add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/03/2023 6:46 SA
+BAG:succacboys add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:succacboys add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:succacboys add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:succacboys add 6xĐậu thần cấp 3 (old: 3) lydo: Thu hoạch đậu at 02/03/2023 6:56 SA
+BAG:succacboys add 10xĐậu thần cấp 3 (old: 6) lydo: Thu hoạch đậu at 02/03/2023 6:56 SA
+BAG:succacboys add 15xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 02/03/2023 6:56 SA
+BAG:succacboys add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:succacboys add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:succacboys add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:succacboys add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:succacboys add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:succacboys add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:succacboys add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:succacboys add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:succacboys add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:succacboys add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:succacboys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:succacboys add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:succacboys add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:succacboys add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:succacboys add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:succacboys add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:succacboys add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:succacboys add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:succacboys add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:succacboys add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:succacboys add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:succacboys add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:succacboys add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 02/03/2023 7:03 SA
+BAG:succacboys add 1xĐậu thần cấp 4 lydo: Thu hoạch đậu at 02/03/2023 7:03 SA
+BAG:succacboys add 21xĐậu thần cấp 4 (old: 1) lydo: Lấy từ rương qua người at 02/03/2023 7:04 SA
+BAG:succacboys add 41xĐậu thần cấp 4 (old: 21) lydo: Lấy từ rương qua người at 02/03/2023 7:04 SA
+BAG:succacboys add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:succacboys add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:succacboys add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:succacboys add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:succacboys add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:succacboys add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:succacboys add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:succacboys add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:succacboys add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 7:06 SA
+BAG:succacboys add 1xGăng vải dày lydo: Mua từ cửa hàng at 02/03/2023 7:06 SA
+BAG:succacboys add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:06 SA
+BAG:succacboys add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 7:06 SA
+BAG:succacboys add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 02/03/2023 7:07 SA
+BAG:succacboys add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:succacboys add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:succacboys add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 7:09 SA
+BAG:succacboys add 20xThỏi vàng lydo: Giftcode at 02/03/2023 7:10 SA
+BAG:succacboys add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 7:10 SA
+BAG:succacboys add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 7:10 SA
+BAG:succacboys add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 02/03/2023 7:11 SA
+BAG:succacboys add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 7:11 SA
+BAG:succacboys add 1xMèo mun lydo: Mua từ cửa hàng at 02/03/2023 7:12 SA
+BAG:succacboys add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:succacboys add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 7:14 SA
+BAG:succacboys add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 7:16 SA
+BAG:succacboys add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 02/03/2023 7:16 SA
+BAG:succacboys add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 7:16 SA
+BAG:succacboys add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:succacboys add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 7:17 SA
+BAG:succacboys add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:succacboys add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 7:18 SA
+BAG:succacboys add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:succacboys add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:succacboys add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 7:19 SA
+BAG:succacboys add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:succacboys add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 7:20 SA
+BAG:succacboys add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:succacboys add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:succacboys add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:succacboys add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 7:21 SA
+BAG:succacboys add 51xĐậu thần cấp 4 (old: 35) lydo: Lấy từ rương qua người at 02/03/2023 7:22 SA
+BAG:succacboys add 71xĐậu thần cấp 4 (old: 51) lydo: Lấy từ rương qua người at 02/03/2023 7:22 SA
+BAG:succacboys add 1xGăng thun dày lydo: Mua từ cửa hàng at 02/03/2023 7:22 SA
+BAG:succacboys add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:succacboys add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:succacboys add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:succacboys add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:succacboys add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:succacboys add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 7:23 SA
+BAG:succacboys add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:succacboys add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:succacboys add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:succacboys add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:succacboys add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 7:24 SA
+BAG:succacboys add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:succacboys add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:succacboys add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:succacboys add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:succacboys add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 7:25 SA
+BAG:succacboys add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:succacboys add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:succacboys add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:succacboys add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 7:26 SA
+BAG:succacboys add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:succacboys add 1xGăng thun dày lydo: Lấy từ body vào hành trang at 02/03/2023 7:27 SA
+BAG:succacboys add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:succacboys add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 7:27 SA
+BAG:succacboys add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:succacboys add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 7:28 SA
+BAG:succacboys add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:succacboys add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:succacboys add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:succacboys add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:succacboys add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:succacboys add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:succacboys add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 7:29 SA
+BAG:succacboys add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:succacboys add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 7:30 SA
+BAG:succacboys add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:succacboys add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 7:31 SA
+BAG:succacboys add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 7:33 SA
+BAG:succacboys add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:succacboys add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:succacboys add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 7:34 SA
+BAG:succacboys add 1xGăng vải Kame lydo: Mua từ cửa hàng at 02/03/2023 7:35 SA
+BAG:succacboys add 1xÁo thun Kame lydo: Mua từ cửa hàng at 02/03/2023 7:35 SA
+BAG:succacboys add 1xQuần thun Kame lydo: Mua từ cửa hàng at 02/03/2023 7:35 SA
+BAG:succacboys add 1xGiày cao su Kame lydo: Mua từ cửa hàng at 02/03/2023 7:35 SA
+BAG:succacboys add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 7:36 SA
+BAG:succacboys add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 7:37 SA
+BAG:succacboys add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 7:37 SA
+BAG:succacboys add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:succacboys add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 7:38 SA
+BAG:succacboys add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:succacboys add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:succacboys add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:succacboys add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:succacboys add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:succacboys add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:succacboys add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:succacboys add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:succacboys add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:succacboys add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:succacboys add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 02/03/2023 7:43 SA
+BAG:succacboys add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 02/03/2023 7:43 SA
+BAG:succacboys add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 02/03/2023 7:43 SA
+BAG:succacboys add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 02/03/2023 7:43 SA
+BAG:succacboys add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/03/2023 7:43 SA
+BAG:succacboys add 1xBổ huyết lydo: SuKien at 02/03/2023 7:43 SA
+BAG:succacboys add 1xVàng lydo: SuKien at 02/03/2023 7:43 SA
+BAG:succacboys add 1xBổ khí lydo: SuKien at 02/03/2023 7:43 SA
+BAG:succacboys add 2xVàng (old: 1) lydo: SuKien at 02/03/2023 7:43 SA
+BAG:succacboys add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:succacboys add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:succacboys add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:succacboys add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:succacboys add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:succacboys add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:succacboys add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:succacboys add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:succacboys add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:succacboys add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:succacboys add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:succacboys add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:succacboys add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:succacboys add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:succacboys add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:succacboys add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:succacboys add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:succacboys add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:succacboys add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:succacboys add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:succacboys add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:succacboys add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:succacboys add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:succacboys add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:succacboys add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:succacboys add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:succacboys add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:succacboys add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:succacboys add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:succacboys add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:succacboys add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:succacboys add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:succacboys add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:succacboys add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:succacboys add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:succacboys add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:succacboys add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:succacboys add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:succacboys add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:succacboys add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 1xGăng vải đen lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:succacboys add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:succacboys add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:succacboys add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:succacboys add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:succacboys add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:succacboys add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:succacboys add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:succacboys add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:succacboys add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:succacboys add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:succacboys add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:succacboys add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:succacboys add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:succacboys add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:succacboys add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:succacboys add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:succacboys add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:succacboys add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:succacboys add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:succacboys add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:succacboys add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:succacboys add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:succacboys add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:succacboys add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:succacboys add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:succacboys add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:succacboys add 1xBột mì lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:succacboys add 2xBột mì (old: 1) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:succacboys add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:succacboys add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:succacboys add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:succacboys add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:succacboys add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:succacboys add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:succacboys add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:succacboys add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:succacboys add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:succacboys add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:succacboys add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:succacboys add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:succacboys add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:succacboys add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:succacboys add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:succacboys add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:succacboys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:succacboys add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:succacboys add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:succacboys add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:succacboys add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:succacboys add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:succacboys add 1xGăng thun Kame lydo: Mua từ cửa hàng at 02/03/2023 8:13 SA
+BAG:succacboys add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:succacboys add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:succacboys add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/03/2023 8:13 SA
+BAG:succacboys add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:succacboys add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:succacboys add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:succacboys add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:succacboys add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:succacboys add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:succacboys add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:succacboys add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:succacboys add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:succacboys add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:succacboys add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:succacboys add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:succacboys add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:succacboys add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:succacboys add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:succacboys add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:succacboys add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:succacboys add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:succacboys add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:succacboys add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:succacboys add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:succacboys add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:succacboys add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:succacboys add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:succacboys add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 3xBột mì (old: 2) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 68xCây mai (old: 67) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 69xCây mai (old: 68) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 70xCây mai (old: 69) lydo: Nhặt từ map at 02/03/2023 8:19 SA
+BAG:succacboys add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 71xCây mai (old: 70) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 72xCây mai (old: 71) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:succacboys add 73xCây mai (old: 72) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:succacboys add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:succacboys add 74xCây mai (old: 73) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:succacboys add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:succacboys add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:succacboys add 75xCây mai (old: 74) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:succacboys add 76xCây mai (old: 75) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:succacboys add 77xCây mai (old: 76) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:succacboys add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:succacboys add 78xCây mai (old: 77) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:succacboys add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:succacboys add 79xCây mai (old: 78) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:succacboys add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:succacboys add 80xCây mai (old: 79) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:succacboys add 81xCây mai (old: 80) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:succacboys add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:succacboys add 82xCây mai (old: 81) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:succacboys add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:succacboys add 83xCây mai (old: 82) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:succacboys add 84xCây mai (old: 83) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:succacboys add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:succacboys add 85xCây mai (old: 84) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:succacboys add 86xCây mai (old: 85) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:succacboys add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:succacboys add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:succacboys add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:succacboys add 87xCây mai (old: 86) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:succacboys add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:succacboys add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:succacboys add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:succacboys add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/03/2023 8:25 SA
+BAG:succacboys add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:succacboys add 88xCây mai (old: 87) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:succacboys add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/03/2023 8:26 SA
+BAG:succacboys add 89xCây mai (old: 88) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 90xCây mai (old: 89) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 91xCây mai (old: 90) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:succacboys add 92xCây mai (old: 91) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 93xCây mai (old: 92) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 94xCây mai (old: 93) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:succacboys add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 95xCây mai (old: 94) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 53xLì xì (old: 52) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:succacboys add 96xCây mai (old: 95) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 97xCây mai (old: 96) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 98xCây mai (old: 97) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 54xLì xì (old: 53) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:succacboys add 99xCây mai (old: 98) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:succacboys add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:succacboys add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:succacboys add 55xLì xì (old: 54) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:succacboys add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/03/2023 8:32 SA
+BAG:succacboys add 56xLì xì (old: 55) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:succacboys add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:succacboys add 57xLì xì (old: 56) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:succacboys add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:succacboys add 100xCây mai (old: 99) lydo: Nhặt từ map at 02/03/2023 8:33 SA
+BAG:succacboys add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:succacboys add 101xCây mai (old: 100) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:succacboys add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 8:34 SA
+BAG:succacboys add 102xCây mai (old: 101) lydo: Nhặt từ map at 02/03/2023 8:36 SA
+BAG:succacboys add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 02/03/2023 8:36 SA
+BAG:succacboys add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 02/03/2023 8:36 SA
+BAG:succacboys add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/03/2023 8:36 SA
+BAG:succacboys add 103xCây mai (old: 102) lydo: Nhặt từ map at 02/03/2023 8:37 SA
+BAG:succacboys add 104xCây mai (old: 103) lydo: Nhặt từ map at 02/03/2023 8:37 SA
+BAG:succacboys add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/03/2023 8:38 SA
+BAG:succacboys add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:succacboys add 105xCây mai (old: 104) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:succacboys add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:succacboys add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/03/2023 8:39 SA
+BAG:succacboys add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:succacboys add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:succacboys add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/03/2023 8:40 SA
+BAG:succacboys add 106xCây mai (old: 105) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:succacboys add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:succacboys add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:succacboys add 107xCây mai (old: 106) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:succacboys add 108xCây mai (old: 107) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:succacboys add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:succacboys add 109xCây mai (old: 108) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:succacboys add 110xCây mai (old: 109) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:succacboys add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:succacboys add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:succacboys add 4xBột mì (old: 3) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:succacboys add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:succacboys add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:succacboys add 111xCây mai (old: 110) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:succacboys add 112xCây mai (old: 111) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:succacboys add 62xLì xì (old: 61) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:succacboys add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:succacboys add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:succacboys add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:succacboys add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:succacboys add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:succacboys add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:succacboys add 113xCây mai (old: 112) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:succacboys add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:succacboys add 114xCây mai (old: 113) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:succacboys add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:succacboys add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:succacboys add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:succacboys add 115xCây mai (old: 114) lydo: Nhặt từ map at 02/03/2023 8:47 SA
+BAG:succacboys add 116xCây mai (old: 115) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:succacboys add 117xCây mai (old: 116) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:succacboys add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:succacboys add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:succacboys add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:succacboys add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:succacboys add 66xBình rượu (old: 65) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:succacboys add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:succacboys add 67xBình rượu (old: 66) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:succacboys add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 8:56 SA
+BAG:succacboys add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:succacboys add 68xBình rượu (old: 67) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:succacboys add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:succacboys add 118xCây mai (old: 117) lydo: Nhặt từ map at 02/03/2023 8:57 SA
+BAG:succacboys add 65xLì xì (old: 64) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:succacboys add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/03/2023 8:58 SA
+BAG:succacboys add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:succacboys add 119xCây mai (old: 118) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:succacboys add 120xCây mai (old: 119) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:succacboys add 69xBình rượu (old: 68) lydo: Nhặt từ map at 02/03/2023 8:59 SA
+BAG:succacboys add 121xCây mai (old: 120) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:succacboys add 70xBình rượu (old: 69) lydo: Nhặt từ map at 02/03/2023 9:00 SA
+BAG:succacboys add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:succacboys add 122xCây mai (old: 121) lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:succacboys add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 9:01 SA
+BAG:succacboys add 71xBình rượu (old: 70) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:succacboys add 123xCây mai (old: 122) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:succacboys add 66xLì xì (old: 65) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:succacboys add 72xBình rượu (old: 71) lydo: Nhặt từ map at 02/03/2023 9:02 SA
+BAG:succacboys add 73xBình rượu (old: 72) lydo: Nhặt từ map at 02/03/2023 9:03 SA
+BAG:succacboys add 124xCây mai (old: 123) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:succacboys add 125xCây mai (old: 124) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:succacboys add 74xBình rượu (old: 73) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:succacboys add 75xBình rượu (old: 74) lydo: Nhặt từ map at 02/03/2023 9:04 SA
+BAG:succacboys add 126xCây mai (old: 125) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:succacboys add 127xCây mai (old: 126) lydo: Nhặt từ map at 02/03/2023 9:05 SA
+BAG:succacboys add 76xBình rượu (old: 75) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:succacboys add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:succacboys add 128xCây mai (old: 127) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:succacboys add 77xBình rượu (old: 76) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:succacboys add 67xLì xì (old: 66) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:succacboys add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:succacboys add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/03/2023 9:08 SA
+BAG:succacboys add 129xCây mai (old: 128) lydo: Nhặt từ map at 02/03/2023 9:09 SA
+BAG:succacboys add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:succacboys add 78xBình rượu (old: 77) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:succacboys add 68xLì xì (old: 67) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:succacboys add 79xBình rượu (old: 78) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:succacboys add 69xLì xì (old: 68) lydo: Nhặt từ map at 02/03/2023 9:10 SA
+BAG:succacboys add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:succacboys add 130xCây mai (old: 129) lydo: Nhặt từ map at 02/03/2023 9:11 SA
+BAG:succacboys add 80xBình rượu (old: 79) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:succacboys add 131xCây mai (old: 130) lydo: Nhặt từ map at 02/03/2023 9:12 SA
+BAG:succacboys add 132xCây mai (old: 131) lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:succacboys add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 9:13 SA
+BAG:succacboys add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:succacboys add 70xLì xì (old: 69) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:succacboys add 71xLì xì (old: 70) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:succacboys add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:succacboys add 72xLì xì (old: 71) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:succacboys add 73xLì xì (old: 72) lydo: Nhặt từ map at 02/03/2023 9:15 SA
+BAG:succacboys add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:succacboys add 133xCây mai (old: 132) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:succacboys add 134xCây mai (old: 133) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:succacboys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 9:16 SA
+BAG:succacboys add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:succacboys add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:succacboys add 135xCây mai (old: 134) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:succacboys add 74xLì xì (old: 73) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:succacboys add 136xCây mai (old: 135) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:succacboys add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:succacboys add 137xCây mai (old: 136) lydo: Nhặt từ map at 02/03/2023 9:17 SA
+BAG:succacboys add 81xBình rượu (old: 80) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:succacboys add 138xCây mai (old: 137) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:succacboys add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:succacboys add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:succacboys add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:succacboys add 75xLì xì (old: 74) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:succacboys add 139xCây mai (old: 138) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:succacboys add 82xBình rượu (old: 81) lydo: Nhặt từ map at 02/03/2023 9:19 SA
+BAG:succacboys add 140xCây mai (old: 139) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:succacboys add 76xLì xì (old: 75) lydo: Nhặt từ map at 02/03/2023 9:20 SA
+BAG:succacboys add 1xÁo thun Kame lydo: Lấy từ body vào hành trang at 02/03/2023 9:20 SA
+BAG:succacboys add 1xQuần thun Kame lydo: Lấy từ body vào hành trang at 02/03/2023 9:20 SA
+BAG:succacboys add 1xGiày cao su Kame lydo: Lấy từ body vào hành trang at 02/03/2023 9:20 SA
+BAG:succacboys add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 9:22 SA
+BAG:succacboys add 141xCây mai (old: 140) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:succacboys add 77xLì xì (old: 76) lydo: Nhặt từ map at 02/03/2023 9:23 SA
+BAG:succacboys add 78xLì xì (old: 77) lydo: Nhặt từ map at 02/03/2023 9:23 SA

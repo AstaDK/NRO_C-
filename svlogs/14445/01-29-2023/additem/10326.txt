@@ -1,0 +1,14 @@
+BAG:kkdjx add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:03 PM
+BAG:kkdjx add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 8:03 PM
+BAG:kkdjx add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 8:07 PM
+BAG:kkdjx add 20xThỏi vàng lydo: Giftcode at 01/29/2023 8:07 PM
+BAG:kkdjx add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 8:08 PM
+BAG:kkdjx add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 01/29/2023 8:08 PM
+BAG:kkdjx add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 01/29/2023 8:08 PM
+BAG:kkdjx add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 8:08 PM
+BAG:kkdjx add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 8:08 PM
+BAG:kkdjx add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 01/29/2023 8:09 PM
+BAG:kkdjx add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 01/29/2023 8:09 PM
+BAG:kkdjx add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 01/29/2023 8:09 PM
+BAG:kkdjx add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 01/29/2023 8:09 PM
+BAG:kkdjx add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 8:13 PM

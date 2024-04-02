@@ -1,0 +1,117 @@
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 9:57 PM
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 10:00 PM
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 10:23 PM
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 10:24 PM
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 10:24 PM
+BAG:bescus remove Rada cấp 1 lydo: Mặc vào người at 01/29/2023 10:26 PM
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 10:27 PM
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 10:27 PM
+BAG:bescus remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 01/29/2023 10:27 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:27 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:28 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:28 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:28 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:29 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:29 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:30 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:30 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:31 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:32 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:32 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:33 PM
+BAG:bescus remove Găng len Pico lydo: Mặc vào người at 01/29/2023 10:34 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:35 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:36 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:36 PM
+BAG:bescus remove 1xÁo sợi len lydo: Bán cho shop at 01/29/2023 10:37 PM
+BAG:bescus remove 1xQuần sợi len lydo: Bán cho shop at 01/29/2023 10:37 PM
+BAG:bescus remove Giầy cao su Pico lydo: Mặc vào người at 01/29/2023 10:37 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:56 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:58 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 10:58 PM
+BAG:bescus remove Cải trang Chill cấp 2 lydo: Mặc vào người at 01/29/2023 10:59 PM
+BAG:bescus remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 10:59 PM
+BAG:bescus remove Mèo mun lydo: Cất vào rương at 01/29/2023 10:59 PM
+BAG:bescus remove 1xGăng len Pico lydo: Bán cho shop at 01/29/2023 11:00 PM
+BAG:bescus remove 1xGiầy cao su Pico lydo: Bán cho shop at 01/29/2023 11:00 PM
+BAG:bescus remove 1xÁo thun Pico lydo: Bán cho shop at 01/29/2023 11:00 PM
+BAG:bescus remove 1xQuần thun Pico lydo: Bán cho shop at 01/29/2023 11:00 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:02 PM
+BAG:bescus remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:02 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:03 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:06 PM
+BAG:bescus remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 11:06 PM
+BAG:bescus remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:bescus remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:bescus remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:bescus remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:bescus remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:bescus remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 11:10 PM
+BAG:bescus remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 11:12 PM
+BAG:bescus remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 11:15 PM
+BAG:bescus remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 11:19 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:19 PM
+BAG:bescus remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/29/2023 11:19 PM
+BAG:bescus remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/29/2023 11:25 PM
+BAG:bescus remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 11:25 PM
+BAG:bescus remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 11:25 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:25 PM
+BAG:bescus remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 11:25 PM
+BAG:bescus remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 01/29/2023 11:25 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:bescus remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:bescus remove Quần sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 11:27 PM
+BAG:bescus remove Giầy sợi len lydo: Tự Xóa vật phẩm at 01/29/2023 11:28 PM
+BAG:bescus remove Quần sợi len lydo: Cất vào rương at 01/29/2023 11:28 PM
+BAG:bescus remove Rada cấp 1 lydo: Cất vào rương at 01/29/2023 11:28 PM
+BAG:bescus remove Áo sợi len lydo: Cất vào rương at 01/29/2023 11:28 PM
+BAG:bescus remove Giầy sợi len lydo: Cất vào rương at 01/29/2023 11:28 PM
+BAG:bescus remove Giầy sợi len lydo: Cất vào rương at 01/29/2023 11:28 PM
+BAG:bescus remove Mèo mun lydo: Cất vào rương at 01/29/2023 11:29 PM
+BAG:bescus remove 1xGăng thun Pico lydo: Bán cho shop at 01/29/2023 11:29 PM
+BAG:bescus remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 11:37 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:37 PM
+BAG:bescus remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 11:37 PM
+BAG:bescus remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/29/2023 11:37 PM
+BAG:bescus remove Bột mì lydo: Tự Xóa vật phẩm at 01/29/2023 11:37 PM
+BAG:bescus remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:41 PM
+BAG:bescus remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:41 PM
+BAG:bescus remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:41 PM
+BAG:bescus remove 1xThỏi vàng lydo: Bán cho shop at 01/29/2023 11:43 PM
+BAG:bescus remove 1xBột mì lydo: Bán cho shop at 01/29/2023 11:44 PM
+BAG:bescus remove 7xMảnh Lợn lòi lydo: Bán cho shop at 01/29/2023 11:44 PM
+BAG:bescus remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 01/29/2023 11:44 PM
+BAG:bescus remove Sao pha lê lydo: Tự Xóa vật phẩm at 01/29/2023 11:44 PM
+BAG:bescus remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 01/29/2023 11:45 PM
+BAG:bescus remove Găng sợi len lydo: Cất vào rương at 01/29/2023 11:45 PM
+BAG:bescus remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:45 PM
+BAG:bescus remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 01/29/2023 11:45 PM
+BAG:bescus remove 2xSao pha lê lydo: Bán cho shop at 01/29/2023 11:46 PM
+BAG:bescus remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:46 PM
+BAG:bescus remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:46 PM
+BAG:bescus remove 1xVệ tinh sinh lực lydo: Bán cho shop at 01/29/2023 11:47 PM
+BAG:bescus remove 1xVệ tinh sinh lực lydo: Bán cho shop at 01/29/2023 11:47 PM
+BAG:bescus remove 2xĐậu thần cấp 3 lydo: Bán cho shop at 01/29/2023 11:47 PM
+BAG:bescus remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 01/29/2023 11:47 PM
+BAG:bescus remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:47 PM
+BAG:bescus remove Vệ tinh trí tuệ lydo: Cất vào rương at 01/29/2023 11:49 PM
+BAG:bescus remove Thỏi vàng lydo: Cất vào rương at 01/29/2023 11:49 PM
+BAG:bescus remove 1xSao pha lê lydo: Bán cho shop at 01/29/2023 11:49 PM
+BAG:bescus remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 01/29/2023 11:49 PM
+BAG:bescus remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 01/29/2023 11:49 PM
+BAG:bescus remove Cải trang Dr Lychee lydo: Tự Xóa vật phẩm at 01/29/2023 11:49 PM
+BAG:bescus remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:bescus remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:bescus remove Sao pha lê lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:bescus remove Cải trang Hatchiyack lydo: Cất vào rương at 01/29/2023 11:50 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:51 PM
+BAG:bescus remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/29/2023 11:51 PM
+BAG:bescus remove Ngọc Rồng 7 sao lydo: Tự Xóa vật phẩm at 01/29/2023 11:52 PM
+BAG:bescus remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 01/29/2023 11:54 PM
+BAG:bescus remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 11:54 PM
+BAG:bescus remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 11:57 PM
+BAG:bescus remove Đậu xanh lydo: Tự Xóa vật phẩm at 01/29/2023 11:57 PM
+BAG:bescus remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 11:57 PM
+BAG:bescus remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/29/2023 11:57 PM
+BAG:bescus remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 01/29/2023 11:57 PM
+BAG:bescus remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/29/2023 11:58 PM

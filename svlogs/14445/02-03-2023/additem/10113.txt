@@ -1,0 +1,282 @@
+BAG:binnamek add 266xLì xì (old: 265) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 325xCây mai (old: 324) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 326xCây mai (old: 325) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 327xCây mai (old: 326) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 272xBình rượu (old: 271) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 267xLì xì (old: 266) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 273xBình rượu (old: 272) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 02/03/2023 12:00 SA
+BAG:binnamek add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:binnamek add 268xLì xì (old: 267) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:binnamek add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:binnamek add 274xBình rượu (old: 273) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:binnamek add 269xLì xì (old: 268) lydo: Nhặt từ map at 02/03/2023 12:01 SA
+BAG:binnamek add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 328xCây mai (old: 327) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 329xCây mai (old: 328) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 275xBình rượu (old: 274) lydo: Nhặt từ map at 02/03/2023 12:02 SA
+BAG:binnamek add 270xLì xì (old: 269) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 330xCây mai (old: 329) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 271xLì xì (old: 270) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 276xBình rượu (old: 275) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 277xBình rượu (old: 276) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 278xBình rượu (old: 277) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 12:03 SA
+BAG:binnamek add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 12:04 SA
+BAG:binnamek add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 12:04 SA
+BAG:binnamek add 11xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:binnamek add 1xBánh trung thu thập cẩm lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:binnamek add 4xBánh trung thu thập cẩm (old: 1) lydo: Nhặt từ map at 02/03/2023 12:05 SA
+BAG:binnamek add 272xLì xì (old: 271) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 273xLì xì (old: 272) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 279xBình rượu (old: 278) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 331xCây mai (old: 330) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 274xLì xì (old: 273) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 21xNgọc Rồng 6 sao (old: 20) lydo: CSTT at 02/03/2023 12:08 SA
+BAG:binnamek add 22xNgọc Rồng 6 sao (old: 21) lydo: CSTT at 02/03/2023 12:08 SA
+BAG:binnamek add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 332xCây mai (old: 331) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/03/2023 12:08 SA
+BAG:binnamek add 275xLì xì (old: 274) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:binnamek add 276xLì xì (old: 275) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:binnamek add 277xLì xì (old: 276) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:binnamek add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:binnamek add 278xLì xì (old: 277) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:binnamek add 333xCây mai (old: 332) lydo: Nhặt từ map at 02/03/2023 12:09 SA
+BAG:binnamek add 1xBổ huyết lydo: SuKien at 02/03/2023 12:10 SA
+BAG:binnamek add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 12:10 SA
+BAG:binnamek add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 02/03/2023 12:11 SA
+BAG:binnamek add 329xCây mai (old: 328) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:binnamek add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:binnamek add 274xLì xì (old: 273) lydo: Nhặt từ map at 02/03/2023 11:05 SA
+BAG:binnamek add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 275xLì xì (old: 274) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 330xCây mai (old: 329) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 276xLì xì (old: 275) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 331xCây mai (old: 330) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 277xLì xì (old: 276) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 278xLì xì (old: 277) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 332xCây mai (old: 331) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 333xCây mai (old: 332) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 02/03/2023 11:06 SA
+BAG:binnamek add 279xLì xì (old: 278) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 275xBình rượu (old: 274) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 280xLì xì (old: 279) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 281xLì xì (old: 280) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 1xMảnh Lợn lòi lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 334xCây mai (old: 333) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 282xLì xì (old: 281) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/03/2023 11:07 SA
+BAG:binnamek add 335xCây mai (old: 334) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 276xBình rượu (old: 275) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 277xBình rượu (old: 276) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 278xBình rượu (old: 277) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 279xBình rượu (old: 278) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 280xBình rượu (old: 279) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 281xBình rượu (old: 280) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 283xLì xì (old: 282) lydo: Nhặt từ map at 02/03/2023 11:08 SA
+BAG:binnamek add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 336xCây mai (old: 335) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 282xBình rượu (old: 281) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 284xLì xì (old: 283) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 285xLì xì (old: 284) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 337xCây mai (old: 336) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 286xLì xì (old: 285) lydo: Nhặt từ map at 02/03/2023 11:09 SA
+BAG:binnamek add 283xBình rượu (old: 282) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 338xCây mai (old: 337) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 287xLì xì (old: 286) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 284xBình rượu (old: 283) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 285xBình rượu (old: 284) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 339xCây mai (old: 338) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 286xBình rượu (old: 285) lydo: Nhặt từ map at 02/03/2023 11:10 SA
+BAG:binnamek add 340xCây mai (old: 339) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 341xCây mai (old: 340) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 342xCây mai (old: 341) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 343xCây mai (old: 342) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 344xCây mai (old: 343) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 287xBình rượu (old: 286) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 345xCây mai (old: 344) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 346xCây mai (old: 345) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 347xCây mai (old: 346) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 288xLì xì (old: 287) lydo: Nhặt từ map at 02/03/2023 11:11 SA
+BAG:binnamek add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 348xCây mai (old: 347) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 288xBình rượu (old: 287) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 289xBình rượu (old: 288) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 289xLì xì (old: 288) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 02/03/2023 11:12 SA
+BAG:binnamek add 290xLì xì (old: 289) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 349xCây mai (old: 348) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 290xBình rượu (old: 289) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 291xBình rượu (old: 290) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 350xCây mai (old: 349) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 292xBình rượu (old: 291) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 291xLì xì (old: 290) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 292xLì xì (old: 291) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 351xCây mai (old: 350) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 352xCây mai (old: 351) lydo: Nhặt từ map at 02/03/2023 11:13 SA
+BAG:binnamek add 353xCây mai (old: 352) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:binnamek add 293xBình rượu (old: 292) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:binnamek add 354xCây mai (old: 353) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:binnamek add 293xLì xì (old: 292) lydo: Nhặt từ map at 02/03/2023 11:14 SA
+BAG:binnamek add 294xLì xì (old: 293) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:binnamek add 355xCây mai (old: 354) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:binnamek add 294xBình rượu (old: 293) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:binnamek add 295xLì xì (old: 294) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:binnamek add 296xLì xì (old: 295) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:binnamek add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:binnamek add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 11:15 SA
+BAG:binnamek add 297xLì xì (old: 296) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 1xGiầy sợi len lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 295xBình rượu (old: 294) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 298xLì xì (old: 297) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 299xLì xì (old: 298) lydo: Nhặt từ map at 02/03/2023 11:16 SA
+BAG:binnamek add 356xCây mai (old: 355) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 357xCây mai (old: 356) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 296xBình rượu (old: 295) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 358xCây mai (old: 357) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 300xLì xì (old: 299) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 297xBình rượu (old: 296) lydo: Nhặt từ map at 02/03/2023 11:17 SA
+BAG:binnamek add 301xLì xì (old: 300) lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 298xBình rượu (old: 297) lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 299xBình rượu (old: 298) lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 300xBình rượu (old: 299) lydo: Nhặt từ map at 02/03/2023 11:18 SA
+BAG:binnamek add 301xBình rượu (old: 300) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 359xCây mai (old: 358) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 302xLì xì (old: 301) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 303xLì xì (old: 302) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 302xBình rượu (old: 301) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 304xLì xì (old: 303) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 303xBình rượu (old: 302) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 360xCây mai (old: 359) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 304xBình rượu (old: 303) lydo: Nhặt từ map at 02/03/2023 11:19 SA
+BAG:binnamek add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 02/03/2023 11:20 SA
+BAG:binnamek add 361xCây mai (old: 360) lydo: Nhặt từ map at 02/03/2023 11:20 SA
+BAG:binnamek add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 02/03/2023 11:20 SA
+BAG:binnamek add 305xBình rượu (old: 304) lydo: Nhặt từ map at 02/03/2023 11:20 SA
+BAG:binnamek add 362xCây mai (old: 361) lydo: Nhặt từ map at 02/03/2023 11:20 SA
+BAG:binnamek add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 02/03/2023 11:20 SA
+BAG:binnamek add 305xLì xì (old: 304) lydo: Nhặt từ map at 02/03/2023 11:20 SA
+BAG:binnamek add 306xLì xì (old: 305) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 363xCây mai (old: 362) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 307xLì xì (old: 306) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 364xCây mai (old: 363) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 02/03/2023 11:21 SA
+BAG:binnamek add 306xBình rượu (old: 305) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 365xCây mai (old: 364) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 307xBình rượu (old: 306) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 366xCây mai (old: 365) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 308xLì xì (old: 307) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 309xLì xì (old: 308) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 308xBình rượu (old: 307) lydo: Nhặt từ map at 02/03/2023 11:22 SA
+BAG:binnamek add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/03/2023 11:23 SA
+BAG:binnamek add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/03/2023 11:23 SA
+BAG:binnamek add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 02/03/2023 11:23 SA
+BAG:binnamek add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 02/03/2023 11:23 SA
+BAG:binnamek add 310xLì xì (old: 309) lydo: Nhặt từ map at 02/03/2023 11:23 SA
+BAG:binnamek add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/03/2023 11:23 SA
+BAG:binnamek add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 11:24 SA
+BAG:binnamek add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 11:24 SA
+BAG:binnamek add 311xLì xì (old: 310) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:binnamek add 367xCây mai (old: 366) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:binnamek add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:binnamek add 1xGăng sợi len lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:binnamek add 312xLì xì (old: 311) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:binnamek add 368xCây mai (old: 367) lydo: Nhặt từ map at 02/03/2023 11:26 SA
+BAG:binnamek add 309xBình rượu (old: 308) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 310xBình rượu (old: 309) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 369xCây mai (old: 368) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 370xCây mai (old: 369) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 371xCây mai (old: 370) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 313xLì xì (old: 312) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 314xLì xì (old: 313) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 372xCây mai (old: 371) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 373xCây mai (old: 372) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 315xLì xì (old: 314) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 374xCây mai (old: 373) lydo: Nhặt từ map at 02/03/2023 11:27 SA
+BAG:binnamek add 375xCây mai (old: 374) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 316xLì xì (old: 315) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 317xLì xì (old: 316) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 376xCây mai (old: 375) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 318xLì xì (old: 317) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 319xLì xì (old: 318) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 311xBình rượu (old: 310) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 312xBình rượu (old: 311) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 313xBình rượu (old: 312) lydo: Nhặt từ map at 02/03/2023 11:28 SA
+BAG:binnamek add 99xThỏi vàng lydo: Tách thỏi vàng at 02/03/2023 11:31 SA
+BAG:binnamek add 239xThỏi vàng (old: 140) lydo: Lấy từ rương qua người at 02/03/2023 11:32 SA
+BAG:binnamek add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 02/03/2023 11:32 SA
+BAG:binnamek add 4xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 02/03/2023 11:32 SA
+BAG:binnamek add 99xĐậu thần cấp 10 (old: 83) lydo: Lấy từ rương qua người at 02/03/2023 11:32 SA
+BAG:binnamek add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 02/03/2023 1:32 CH
+BAG:binnamek add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 1:32 CH
+BAG:binnamek add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/03/2023 1:37 CH
+BAG:binnamek add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:binnamek add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:binnamek add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:binnamek add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:binnamek add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:binnamek add 377xCây mai (old: 376) lydo: Nhặt từ map at 02/03/2023 1:48 CH
+BAG:binnamek add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 1:49 CH
+BAG:binnamek add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/03/2023 1:50 CH
+BAG:binnamek add 1xĐá Vĩnh Hằng lydo: Mua santa at 02/03/2023 1:52 CH
+BAG:binnamek add 1xĐá Hắc Hóa lydo: Mua santa at 02/03/2023 1:52 CH
+BAG:binnamek add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 02/03/2023 1:52 CH
+BAG:binnamek add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 02/03/2023 1:52 CH
+BAG:binnamek add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 02/03/2023 1:52 CH
+BAG:binnamek add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 02/03/2023 2:04 CH

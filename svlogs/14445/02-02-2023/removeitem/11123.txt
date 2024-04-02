@@ -1,0 +1,22 @@
+BAG:rongdj remove 1xQuần vải thô lydo: Bán cho shop at 02/02/2023 11:07 CH
+BAG:rongdj remove 1xÁo vải thô lydo: Bán cho shop at 02/02/2023 11:07 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:07 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:08 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:08 CH
+BAG:rongdj remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:09 CH
+BAG:rongdj remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:10 CH
+BAG:rongdj remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 11:11 CH
+BAG:rongdj remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 11:11 CH
+BAG:rongdj remove Viên Capsule đặc biệt lydo: Cất vào rương at 02/02/2023 11:11 CH
+BAG:rongdj remove Ghế bay lydo: Cất vào rương at 02/02/2023 11:11 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:16 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:17 CH
+BAG:rongdj remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:19 CH
+BAG:rongdj remove 12xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 11:45 CH
+BAG:rongdj remove 12xĐá Saphia lydo: Bán cho shop at 02/02/2023 11:45 CH
+BAG:rongdj remove 20xĐá Titan lydo: Bán cho shop at 02/02/2023 11:45 CH
+BAG:rongdj remove 15xĐá lục bảo lydo: Bán cho shop at 02/02/2023 11:45 CH
+BAG:rongdj remove 20xĐá Ruby lydo: Bán cho shop at 02/02/2023 11:45 CH
+BAG:rongdj remove 13xMảnh Quỷ đất lydo: Bán cho shop at 02/02/2023 11:45 CH

@@ -1,0 +1,129 @@
+BAG:anhpemtat add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 01/31/2023 9:00 AM
+BAG:anhpemtat add 1xTanjiro lydo: Mua từ shop gold bar at 01/31/2023 9:15 AM
+BAG:anhpemtat add 1xNezuko lydo: Mua từ shop gold bar at 01/31/2023 9:15 AM
+BAG:anhpemtat add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 01/31/2023 9:21 AM
+BAG:anhpemtat add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 01/31/2023 9:21 AM
+BAG:anhpemtat add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 01/31/2023 9:22 AM
+BAG:anhpemtat add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 01/31/2023 9:24 AM
+BAG:anhpemtat add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 01/31/2023 9:24 AM
+BAG:anhpemtat add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 01/31/2023 9:25 AM
+BAG:anhpemtat add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 01/31/2023 9:29 AM
+BAG:anhpemtat add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 01/31/2023 9:33 AM
+BAG:anhpemtat add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 01/31/2023 9:34 AM
+BAG:anhpemtat add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 01/31/2023 9:36 AM
+BAG:anhpemtat add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 01/31/2023 9:37 AM
+BAG:anhpemtat add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 01/31/2023 9:38 AM
+BAG:anhpemtat add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 01/31/2023 9:38 AM
+BAG:anhpemtat add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 01/31/2023 9:38 AM
+BAG:anhpemtat add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 01/31/2023 9:39 AM
+BAG:anhpemtat add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 01/31/2023 9:40 AM
+BAG:anhpemtat add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 01/31/2023 9:40 AM
+BAG:anhpemtat add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 01/31/2023 9:42 AM
+BAG:anhpemtat add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 01/31/2023 9:43 AM
+BAG:anhpemtat add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/31/2023 9:44 AM
+BAG:anhpemtat add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 01/31/2023 9:44 AM
+BAG:anhpemtat add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 01/31/2023 9:45 AM
+BAG:anhpemtat add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 01/31/2023 9:45 AM
+BAG:anhpemtat add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 01/31/2023 9:46 AM
+BAG:anhpemtat add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 01/31/2023 9:47 AM
+BAG:anhpemtat add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 01/31/2023 9:47 AM
+BAG:anhpemtat add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 01/31/2023 9:49 AM
+BAG:anhpemtat add 3xBột mì (old: 2) lydo: Nhặt từ map at 01/31/2023 9:50 AM
+BAG:anhpemtat add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 9:51 AM
+BAG:anhpemtat add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 01/31/2023 9:53 AM
+BAG:anhpemtat add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 01/31/2023 9:55 AM
+BAG:anhpemtat add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 01/31/2023 9:55 AM
+BAG:anhpemtat add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 01/31/2023 9:55 AM
+BAG:anhpemtat add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 01/31/2023 9:56 AM
+BAG:anhpemtat add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 01/31/2023 9:56 AM
+BAG:anhpemtat add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 01/31/2023 9:56 AM
+BAG:anhpemtat add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 01/31/2023 9:57 AM
+BAG:anhpemtat add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 01/31/2023 9:59 AM
+BAG:anhpemtat add 1xĐậu xanh lydo: Nhặt từ map at 01/31/2023 10:00 AM
+BAG:anhpemtat add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 01/31/2023 10:00 AM
+BAG:anhpemtat add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 01/31/2023 10:02 AM
+BAG:anhpemtat add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 01/31/2023 10:05 AM
+BAG:anhpemtat add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 01/31/2023 10:05 AM
+BAG:anhpemtat add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 01/31/2023 10:05 AM
+BAG:anhpemtat add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 01/31/2023 10:06 AM
+BAG:anhpemtat add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/31/2023 10:08 AM
+BAG:anhpemtat add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 01/31/2023 10:10 AM
+BAG:anhpemtat add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 01/31/2023 10:10 AM
+BAG:anhpemtat add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 01/31/2023 10:11 AM
+BAG:anhpemtat add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 01/31/2023 10:12 AM
+BAG:anhpemtat add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/31/2023 10:14 AM
+BAG:anhpemtat add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 10:16 AM
+BAG:anhpemtat add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 01/31/2023 10:16 AM
+BAG:anhpemtat add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 01/31/2023 10:18 AM
+BAG:anhpemtat add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 01/31/2023 10:18 AM
+BAG:anhpemtat add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 01/31/2023 10:19 AM
+BAG:anhpemtat add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 01/31/2023 10:22 AM
+BAG:anhpemtat add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 01/31/2023 10:23 AM
+BAG:anhpemtat add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 01/31/2023 10:24 AM
+BAG:anhpemtat add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 01/31/2023 10:24 AM
+BAG:anhpemtat add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 01/31/2023 10:25 AM
+BAG:anhpemtat add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 01/31/2023 10:27 AM
+BAG:anhpemtat add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 01/31/2023 10:27 AM
+BAG:anhpemtat add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 01/31/2023 10:29 AM
+BAG:anhpemtat add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 01/31/2023 10:30 AM
+BAG:anhpemtat add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 01/31/2023 10:30 AM
+BAG:anhpemtat add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 01/31/2023 10:30 AM
+BAG:anhpemtat add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 01/31/2023 10:31 AM
+BAG:anhpemtat add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 01/31/2023 10:31 AM
+BAG:anhpemtat add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 01/31/2023 10:32 AM
+BAG:anhpemtat add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 01/31/2023 10:33 AM
+BAG:anhpemtat add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 01/31/2023 10:33 AM
+BAG:anhpemtat add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 01/31/2023 10:33 AM
+BAG:anhpemtat add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 01/31/2023 10:33 AM
+BAG:anhpemtat add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 01/31/2023 10:35 AM
+BAG:anhpemtat add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 01/31/2023 10:35 AM
+BAG:anhpemtat add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 01/31/2023 10:36 AM
+BAG:anhpemtat add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 01/31/2023 10:37 AM
+BAG:anhpemtat add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 01/31/2023 10:38 AM
+BAG:anhpemtat add 1xTrứng vịt muối lydo: Nhặt từ map at 01/31/2023 10:39 AM
+BAG:anhpemtat add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 01/31/2023 10:39 AM
+BAG:anhpemtat add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 01/31/2023 10:40 AM
+BAG:anhpemtat add 1xGà quay nguyên con lydo: Nhặt từ map at 01/31/2023 10:40 AM
+BAG:anhpemtat add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 01/31/2023 10:42 AM
+BAG:anhpemtat add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 01/31/2023 10:43 AM
+BAG:anhpemtat add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 01/31/2023 10:43 AM
+BAG:anhpemtat add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 01/31/2023 10:44 AM
+BAG:anhpemtat add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 01/31/2023 10:44 AM
+BAG:anhpemtat add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 01/31/2023 10:47 AM
+BAG:anhpemtat add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 01/31/2023 10:47 AM
+BAG:anhpemtat add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 01/31/2023 10:48 AM
+BAG:anhpemtat add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 01/31/2023 10:48 AM
+BAG:anhpemtat add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 01/31/2023 10:48 AM
+BAG:anhpemtat add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 01/31/2023 10:49 AM
+BAG:anhpemtat add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 01/31/2023 10:50 AM
+BAG:anhpemtat add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 01/31/2023 10:51 AM
+BAG:anhpemtat add 4xBột mì (old: 3) lydo: Nhặt từ map at 01/31/2023 10:51 AM
+BAG:anhpemtat add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 01/31/2023 10:51 AM
+BAG:anhpemtat add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 01/31/2023 10:54 AM
+BAG:anhpemtat add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 01/31/2023 10:54 AM
+BAG:anhpemtat add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 01/31/2023 10:55 AM
+BAG:anhpemtat add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 01/31/2023 10:56 AM
+BAG:anhpemtat add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 01/31/2023 10:58 AM
+BAG:anhpemtat add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 01/31/2023 10:59 AM
+BAG:anhpemtat add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 01/31/2023 10:59 AM
+BAG:anhpemtat add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 01/31/2023 11:00 AM
+BAG:anhpemtat add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 01/31/2023 11:00 AM
+BAG:anhpemtat add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 01/31/2023 11:01 AM
+BAG:anhpemtat add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 01/31/2023 11:02 AM
+BAG:anhpemtat add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 01/31/2023 3:33 PM
+BAG:anhpemtat add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 01/31/2023 6:21 PM
+BAG:anhpemtat add 30xNgọc Rồng 3 sao lydo: (GD) Nhận từ luxubu at 01/31/2023 6:38 PM
+BAG:anhpemtat add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 01/31/2023 6:39 PM
+BAG:anhpemtat add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 01/31/2023 6:39 PM
+BAG:anhpemtat add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 01/31/2023 6:39 PM
+BAG:anhpemtat add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 01/31/2023 6:58 PM
+BAG:anhpemtat add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 01/31/2023 8:27 PM
+BAG:anhpemtat add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 01/31/2023 8:27 PM
+BAG:anhpemtat add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 01/31/2023 8:28 PM
+BAG:anhpemtat add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 01/31/2023 8:28 PM
+BAG:anhpemtat add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 01/31/2023 8:28 PM
+BAG:anhpemtat add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 01/31/2023 8:28 PM
+BAG:anhpemtat add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 01/31/2023 8:28 PM
+BAG:anhpemtat add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 01/31/2023 8:41 PM
+BAG:anhpemtat add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 01/31/2023 8:56 PM
+BAG:anhpemtat add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 01/31/2023 9:01 PM

@@ -1,0 +1,4 @@
+BAG:chider add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 3:27 CH
+BAG:chider add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 3:27 CH
+BAG:chider add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 3:31 CH
+BAG:chider add 1xCải trang Chaien lydo: Mua từ cửa hàng at 02/02/2023 3:31 CH

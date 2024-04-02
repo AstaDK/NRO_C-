@@ -1,0 +1,167 @@
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 02/02/2023 6:26 SA
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:28 SA
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:28 SA
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:28 SA
+BAG:thantd remove Đậu xanh lydo: Cất vào rương at 02/02/2023 6:29 SA
+BAG:thantd remove Gà quay nguyên con lydo: Cất vào rương at 02/02/2023 6:29 SA
+BAG:thantd remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 6:29 SA
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 SA
+BAG:thantd remove Ngọc Rồng 3 sao lydo: Cất vào rương at 02/02/2023 6:29 SA
+BAG:thantd remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 6:29 SA
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:29 SA
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:29 SA
+BAG:thantd remove Sao pha lê lydo: Cất vào rương at 02/02/2023 6:29 SA
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 6:30 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:13 SA
+BAG:thantd remove 2xĐá Saphia lydo: Bán cho shop at 02/02/2023 11:15 SA
+BAG:thantd remove Cây mai lydo: Cất vào rương at 02/02/2023 11:15 SA
+BAG:thantd remove Lì xì lydo: Cất vào rương at 02/02/2023 11:15 SA
+BAG:thantd remove Lì xì lydo: Cất vào rương at 02/02/2023 11:15 SA
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 11:15 SA
+BAG:thantd remove Lì xì lydo: Cất vào rương at 02/02/2023 11:15 SA
+BAG:thantd remove Lì xì lydo: Cất vào rương at 02/02/2023 11:15 SA
+BAG:thantd remove Bình rượu lydo: Cất vào rương at 02/02/2023 11:15 SA
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:19 SA
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:19 SA
+BAG:thantd remove Găng vải Kame lydo: Tự Xóa vật phẩm at 02/02/2023 11:33 SA
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:33 SA
+BAG:thantd remove Cải trang lydo: Cất vào rương at 02/02/2023 11:33 SA
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 11:33 SA
+BAG:thantd remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 11:33 SA
+BAG:thantd remove Bình rượu lydo: Cất vào rương at 02/02/2023 11:33 SA
+BAG:thantd remove Bình rượu lydo: Cất vào rương at 02/02/2023 11:33 SA
+BAG:thantd remove Bình rượu lydo: Cất vào rương at 02/02/2023 11:33 SA
+BAG:thantd remove Bình rượu lydo: Cất vào rương at 02/02/2023 11:33 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:35 SA
+BAG:thantd remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 11:43 SA
+BAG:thantd remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 11:43 SA
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:43 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:44 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:58 SA
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:08 CH
+BAG:thantd remove Đậu thần cấp 7 lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:thantd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:thantd remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 12:17 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:22 CH
+BAG:thantd remove 5xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 12:23 CH
+BAG:thantd remove 1xGăng thun Kame lydo: Bán cho shop at 02/02/2023 12:26 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:34 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:46 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 12:58 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:09 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 1:11 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:06 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:06 CH
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 5:06 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:06 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:06 CH
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:11 CH
+BAG:thantd remove Cải trang lydo: Mặc vào người at 02/02/2023 5:12 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:13 CH
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:13 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:13 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:13 CH
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:14 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:19 CH
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:19 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:19 CH
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:19 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:19 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:19 CH
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 5:19 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:19 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:21 CH
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:21 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 5:21 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 5:21 CH
+BAG:thantd remove Gà quay nguyên con lydo: Cất vào rương at 02/02/2023 5:22 CH
+BAG:thantd remove Sao pha lê lydo: Cất vào rương at 02/02/2023 5:22 CH
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 5:22 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:23 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 5:23 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 5:24 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:24 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:24 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:24 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:24 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:24 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 5:55 CH
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:55 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:56 CH
+BAG:thantd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 5:56 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:57 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 5:57 CH
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 5:57 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 5:57 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:01 CH
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:01 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:04 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 6:04 CH
+BAG:thantd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:04 CH
+BAG:thantd remove Găng vải đen lydo: Cất vào rương at 02/02/2023 6:05 CH
+BAG:thantd remove Sao pha lê lydo: Cất vào rương at 02/02/2023 6:05 CH
+BAG:thantd remove Đậu xanh lydo: Cất vào rương at 02/02/2023 6:05 CH
+BAG:thantd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:32 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:32 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:32 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:32 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:32 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:32 CH
+BAG:thantd remove 6xĐá Saphia lydo: Bán cho shop at 02/02/2023 6:33 CH
+BAG:thantd remove 7xSao pha lê lydo: Bán cho shop at 02/02/2023 6:33 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:33 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:33 CH
+BAG:thantd remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 6:33 CH
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:33 CH
+BAG:thantd remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 6:33 CH
+BAG:thantd remove Sao pha lê lydo: Cất vào rương at 02/02/2023 6:33 CH
+BAG:thantd remove Sao pha lê lydo: Cất vào rương at 02/02/2023 6:33 CH
+BAG:thantd remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 02/02/2023 6:36 CH
+BAG:thantd remove 1xQuần vải đen lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:thantd remove 1xGiầy nhựa lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:thantd remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:37 CH
+BAG:thantd remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:37 CH
+BAG:thantd remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:37 CH
+BAG:thantd remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 6:37 CH
+BAG:thantd remove Quần vải đen lydo: Mặc cho đệ tử at 02/02/2023 6:37 CH
+BAG:thantd remove Giầy nhựa lydo: Mặc cho đệ tử at 02/02/2023 6:37 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 6:37 CH
+BAG:thantd remove Cải trang Hit lydo: Tự Xóa vật phẩm at 02/02/2023 6:38 CH
+BAG:thantd remove Cải trang lydo: Tự Xóa vật phẩm at 02/02/2023 6:38 CH
+BAG:thantd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:39 CH
+BAG:thantd remove Sao pha lê lydo: Cất vào rương at 02/02/2023 6:40 CH
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 6:40 CH
+BAG:thantd remove Cải trang lydo: Tự Xóa vật phẩm at 02/02/2023 6:47 CH
+BAG:thantd remove Cải trang lydo: Cất vào rương at 02/02/2023 6:47 CH
+BAG:thantd remove Cải trang lydo: Mặc vào người at 02/02/2023 6:47 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 6:57 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:05 CH
+BAG:thantd remove 1xCánh thiên thần lydo: Bán cho shop at 02/02/2023 7:28 CH
+BAG:thantd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 7:32 CH
+BAG:thantd remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 7:32 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:35 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 7:47 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:02 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:21 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:29 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:33 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:54 CH
+BAG:thantd remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:06 CH
+BAG:thantd remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 10:12 CH

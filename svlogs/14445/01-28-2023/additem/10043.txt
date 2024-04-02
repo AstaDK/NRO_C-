@@ -1,0 +1,37 @@
+BAG:namec add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 01/28/2023 5:08 PM
+BAG:namec add 1xĐậu xanh lydo: Nhặt từ map at 01/28/2023 5:09 PM
+BAG:namec add 1xBột mì lydo: Nhặt từ map at 01/28/2023 5:10 PM
+BAG:namec add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/28/2023 5:10 PM
+BAG:namec add 1xĐá Titan lydo: Nhặt từ map at 01/28/2023 5:10 PM
+BAG:namec add 1xĐá Ruby lydo: Nhặt từ map at 01/28/2023 5:11 PM
+BAG:namec add 1xĐá lục bảo lydo: Nhặt từ map at 01/28/2023 5:11 PM
+BAG:namec add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/28/2023 5:11 PM
+BAG:namec add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/28/2023 5:12 PM
+BAG:namec add 1xĐá lục bảo lydo: Nhặt từ map at 01/28/2023 5:12 PM
+BAG:namec add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/28/2023 5:12 PM
+BAG:namec add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 01/28/2023 5:14 PM
+BAG:namec add 1xNezuko lydo: Mua từ cửa hàng at 01/28/2023 5:15 PM
+BAG:namec add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 01/28/2023 5:16 PM
+BAG:namec add 1xCột nhà lydo: Mua từ cửa hàng at 01/28/2023 5:17 PM
+BAG:namec add 1xMảnh Phi long lydo: Nhặt từ map at 01/28/2023 5:17 PM
+BAG:namec add 1xĐá Saphia lydo: Nhặt từ map at 01/28/2023 5:17 PM
+BAG:namec add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/28/2023 5:18 PM
+BAG:namec add 1xĐá Ruby lydo: Nhặt từ map at 01/28/2023 5:18 PM
+BAG:namec add 1xĐá lục bảo lydo: Nhặt từ map at 01/28/2023 5:18 PM
+BAG:namec add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/28/2023 5:19 PM
+BAG:namec add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/28/2023 5:19 PM
+BAG:namec add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/28/2023 5:19 PM
+BAG:namec add 1xĐá Saphia lydo: Nhặt từ map at 01/28/2023 5:20 PM
+BAG:namec add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 01/28/2023 5:20 PM
+BAG:namec add 1xĐá Titan lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 1xBột mì lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/28/2023 5:21 PM
+BAG:namec add 1xBột mì lydo: Nhặt từ map at 01/28/2023 5:22 PM
+BAG:namec add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/28/2023 5:22 PM
+BAG:namec add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/28/2023 5:23 PM
+BAG:namec add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/28/2023 5:29 PM

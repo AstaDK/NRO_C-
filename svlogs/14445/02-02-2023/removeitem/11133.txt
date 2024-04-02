@@ -1,0 +1,77 @@
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:52 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:53 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:54 CH
+BAG:pocollos remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:56 CH
+BAG:pocollos remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:58 CH
+BAG:pocollos remove Cải trang Hit lydo: Mặc vào người at 02/02/2023 11:00 CH
+BAG:pocollos remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:00 CH
+BAG:pocollos remove 2xĐá Ruby lydo: Bán cho shop at 02/02/2023 11:01 CH
+BAG:pocollos remove 1xĐá lục bảo lydo: Bán cho shop at 02/02/2023 11:01 CH
+BAG:pocollos remove 1xMảnh Lợn lòi lydo: Bán cho shop at 02/02/2023 11:01 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:03 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:03 CH
+BAG:pocollos remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 11:03 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:04 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:04 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:05 CH
+BAG:pocollos remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:pocollos remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:pocollos remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:pocollos remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:pocollos remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 11:06 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:06 CH
+BAG:pocollos remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:07 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:07 CH
+BAG:pocollos remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 CH
+BAG:pocollos remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 CH
+BAG:pocollos remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:08 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:08 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:09 CH
+BAG:pocollos remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 11:09 CH
+BAG:pocollos remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:09 CH
+BAG:pocollos remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:09 CH
+BAG:pocollos remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:09 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:09 CH
+BAG:pocollos remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:09 CH
+BAG:pocollos remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:10 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:12 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:14 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:14 CH
+BAG:pocollos remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:15 CH
+BAG:pocollos remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:15 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:15 CH
+BAG:pocollos remove 4xĐá Saphia lydo: Bán cho shop at 02/02/2023 11:15 CH
+BAG:pocollos remove Găng thun Pico lydo: Mặc vào người at 02/02/2023 11:17 CH
+BAG:pocollos remove Giày nhựa cứng lydo: Mặc vào người at 02/02/2023 11:17 CH
+BAG:pocollos remove 1xÁo sợi len lydo: Bán cho shop at 02/02/2023 11:17 CH
+BAG:pocollos remove 1xQuần sợi len lydo: Bán cho shop at 02/02/2023 11:17 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:18 CH
+BAG:pocollos remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 11:19 CH
+BAG:pocollos remove Đậu thần cấp 3 lydo: Tự Xóa vật phẩm at 02/02/2023 11:24 CH
+BAG:pocollos remove Bột mì lydo: Tự Xóa vật phẩm at 02/02/2023 11:25 CH
+BAG:pocollos remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 11:25 CH
+BAG:pocollos remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:26 CH
+BAG:pocollos remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:26 CH
+BAG:pocollos remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:26 CH
+BAG:pocollos remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:26 CH
+BAG:pocollos remove 1xBổ khí lydo: Dùng buff at 02/02/2023 11:26 CH
+BAG:pocollos remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 CH
+BAG:pocollos remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 CH
+BAG:pocollos remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:27 CH
+BAG:pocollos remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:pocollos remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:pocollos remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:pocollos remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:pocollos remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:pocollos remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:pocollos remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH
+BAG:pocollos remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/02/2023 11:29 CH

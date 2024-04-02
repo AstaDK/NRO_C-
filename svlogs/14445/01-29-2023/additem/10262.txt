@@ -1,0 +1,22 @@
+BAG:kunbae add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 7:13 PM
+BAG:kunbae add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/29/2023 7:14 PM
+BAG:kunbae add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/29/2023 7:15 PM
+BAG:kunbae add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 7:16 PM
+BAG:kunbae add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 7:16 PM
+BAG:kunbae add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 01/29/2023 7:17 PM
+BAG:kunbae add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 01/29/2023 7:18 PM
+BAG:kunbae add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 7:18 PM
+BAG:kunbae add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/29/2023 7:19 PM
+BAG:kunbae add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 7:19 PM
+BAG:kunbae add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 7:20 PM
+BAG:kunbae add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 7:20 PM
+BAG:kunbae add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 01/29/2023 7:20 PM
+BAG:kunbae add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/29/2023 7:22 PM
+BAG:kunbae add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 01/29/2023 7:22 PM
+BAG:kunbae add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 01/29/2023 7:22 PM
+BAG:kunbae add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 7:25 PM
+BAG:kunbae add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 01/29/2023 7:25 PM
+BAG:kunbae add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 01/29/2023 7:25 PM
+BAG:kunbae add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 01/29/2023 7:26 PM
+BAG:kunbae add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 01/29/2023 7:26 PM
+BAG:kunbae add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 01/29/2023 9:23 PM

@@ -1,0 +1,614 @@
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:rongnsnd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 12:06 SA
+BAG:rongnsnd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 12:10 SA
+BAG:rongnsnd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 12:10 SA
+BAG:rongnsnd remove Bổ khí lydo: Tự Xóa vật phẩm at 02/02/2023 12:11 SA
+BAG:rongnsnd remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 12:12 SA
+BAG:rongnsnd remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 12:13 SA
+BAG:rongnsnd remove Bổ khí lydo: Tự Xóa vật phẩm at 02/02/2023 12:15 SA
+BAG:rongnsnd remove Bổ khí lydo: Tự Xóa vật phẩm at 02/02/2023 12:16 SA
+BAG:rongnsnd remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 12:19 SA
+BAG:rongnsnd remove Cuồng nộ lydo: Tự Xóa vật phẩm at 02/02/2023 12:40 SA
+BAG:rongnsnd remove Tanjiro lydo: Mặc vào người at 02/02/2023 12:41 SA
+BAG:rongnsnd remove Cải Trang Thần Zeno Xayda lydo: Tự Xóa vật phẩm at 02/02/2023 12:41 SA
+BAG:rongnsnd remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 12:41 SA
+BAG:rongnsnd remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:42 SA
+BAG:rongnsnd remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 12:42 SA
+BAG:rongnsnd remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 12:42 SA
+BAG:rongnsnd remove Quần sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 12:42 SA
+BAG:rongnsnd remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 SA
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 SA
+BAG:rongnsnd remove Sao pha lê lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 SA
+BAG:rongnsnd remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 12:48 SA
+BAG:rongnsnd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 12:50 SA
+BAG:rongnsnd remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 12:50 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:56 SA
+BAG:rongnsnd remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 8:11 SA
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 02/02/2023 8:11 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:17 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 8:31 SA
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:32 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:34 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:34 SA
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:36 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:52 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:01 SA
+BAG:rongnsnd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:19 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:19 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:28 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:37 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:46 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:55 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:04 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:13 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:22 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:31 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 SA
+BAG:rongnsnd remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 SA
+BAG:rongnsnd remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:58 SA
+BAG:rongnsnd remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 SA
+BAG:rongnsnd remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:26 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:29 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:33 SA
+BAG:rongnsnd remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 11:35 SA
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 02/02/2023 11:35 SA
+BAG:rongnsnd remove Áo sợi len lydo: Mặc vào người at 02/02/2023 11:41 SA
+BAG:rongnsnd remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 11:42 SA
+BAG:rongnsnd remove Ngọc Rồng 4 sao lydo: Cất vào rương at 02/02/2023 11:42 SA
+BAG:rongnsnd remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 11:42 SA
+BAG:rongnsnd remove Quần sợi len lydo: Cất vào rương at 02/02/2023 11:42 SA
+BAG:rongnsnd remove Giầy sợi len lydo: Cất vào rương at 02/02/2023 11:42 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:50 SA
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:05 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:20 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:35 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 12:50 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:05 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 1:26 CH
+BAG:rongnsnd remove Áo sợi len lydo: Mặc vào người at 02/02/2023 5:43 CH
+BAG:rongnsnd remove Giầy sợi len lydo: Mặc vào người at 02/02/2023 5:43 CH
+BAG:rongnsnd remove Quần sợi len lydo: Mặc vào người at 02/02/2023 5:43 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:47 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:52 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 5:53 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 6:02 CH
+BAG:rongnsnd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:rongnsnd remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:rongnsnd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:rongnsnd remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:rongnsnd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 6:06 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:06 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:06 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:06 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:06 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:08 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:08 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:09 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:09 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:11 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:11 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:11 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:11 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:13 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:13 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:13 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:13 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:13 CH
+BAG:rongnsnd remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 02/02/2023 6:20 CH
+BAG:rongnsnd remove 1xNgọc Rồng 5 sao lydo: Bán cho shop at 02/02/2023 6:21 CH
+BAG:rongnsnd remove 99xNgọc Rồng 5 sao lydo: Bán cho shop at 02/02/2023 6:21 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:22 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:22 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:22 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:22 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:23 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:23 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:23 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:23 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:24 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:24 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:24 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:24 CH
+BAG:rongnsnd remove 1xQuần sợi len lydo: Bán cho shop at 02/02/2023 6:25 CH
+BAG:rongnsnd remove 1xGiầy sợi len lydo: Bán cho shop at 02/02/2023 6:25 CH
+BAG:rongnsnd remove 1xÁo sợi len lydo: Bán cho shop at 02/02/2023 6:25 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:26 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:27 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:28 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:28 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:28 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:28 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:28 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:29 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:29 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:29 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:29 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:30 CH
+BAG:rongnsnd remove Tanjiro lydo: Cất vào rương at 02/02/2023 6:31 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:32 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:32 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:32 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:32 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:33 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:33 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:33 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:33 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:34 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:36 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:37 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:38 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:38 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:38 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:38 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:39 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:40 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:41 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:41 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:41 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:41 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:42 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:43 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:44 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:44 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:44 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:44 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:45 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:46 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:47 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:48 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:49 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:50 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:50 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:50 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:50 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:50 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 6:56 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:58 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:59 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:59 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:59 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:59 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:59 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:59 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 6:59 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:00 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:00 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:00 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:00 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:01 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:02 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:03 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:03 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:03 CH
+BAG:rongnsnd remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 7:03 CH
+BAG:rongnsnd remove Ngọc Rồng 7 sao lydo: Cất vào rương at 02/02/2023 7:03 CH
+BAG:rongnsnd remove Cải trang Hổ xanh lydo: Cất vào rương at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:04 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:05 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:05 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:05 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:05 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:05 CH
+BAG:rongnsnd remove Vệ tinh trí tuệ lydo: Cất vào rương at 02/02/2023 7:05 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:06 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:07 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:08 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:09 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:09 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:10 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:10 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:11 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:11 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:11 CH
+BAG:rongnsnd remove Quần sợi len lydo: Mặc cho đệ tử at 02/02/2023 7:11 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:12 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:12 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:12 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:13 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:13 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:13 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:13 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:13 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:14 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:14 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:14 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:14 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:15 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:15 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:15 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:15 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:15 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:15 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:16 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:16 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:16 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:17 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:18 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:18 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:18 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:18 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:18 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:18 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:19 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:19 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:19 CH
+BAG:rongnsnd remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 02/02/2023 7:19 CH
+BAG:rongnsnd remove Áo sợi len lydo: Mặc cho đệ tử at 02/02/2023 7:19 CH
+BAG:rongnsnd remove Giầy sợi len lydo: Mặc cho đệ tử at 02/02/2023 7:19 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 02/02/2023 7:19 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 7:25 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:26 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:26 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:26 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:26 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 1xẨn danh lydo: Dùng buff at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:27 CH
+BAG:rongnsnd remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 7:28 CH
+BAG:rongnsnd remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 7:35 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 7:35 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 7:35 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 7:35 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 7:35 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 7:37 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:37 CH
+BAG:rongnsnd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 7:39 CH
+BAG:rongnsnd remove 1xẨn danh lydo: Dùng buff at 02/02/2023 8:11 CH
+BAG:rongnsnd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:13 CH
+BAG:rongnsnd remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:13 CH
+BAG:rongnsnd remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xBột mì lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xBột mì lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xBột mì lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xBột mì lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xBột mì lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xBột mì lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xTrứng vịt muối lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xGà quay nguyên con lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xBột mì lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 10xĐậu xanh lydo: Nấu bánh at 02/02/2023 8:13 CH
+BAG:rongnsnd remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/02/2023 8:14 CH
+BAG:rongnsnd remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/02/2023 8:14 CH
+BAG:rongnsnd remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/02/2023 8:14 CH
+BAG:rongnsnd remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/02/2023 8:14 CH
+BAG:rongnsnd remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/02/2023 8:14 CH
+BAG:rongnsnd remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 8:14 CH
+BAG:rongnsnd remove Cân đẩu vân ngũ sắc lydo: Tự Xóa vật phẩm at 02/02/2023 8:14 CH
+BAG:rongnsnd remove 1xBánh trung thu thập cẩm lydo: Ăn bánh tt at 02/02/2023 8:15 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:24 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:25 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:27 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:28 CH
+BAG:rongnsnd remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 8:29 CH
+BAG:rongnsnd remove Pháo hoa lydo: Cất vào rương at 02/02/2023 8:32 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:35 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:35 CH
+BAG:rongnsnd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:36 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 8:36 CH
+BAG:rongnsnd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 8:51 CH
+BAG:rongnsnd remove 5xCây mai lydo: Cay Thong at 02/02/2023 8:51 CH
+BAG:rongnsnd remove 5xLì xì lydo: Cay Thong at 02/02/2023 8:51 CH
+BAG:rongnsnd remove 5xBình rượu lydo: Cay Thong at 02/02/2023 8:51 CH
+BAG:rongnsnd remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 8:51 CH
+BAG:rongnsnd remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 8:56 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:58 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 8:58 CH
+BAG:rongnsnd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 9:03 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 9:08 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:15 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 9:16 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 9:23 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:23 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:25 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:26 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:27 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 9:30 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:32 CH
+BAG:rongnsnd remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 9:41 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:42 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 9:44 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 9:58 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:07 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:08 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 10:10 CH
+BAG:rongnsnd remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/02/2023 10:13 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:18 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:26 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:27 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:29 CH
+BAG:rongnsnd remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 10:34 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:36 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:42 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 10:44 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 10:57 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:12 CH
+BAG:rongnsnd remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 11:17 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:18 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:19 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:27 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:27 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:29 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:31 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:31 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:33 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:34 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:35 CH
+BAG:rongnsnd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/02/2023 11:37 CH
+BAG:rongnsnd remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 02/02/2023 11:50 CH
+BAG:rongnsnd remove Găng jean Calic lydo: Cất vào rương at 02/02/2023 11:51 CH

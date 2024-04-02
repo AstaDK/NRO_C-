@@ -1,0 +1,39 @@
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:16 CH
+BAG:khoiiicute remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 11:21 CH
+BAG:khoiiicute remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 11:22 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:23 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:23 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:23 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:24 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:24 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:25 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:28 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:29 CH
+BAG:khoiiicute remove 1xHồn ma Pôcôlô lydo: Bán cho shop at 02/02/2023 11:31 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 11:33 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:33 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:34 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:35 CH
+BAG:khoiiicute remove 1xDiều rồng lydo: Bán cho shop at 02/02/2023 11:37 CH
+BAG:khoiiicute remove 1xBó Hoa Hồng lydo: Bán cho shop at 02/02/2023 11:37 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:39 CH
+BAG:khoiiicute remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:40 CH
+BAG:khoiiicute remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:40 CH
+BAG:khoiiicute remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:40 CH
+BAG:khoiiicute remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:40 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:41 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:42 CH
+BAG:khoiiicute remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 02/02/2023 11:44 CH
+BAG:khoiiicute remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 02/02/2023 11:44 CH
+BAG:khoiiicute remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 02/02/2023 11:44 CH
+BAG:khoiiicute remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/02/2023 11:46 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:46 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:47 CH
+BAG:khoiiicute remove Mèo mun lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:khoiiicute remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 11:49 CH
+BAG:khoiiicute remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 02/02/2023 11:49 CH
+BAG:khoiiicute remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 11:51 CH
+BAG:khoiiicute remove 5xCây mai lydo: Cay Thong at 02/02/2023 11:51 CH
+BAG:khoiiicute remove 5xLì xì lydo: Cay Thong at 02/02/2023 11:51 CH
+BAG:khoiiicute remove 5xBình rượu lydo: Cay Thong at 02/02/2023 11:51 CH
+BAG:khoiiicute remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 11:51 CH

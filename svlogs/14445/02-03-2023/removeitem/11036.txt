@@ -1,0 +1,288 @@
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:35 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:36 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:36 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 10:36 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:36 SA
+BAG:boydz remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 10:37 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:38 SA
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:39 SA
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:41 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 10:41 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:41 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:41 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:41 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:41 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 10:41 SA
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:42 SA
+BAG:boydz remove Găng vải thô lydo: Cất vào rương at 02/03/2023 10:42 SA
+BAG:boydz remove Găng vải thô lydo: Cất vào rương at 02/03/2023 10:42 SA
+BAG:boydz remove Áo vải thô lydo: Cất vào rương at 02/03/2023 10:42 SA
+BAG:boydz remove Cải trang Mabư Noel lydo: Cất vào rương at 02/03/2023 10:42 SA
+BAG:boydz remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 10:42 SA
+BAG:boydz remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 10:42 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:44 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:45 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:45 SA
+BAG:boydz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 10:45 SA
+BAG:boydz remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 10:45 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:45 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 10:45 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:46 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:47 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:47 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:47 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:47 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 10:47 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:48 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 10:49 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 10:59 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 10:59 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:00 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:00 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 11:01 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:01 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:01 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:01 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:01 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:04 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:04 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:04 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:04 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:04 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:04 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:05 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:05 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:05 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:05 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:06 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:06 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:06 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:06 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:06 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:06 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:07 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:07 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:07 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:07 SA
+BAG:boydz remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 11:07 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:07 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:07 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 11:17 SA
+BAG:boydz remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 11:18 SA
+BAG:boydz remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 11:18 SA
+BAG:boydz remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 11:18 SA
+BAG:boydz remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 11:18 SA
+BAG:boydz remove Rada cấp 1 lydo: Cất vào rương at 02/03/2023 11:18 SA
+BAG:boydz remove Quần vải thô lydo: Cất vào rương at 02/03/2023 11:18 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:25 SA
+BAG:boydz remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 11:31 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:31 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:32 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:46 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 11:46 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:46 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:47 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:57 SA
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 11:57 SA
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Đậu xanh lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Áo vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Quần vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 11:58 SA
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:02 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:03 CH
+BAG:boydz remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 12:03 CH
+BAG:boydz remove Giầy vải thô lydo: Cất vào rương at 02/03/2023 12:03 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:04 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:07 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 CH
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 CH
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 CH
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 CH
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:08 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:09 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 12:09 CH
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:09 CH
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:09 CH
+BAG:boydz remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Găng vải thô lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:21 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 12:27 CH
+BAG:boydz remove Rada cấp 1 lydo: Cất vào rương at 02/03/2023 12:39 CH
+BAG:boydz remove Quần vải thô lydo: Cất vào rương at 02/03/2023 12:39 CH
+BAG:boydz remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/03/2023 12:39 CH
+BAG:boydz remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/03/2023 12:39 CH
+BAG:boydz remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/03/2023 1:25 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 1:25 CH
+BAG:boydz remove Cây mai lydo: Tự Xóa vật phẩm at 02/03/2023 1:52 CH
+BAG:boydz remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Bình rượu lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Bột mì lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Lì xì lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 1:53 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:53 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:54 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:54 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:56 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:56 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:56 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:58 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:58 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:58 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:59 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:59 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 1:59 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:00 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:00 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:00 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:01 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:01 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:01 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:03 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:03 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:03 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:05 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:05 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:05 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:05 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:05 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:05 CH
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 2:06 CH

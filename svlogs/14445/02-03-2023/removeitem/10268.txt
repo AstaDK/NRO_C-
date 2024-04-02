@@ -1,0 +1,21 @@
+BAG:kakalot remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 6:04 SA
+BAG:kakalot remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/03/2023 6:11 SA
+BAG:kakalot remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 6:15 SA
+BAG:kakalot remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 6:16 SA
+BAG:kakalot remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 02/03/2023 6:17 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 6:27 SA
+BAG:kakalot remove Quần vàng Zealot lydo: Cất vào rương at 02/03/2023 7:03 SA
+BAG:kakalot remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 7:57 SA
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/03/2023 7:57 SA
+BAG:kakalot remove Giầy vải thô lydo: Mặc vào người at 02/03/2023 7:57 SA
+BAG:kakalot remove Quần vải thô lydo: Mặc vào người at 02/03/2023 7:57 SA
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/03/2023 8:00 SA
+BAG:kakalot remove Giầy vải thô lydo: Mặc vào người at 02/03/2023 8:00 SA
+BAG:kakalot remove Quần vải thô lydo: Mặc vào người at 02/03/2023 8:00 SA
+BAG:kakalot remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:32 SA
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/03/2023 8:43 SA
+BAG:kakalot remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/03/2023 8:46 SA
+BAG:kakalot remove Quần vải thô lydo: Mặc vào người at 02/03/2023 11:16 SA
+BAG:kakalot remove Giầy vải thô lydo: Mặc vào người at 02/03/2023 11:16 SA
+BAG:kakalot remove Áo vải thô lydo: Mặc vào người at 02/03/2023 11:16 SA
+BAG:kakalot remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 02/03/2023 11:17 SA

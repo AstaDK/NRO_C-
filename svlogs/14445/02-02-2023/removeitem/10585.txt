@@ -1,0 +1,87 @@
+BAG:zenokkk remove 32xĐá Saphia lydo: Bán cho shop at 02/02/2023 12:19 SA
+BAG:zenokkk remove 21xĐá lục bảo lydo: Bán cho shop at 02/02/2023 12:19 SA
+BAG:zenokkk remove 23xĐá Titan lydo: Bán cho shop at 02/02/2023 12:19 SA
+BAG:zenokkk remove 31xĐá Ruby lydo: Bán cho shop at 02/02/2023 12:19 SA
+BAG:zenokkk remove 1xGăng lông đỏ lydo: Bán cho shop at 02/02/2023 12:19 SA
+BAG:zenokkk remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:27 SA
+BAG:zenokkk remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:39 SA
+BAG:zenokkk remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:45 SA
+BAG:zenokkk remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:51 SA
+BAG:zenokkk remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 7:57 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:03 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:09 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:15 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:21 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:27 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:33 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:39 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:45 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:51 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:57 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:03 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:09 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:15 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:21 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:27 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:33 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:39 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 9:45 SA
+BAG:zenokkk remove Cây mai lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 SA
+BAG:zenokkk remove Lì xì lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 SA
+BAG:zenokkk remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 SA
+BAG:zenokkk remove Bình rượu lydo: Tự Xóa vật phẩm at 02/02/2023 10:59 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:10 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:17 SA
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 11:44 SA
+BAG:zenokkk remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 3:07 CH
+BAG:zenokkk remove Thỏi vàng lydo: Cất vào rương at 02/02/2023 3:07 CH
+BAG:zenokkk remove Đá Saphia lydo: Cất vào rương at 02/02/2023 3:07 CH
+BAG:zenokkk remove Đá Titan lydo: Cất vào rương at 02/02/2023 3:07 CH
+BAG:zenokkk remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 3:07 CH
+BAG:zenokkk remove Ngọc Rồng 6 sao lydo: Cất vào rương at 02/02/2023 7:31 CH
+BAG:zenokkk remove Ngọc Rồng 5 sao lydo: Cất vào rương at 02/02/2023 7:31 CH
+BAG:zenokkk remove Đá thạch anh tím lydo: Cất vào rương at 02/02/2023 7:31 CH
+BAG:zenokkk remove 1xQuần lông đỏ lydo: Bán cho shop at 02/02/2023 7:31 CH
+BAG:zenokkk remove 1xGiày Kaio lydo: Bán cho shop at 02/02/2023 7:32 CH
+BAG:zenokkk remove 1xÁo lông đỏ lydo: Bán cho shop at 02/02/2023 7:32 CH
+BAG:zenokkk remove Đá Titan lydo: Tự Xóa vật phẩm at 02/02/2023 8:19 CH
+BAG:zenokkk remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 8:20 CH
+BAG:zenokkk remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/02/2023 8:20 CH
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:23 CH
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:24 CH
+BAG:zenokkk remove Viên Capsule đặc biệt lydo: Cất vào rương at 02/02/2023 8:25 CH
+BAG:zenokkk remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:25 CH
+BAG:zenokkk remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:25 CH
+BAG:zenokkk remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:25 CH
+BAG:zenokkk remove 5xĐá Ruby lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 3xĐá Saphia lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 47xBình rượu lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 52xLì xì lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 17xBột mì lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 15xĐậu xanh lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 24xTrứng vịt muối lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 23xGà quay nguyên con lydo: Bán cho shop at 02/02/2023 8:26 CH
+BAG:zenokkk remove 54xCây mai lydo: Bán cho shop at 02/02/2023 8:27 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 8:27 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 8:27 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 8:27 CH
+BAG:zenokkk remove 2xVệ tinh phòng thủ lydo: Bán cho shop at 02/02/2023 8:27 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Bán cho shop at 02/02/2023 8:27 CH
+BAG:zenokkk remove 3xVệ tinh sinh lực lydo: Bán cho shop at 02/02/2023 8:27 CH
+BAG:zenokkk remove 8xĐá thạch anh tím lydo: Bán cho shop at 02/02/2023 8:28 CH
+BAG:zenokkk remove Cải trang Dr Lychee lydo: Cất vào rương at 02/02/2023 8:28 CH
+BAG:zenokkk remove Sao pha lê lydo: Cất vào rương at 02/02/2023 8:28 CH
+BAG:zenokkk remove Cải trang Dr Lychee lydo: Cất vào rương at 02/02/2023 8:28 CH
+BAG:zenokkk remove Cải trang Hit lydo: Cất vào rương at 02/02/2023 8:28 CH
+BAG:zenokkk remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:29 CH
+BAG:zenokkk remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:29 CH
+BAG:zenokkk remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 8:29 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:30 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:30 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:31 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:31 CH
+BAG:zenokkk remove 1xSao pha lê lydo: Ép ngọc rồng at 02/02/2023 8:31 CH
+BAG:zenokkk remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 02/02/2023 8:31 CH
+BAG:zenokkk remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:zenokkk remove Cải trang lydo: Tự Xóa vật phẩm at 02/02/2023 8:32 CH
+BAG:zenokkk remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 02/02/2023 8:48 CH

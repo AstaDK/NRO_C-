@@ -1,0 +1,21 @@
+BAG:vemattula remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 10:42 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:42 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:43 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:44 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:44 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:44 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:46 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:46 SA
+BAG:vemattula remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 02/03/2023 10:48 SA
+BAG:vemattula remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 02/03/2023 10:48 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:48 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:49 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:49 SA
+BAG:vemattula remove 2xĐá lục bảo lydo: Bán cho shop at 02/03/2023 10:59 SA
+BAG:vemattula remove 1xGiầy vải thô lydo: Bán cho shop at 02/03/2023 11:02 SA
+BAG:vemattula remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 11:02 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:02 SA
+BAG:vemattula remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:03 SA
+BAG:vemattula remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:05 SA
+BAG:vemattula remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:05 SA
+BAG:vemattula remove 1xThỏi vàng lydo: Bán cho shop at 02/03/2023 11:05 SA

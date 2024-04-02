@@ -1,0 +1,188 @@
+BAG:sjsjj add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 02/03/2023 7:35 SA
+BAG:sjsjj add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 7:35 SA
+BAG:sjsjj add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 7:37 SA
+BAG:sjsjj add 20xThỏi vàng lydo: Giftcode at 02/03/2023 7:38 SA
+BAG:sjsjj add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:sjsjj add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:sjsjj add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:sjsjj add 1xLì xì lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:sjsjj add 1xCây mai lydo: Nhặt từ map at 02/03/2023 7:39 SA
+BAG:sjsjj add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 1xBột mì lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 7:40 SA
+BAG:sjsjj add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 7:41 SA
+BAG:sjsjj add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:sjsjj add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 7:42 SA
+BAG:sjsjj add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 7:43 SA
+BAG:sjsjj add 1xGăng đồng lydo: Mua từ cửa hàng at 02/03/2023 7:44 SA
+BAG:sjsjj add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:sjsjj add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 7:45 SA
+BAG:sjsjj add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:sjsjj add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 7:46 SA
+BAG:sjsjj add 1xGăng bạc lydo: Mua từ cửa hàng at 02/03/2023 7:46 SA
+BAG:sjsjj add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 02/03/2023 7:47 SA
+BAG:sjsjj add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 02/03/2023 7:47 SA
+BAG:sjsjj add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 02/03/2023 7:47 SA
+BAG:sjsjj add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 02/03/2023 7:47 SA
+BAG:sjsjj add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:sjsjj add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 02/03/2023 7:48 SA
+BAG:sjsjj add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 02/03/2023 7:48 SA
+BAG:sjsjj add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:sjsjj add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:sjsjj add 1xRada cấp 6 lydo: Mua từ cửa hàng at 02/03/2023 7:52 SA
+BAG:sjsjj add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:sjsjj add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 7:53 SA
+BAG:sjsjj add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:sjsjj add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:sjsjj add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 7:54 SA
+BAG:sjsjj add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:sjsjj add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:sjsjj add 1xBột mì lydo: Nhặt từ map at 02/03/2023 7:55 SA
+BAG:sjsjj add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:sjsjj add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:sjsjj add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:sjsjj add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:sjsjj add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:sjsjj add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:sjsjj add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:sjsjj add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:sjsjj add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:sjsjj add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:sjsjj add 1xGăng vàng lydo: Mua từ cửa hàng at 02/03/2023 8:00 SA
+BAG:sjsjj add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:sjsjj add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 8:01 SA
+BAG:sjsjj add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:sjsjj add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:sjsjj add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:sjsjj add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:sjsjj add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:sjsjj add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 8:02 SA
+BAG:sjsjj add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sjsjj add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 8:03 SA
+BAG:sjsjj add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sjsjj add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sjsjj add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sjsjj add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 8:04 SA
+BAG:sjsjj add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sjsjj add 1xCải trang lydo: Mua từ cửa hàng at 02/03/2023 8:05 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sjsjj add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sjsjj add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sjsjj add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 8:05 SA
+BAG:sjsjj add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sjsjj add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sjsjj add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sjsjj add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sjsjj add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sjsjj add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 8:06 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sjsjj add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sjsjj add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sjsjj add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sjsjj add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sjsjj add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 8:07 SA
+BAG:sjsjj add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sjsjj add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sjsjj add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sjsjj add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sjsjj add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 8:08 SA
+BAG:sjsjj add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 8:09 SA
+BAG:sjsjj add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sjsjj add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sjsjj add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sjsjj add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sjsjj add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 8:10 SA
+BAG:sjsjj add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sjsjj add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sjsjj add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sjsjj add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 8:11 SA
+BAG:sjsjj add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sjsjj add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sjsjj add 1xBột mì lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sjsjj add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 8:12 SA
+BAG:sjsjj add 1xÁo khoác Xayda lydo: Mua từ cửa hàng at 02/03/2023 8:13 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:14 SA
+BAG:sjsjj add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sjsjj add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sjsjj add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sjsjj add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sjsjj add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 8:15 SA
+BAG:sjsjj add 1xÁo khoác Xayda lydo: Lấy từ body vào hành trang at 02/03/2023 8:15 SA
+BAG:sjsjj add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sjsjj add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 8:16 SA
+BAG:sjsjj add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 8:17 SA
+BAG:sjsjj add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sjsjj add 1xSao pha lê lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sjsjj add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sjsjj add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sjsjj add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 8:18 SA
+BAG:sjsjj add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/03/2023 8:19 SA
+BAG:sjsjj add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 8:20 SA
+BAG:sjsjj add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sjsjj add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sjsjj add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 8:21 SA
+BAG:sjsjj add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 8:22 SA
+BAG:sjsjj add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/03/2023 8:23 SA
+BAG:sjsjj add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sjsjj add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sjsjj add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sjsjj add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sjsjj add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 8:24 SA
+BAG:sjsjj add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:sjsjj add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 8:27 SA
+BAG:sjsjj add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sjsjj add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sjsjj add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sjsjj add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/03/2023 8:28 SA
+BAG:sjsjj add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sjsjj add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sjsjj add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 8:29 SA
+BAG:sjsjj add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 02/03/2023 8:30 SA
+BAG:sjsjj add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sjsjj add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sjsjj add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sjsjj add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 8:30 SA
+BAG:sjsjj add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sjsjj add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sjsjj add 1xGà quay nguyên con lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sjsjj add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 8:31 SA
+BAG:sjsjj add 1xGăng da Xayda lydo: Mua từ cửa hàng at 02/03/2023 9:01 SA
+BAG:sjsjj add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/03/2023 9:06 SA
+BAG:sjsjj add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 9:07 SA
+BAG:sjsjj add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 02/03/2023 9:10 SA
+BAG:sjsjj add 1xQuần siêu Xayda lydo: Mua từ cửa hàng at 02/03/2023 9:11 SA
+BAG:sjsjj add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 02/03/2023 9:14 SA
+BAG:sjsjj add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 02/03/2023 9:18 SA
+BAG:sjsjj add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/03/2023 9:21 SA
+BAG:sjsjj add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/03/2023 9:30 SA
+BAG:sjsjj add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 02/03/2023 9:34 SA
+BAG:sjsjj add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 02/03/2023 9:34 SA
+BAG:sjsjj add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 02/03/2023 9:34 SA
+BAG:sjsjj add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 02/03/2023 9:34 SA
+BAG:sjsjj add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 02/03/2023 9:34 SA
+BAG:sjsjj add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 02/03/2023 9:34 SA
+BAG:sjsjj add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 02/03/2023 9:34 SA
+BAG:sjsjj add 1xBông tai Porata lydo: Mua từ cửa hàng at 02/03/2023 9:36 SA
+BAG:sjsjj add 1xGiày Kaio lydo: Mua từ cửa hàng at 02/03/2023 9:37 SA

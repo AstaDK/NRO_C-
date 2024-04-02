@@ -1,0 +1,165 @@
+BAG:hotboyma add 30xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 02/03/2023 6:40 SA
+BAG:hotboyma add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:hotboyma add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:hotboyma add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:hotboyma add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:hotboyma add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:hotboyma add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 02/03/2023 6:41 SA
+BAG:hotboyma add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 6:42 SA
+BAG:hotboyma add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:hotboyma add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:hotboyma add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:hotboyma add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:hotboyma add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:hotboyma add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 6:43 SA
+BAG:hotboyma add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 6:44 SA
+BAG:hotboyma add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 6:46 SA
+BAG:hotboyma add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 6:46 SA
+BAG:hotboyma add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 6:46 SA
+BAG:hotboyma add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 02/03/2023 6:46 SA
+BAG:hotboyma add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:hotboyma add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:hotboyma add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:hotboyma add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:hotboyma add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:hotboyma add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 6:47 SA
+BAG:hotboyma add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 6:48 SA
+BAG:hotboyma add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 02/03/2023 6:48 SA
+BAG:hotboyma add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 02/03/2023 6:48 SA
+BAG:hotboyma add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:hotboyma add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:hotboyma add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:hotboyma add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:hotboyma add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:hotboyma add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 6:49 SA
+BAG:hotboyma add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 6:50 SA
+BAG:hotboyma add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 6:50 SA
+BAG:hotboyma add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 6:50 SA
+BAG:hotboyma add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 6:50 SA
+BAG:hotboyma add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 6:50 SA
+BAG:hotboyma add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 6:51 SA
+BAG:hotboyma add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 6:51 SA
+BAG:hotboyma add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 6:51 SA
+BAG:hotboyma add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 6:52 SA
+BAG:hotboyma add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 02/03/2023 6:52 SA
+BAG:hotboyma add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 6:52 SA
+BAG:hotboyma add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 6:52 SA
+BAG:hotboyma add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 6:53 SA
+BAG:hotboyma add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:hotboyma add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:hotboyma add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:hotboyma add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:hotboyma add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:hotboyma add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 6:54 SA
+BAG:hotboyma add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 1xGiầy vải thô lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/03/2023 6:55 SA
+BAG:hotboyma add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 02/03/2023 6:56 SA
+BAG:hotboyma add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 6:57 SA
+BAG:hotboyma add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:hotboyma add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:hotboyma add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:hotboyma add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:hotboyma add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:hotboyma add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:hotboyma add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/03/2023 6:58 SA
+BAG:hotboyma add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 02/03/2023 6:59 SA
+BAG:hotboyma add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:hotboyma add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:hotboyma add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:hotboyma add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:hotboyma add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 02/03/2023 7:00 SA
+BAG:hotboyma add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:hotboyma add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:hotboyma add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/03/2023 7:01 SA
+BAG:hotboyma add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:hotboyma add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:hotboyma add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:hotboyma add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:hotboyma add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/03/2023 7:02 SA
+BAG:hotboyma add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 1xQuần vải thô lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 02/03/2023 7:03 SA
+BAG:hotboyma add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:hotboyma add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:hotboyma add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:hotboyma add 5xBột mì (old: 4) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:hotboyma add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 7:04 SA
+BAG:hotboyma add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 7:05 SA
+BAG:hotboyma add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 02/03/2023 7:06 SA
+BAG:hotboyma add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:hotboyma add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:hotboyma add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:hotboyma add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/03/2023 7:07 SA
+BAG:hotboyma add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:hotboyma add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:hotboyma add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:hotboyma add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:hotboyma add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:hotboyma add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:hotboyma add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/03/2023 7:08 SA
+BAG:hotboyma add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/03/2023 7:12 SA
+BAG:hotboyma add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 7:12 SA
+BAG:hotboyma add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/03/2023 7:12 SA
+BAG:hotboyma add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:hotboyma add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:hotboyma add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:hotboyma add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:hotboyma add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:hotboyma add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:hotboyma add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/03/2023 7:13 SA
+BAG:hotboyma add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 02/03/2023 7:14 SA

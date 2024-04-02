@@ -1,0 +1,127 @@
+BAG:namcmtx add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 7:36 SA
+BAG:namcmtx add 1xĐá Saphia lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:namcmtx add 1xCây mai lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:namcmtx add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 7:47 SA
+BAG:namcmtx add 1xLì xì lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:namcmtx add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:namcmtx add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:namcmtx add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/03/2023 7:48 SA
+BAG:namcmtx add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 7:48 SA
+BAG:namcmtx add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/03/2023 7:48 SA
+BAG:namcmtx add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 02/03/2023 7:48 SA
+BAG:namcmtx add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/03/2023 7:49 SA
+BAG:namcmtx add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 1xĐá Titan lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/03/2023 7:50 SA
+BAG:namcmtx add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 7:51 SA
+BAG:namcmtx add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:namcmtx add 1xĐá Ruby lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:namcmtx add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/03/2023 7:52 SA
+BAG:namcmtx add 28xĐậu thần cấp 1 (old: 13) lydo: Lấy từ rương qua người at 02/03/2023 7:55 SA
+BAG:namcmtx add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:namcmtx add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/03/2023 7:56 SA
+BAG:namcmtx add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:namcmtx add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/03/2023 7:57 SA
+BAG:namcmtx add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:namcmtx add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:namcmtx add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:namcmtx add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/03/2023 7:58 SA
+BAG:namcmtx add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:namcmtx add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:namcmtx add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:namcmtx add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/03/2023 7:59 SA
+BAG:namcmtx add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/03/2023 8:00 SA
+BAG:namcmtx add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:namcmtx add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:namcmtx add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:namcmtx add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:namcmtx add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:namcmtx add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/03/2023 8:41 SA
+BAG:namcmtx add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 1xTrứng vịt muối lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 1xMảnh Khủng long lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/03/2023 8:42 SA
+BAG:namcmtx add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:namcmtx add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:namcmtx add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:namcmtx add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:namcmtx add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/03/2023 8:43 SA
+BAG:namcmtx add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:namcmtx add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:namcmtx add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:namcmtx add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/03/2023 8:44 SA
+BAG:namcmtx add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/03/2023 8:45 SA
+BAG:namcmtx add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:namcmtx add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 02/03/2023 8:46 SA
+BAG:namcmtx add 1xGăng vải dày lydo: Mua từ cửa hàng at 02/03/2023 8:46 SA
+BAG:namcmtx add 3xĐậu thần cấp 4 lydo: Thu hoạch đậu at 02/03/2023 8:47 SA
+BAG:namcmtx add 22xĐậu thần cấp 4 (old: 3) lydo: Lấy từ rương qua người at 02/03/2023 8:47 SA
+BAG:namcmtx add 42xĐậu thần cấp 4 (old: 22) lydo: Lấy từ rương qua người at 02/03/2023 8:48 SA
+BAG:namcmtx add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/03/2023 8:48 SA
+BAG:namcmtx add 1xCột nhà lydo: Mua từ cửa hàng at 02/03/2023 8:49 SA
+BAG:namcmtx add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/03/2023 8:49 SA
+BAG:namcmtx add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/03/2023 8:50 SA
+BAG:namcmtx add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/03/2023 8:51 SA
+BAG:namcmtx add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/03/2023 8:52 SA
+BAG:namcmtx add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/03/2023 8:53 SA
+BAG:namcmtx add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/03/2023 8:54 SA
+BAG:namcmtx add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:namcmtx add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:namcmtx add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/03/2023 8:55 SA
+BAG:namcmtx add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/03/2023 8:57 SA
+BAG:namcmtx add 20xThỏi vàng lydo: Giftcode at 02/03/2023 8:58 SA
+BAG:namcmtx add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 8:58 SA
+BAG:namcmtx add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 02/03/2023 8:59 SA
+BAG:namcmtx add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 9:00 SA
+BAG:namcmtx add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 02/03/2023 9:02 SA
+BAG:namcmtx add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 02/03/2023 9:04 SA
+BAG:namcmtx add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 02/03/2023 9:04 SA
+BAG:namcmtx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 9:04 SA
+BAG:namcmtx add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 02/03/2023 9:05 SA
+BAG:namcmtx add 1xSao pha lê lydo: Lấy từ lucky box at 02/03/2023 9:05 SA
+BAG:namcmtx add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 02/03/2023 9:05 SA
+BAG:namcmtx add 1xVàng lydo: SuKien at 02/03/2023 9:07 SA
+BAG:namcmtx add 1xCuồng nộ lydo: SuKien at 02/03/2023 9:07 SA
+BAG:namcmtx add 1xVàng lydo: SuKien at 02/03/2023 9:08 SA

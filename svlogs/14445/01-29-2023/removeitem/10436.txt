@@ -1,0 +1,22 @@
+BAG:chuoichann remove Rada cấp 1 lydo: Mặc vào người at 01/29/2023 11:21 PM
+BAG:chuoichann remove Sách đấm Galick lv1 lydo: Tự Xóa vật phẩm at 01/29/2023 11:29 PM
+BAG:chuoichann remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 01/29/2023 11:29 PM
+BAG:chuoichann remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 01/29/2023 11:30 PM
+BAG:chuoichann remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 01/29/2023 11:30 PM
+BAG:chuoichann remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 01/29/2023 11:30 PM
+BAG:chuoichann remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 01/29/2023 11:30 PM
+BAG:chuoichann remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 01/29/2023 11:30 PM
+BAG:chuoichann remove Sách Antomic lv1 lydo: Sách kĩ năng at 01/29/2023 11:30 PM
+BAG:chuoichann remove Sách Antomic lv2 lydo: Sách kĩ năng at 01/29/2023 11:30 PM
+BAG:chuoichann remove Sách Antomic lv3 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Sách Antomic lv4 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Sách Antomic lv5 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Sách Antomic lv6 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Sách Antomic lv7 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 01/29/2023 11:31 PM
+BAG:chuoichann remove Đá Saphia lydo: Tự Xóa vật phẩm at 01/29/2023 11:31 PM
+BAG:chuoichann remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 01/29/2023 11:31 PM
+BAG:chuoichann remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 11:33 PM

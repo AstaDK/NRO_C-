@@ -1,0 +1,60 @@
+BAG:hayusjsjj add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 5:12 CH
+BAG:hayusjsjj add 1xLì xì lydo: Nhặt từ map at 02/02/2023 5:16 CH
+BAG:hayusjsjj add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 5:18 CH
+BAG:hayusjsjj add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 5:22 CH
+BAG:hayusjsjj add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/02/2023 5:25 CH
+BAG:hayusjsjj add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 02/02/2023 5:25 CH
+BAG:hayusjsjj add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 5:25 CH
+BAG:hayusjsjj add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 5:36 CH
+BAG:hayusjsjj add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 5:36 CH
+BAG:hayusjsjj add 1xĐá Ruby lydo: Nhặt từ map at 02/02/2023 5:37 CH
+BAG:hayusjsjj add 1xĐá lục bảo lydo: Nhặt từ map at 02/02/2023 5:37 CH
+BAG:hayusjsjj add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 5:37 CH
+BAG:hayusjsjj add 1xCây mai lydo: Nhặt từ map at 02/02/2023 5:37 CH
+BAG:hayusjsjj add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/02/2023 5:38 CH
+BAG:hayusjsjj add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 5:38 CH
+BAG:hayusjsjj add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 02/02/2023 5:38 CH
+BAG:hayusjsjj add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/02/2023 5:39 CH
+BAG:hayusjsjj add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/02/2023 5:40 CH
+BAG:hayusjsjj add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 5:40 CH
+BAG:hayusjsjj add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/02/2023 5:40 CH
+BAG:hayusjsjj add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 5:40 CH
+BAG:hayusjsjj add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 5:40 CH
+BAG:hayusjsjj add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/02/2023 5:40 CH
+BAG:hayusjsjj add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/02/2023 5:41 CH
+BAG:hayusjsjj add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/02/2023 5:41 CH
+BAG:hayusjsjj add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/02/2023 5:41 CH
+BAG:hayusjsjj add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/02/2023 5:41 CH
+BAG:hayusjsjj add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/02/2023 5:41 CH
+BAG:hayusjsjj add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/02/2023 5:41 CH
+BAG:hayusjsjj add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/02/2023 5:42 CH
+BAG:hayusjsjj add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/02/2023 5:42 CH
+BAG:hayusjsjj add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/02/2023 5:42 CH
+BAG:hayusjsjj add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/02/2023 5:42 CH
+BAG:hayusjsjj add 4xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 5:43 CH
+BAG:hayusjsjj add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 02/02/2023 5:43 CH
+BAG:hayusjsjj add 10xĐậu thần cấp 1 (old: 9) lydo: Thu hoạch đậu at 02/02/2023 5:43 CH
+BAG:hayusjsjj add 14xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 02/02/2023 5:43 CH
+BAG:hayusjsjj add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:hayusjsjj add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:hayusjsjj add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:hayusjsjj add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/02/2023 5:44 CH
+BAG:hayusjsjj add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:hayusjsjj add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:hayusjsjj add 1xMảnh Khủng long lydo: Nhặt từ map at 02/02/2023 5:45 CH
+BAG:hayusjsjj add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:hayusjsjj add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:hayusjsjj add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:hayusjsjj add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/02/2023 5:46 CH
+BAG:hayusjsjj add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/02/2023 5:49 CH
+BAG:hayusjsjj add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:hayusjsjj add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 5:50 CH
+BAG:hayusjsjj add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 5:51 CH
+BAG:hayusjsjj add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 02/02/2023 5:59 CH
+BAG:hayusjsjj add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/02/2023 5:59 CH
+BAG:hayusjsjj add 1xMèo mun lydo: Mua từ cửa hàng at 02/02/2023 5:59 CH
+BAG:hayusjsjj add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 02/02/2023 5:59 CH
+BAG:hayusjsjj add 1xBó Hoa Hồng lydo: Mua từ cửa hàng at 02/02/2023 5:59 CH
+BAG:hayusjsjj add 1xDiều rồng lydo: Mua từ cửa hàng at 02/02/2023 5:59 CH
+BAG:hayusjsjj add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/02/2023 6:00 CH
+BAG:hayusjsjj add 20xThỏi vàng lydo: Giftcode at 02/02/2023 6:01 CH

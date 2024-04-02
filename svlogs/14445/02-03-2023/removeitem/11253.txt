@@ -1,0 +1,9 @@
+BAG:baosdoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:58 SA
+BAG:baosdoi remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 10:58 SA
+BAG:baosdoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 10:59 SA
+BAG:baosdoi remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 02/03/2023 11:01 SA
+BAG:baosdoi remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/03/2023 11:01 SA
+BAG:baosdoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:01 SA
+BAG:baosdoi remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 02/03/2023 11:04 SA
+BAG:baosdoi remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/03/2023 11:06 SA
+BAG:baosdoi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/03/2023 11:06 SA

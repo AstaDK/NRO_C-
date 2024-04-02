@@ -1,0 +1,102 @@
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:20 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:21 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:21 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:22 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:23 CH
+BAG:kakashi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 9:23 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:26 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:29 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:30 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:30 CH
+BAG:kakashi remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 9:31 CH
+BAG:kakashi remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 9:32 CH
+BAG:kakashi remove Bình rượu lydo: Cất vào rương at 02/02/2023 9:32 CH
+BAG:kakashi remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:33 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 9:40 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 9:41 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 9:42 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 9:42 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 9:43 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 9:44 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 9:45 CH
+BAG:kakashi remove Găng vải dày lydo: Mặc vào người at 02/02/2023 10:06 CH
+BAG:kakashi remove 1xQuần vải đen lydo: Bán cho shop at 02/02/2023 10:06 CH
+BAG:kakashi remove Giày cao su đế dày lydo: Mặc vào người at 02/02/2023 10:07 CH
+BAG:kakashi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:11 CH
+BAG:kakashi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:12 CH
+BAG:kakashi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:12 CH
+BAG:kakashi remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 10:16 CH
+BAG:kakashi remove Cải trang Hatchiyack lydo: Mặc vào người at 02/02/2023 10:18 CH
+BAG:kakashi remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 02/02/2023 10:21 CH
+BAG:kakashi remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 02/02/2023 10:21 CH
+BAG:kakashi remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 02/02/2023 10:21 CH
+BAG:kakashi remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 02/02/2023 10:21 CH
+BAG:kakashi remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xCây mai lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xLì xì lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xBình rượu lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 10:24 CH
+BAG:kakashi remove Cải trang Hit lydo: Mặc cho đệ tử at 02/02/2023 10:27 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:28 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:29 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:29 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:30 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:30 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:31 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:32 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:33 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:33 CH
+BAG:kakashi remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 10:33 CH
+BAG:kakashi remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/02/2023 10:33 CH
+BAG:kakashi remove Vàng lydo: Tự Xóa vật phẩm at 02/02/2023 10:33 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:33 CH
+BAG:kakashi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 02/02/2023 10:33 CH
+BAG:kakashi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:34 CH
+BAG:kakashi remove 1xThỏi vàng lydo: Bán cho shop at 02/02/2023 10:34 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:34 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:35 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:36 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:37 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:39 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:40 CH
+BAG:kakashi remove 1xGăng vải dày lydo: Bán cho shop at 02/02/2023 10:54 CH
+BAG:kakashi remove Giày cao su đế dày lydo: Mặc cho đệ tử at 02/02/2023 10:54 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:57 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:57 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:58 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:58 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:59 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 10:59 CH
+BAG:kakashi remove Quần thun dày lydo: Mặc cho đệ tử at 02/02/2023 11:01 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:05 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:05 CH
+BAG:kakashi remove 1xNgọc Rồng 5 sao lydo: Bán cho shop at 02/02/2023 11:06 CH
+BAG:kakashi remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 02/02/2023 11:07 CH
+BAG:kakashi remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 02/02/2023 11:07 CH
+BAG:kakashi remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 02/02/2023 11:07 CH
+BAG:kakashi remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 02/02/2023 11:07 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:13 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:17 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:19 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:21 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:22 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:27 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:30 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:33 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:41 CH
+BAG:kakashi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 02/02/2023 11:51 CH
+BAG:kakashi remove Cải trang Hit lydo: Tự Xóa vật phẩm at 02/02/2023 11:59 CH
+BAG:kakashi remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 02/02/2023 11:59 CH
+BAG:kakashi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 02/02/2023 11:59 CH

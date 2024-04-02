@@ -1,0 +1,20 @@
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:30 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:34 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:35 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:39 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:40 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:44 CH
+BAG:balckgenma remove Avatar lydo: Mặc vào người at 02/02/2023 12:48 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:49 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:51 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:51 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:56 CH
+BAG:balckgenma remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/02/2023 1:02 CH
+BAG:balckgenma remove 1xĐá Saphia lydo: Bán cho shop at 02/02/2023 1:09 CH
+BAG:balckgenma remove 1xĐá Ruby lydo: Bán cho shop at 02/02/2023 1:09 CH
+BAG:balckgenma remove 1xĐậu xanh lydo: Bán cho shop at 02/02/2023 1:09 CH
+BAG:balckgenma remove Giày bạc lydo: Mặc vào người at 02/02/2023 1:10 CH
+BAG:balckgenma remove 1xLì xì lydo: Bán cho shop at 02/02/2023 1:12 CH
+BAG:balckgenma remove Avatar lydo: Tự Xóa vật phẩm at 02/02/2023 1:12 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 1:16 CH
+BAG:balckgenma remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 1:19 CH
