@@ -37,3 +37,5 @@ Desktop.ini
 logging/*
 
 database/
+.mysql-nro/*
+mysql-nro/*

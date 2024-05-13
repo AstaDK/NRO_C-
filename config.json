@@ -1,9 +1,9 @@
 ﻿{
   "os": 1,
   "server": {
-    "link": "Nro c#:139.177.191.54:14445:0,0,0",
-    "host": "139.177.191.54",
-    "port": 14445,
+    "link": "NroAsta:192.168.1.151:1445:0,0,0",
+    "host": "192.168.1.151",
+    "port": 1445,
     "debug": false,
     "max-players": 800,
     "drop-all-item": true,
@@ -41,12 +41,12 @@
   "database": {
     "mysql": {
       "host": "127.0.0.1",
-      "port": 3306,
+      "port": 3336,
       "user": "root",
-      "password": "11111111",
+      "password": "",
       "database": {
-        "data": "data_server",
-        "account": "data_acc"
+        "data": "nro_data",
+        "account": "nro_acc"
       }
     }
   },

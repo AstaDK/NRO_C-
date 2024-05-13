@@ -1,0 +1,27 @@
+version: "3.1"
+
+services:
+  db:
+    image: mysql:5.7
+    container_name: mysql
+    restart: always
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+    ports:
+      - '3336:3306'
+    volumes:
+      - './mysql-nro/db:/var/lib/mysql'
+
+  adminer:
+    image: adminer
+    restart: always
+    environment:
+      ADMINER_DEFAULT_SERVER: db
+    ports:
+      - 8111:8080
+    volumes:
+      - ./login-password-less.php:/var/www/html/plugins-enabled/login-password-less.php
+
+volumes:
+  mysql_nro:

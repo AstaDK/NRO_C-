@@ -17,15 +17,17 @@ namespace NRO_Server.Application.IO
     {
         public static string ProjectDir(string path)
         {
-            return $"{Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\.."))}/{path}";
+            var projectPath = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"../../../"));
+            Console.WriteLine("Project path: " + projectPath);
+            return Path.Combine(projectPath, path);
         }
         private static readonly DateTime Jan1st1970 = new DateTime(1970, 1, 1, 0, 0, 00, DateTimeKind.Utc);
 
         public static byte[] ConvertArraySByteToByte(sbyte[] data)
         {
-            return Array.ConvertAll(data, b => unchecked((byte) b));
+            return Array.ConvertAll(data, b => unchecked((byte)b));
         }
-        
+
         public static sbyte[] ConvertArrayByteToSByte(byte[] data)
         {
             return Array.ConvertAll(data, b => unchecked((sbyte)b));
@@ -38,12 +40,12 @@ namespace NRO_Server.Application.IO
 
         public static long CurrentTimeMillis()
         {
-            return (long) (DateTime.Now - Jan1st1970).TotalMilliseconds;
-        }   
+            return (long)(DateTime.Now - Jan1st1970).TotalMilliseconds;
+        }
 
         public static int CurrentTimeSecond()
         {
-            return (int) (DateTime.Now - Jan1st1970).TotalSeconds;
+            return (int)(DateTime.Now - Jan1st1970).TotalSeconds;
         }
 
         public static string GetDate(int second)
@@ -107,7 +109,7 @@ namespace NRO_Server.Application.IO
             catch (Exception)
             {
                 return null;
-            }                                                                                                                                                 
+            }
         }
 
         public static int RandomNumber(int max)
@@ -125,7 +127,7 @@ namespace NRO_Server.Application.IO
         }
 
         public static double RandomNumber(double minimum, double maximum)
-        { 
+        {
             Random random = new Random();
             return random.NextDouble() * (maximum - minimum) + minimum;
         }
@@ -134,7 +136,7 @@ namespace NRO_Server.Application.IO
         {
             return s & 0xFFFF;
         }
-        
+
         public static string GetPower(long m)
         {
             const string text = "";
@@ -143,19 +145,19 @@ namespace NRO_Server.Application.IO
                 case < 10000:
                     return m + text;
                 case < 1000000:
-                    return m/1000 + " K";
+                    return m / 1000 + " K";
                 case < 1000000000:
-                {
-                    var num2 = m/1000000;
-                    var num3 = m - num2*1000000;
-                    return num2 + "," + num3/100000 + " Tr";
-                }
+                    {
+                        var num2 = m / 1000000;
+                        var num3 = m - num2 * 1000000;
+                        return num2 + "," + num3 / 100000 + " Tr";
+                    }
                 default:
-                {
-                    var num2 = m/1000000000;
-                    var num3 = m - num2*1000000000;
-                    return num2 + "," + num3/100000000 + " Tỷ";
-                }
+                    {
+                        var num2 = m / 1000000000;
+                        var num3 = m - num2 * 1000000000;
+                        return num2 + "," + num3 / 100000000 + " Tỷ";
+                    }
             }
         }
 
@@ -193,20 +195,22 @@ namespace NRO_Server.Application.IO
             return $"{m / 1000000000} Tỷ";
         }
 
-        public static string GetTime(long time) {
+        public static string GetTime(long time)
+        {
             var seconds = time / 1000;
             var minutes = seconds / 60;
             var hours = minutes / 60;
             var days = hours / 24;
 
-            if(seconds <= 0) {
+            if (seconds <= 0)
+            {
                 seconds = 0;
             }
-            return hours <= 0 
-                ? string.Format($"{minutes% 60} phút {seconds% 60} giây") 
-                : string.Format(days <= 0 
-                    ? $"{hours% 24} giờ {minutes% 60} phút" 
-                    : $"{days} ngày {hours% 24} giờ");
+            return hours <= 0
+                ? string.Format($"{minutes % 60} phút {seconds % 60} giây")
+                : string.Format(days <= 0
+                    ? $"{hours % 24} giờ {minutes % 60} phút"
+                    : $"{days} ngày {hours % 24} giờ");
         }
 
         public static string ConvertMilisecond(long time)
@@ -247,18 +251,19 @@ namespace NRO_Server.Application.IO
 
         public static int ConvertSecondToDay(int time)
         {
-            var hours = time/3600;
+            var hours = time / 3600;
             if (hours >= 24)
             {
-                return (hours/24);
+                return (hours / 24);
             }
-            else 
+            else
             {
                 return 0;
             }
         }
 
-        public static string GetTime2(long time) {
+        public static string GetTime2(long time)
+        {
             var seconds = time / 1000;
             var minutes = seconds / 60;
             var hours = minutes / 60;
@@ -372,12 +377,12 @@ namespace NRO_Server.Application.IO
 
         public static string ToKMB(long num)
         {
-            if (num > 999999999 || num < -999999999 )
+            if (num > 999999999 || num < -999999999)
             {
                 return num.ToString("0,,,.###B", CultureInfo.InvariantCulture);
             }
             else
-            if (num > 999999 || num < -999999 )
+            if (num > 999999 || num < -999999)
             {
                 return num.ToString("0,,.##M", CultureInfo.InvariantCulture);
             }
@@ -392,16 +397,18 @@ namespace NRO_Server.Application.IO
             }
         }
 
-        public static List<int> GetTimeAmulet(long time) {
+        public static List<int> GetTimeAmulet(long time)
+        {
             var seconds = time / 1000;
             var minutes = seconds / 60;
             var hours = minutes / 60;
             var days = hours / 24;
 
-            if(hours <= 0) {
-                return new List<int>{65, (int)minutes};
+            if (hours <= 0)
+            {
+                return new List<int> { 65, (int)minutes };
             }
-            return days <= 0 ? new List<int>{64, (int)hours} : new List<int>{63, (int)days};
+            return days <= 0 ? new List<int> { 64, (int)hours } : new List<int> { 63, (int)days };
         }
 
         public static string FilterWords(string text)
@@ -428,7 +435,7 @@ namespace NRO_Server.Application.IO
             var regex = new Regex("\\p{IsCombiningDiacriticalMarks}+");
             var temp = s.Normalize(NormalizationForm.FormD);
             return regex.Replace(temp, string.Empty).Replace('\u0111', 'd').Replace('\u0110', 'D');
-        } 
+        }
 
 
         public static void WriteTraceLog(string filename, string message)
@@ -521,7 +528,7 @@ namespace NRO_Server.Application.IO
             {
                 Server.Gi().Logger.Error($"Error WriteTradeLog File Bytes in ServerUtils.cs: {e.Message}\n{e.StackTrace}");
             }
-            
+
         }
 
         public static string MD5Hash(string input)

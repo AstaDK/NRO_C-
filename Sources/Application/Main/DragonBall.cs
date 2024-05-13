@@ -16,6 +16,7 @@ namespace NRO_Server.Application.Main
             IServerLogger logger = new ServerLogger();
             var configBuilder = new ConfigurationBuilder().SetBasePath(ServerUtils.ProjectDir(""))
                 .AddJsonFile("config.json");
+            
             var configurationRoot = configBuilder.Build();
 
             DatabaseManager.Manager.CreateManager(configurationRoot);
