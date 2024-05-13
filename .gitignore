@@ -39,3 +39,4 @@ logging/*
 database/
 .mysql-nro/*
 mysql-nro/*
+tradelogs/*
