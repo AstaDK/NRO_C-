@@ -1,7 +1,0 @@
-BAG:superdctt add 1xSao pha lê lydo: Nhặt từ map at 02/01/2023 5:22 SA
-BAG:superdctt add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/01/2023 5:22 SA
-BAG:superdctt add 1xSao pha lê lydo: Nhặt từ map at 02/01/2023 5:22 SA
-BAG:superdctt add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 02/01/2023 5:22 SA
-BAG:superdctt add 1xĐá lục bảo lydo: Nhặt từ map at 02/01/2023 5:22 SA
-BAG:superdctt add 1xĐá Saphia lydo: Nhặt từ map at 02/01/2023 5:22 SA
-BAG:superdctt add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 02/01/2023 5:22 SA

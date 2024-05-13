@@ -1,5 +1,0 @@
-BAG:genma10 add 1xDiều rồng lydo: Mua từ cửa hàng at 02/03/2023 12:03 SA
-BAG:genma10 add 5xTrứng vịt muối lydo: Lấy từ rương qua người at 02/03/2023 12:05 SA
-BAG:genma10 add 927xThỏi vàng (old: 917) lydo: Lấy từ rương qua người at 02/03/2023 12:06 SA
-BAG:genma10 add 12xĐá Vĩnh Hằng lydo: Lấy từ rương qua người at 02/03/2023 12:14 SA
-BAG:genma10 add 12xĐá Hắc Hóa lydo: Lấy từ rương qua người at 02/03/2023 12:14 SA

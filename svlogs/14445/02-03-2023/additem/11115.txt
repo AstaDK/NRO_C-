@@ -1,7 +1,0 @@
-BAG:xaydavip add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/03/2023 12:03 SA
-BAG:xaydavip add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/03/2023 12:10 SA
-BAG:xaydavip add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/03/2023 12:13 SA
-BAG:xaydavip add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 02/03/2023 12:14 SA
-BAG:xaydavip add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/03/2023 12:14 SA
-BAG:xaydavip add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/03/2023 12:14 SA
-BAG:xaydavip add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/03/2023 12:15 SA

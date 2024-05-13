@@ -1,9 +1,0 @@
-BAG:aikkskss add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 2:28 AM
-BAG:aikkskss add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 2:36 AM
-BAG:aikkskss add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 2:39 AM
-BAG:aikkskss add 1xTrứng vịt muối lydo: Nhặt từ map at 01/29/2023 2:39 AM
-BAG:aikkskss add 1xĐá Ruby lydo: Nhặt từ map at 01/29/2023 2:47 AM
-BAG:aikkskss add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 01/29/2023 2:49 AM
-BAG:aikkskss add 1xCột nhà lydo: Mua từ cửa hàng at 01/29/2023 2:51 AM
-BAG:aikkskss add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 2:58 AM
-BAG:aikkskss add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/29/2023 3:03 AM

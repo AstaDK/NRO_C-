@@ -1,7 +1,0 @@
-BAG:okoko add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:08 PM
-BAG:okoko add 20xThỏi vàng lydo: Giftcode at 01/29/2023 7:13 PM
-BAG:okoko add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 7:15 PM
-BAG:okoko add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 7:15 PM
-BAG:okoko add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 7:17 PM
-BAG:okoko add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:19 PM
-BAG:okoko add 1xGhế bay lydo: Mua từ cửa hàng at 01/29/2023 7:22 PM

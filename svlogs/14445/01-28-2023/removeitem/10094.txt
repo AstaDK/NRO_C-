@@ -1,7 +1,0 @@
-BAG:picolo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/28/2023 11:53 PM
-BAG:picolo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/28/2023 11:55 PM
-BAG:picolo remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/28/2023 11:56 PM
-BAG:picolo remove Đậu thần cấp 1 lydo: Cất vào rương at 01/28/2023 11:57 PM
-BAG:picolo remove Đá Ruby lydo: Cất vào rương at 01/28/2023 11:57 PM
-BAG:picolo remove Đá lục bảo lydo: Cất vào rương at 01/28/2023 11:57 PM
-BAG:picolo remove Ngọc Rồng 6 sao lydo: Cất vào rương at 01/28/2023 11:57 PM

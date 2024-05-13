@@ -1,5 +1,0 @@
-BAG:duysayda5 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 4:02 PM
-BAG:duysayda5 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 4:02 PM
-BAG:duysayda5 add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/30/2023 4:16 PM
-BAG:duysayda5 add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 01/30/2023 4:16 PM
-BAG:duysayda5 add 23xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 4:16 PM

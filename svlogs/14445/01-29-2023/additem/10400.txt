@@ -1,8 +1,0 @@
-BAG:vocthong add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:52 PM
-BAG:vocthong add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 9:53 PM
-BAG:vocthong add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 9:53 PM
-BAG:vocthong add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 01/29/2023 9:53 PM
-BAG:vocthong add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 9:53 PM
-BAG:vocthong add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 9:53 PM
-BAG:vocthong add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 01/29/2023 9:54 PM
-BAG:vocthong add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 01/29/2023 9:54 PM

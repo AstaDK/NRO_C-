@@ -1,6 +1,0 @@
-BAG:1yamet remove Rada cấp 1 lydo: Cất vào rương at 02/02/2023 12:16 CH
-BAG:1yamet remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:20 CH
-BAG:1yamet remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:21 CH
-BAG:1yamet remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:26 CH
-BAG:1yamet remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:27 CH
-BAG:1yamet remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 12:31 CH

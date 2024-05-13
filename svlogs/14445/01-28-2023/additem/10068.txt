@@ -1,7 +1,0 @@
-BAG:tokuda add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/28/2023 6:34 PM
-BAG:tokuda add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 01/28/2023 6:35 PM
-BAG:tokuda add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 01/28/2023 6:35 PM
-BAG:tokuda add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 01/28/2023 6:35 PM
-BAG:tokuda add 1xCải trang Hổ xanh lydo: Mua từ cửa hàng at 01/28/2023 6:41 PM
-BAG:tokuda add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/28/2023 6:41 PM
-BAG:tokuda add 1xTanjiro lydo: Mua từ cửa hàng at 01/28/2023 6:42 PM

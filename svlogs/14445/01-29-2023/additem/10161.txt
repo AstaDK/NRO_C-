@@ -1,4 +1,0 @@
-BAG:okska add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 12:52 PM
-BAG:okska add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 12:53 PM
-BAG:okska add 20xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 01/29/2023 12:53 PM
-BAG:okska add 40xĐậu thần cấp 1 (old: 20) lydo: Lấy từ rương qua người at 01/29/2023 12:54 PM

@@ -1,8 +1,0 @@
-BAG:gcubil add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 1:06 AM
-BAG:gcubil add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 1:07 AM
-BAG:gcubil add 1xQuần vải thô lydo: Nhặt từ map at 01/30/2023 1:17 AM
-BAG:gcubil add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 1:23 AM
-BAG:gcubil add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 1:24 AM
-BAG:gcubil add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/30/2023 1:27 AM
-BAG:gcubil add 20xThỏi vàng lydo: Giftcode at 01/30/2023 1:27 AM
-BAG:gcubil add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 1:29 AM

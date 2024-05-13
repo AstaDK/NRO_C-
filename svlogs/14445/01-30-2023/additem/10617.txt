@@ -1,8 +1,0 @@
-BAG:akakakdnem add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 7:00 PM
-BAG:akakakdnem add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/30/2023 7:07 PM
-BAG:akakakdnem add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 7:07 PM
-BAG:akakakdnem add 1xGhế bay lydo: Mua từ cửa hàng at 01/30/2023 7:09 PM
-BAG:akakakdnem add 1xMảnh Phi long lydo: Nhặt từ map at 01/30/2023 7:10 PM
-BAG:akakakdnem add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 01/30/2023 7:11 PM
-BAG:akakakdnem add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 7:13 PM
-BAG:akakakdnem add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 7:15 PM

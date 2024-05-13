@@ -1,7 +1,0 @@
-BAG:gramgold remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:16 PM
-BAG:gramgold remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 10:21 PM
-BAG:gramgold remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:52 PM
-BAG:gramgold remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 10:52 PM
-BAG:gramgold remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:54 PM
-BAG:gramgold remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 10:54 PM
-BAG:gramgold remove Cải trang Mabư Noel lydo: Mặc vào người at 01/30/2023 10:55 PM

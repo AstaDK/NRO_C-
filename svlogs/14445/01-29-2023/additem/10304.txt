@@ -1,5 +1,0 @@
-BAG:dunkelhei add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:39 PM
-BAG:dunkelhei add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 7:39 PM
-BAG:dunkelhei add 1xCánh thiên thần lydo: Mua từ cửa hàng at 01/29/2023 7:42 PM
-BAG:dunkelhei add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 01/29/2023 7:42 PM
-BAG:dunkelhei add 20xThỏi vàng lydo: Giftcode at 01/29/2023 7:44 PM

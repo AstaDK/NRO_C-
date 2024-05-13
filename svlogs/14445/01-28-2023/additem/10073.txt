@@ -1,3 +1,0 @@
-BAG:onner add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/28/2023 8:05 PM
-BAG:onner add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 01/28/2023 8:05 PM
-BAG:onner add 1xTrứng vịt muối lydo: Nhặt từ map at 01/28/2023 8:09 PM

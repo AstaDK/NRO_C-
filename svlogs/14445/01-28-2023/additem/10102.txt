@@ -1,8 +1,0 @@
-BAG:luxubu add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/28/2023 11:46 PM
-BAG:luxubu add 9xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/28/2023 11:51 PM
-BAG:luxubu add 1xĐá Saphia lydo: Nhặt từ map at 01/28/2023 11:55 PM
-BAG:luxubu add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 01/28/2023 11:55 PM
-BAG:luxubu add 1xĐá lục bảo lydo: Nhặt từ map at 01/28/2023 11:57 PM
-BAG:luxubu add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/28/2023 11:58 PM
-BAG:luxubu add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/28/2023 11:59 PM
-BAG:luxubu add 1xMảnh Phi long lydo: Nhặt từ map at 01/28/2023 11:59 PM

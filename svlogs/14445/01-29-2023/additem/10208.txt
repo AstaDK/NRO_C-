@@ -1,4 +1,0 @@
-BAG:10mpe add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 6:14 PM
-BAG:10mpe add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 6:14 PM
-BAG:10mpe add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/29/2023 6:14 PM
-BAG:10mpe add 20xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 01/29/2023 6:14 PM

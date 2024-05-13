@@ -1,5 +1,0 @@
-BAG:chubedan1 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 6:30 PM
-BAG:chubedan1 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 6:32 PM
-BAG:chubedan1 add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 6:33 PM
-BAG:chubedan1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 6:33 PM
-BAG:chubedan1 add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 6:33 PM

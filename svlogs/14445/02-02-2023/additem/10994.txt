@@ -1,7 +1,0 @@
-BAG:trumxayda add 1xCây mai lydo: Nhặt từ map at 02/02/2023 6:21 CH
-BAG:trumxayda add 1xLì xì lydo: Nhặt từ map at 02/02/2023 6:21 CH
-BAG:trumxayda add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/02/2023 6:22 CH
-BAG:trumxayda add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/02/2023 6:22 CH
-BAG:trumxayda add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/02/2023 6:22 CH
-BAG:trumxayda add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/02/2023 6:22 CH
-BAG:trumxayda add 1xĐá Titan lydo: Nhặt từ map at 02/02/2023 6:22 CH

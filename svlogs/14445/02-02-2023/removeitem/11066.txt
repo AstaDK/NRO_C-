@@ -1,7 +1,0 @@
-BAG:newbie035 remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 8:36 CH
-BAG:newbie035 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:36 CH
-BAG:newbie035 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:37 CH
-BAG:newbie035 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:37 CH
-BAG:newbie035 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:38 CH
-BAG:newbie035 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:39 CH
-BAG:newbie035 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 8:44 CH

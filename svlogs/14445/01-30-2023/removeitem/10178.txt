@@ -1,4 +1,0 @@
-BAG:test1 remove 1xGiày Thần Linh lydo: Bán cho shop at 01/30/2023 3:57 PM
-BAG:test1 remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 01/30/2023 4:02 PM
-BAG:test1 remove Găng vải đen lydo: Tự Xóa vật phẩm at 01/30/2023 4:03 PM
-BAG:test1 remove Giầy nhựa lydo: Tự Xóa vật phẩm at 01/30/2023 4:03 PM

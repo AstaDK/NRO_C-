@@ -1,6 +1,0 @@
-BAG:nhoemvcl remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/02/2023 7:42 CH
-BAG:nhoemvcl remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 CH
-BAG:nhoemvcl remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 7:43 CH
-BAG:nhoemvcl remove Bó Hoa Hồng lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 CH
-BAG:nhoemvcl remove Mèo mun lydo: Tự Xóa vật phẩm at 02/02/2023 7:43 CH
-BAG:nhoemvcl remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 7:46 CH

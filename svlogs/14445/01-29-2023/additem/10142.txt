@@ -1,7 +1,0 @@
-BAG:bestks add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 9:05 AM
-BAG:bestks add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 2:12 PM
-BAG:bestks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 01/29/2023 2:14 PM
-BAG:bestks add 1xĐá Saphia lydo: Nhặt từ map at 01/29/2023 2:14 PM
-BAG:bestks add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 01/29/2023 2:15 PM
-BAG:bestks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 01/29/2023 2:16 PM
-BAG:bestks add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 2:17 PM

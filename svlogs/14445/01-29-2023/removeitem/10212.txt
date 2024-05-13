@@ -1,3 +1,0 @@
-BAG:traffic remove Rada cấp 1 lydo: Mặc vào người at 01/29/2023 6:21 PM
-BAG:traffic remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:26 PM
-BAG:traffic remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:27 PM

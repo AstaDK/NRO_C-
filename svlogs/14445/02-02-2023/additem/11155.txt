@@ -1,5 +1,0 @@
-BAG:kaito add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/02/2023 11:34 CH
-BAG:kaito add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 11:34 CH
-BAG:kaito add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 11:52 CH
-BAG:kaito add 7xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 02/02/2023 11:57 CH
-BAG:kaito add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:57 CH

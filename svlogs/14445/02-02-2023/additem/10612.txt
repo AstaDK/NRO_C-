@@ -1,9 +1,0 @@
-BAG:tansat add 1xBình rượu lydo: Nhặt từ map at 02/02/2023 11:04 SA
-BAG:tansat add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:04 SA
-BAG:tansat add 1xLì xì lydo: Nhặt từ map at 02/02/2023 11:04 SA
-BAG:tansat add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/02/2023 11:04 SA
-BAG:tansat add 1xCây mai lydo: Nhặt từ map at 02/02/2023 11:04 SA
-BAG:tansat add 94xĐá Ruby (old: 93) lydo: Nhặt từ map at 02/02/2023 11:04 SA
-BAG:tansat add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 02/02/2023 11:06 SA
-BAG:tansat add 95xĐá Ruby (old: 94) lydo: Nhặt từ map at 02/02/2023 11:06 SA
-BAG:tansat add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/02/2023 3:25 CH

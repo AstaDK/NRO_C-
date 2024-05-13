@@ -1,7 +1,0 @@
-BAG:chider remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:30 CH
-BAG:chider remove Cải trang Chaien lydo: Mặc vào người at 02/02/2023 3:32 CH
-BAG:chider remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:32 CH
-BAG:chider remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:33 CH
-BAG:chider remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:33 CH
-BAG:chider remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:34 CH
-BAG:chider remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:34 CH

@@ -1,6 +1,0 @@
-BAG:dualeo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 7:31 PM
-BAG:dualeo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 7:31 PM
-BAG:dualeo add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 7:31 PM
-BAG:dualeo add 14xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 01/30/2023 7:31 PM
-BAG:dualeo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 7:32 PM
-BAG:dualeo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 7:32 PM

@@ -1,7 +1,0 @@
-BAG:trumksboss remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:05 CH
-BAG:trumksboss remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 3:09 CH
-BAG:trumksboss remove Cải trang Chill cấp 2 lydo: Mặc vào người at 02/02/2023 3:19 CH
-BAG:trumksboss remove 5xCây mai lydo: Cay Thong at 02/02/2023 3:22 CH
-BAG:trumksboss remove 5xLì xì lydo: Cay Thong at 02/02/2023 3:22 CH
-BAG:trumksboss remove 5xBình rượu lydo: Cay Thong at 02/02/2023 3:22 CH
-BAG:trumksboss remove 5xThỏi vàng lydo: Cay Thong at 02/02/2023 3:22 CH

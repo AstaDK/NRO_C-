@@ -1,4 +1,0 @@
-BAG:admin04 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/28/2023 11:47 PM
-BAG:admin04 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/28/2023 11:48 PM
-BAG:admin04 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/28/2023 11:50 PM
-BAG:admin04 add 1xĐá Titan lydo: Nhặt từ map at 01/28/2023 11:51 PM

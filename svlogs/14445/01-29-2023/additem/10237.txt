@@ -1,9 +1,0 @@
-BAG:xacdinhchua add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 6:40 PM
-BAG:xacdinhchua add 1xĐá Titan lydo: Nhặt từ map at 01/29/2023 6:45 PM
-BAG:xacdinhchua add 1xĐá lục bảo lydo: Nhặt từ map at 01/29/2023 6:47 PM
-BAG:xacdinhchua add 1xMảnh Khủng long lydo: Nhặt từ map at 01/29/2023 6:48 PM
-BAG:xacdinhchua add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 01/29/2023 6:48 PM
-BAG:xacdinhchua add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 6:54 PM
-BAG:xacdinhchua add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 01/29/2023 6:56 PM
-BAG:xacdinhchua add 20xThỏi vàng lydo: Giftcode at 01/29/2023 6:57 PM
-BAG:xacdinhchua add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 01/29/2023 7:37 PM

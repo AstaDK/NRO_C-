@@ -1,6 +1,0 @@
-BAG:yamate remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 10:42 SA
-BAG:yamate remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 10:43 SA
-BAG:yamate remove Rada cấp 1 lydo: Mặc vào người at 02/01/2023 10:43 SA
-BAG:yamate remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 10:46 SA
-BAG:yamate remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:00 CH
-BAG:yamate remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/01/2023 12:01 CH

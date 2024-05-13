@@ -1,9 +1,0 @@
-BAG:tancchay add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 9:32 PM
-BAG:tancchay add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 9:32 PM
-BAG:tancchay add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 01/30/2023 9:36 PM
-BAG:tancchay add 8xĐậu thần cấp 3 lydo: Thu hoạch đậu at 01/30/2023 9:38 PM
-BAG:tancchay add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 01/30/2023 9:38 PM
-BAG:tancchay add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 9:39 PM
-BAG:tancchay add 1xGà quay nguyên con lydo: Nhặt từ map at 01/30/2023 9:40 PM
-BAG:tancchay add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 9:41 PM
-BAG:tancchay add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/30/2023 9:42 PM

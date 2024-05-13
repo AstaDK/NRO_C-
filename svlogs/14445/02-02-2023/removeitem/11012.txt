@@ -1,9 +1,0 @@
-BAG:annagau33 remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 6:43 CH
-BAG:annagau33 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:16 CH
-BAG:annagau33 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:17 CH
-BAG:annagau33 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:17 CH
-BAG:annagau33 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:17 CH
-BAG:annagau33 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 7:18 CH
-BAG:annagau33 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 7:21 CH
-BAG:annagau33 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 7:22 CH
-BAG:annagau33 remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 02/02/2023 7:22 CH

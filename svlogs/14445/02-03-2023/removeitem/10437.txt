@@ -1,9 +1,0 @@
-BAG:princess remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 CH
-BAG:princess remove Rada cấp 1 lydo: Mặc vào người at 02/03/2023 12:38 CH
-BAG:princess remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 CH
-BAG:princess remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 02/03/2023 12:38 CH
-BAG:princess remove Đá Saphia lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 CH
-BAG:princess remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 CH
-BAG:princess remove Đá lục bảo lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 CH
-BAG:princess remove Đá Ruby lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 CH
-BAG:princess remove Đá Titan lydo: Tự Xóa vật phẩm at 02/03/2023 12:39 CH

@@ -1,4 +1,0 @@
-BAG:karaoke add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/03/2023 12:09 SA
-BAG:karaoke add 2xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 7:40 SA
-BAG:karaoke add 32xĐậu thần cấp 9 (old: 12) lydo: Lấy từ rương qua người at 02/03/2023 7:40 SA
-BAG:karaoke add 52xĐậu thần cấp 9 (old: 32) lydo: Lấy từ rương qua người at 02/03/2023 7:40 SA

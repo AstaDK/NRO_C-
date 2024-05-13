@@ -1,6 +1,0 @@
-BAG:cuccutthanky remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 9:16 CH
-BAG:cuccutthanky remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 9:19 CH
-BAG:cuccutthanky remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 02/02/2023 9:19 CH
-BAG:cuccutthanky remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 02/02/2023 9:20 CH
-BAG:cuccutthanky remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH
-BAG:cuccutthanky remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 02/02/2023 9:22 CH

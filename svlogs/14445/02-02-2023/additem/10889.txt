@@ -1,7 +1,0 @@
-BAG:adchimbe add 1xCây mai lydo: Nhặt từ map at 02/02/2023 2:15 SA
-BAG:adchimbe add 1xAvatar lydo: Mua từ cửa hàng at 02/02/2023 2:23 SA
-BAG:adchimbe add 1xGhế bay lydo: Mua từ cửa hàng at 02/02/2023 2:23 SA
-BAG:adchimbe add 1xĐá Saphia lydo: Nhặt từ map at 02/02/2023 2:31 SA
-BAG:adchimbe add 1xÁo giáp đồng lydo: Mua từ cửa hàng at 02/02/2023 2:32 SA
-BAG:adchimbe add 1xQuần giáp đồng lydo: Mua từ cửa hàng at 02/02/2023 2:32 SA
-BAG:adchimbe add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 02/02/2023 2:32 SA

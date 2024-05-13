@@ -1,5 +1,0 @@
-BAG:test1 add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 01/30/2023 3:57 PM
-BAG:test1 add 1xGăng vải đen lydo: Mua từ cửa hàng at 01/30/2023 3:57 PM
-BAG:test1 add 1xGiầy nhựa lydo: Mua từ cửa hàng at 01/30/2023 3:57 PM
-BAG:test1 add 1xRada cấp 1 lydo: Mua từ cửa hàng at 01/30/2023 3:57 PM
-BAG:test1 add 1xQuần vải đen lydo: Mua từ cửa hàng at 01/30/2023 3:57 PM

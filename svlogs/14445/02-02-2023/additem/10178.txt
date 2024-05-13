@@ -1,3 +1,0 @@
-BAG:test1 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/02/2023 5:47 CH
-BAG:test1 add 1xCây mai lydo: Nhặt từ map at 02/02/2023 5:49 CH
-BAG:test1 add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 02/02/2023 5:52 CH

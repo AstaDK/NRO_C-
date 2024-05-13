@@ -1,9 +1,0 @@
-BAG:picol0 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:09 CH
-BAG:picol0 remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:13 CH
-BAG:picol0 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:17 CH
-BAG:picol0 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 10:20 CH
-BAG:picol0 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 10:20 CH
-BAG:picol0 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 10:22 CH
-BAG:picol0 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 10:22 CH
-BAG:picol0 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 10:22 CH
-BAG:picol0 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 02/02/2023 10:22 CH

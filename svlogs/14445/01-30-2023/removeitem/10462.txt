@@ -1,7 +1,0 @@
-BAG:s2xayzan2s remove Cải trang Hit lydo: Mặc vào người at 01/30/2023 1:33 AM
-BAG:s2xayzan2s remove 1xThỏi vàng lydo: Bán cho shop at 01/30/2023 1:35 AM
-BAG:s2xayzan2s remove Rada cấp 1 lydo: Mặc vào người at 01/30/2023 10:07 AM
-BAG:s2xayzan2s remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 10:07 AM
-BAG:s2xayzan2s remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 01/30/2023 10:07 AM
-BAG:s2xayzan2s remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 01/30/2023 10:08 AM
-BAG:s2xayzan2s remove Cánh thiên thần lydo: Tự Xóa vật phẩm at 01/30/2023 10:11 AM

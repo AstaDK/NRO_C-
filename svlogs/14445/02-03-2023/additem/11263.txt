@@ -1,8 +1,0 @@
-BAG:otaku add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 12:21 CH
-BAG:otaku add 1xCây mai lydo: Nhặt từ map at 02/03/2023 12:21 CH
-BAG:otaku add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/03/2023 12:22 CH
-BAG:otaku add 1xLì xì lydo: Nhặt từ map at 02/03/2023 12:22 CH
-BAG:otaku add 1xĐá lục bảo lydo: Nhặt từ map at 02/03/2023 12:23 CH
-BAG:otaku add 1xMảnh Quỷ đất lydo: Nhặt từ map at 02/03/2023 12:23 CH
-BAG:otaku add 20xThỏi vàng lydo: Giftcode at 02/03/2023 12:24 CH
-BAG:otaku add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 12:25 CH

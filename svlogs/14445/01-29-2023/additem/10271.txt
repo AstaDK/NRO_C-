@@ -1,7 +1,0 @@
-BAG:babysony add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:13 PM
-BAG:babysony add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 01/29/2023 7:15 PM
-BAG:babysony add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 01/29/2023 7:16 PM
-BAG:babysony add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/29/2023 7:20 PM
-BAG:babysony add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/29/2023 7:20 PM
-BAG:babysony add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 01/29/2023 7:21 PM
-BAG:babysony add 20xThỏi vàng lydo: Giftcode at 01/29/2023 7:25 PM

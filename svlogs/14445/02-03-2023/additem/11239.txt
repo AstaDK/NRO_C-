@@ -1,4 +1,0 @@
-BAG:kngoc add 1xRada cấp 1 lydo: Lấy từ rương qua người at 02/03/2023 9:40 SA
-BAG:kngoc add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 9:41 SA
-BAG:kngoc add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 02/03/2023 9:42 SA
-BAG:kngoc add 20xThỏi vàng lydo: Giftcode at 02/03/2023 12:18 CH

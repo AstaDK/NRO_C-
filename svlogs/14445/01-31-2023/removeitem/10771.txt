@@ -1,9 +1,0 @@
-BAG:cuctaclachanh remove Rada cấp 1 lydo: Mặc vào người at 01/31/2023 4:52 PM
-BAG:cuctaclachanh remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 4:53 PM
-BAG:cuctaclachanh remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 4:54 PM
-BAG:cuctaclachanh remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 5:20 PM
-BAG:cuctaclachanh remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 5:21 PM
-BAG:cuctaclachanh remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/31/2023 5:21 PM
-BAG:cuctaclachanh remove 1xĐá Ruby lydo: Bán cho shop at 01/31/2023 5:25 PM
-BAG:cuctaclachanh remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 01/31/2023 5:25 PM
-BAG:cuctaclachanh remove 1xHồn ma Ca đíc lydo: Bán cho shop at 01/31/2023 5:30 PM

@@ -1,7 +1,0 @@
-BAG:atula add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 02/03/2023 1:27 SA
-BAG:atula add 1xBình rượu lydo: Nhặt từ map at 02/03/2023 1:30 SA
-BAG:atula add 1xĐậu xanh lydo: Nhặt từ map at 02/03/2023 1:31 SA
-BAG:atula add 1xCây mai lydo: Nhặt từ map at 02/03/2023 1:31 SA
-BAG:atula add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/03/2023 1:31 SA
-BAG:atula add 20xThỏi vàng lydo: Giftcode at 02/03/2023 1:33 SA
-BAG:atula add 1xCánh thiên thần lydo: Mua từ cửa hàng at 02/03/2023 1:33 SA

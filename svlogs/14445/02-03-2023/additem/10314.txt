@@ -1,6 +1,0 @@
-BAG:top1sv add 5xĐậu thần cấp 7 lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
-BAG:top1sv add 40xĐậu thần cấp 6 (old: 25) lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
-BAG:top1sv add 22xĐậu thần cấp 7 (old: 5) lydo: Lấy từ rương qua người at 02/03/2023 7:24 SA
-BAG:top1sv add 39xĐậu thần cấp 7 (old: 22) lydo: Lấy từ rương qua người at 02/03/2023 7:25 SA
-BAG:top1sv add 56xĐậu thần cấp 7 (old: 39) lydo: Lấy từ rương qua người at 02/03/2023 7:25 SA
-BAG:top1sv add 73xĐậu thần cấp 7 (old: 56) lydo: Lấy từ rương qua người at 02/03/2023 7:25 SA

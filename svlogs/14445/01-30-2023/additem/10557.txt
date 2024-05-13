@@ -1,5 +1,0 @@
-BAG:lilisha add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 12:06 PM
-BAG:lilisha add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 8:01 PM
-BAG:lilisha add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 8:02 PM
-BAG:lilisha add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 01/30/2023 8:02 PM
-BAG:lilisha add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 01/30/2023 8:06 PM

@@ -1,9 +1,0 @@
-BAG:colang add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 4:39 PM
-BAG:colang add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 4:40 PM
-BAG:colang add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 4:42 PM
-BAG:colang add 1xĐá lục bảo lydo: Nhặt từ map at 01/30/2023 4:42 PM
-BAG:colang add 7xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 4:43 PM
-BAG:colang add 1xĐá Titan lydo: Nhặt từ map at 01/30/2023 4:44 PM
-BAG:colang add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 01/30/2023 4:46 PM
-BAG:colang add 1xĐá Saphia lydo: Nhặt từ map at 01/30/2023 4:46 PM
-BAG:colang add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 4:46 PM

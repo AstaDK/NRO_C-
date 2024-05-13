@@ -1,6 +1,0 @@
-BAG:namecchill remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 6:51 PM
-BAG:namecchill remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:03 PM
-BAG:namecchill remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:05 PM
-BAG:namecchill remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 01/29/2023 7:06 PM
-BAG:namecchill remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/29/2023 7:06 PM
-BAG:namecchill remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 01/29/2023 7:10 PM

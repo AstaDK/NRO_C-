@@ -1,8 +1,0 @@
-BAG:trungdz remove Cải trang lydo: Mặc vào người at 01/30/2023 5:45 AM
-BAG:trungdz remove Cánh thiên thần 2 lydo: Tự Xóa vật phẩm at 01/30/2023 5:47 AM
-BAG:trungdz remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 01/30/2023 5:47 AM
-BAG:trungdz remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 01/30/2023 5:47 AM
-BAG:trungdz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 01/30/2023 5:48 AM
-BAG:trungdz remove Thỏi vàng lydo: Cất vào rương at 01/30/2023 5:51 AM
-BAG:trungdz remove Găng len Pico lydo: Mặc vào người at 01/30/2023 5:51 AM
-BAG:trungdz remove Áo sợi len lydo: Tự Xóa vật phẩm at 01/30/2023 5:52 AM

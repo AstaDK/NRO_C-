@@ -1,6 +1,0 @@
-BAG:majinbuu add 1xRada cấp 1 lydo: Lấy từ rương qua người at 01/30/2023 9:49 AM
-BAG:majinbuu add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 01/30/2023 9:51 AM
-BAG:majinbuu add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 01/30/2023 9:51 AM
-BAG:majinbuu add 1xĐá thạch anh tím lydo: Nhặt từ map at 01/30/2023 9:52 AM
-BAG:majinbuu add 1xMảnh Lợn lòi lydo: Nhặt từ map at 01/30/2023 9:52 AM
-BAG:majinbuu add 1xĐá Ruby lydo: Nhặt từ map at 01/30/2023 9:54 AM

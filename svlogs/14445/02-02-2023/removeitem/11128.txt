@@ -1,9 +1,0 @@
-BAG:buchymnhauko remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:36 CH
-BAG:buchymnhauko remove Rada cấp 1 lydo: Mặc vào người at 02/02/2023 10:38 CH
-BAG:buchymnhauko remove Giầy sợi len lydo: Tự Xóa vật phẩm at 02/02/2023 10:40 CH
-BAG:buchymnhauko remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 10:40 CH
-BAG:buchymnhauko remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 10:41 CH
-BAG:buchymnhauko remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 02/02/2023 10:42 CH
-BAG:buchymnhauko remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 02/02/2023 10:47 CH
-BAG:buchymnhauko remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:52 CH
-BAG:buchymnhauko remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 02/02/2023 10:55 CH
